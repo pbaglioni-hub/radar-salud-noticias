@@ -1,1 +1,117 @@
-{"actualizado":"2026-11-04","noticias":[{"id":"mx-kitocream-counterfeit","nivel":"rojo","fecha":"2026-11-03","ambito":"Mexico","organismo":"COFEPRIS","titulo":"Counterfeit KitoCream sold online","resumen":"COFEPRIS warned about counterfeit units of KitoCream (pirfenidone 10%), a product it classifies as a medical device, sold online. The fakes have no lot number or expiry date, a dark brown color and no secondary packaging. The alert follows a report by the registration holder, Grupo Medifarma.","accion":"If you sell or stock KitoCream, verify lot and expiry on every unit and buy only from the registration holder or its authorized distributors.","fuente":{"nombre":"Código Qro","url":"https://codigoqro.mx/nota/salud/2026/11/03/alerta-cofepris-sobre-la-falsificacion-de-kitocream"}},{"id":"mx-synvisc-counterfeit","nivel":"rojo","fecha":"2026-10-13","ambito":"Mexico","organismo":"COFEPRIS","titulo":"Counterfeit Synvisc Hylan G-F20 in circulation (lot ARSP005)","resumen":"COFEPRIS issued a risk alert for counterfeit Synvisc Hylan G-F20, an intra-articular medical device registered by Sanofi Mexico. Fake units of lot ARSP005 show a February 2026 expiry, while the genuine lot expired in February 2023.","accion":"Check your inventory for lot ARSP005, buy only from distributors authorized by the registration holder and require proof of legal acquisition.","fuente":{"nombre":"El Siglo de Torreón","url":"https://www.elsiglodetorreon.com.mx/noticia/2026/alerta-cofepris-por-falsificacion-de-synvisc-hylan-g-f20-medicamento-comun-inyectado-para-dolor-de-rodilla-u-.html"}},{"id":"mx-compra-consolidada-060","nivel":"amarillo","fecha":"2026-10-05","ambito":"Mexico","organismo":"Ministry of Health · Consolidated purchase","titulo":"94.5% of 2027-2028 medical supplies awarded; the rest will be re-tendered","resumen":"The federal government awarded 94.5% of the planned volume of medical and wound-care supplies (group 060) for IMSS, IMSS-Bienestar and ISSSTE for 2027-2028: 646 million pieces worth MXN 12.57 billion across 239 codes, with 135 companies taking part. The remaining 5.5% will go through new procurement before the end of 2026, and awarded contracts must be signed within 20 days.","accion":"If you supply group 060 items and lost codes, watch for the new tenders before year-end; if you won, prepare contract paperwork within the 20-day window.","fuente":{"nombre":"La Región","url":"https://laregiontam.com.mx/2026/10/05/gobierno-adjudica-94-5-del-material-de-curacion-para-hospitales-en-2027-y-2028/"}},{"id":"mx-samd-ai","nivel":"verde","fecha":"2026-11-03","ambito":"Mexico","organismo":"COFEPRIS","titulo":"How COFEPRIS classifies and reviews AI and software as a medical device","resumen":"Software and AI tools are regulated under the same Class I-III risk system as physical devices. Applicants must show clinical association, analytical and clinical validation, change control for model updates and cybersecurity. Devices already approved by trusted foreign regulators can use an abbreviated pathway with a 30-business-day target. Specific AI rules are still being drafted.","accion":"If you plan to register a software or AI product in Mexico, prepare clinical validation and change-control documentation now and check eligibility for the abbreviated pathway.","fuente":{"nombre":"Mexico Business News","url":"https://mexicobusiness.news/health/news/how-cofepris-classifies-and-evaluates-ai-medical-device"}},{"id":"mx-medsafetyweek","nivel":"verde","fecha":"2026-10-29","ambito":"Mexico","organismo":"COFEPRIS","titulo":"COFEPRIS joins #MedSafetyWeek to boost adverse-event reporting","resumen":"COFEPRIS is taking part in the global #MedSafetyWeek campaign (November 2-8, 2026) to increase reports of suspected adverse effects of medicines and vaccines through VigiRam and VigiVac.","accion":"Context: expect more attention on pharmacovigilance and technovigilance reporting; review that your internal reporting process is up to date.","fuente":{"nombre":"Mexico Business News","url":"https://mexicobusiness.news/health/news/cofepris-joins-global-campaign-boost-drug-safety-reporting"}},{"id":"mx-safe-use-guidelines","nivel":"verde","fecha":"2026-10-07","ambito":"Mexico","organismo":"Ministry of Health","titulo":"New guidelines for the safe use of medicines and health supplies","resumen":"The Ministry of Health published technical guidelines on the safe use of medicines and health supplies for the National Health System. They are guidance documents and do not by themselves create new obligations or change existing rules.","accion":"Context: hospital clients may update their internal safe-use protocols; no immediate action required.","fuente":{"nombre":"Consultor Salud","url":"https://consultorsalud.com.mx/lineamientos-uso-seguro-medicamentos-mexico/"}},{"id":"mx-device-registry-viewer","nivel":"verde","fecha":"2026-08-20","ambito":"Mexico","organismo":"COFEPRIS","titulo":"Public viewer for medical device registrations","resumen":"COFEPRIS launched a public online viewer to check whether a medical device holds a valid sanitary registration. Registration holders can submit observations on the published information.","accion":"Check that your registrations appear correctly in the viewer and report any error, since buyers now use it to verify products.","fuente":{"nombre":"Consultor Salud","url":"https://consultorsalud.com.mx/visor-de-registros-sanitarios-cofepris/"}},{"id":"mx-technovigilance-bulletin","nivel":"verde","fecha":"2026-08-19","ambito":"Mexico","organismo":"COFEPRIS · CENAFyT","titulo":"National Pharmacovigilance and Technovigilance Bulletin 2026-I","resumen":"COFEPRIS published its 2026-I bulletin on the surveillance of medicines, vaccines and medical devices, including a chapter on the risk analysis of medical devices. It stresses that more reports about a device do not automatically mean higher risk.","accion":"Context: useful reference for how COFEPRIS interprets device incident reports.","fuente":{"nombre":"Consultor Salud","url":"https://consultorsalud.com.mx/cofepris-farmacovigilancia-y-tecnovigilancia/"}}]}
+{
+ "actualizado": "2026-11-05",
+ "noticias": [
+  {
+   "id": "mx-kitocream-counterfeit",
+   "nivel": "rojo",
+   "fecha": "2026-11-03",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Counterfeit KitoCream sold online",
+   "resumen": "COFEPRIS warned about counterfeit units of KitoCream (pirfenidone 10%), a product it classifies as a medical device, sold online. The fakes have no lot number or expiry date, a dark brown color and no secondary packaging. The alert follows a report by the registration holder, Grupo Medifarma.",
+   "accion": "If you sell or stock KitoCream, verify lot and expiry on every unit and buy only from the registration holder or its authorized distributors.",
+   "fuente": {
+    "nombre": "Código Qro",
+    "url": "https://codigoqro.mx/nota/salud/2026/11/03/alerta-cofepris-sobre-la-falsificacion-de-kitocream"
+   }
+  },
+  {
+   "id": "mx-synvisc-counterfeit",
+   "nivel": "rojo",
+   "fecha": "2026-10-13",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Counterfeit Synvisc Hylan G-F20 in circulation (lot ARSP005)",
+   "resumen": "COFEPRIS issued a risk alert for counterfeit Synvisc Hylan G-F20, an intra-articular medical device registered by Sanofi Mexico. Fake units of lot ARSP005 show a February 2026 expiry, while the genuine lot expired in February 2023.",
+   "accion": "Check your inventory for lot ARSP005, buy only from distributors authorized by the registration holder and require proof of legal acquisition.",
+   "fuente": {
+    "nombre": "El Siglo de Torreón",
+    "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/alerta-cofepris-por-falsificacion-de-synvisc-hylan-g-f20-medicamento-comun-inyectado-para-dolor-de-rodilla-u-.html"
+   }
+  },
+  {
+   "id": "mx-compra-consolidada-060",
+   "nivel": "amarillo",
+   "fecha": "2026-10-05",
+   "ambito": "Mexico",
+   "organismo": "Ministry of Health · Consolidated purchase",
+   "titulo": "94.5% of 2027-2028 medical supplies awarded; the rest will be re-tendered",
+   "resumen": "The federal government awarded 94.5% of the planned volume of medical and wound-care supplies (group 060) for IMSS, IMSS-Bienestar and ISSSTE for 2027-2028: 646 million pieces worth MXN 12.57 billion across 239 codes, with 135 companies taking part. The remaining 5.5% will go through new procurement before the end of 2026, and awarded contracts must be signed within 20 days.",
+   "accion": "If you supply group 060 items and lost codes, watch for the new tenders before year-end; if you won, prepare contract paperwork within the 20-day window.",
+   "fuente": {
+    "nombre": "La Región",
+    "url": "https://laregiontam.com.mx/2026/10/05/gobierno-adjudica-94-5-del-material-de-curacion-para-hospitales-en-2027-y-2028/"
+   }
+  },
+  {
+   "id": "mx-samd-ai",
+   "nivel": "verde",
+   "fecha": "2026-11-03",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "How COFEPRIS classifies and reviews AI and software as a medical device",
+   "resumen": "Software and AI tools are regulated under the same Class I-III risk system as physical devices. Applicants must show clinical association, analytical and clinical validation, change control for model updates and cybersecurity. Devices already approved by trusted foreign regulators can use an abbreviated pathway with a 30-business-day target. Specific AI rules are still being drafted.",
+   "accion": "If you plan to register a software or AI product in Mexico, prepare clinical validation and change-control documentation now and check eligibility for the abbreviated pathway.",
+   "fuente": {
+    "nombre": "Mexico Business News",
+    "url": "https://mexicobusiness.news/health/news/how-cofepris-classifies-and-evaluates-ai-medical-device"
+   }
+  },
+  {
+   "id": "mx-medsafetyweek",
+   "nivel": "verde",
+   "fecha": "2026-10-29",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "COFEPRIS joins #MedSafetyWeek to boost adverse-event reporting",
+   "resumen": "COFEPRIS is taking part in the global #MedSafetyWeek campaign (November 2-8, 2026) to increase reports of suspected adverse effects of medicines and vaccines through VigiRam and VigiVac.",
+   "accion": "Context: expect more attention on pharmacovigilance and technovigilance reporting; review that your internal reporting process is up to date.",
+   "fuente": {
+    "nombre": "Mexico Business News",
+    "url": "https://mexicobusiness.news/health/news/cofepris-joins-global-campaign-boost-drug-safety-reporting"
+   }
+  },
+  {
+   "id": "mx-safe-use-guidelines",
+   "nivel": "verde",
+   "fecha": "2026-10-07",
+   "ambito": "Mexico",
+   "organismo": "Ministry of Health",
+   "titulo": "New guidelines for the safe use of medicines and health supplies",
+   "resumen": "The Ministry of Health published technical guidelines on the safe use of medicines and health supplies for the National Health System. They are guidance documents and do not by themselves create new obligations or change existing rules.",
+   "accion": "Context: hospital clients may update their internal safe-use protocols; no immediate action required.",
+   "fuente": {
+    "nombre": "Consultor Salud",
+    "url": "https://consultorsalud.com.mx/lineamientos-uso-seguro-medicamentos-mexico/"
+   }
+  },
+  {
+   "id": "mx-device-registry-viewer",
+   "nivel": "verde",
+   "fecha": "2026-08-20",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Public viewer for medical device registrations",
+   "resumen": "COFEPRIS launched a public online viewer to check whether a medical device holds a valid sanitary registration. Registration holders can submit observations on the published information.",
+   "accion": "Check that your registrations appear correctly in the viewer and report any error, since buyers now use it to verify products.",
+   "fuente": {
+    "nombre": "Consultor Salud",
+    "url": "https://consultorsalud.com.mx/visor-de-registros-sanitarios-cofepris/"
+   }
+  },
+  {
+   "id": "mx-technovigilance-bulletin",
+   "nivel": "verde",
+   "fecha": "2026-08-19",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS · CENAFyT",
+   "titulo": "National Pharmacovigilance and Technovigilance Bulletin 2026-I",
+   "resumen": "COFEPRIS published its 2026-I bulletin on the surveillance of medicines, vaccines and medical devices, including a chapter on the risk analysis of medical devices. It stresses that more reports about a device do not automatically mean higher risk.",
+   "accion": "Context: useful reference for how COFEPRIS interprets device incident reports.",
+   "fuente": {
+    "nombre": "Consultor Salud",
+    "url": "https://consultorsalud.com.mx/cofepris-farmacovigilancia-y-tecnovigilancia/"
+   }
+  }
+ ]
+}
