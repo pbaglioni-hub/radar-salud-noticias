@@ -2,6 +2,21 @@
  "actualizado": "2026-11-05",
  "noticias": [
   {
+   "id": "mx-go-pen-registration",
+   "nivel": "verde",
+   "categoria": "Strategic move",
+   "fecha": "2026-11-03",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "COFEPRIS registers GO-PEN reusable insulin pen; Mexico is its first market",
+   "resumen": "Danish company GO-Pen ApS received a COFEPRIS sanitary registration for GO-PEN, a reusable pen for people using vial insulin. Mexico is the first commercial launch market and Grupo LYBB will be the exclusive importer and distributor. The device already has FDA 510(k) clearance and a CE mark (class IIb).",
+   "accion": "Context: new competition in insulin delivery devices for pharmacies and diabetes clinics.",
+   "fuente": {
+    "nombre": "De Reporteros",
+    "url": "https://dereporteros.com/2026/11/03/cofepris-otorgo-registro-sanitario-a-pluma-danesa-para-insulina"
+   }
+  },
+  {
    "id": "mx-kitocream-counterfeit",
    "nivel": "rojo",
    "fecha": "2026-11-03",
@@ -13,34 +28,6 @@
    "fuente": {
     "nombre": "Código Qro",
     "url": "https://codigoqro.mx/nota/salud/2026/11/03/alerta-cofepris-sobre-la-falsificacion-de-kitocream"
-   }
-  },
-  {
-   "id": "mx-synvisc-counterfeit",
-   "nivel": "rojo",
-   "fecha": "2026-10-13",
-   "ambito": "Mexico",
-   "organismo": "COFEPRIS",
-   "titulo": "Counterfeit Synvisc Hylan G-F20 in circulation (lot ARSP005)",
-   "resumen": "COFEPRIS issued a risk alert for counterfeit Synvisc Hylan G-F20, an intra-articular medical device registered by Sanofi Mexico. Fake units of lot ARSP005 show a February 2026 expiry, while the genuine lot expired in February 2023.",
-   "accion": "Check your inventory for lot ARSP005, buy only from distributors authorized by the registration holder and require proof of legal acquisition.",
-   "fuente": {
-    "nombre": "El Siglo de Torreón",
-    "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/alerta-cofepris-por-falsificacion-de-synvisc-hylan-g-f20-medicamento-comun-inyectado-para-dolor-de-rodilla-u-.html"
-   }
-  },
-  {
-   "id": "mx-compra-consolidada-060",
-   "nivel": "amarillo",
-   "fecha": "2026-10-05",
-   "ambito": "Mexico",
-   "organismo": "Ministry of Health · Consolidated purchase",
-   "titulo": "94.5% of 2027-2028 medical supplies awarded; the rest will be re-tendered",
-   "resumen": "The federal government awarded 94.5% of the planned volume of medical and wound-care supplies (group 060) for IMSS, IMSS-Bienestar and ISSSTE for 2027-2028: 646 million pieces worth MXN 12.57 billion across 239 codes, with 135 companies taking part. The remaining 5.5% will go through new procurement before the end of 2026, and awarded contracts must be signed within 20 days.",
-   "accion": "If you supply group 060 items and lost codes, watch for the new tenders before year-end; if you won, prepare contract paperwork within the 20-day window.",
-   "fuente": {
-    "nombre": "La Región",
-    "url": "https://laregiontam.com.mx/2026/10/05/gobierno-adjudica-94-5-del-material-de-curacion-para-hospitales-en-2027-y-2028/"
    }
   },
   {
@@ -58,6 +45,20 @@
    }
   },
   {
+   "id": "mx-birmex-third-tender",
+   "nivel": "amarillo",
+   "fecha": "2026-10-29",
+   "ambito": "Mexico",
+   "organismo": "Ministry of Health · Birmex",
+   "titulo": "Third 2027-2028 tender closes; a fourth will cover the remaining 10%",
+   "resumen": "The Ministry of Health and Birmex say nearly 90% of the keys needed for 2027-2028 are now covered. The third tender awarded 673 keys (997.6 million pieces, MXN 34.4 billion), including wound-care, laboratory and radiology supplies; Mexican suppliers won 57% of pieces. A fourth tender is planned before year-end.",
+   "accion": "If you lost keys or did not bid, prepare for the fourth tender; winners must sign contracts within 20 days of the award.",
+   "fuente": {
+    "nombre": "El Imparcial",
+    "url": "https://www.elimparcial.com/dinero/2026/10/29/la-secretaria-de-salud-y-birmex-aseguran-el-90-por-ciento-de-los-medicamentos-para-2027-y-2028-tras-concluir-la-tercera-licitacion-publica/"
+   }
+  },
+  {
    "id": "mx-medsafetyweek",
    "nivel": "verde",
    "fecha": "2026-10-29",
@@ -72,6 +73,62 @@
    }
   },
   {
+   "id": "mx-imss-bienestar-6bn",
+   "nivel": "amarillo",
+   "fecha": "2026-10-20",
+   "ambito": "Mexico",
+   "organismo": "IMSS-Bienestar · Ministry of Health",
+   "titulo": "Government plans purchase of about 6 billion supply pieces for IMSS-Bienestar",
+   "resumen": "The federal government announced the purchase of roughly 6 billion pieces of medicines and supplies for IMSS-Bienestar hospitals, from oncology drugs to wound-care material. It will prioritize direct purchases from manufacturers and reverse auctions, and favor suppliers that meet quality and delivery terms. Details are published at compraconsolidada.salud.gob.mx.",
+   "accion": "Track awards and delivery performance on compraconsolidada.salud.gob.mx; on-time delivery will weigh in future awards.",
+   "fuente": {
+    "nombre": "N+",
+    "url": "https://www.nmas.com.mx/politica/imss-bienestar-compra-6-mil-millones-insumos-medicos-hospitales-anuncia-eduardo-clark/"
+   }
+  },
+  {
+   "id": "mx-cofepris-backlog-devices",
+   "nivel": "amarillo",
+   "fecha": "2026-10-19",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "COFEPRIS aims to clear 70% of its backlog by December; devices lag behind",
+   "resumen": "COFEPRIS expects to resolve more than 70% of pending medicine and device applications by December 2026. Responses to device requests rose only 8%, due to a shortage of specialized staff; it hired 70 people, mainly for devices and clinical trials. It also plans broader rules for AI-based devices and a single digital window by 2027.",
+   "accion": "If you have device registrations pending, expect delays and keep your dossiers complete to avoid deficiency letters.",
+   "fuente": {
+    "nombre": "Los Tubos (Milenio)",
+    "url": "https://lostubos.com/2026/10/19/cofepris-busca-agilizar-la-autorizacion-de-medicamentos-y-reforzar-la-vigilancia-sanitaria/"
+   }
+  },
+  {
+   "id": "mx-riopan-immunorho-granulox",
+   "nivel": "rojo",
+   "fecha": "2026-10-13",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Counterfeit lots of Riopan, IMMUNORHO and Granulox wound spray",
+   "resumen": "COFEPRIS issued alerts for counterfeit or altered lots of Riopan gel (lots 12542237 and 12191278), IMMUNORHO 300 µg anti-D immunoglobulin (lot 09b84695, not recognized by Kedrion) and Granulox wound spray (lot 16115143, expiry altered from 2019 to 2026). The alerts apply only to the listed lots.",
+   "accion": "Check inventory for these lots, do not dispense them and buy only from suppliers authorized by the registration holder.",
+   "fuente": {
+    "nombre": "La Verdad Noticias (COFEPRIS)",
+    "url": "https://laverdadnoticias.com/ultimas-noticias/mexico/cofepris-riopan-alerta"
+   }
+  },
+  {
+   "id": "mx-synvisc-counterfeit",
+   "nivel": "rojo",
+   "fecha": "2026-10-13",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Counterfeit Synvisc Hylan G-F20 in circulation (lot ARSP005)",
+   "resumen": "COFEPRIS issued a risk alert for counterfeit Synvisc Hylan G-F20, an intra-articular medical device registered by Sanofi Mexico. Fake units of lot ARSP005 show a February 2026 expiry, while the genuine lot expired in February 2023.",
+   "accion": "Check your inventory for lot ARSP005, buy only from distributors authorized by the registration holder and require proof of legal acquisition.",
+   "fuente": {
+    "nombre": "El Siglo de Torreón",
+    "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/alerta-cofepris-por-falsificacion-de-synvisc-hylan-g-f20-medicamento-comun-inyectado-para-dolor-de-rodilla-u-.html"
+   }
+  },
+  {
    "id": "mx-safe-use-guidelines",
    "nivel": "verde",
    "fecha": "2026-10-07",
@@ -83,6 +140,34 @@
    "fuente": {
     "nombre": "Consultor Salud",
     "url": "https://consultorsalud.com.mx/lineamientos-uso-seguro-medicamentos-mexico/"
+   }
+  },
+  {
+   "id": "mx-compra-consolidada-060",
+   "nivel": "amarillo",
+   "fecha": "2026-10-05",
+   "ambito": "Mexico",
+   "organismo": "Ministry of Health · Consolidated purchase",
+   "titulo": "94.5% of 2027-2028 medical supplies awarded; the rest will be re-tendered",
+   "resumen": "The federal government awarded 94.5% of the planned volume of medical and wound-care supplies (group 060) for IMSS, IMSS-Bienestar and ISSSTE for 2027-2028: 646 million pieces worth MXN 12.57 billion across 239 codes, with 135 companies taking part. The remaining 5.5% will go through new procurement before the end of 2026, and awarded contracts must be signed within 20 days.",
+   "accion": "If you supply group 060 items and lost codes, watch for the new tenders before year-end; if you won, prepare contract paperwork within the 20-day window.",
+   "fuente": {
+    "nombre": "La Región",
+    "url": "https://laregiontam.com.mx/2026/10/05/gobierno-adjudica-94-5-del-material-de-curacion-para-hospitales-en-2027-y-2028/"
+   }
+  },
+  {
+   "id": "mx-sculptra-meropenem",
+   "nivel": "rojo",
+   "fecha": "2026-09-22",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Alerts on illegally sold Sculptra and counterfeit meropenem",
+   "resumen": "COFEPRIS warned about Sculptra (poly-L-lactic acid, lot A00203) sold illegally online, a counterfeit lot of meropenem 1 g (lot X2MF160A) not imported by the authorized distributor, and a voluntary recall of Sortec 200 mg lot 5CE003A.",
+   "accion": "Aesthetic clinics and hospitals should verify the origin of these products and buy only through recognized suppliers.",
+   "fuente": {
+    "nombre": "Publimetro (COFEPRIS)",
+    "url": "https://www.publimetro.com.mx/noticias/2026/09/23/medicinas-falsas-y-productos-sin-registro-encienden-alerta-sanitaria-de-cofepris/"
    }
   },
   {

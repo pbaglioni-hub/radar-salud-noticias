@@ -2,6 +2,48 @@
  "actualizado": "2026-11-05",
  "noticias": [
   {
+   "id": "br-wcr-radiotherapy-ban",
+   "nivel": "rojo",
+   "fecha": "2026-11-03",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "Superficial radiotherapy device WCR banned after manufacturing inspection",
+   "resumen": "Resolutions RE 4,256/2026 and RE 4,262/2026 ban the manufacture, distribution, sale, use, advertising and storage of the WCR device used in superficial radiotherapy for skin cancer, distributed by Safe Life Distribuidora de Produtos para Saúde. The ban covers all batches made since September 16, after an inspection found the device was not produced under current sanitary rules.",
+   "accion": "If your hospital or clinic uses or stocks WCR units, suspend use of the affected batches now and contact the distributor.",
+   "fuente": {
+    "nombre": "Prensa Mercosur (ANVISA, DOU)",
+    "url": "https://prensamercosur.org/2026/11/04/anvisa-proibe-equipamento-de-radioterapia-usado-contra-cancer-de-pele/"
+   }
+  },
+  {
+   "id": "br-btp-santos-interdiction",
+   "nivel": "amarillo",
+   "fecha": "2026-11-03",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "Partial interdiction at Port of Santos terminal for health products",
+   "resumen": "Resolution RE 4,282/2026 bars Brasil Terminal Portuário (BTP) in Santos from receiving and storing temperature-sensitive medical devices and raw materials, medicines and pharmaceutical inputs, and controlled substances. Inspectors found no segregated area for suspect or interdicted goods and no locked area for controlled products. The measure stays in force until the failures are fixed.",
+   "accion": "If you import health products through BTP, check with your freight forwarder whether shipments must be rerouted and plan for possible delays.",
+   "fuente": {
+    "nombre": "NC News (ANVISA, DOU)",
+    "url": "https://ncnews.com.br/2026/11/03/anvisa-interdita-terminal-porto-santos/"
+   }
+  },
+  {
+   "id": "br-ringer-biosimilar-recall",
+   "nivel": "rojo",
+   "fecha": "2026-10-28",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "Recall of Ringer's Lactate and two bevacizumab biosimilar lots",
+   "resumen": "Resolution RE 4,231/2026 orders the recall and suspends sale and use of Ringer's Lactate 500 mL lot M 0465 26 (JP Indústria Farmacêutica), after dark particles were found in the bags, and of Simbeva lot BF25008896 (Teuto) and Abevmy lot BF26002105 (Biocon), after out-of-spec bacterial endotoxin results.",
+   "accion": "Hospitals, clinics and distributors should check stock for these lots today and quarantine any affected units.",
+   "fuente": {
+    "nombre": "Mix Vale (DOU)",
+    "url": "https://www.mixvale.com.br/2026/10/28/anvisa-determina-recolhimento-de-lotes-de-simbeva-abevmy-e-solucao-de-ringer-com-lactato/"
+   }
+  },
+  {
    "id": "br-accuchek-counterfeit",
    "nivel": "rojo",
    "fecha": "2026-10-22",
@@ -30,6 +72,20 @@
    }
   },
   {
+   "id": "br-recognized-standards",
+   "nivel": "verde",
+   "fecha": "2026-10-22",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA publishes lists of recognized technical standards for devices",
+   "resumen": "ANVISA will publish on its portal the technical standards it recognizes for medical devices, in three lists: cross-cutting standards, orthopedic implants and health-use materials. The lists will be updated continuously.",
+   "accion": "Use the lists to align product development and registration dossiers with the standards ANVISA expects.",
+   "fuente": {
+    "nombre": "Legismap (ANVISA news)",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-22-10-2027"
+   }
+  },
+  {
    "id": "br-edwards-hemosphere",
    "nivel": "rojo",
    "fecha": "2026-10-08",
@@ -41,6 +97,34 @@
    "fuente": {
     "nombre": "Legismap (ANVISA alerts)",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-08-10-2026"
+   }
+  },
+  {
+   "id": "br-medtronic-carelink-alert",
+   "nivel": "amarillo",
+   "fecha": "2026-10-06",
+   "ambito": "Brazil",
+   "organismo": "ANVISA · Technovigilance",
+   "titulo": "Field alert 5355: Bluetooth disconnections on Medtronic CareLink SmartSync",
+   "resumen": "Auto Suture do Brasil (Medtronic) reported Bluetooth disconnections between the tablet and the CareLink SmartSync base station and patient connector (models 24967 and 24970A), which can corrupt data and cause loss of waveforms. Tablets on iPadOS 26.6 or 26.6.1 need no action; tablets must not be updated to iPadOS 27 until compatibility is confirmed.",
+   "accion": "If you use SmartSync programmers, check the tablet OS version, hold iPadOS 27 updates and return the customer confirmation form to Medtronic.",
+   "fuente": {
+    "nombre": "Legismap (ANVISA alerts)",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-08-10-2026"
+   }
+  },
+  {
+   "id": "br-ans-rol-october-2026",
+   "nivel": "verde",
+   "fecha": "2026-10-01",
+   "ambito": "Brazil",
+   "organismo": "ANS",
+   "titulo": "Health plans must cover five new technologies from October 1",
+   "resumen": "ANS added or expanded five items in the mandatory coverage list (Rol) for private health plans, effective October 1, 2026. They include the hormonal intrauterine system for endometriosis and ultrasound liver elastography for primary biliary cholangitis, plus liposomal amphotericin B, rituximab and adalimumab for specific indications.",
+   "accion": "Context: suppliers of IUDs and elastography equipment may see higher demand from private providers.",
+   "fuente": {
+    "nombre": "Seguros Lar (ANS)",
+    "url": "https://www.seguroslar.com.br/post/ans-atualiza-o-rol-o-que-muda-nos-planos-de-sa%C3%BAde-em-outubro"
    }
   },
   {
@@ -69,20 +153,6 @@
    "fuente": {
     "nombre": "ANVISA",
     "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-suspende-dispositivos-medicos-apos-inspecoes"
-   }
-  },
-  {
-   "id": "br-recognized-standards",
-   "nivel": "verde",
-   "fecha": "2026-10-22",
-   "ambito": "Brazil",
-   "organismo": "ANVISA",
-   "titulo": "ANVISA publishes lists of recognized technical standards for devices",
-   "resumen": "ANVISA will publish on its portal the technical standards it recognizes for medical devices, in three lists: cross-cutting standards, orthopedic implants and health-use materials. The lists will be updated continuously.",
-   "accion": "Use the lists to align product development and registration dossiers with the standards ANVISA expects.",
-   "fuente": {
-    "nombre": "Legismap (ANVISA news)",
-    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-22-10-2027"
    }
   },
   {
