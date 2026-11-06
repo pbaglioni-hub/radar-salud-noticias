@@ -2,6 +2,34 @@
  "actualizado": "2026-11-05",
  "noticias": [
   {
+   "id": "pami-compulsas-implantes-noviembre",
+   "nivel": "amarillo",
+   "fecha": "2026-11-05",
+   "ambito": "Nación",
+   "organismo": "PAMI · Compras Nivel Central",
+   "titulo": "PAMI abre en noviembre unas 40 compulsas, la mayoría por implantes de alto costo",
+   "resumen": "El calendario oficial de PAMI muestra cerca de 40 aperturas entre el 5 y el 23 de noviembre, casi todas compulsas abreviadas por dispositivos individuales: válvula aórtica percutánea (CA 1458/26, 16/11), reparación mitral borde a borde (CA 1436/26 y 1447/26), stent periférico liberador de droga (CA 1445/26) y prótesis aorto-torácica híbrida (CA 1455/26, ambas el 11/11), stents diversores de flujo, aterectomía rotacional, neuroestimuladores, implantes cocleares (CA 1444/26 y 1463/26) y microinfusora de insulina (CA 1459/26, 17/11). También hay compras de medicamentos de alto costo.",
+   "accion": "Si distribuís implantes cardiovasculares, neurológicos o auditivos, revisá los pliegos en el calendario de PAMI y prepará la oferta antes de cada fecha de apertura.",
+   "fuente": {
+    "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
+   "id": "pami-licitacion-oxigeno-domiciliario",
+   "nivel": "amarillo",
+   "fecha": "2026-11-05",
+   "ambito": "Nación",
+   "organismo": "PAMI · Compras Nivel Central",
+   "titulo": "Licitación pública de PAMI por oxigenoterapia domiciliaria: apertura el 20 de noviembre",
+   "resumen": "PAMI publicó la Licitación Pública 20/26 para contratar el servicio de oxigenoterapia domiciliaria, con apertura el 20 de noviembre de 2026. El mismo día abre la Compulsa Abreviada 1452/26 por puesta en servicio y mantenimiento preventivo y correctivo de equipamiento.",
+   "accion": "Si sos proveedor de oxígeno o equipos domiciliarios, descargá el pliego desde el calendario de PAMI y verificá requisitos antes del 20/11.",
+   "fuente": {
+    "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
    "id": "pami-medicamentos-noviembre",
    "nivel": "verde",
    "fecha": "2026-11-04",
