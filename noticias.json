@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-05",
+ "actualizado": "2026-11-10",
  "noticias": [
+  {
+   "id": "pami-aperturas-neuro-orto-nov-2",
+   "nivel": "amarillo",
+   "fecha": "2026-11-10",
+   "ambito": "Nación",
+   "organismo": "PAMI · Compras Nivel Central",
+   "titulo": "PAMI: aperturas de neuroestimuladores, neuroembolización y ortopedia hasta el 24 de noviembre",
+   "resumen": "El calendario de PAMI lista compulsas de neuro: kit de recarga para estimulador cerebral profundo (CA 1449/26) y neuroestimulador espinal recargable (CA 1450/26) el 11/11; espinal no recargable (CA 1462/26), disruptor de flujo intrasacular (CA 1471/26), stent diversor 0.021 (CA 1472/26) y microcatéter con adhesivo y contraste (CA 1465/26) el 17/11; estimulación vagal (CA 1473/26) y DBS recargable (CA 1474/26) el 18/11; y generador DBS bilateral no recargable (CA 1464/26) el 24/11. En ortopedia abren prótesis total de revisión constreñida (CA 1457/26) y revisión de cadera con reconstrucción 3D a medida (CA 1461/26) el 16/11, y dos prótesis de amputación (CA 1475/26) el 18/11.",
+   "accion": "Si distribuís neuroestimulación, neurointervencionismo u ortopedia, descargá los pliegos y presentá la oferta antes de cada apertura.",
+   "fuente": {
+    "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
+   "id": "pami-aperturas-medicamentos-nov",
+   "nivel": "amarillo",
+   "fecha": "2026-11-10",
+   "ambito": "Nación",
+   "organismo": "PAMI · Compras Nivel Central",
+   "titulo": "PAMI compra medicamentos de alto costo el 18/11 y medicación general el 26/11",
+   "resumen": "El 18 de noviembre a las 10 h abren las compulsas por omaveloxolona 50 mg (CA 1426/26), nusinersen 12 mg (CA 1433/26) y timosina alfa 1,6 mg (CA 1468/26). Además hay bombas de apomorfina subcutánea por 90 días (CA 1467/26 el 16/11 y CA 1470/26 el 17/11), microinfusora de insulina MiniMed 780G con insumos (CA 1459/26, 17/11) y la Licitación Pública 21/26 de medicación general para los efectores propios, con apertura el 26 de noviembre a las 12 h.",
+   "accion": "Si sos droguería o laboratorio con estos productos, revisá pliegos y plazos en el calendario de PAMI y prepará la cotización.",
+   "fuente": {
+    "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
+   "id": "anmat-7157-2026",
+   "nivel": "rojo",
+   "fecha": "2026-11-06",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT prohíbe limas endodónticas marca VERITAS - Distribuidora Dental Edigma",
+   "resumen": "Por la Disposición 7157/2026, publicada en el Boletín Oficial el 6 de noviembre, ANMAT prohibió en todo el país el uso, la comercialización, la distribución y la publicación online de todos los lotes de productos médicos de la marca VERITAS - Distribuidora Dental Edigma. Se detectaron limas H-Files de acero inoxidable sin datos de fabricante o importador, sin fecha de vencimiento ni número de registro, en una droguería de Mendoza.",
+   "accion": "Si vendés o usás insumos odontológicos, revisá tu stock, separá cualquier producto VERITAS y comprá solo a proveedores habilitados.",
+   "fuente": {
+    "nombre": "Infobae (cita la Disposición ANMAT 7157/2026)",
+    "url": "https://www.infobae.com/sociedad/2026/11/06/anmat-prohibio-la-venta-y-el-uso-de-un-insumo-odontologico-sin-autorizacion-sanitaria/"
+   }
+  },
   {
    "id": "pami-compulsas-implantes-noviembre",
    "nivel": "amarillo",

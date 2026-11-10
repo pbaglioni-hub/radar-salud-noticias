@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-05",
+ "actualizado": "2026-11-10",
  "noticias": [
+  {
+   "id": "mx-argliptin-d-adulterated",
+   "nivel": "rojo",
+   "fecha": "2026-11-08",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Adulterated lot of Argliptin-D (sitagliptin/metformin) in circulation",
+   "resumen": "COFEPRIS warned about lot LC89738 of Argliptin-D 50 mg/850 mg, a type 2 diabetes drug, after a visual assessment with the registration holder Mexar Pharma. The lot was not officially imported for sale in Mexico, so its origin and quality cannot be guaranteed; the alert covers only that lot.",
+   "accion": "Check pharmacy and hospital stock for lot LC89738, quarantine it and file a sanitary complaint if you find it on sale.",
+   "fuente": {
+    "nombre": "Criterio Hidalgo (citing COFEPRIS)",
+    "url": "https://www.criteriohidalgo.com/noticias/mexico/cuidado-en-mexico-cofepris-alerta-por-medicamento-para-la-diabetes-adulterado"
+   }
+  },
+  {
+   "id": "mx-tirzepatide-illegal-sales",
+   "nivel": "rojo",
+   "fecha": "2026-11-06",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "Warning on illegal online sales of tirzepatide products",
+   "resumen": "COFEPRIS, relayed by the Michoacán Health Ministry, warned about tirzepatide products for weight loss and diabetes sold below regulated prices and without prescription on e-commerce sites and apps, as vials, pens, drops, patches and injectables. They may lack the active ingredient, carry wrong doses or contain harmful substances.",
+   "accion": "Buy tirzepatide only from authorized distributors with invoices and report online offers of unregistered presentations to COFEPRIS.",
+   "fuente": {
+    "nombre": "A Tiempo (citing COFEPRIS and SSM Michoacán)",
+    "url": "https://atiempo.mx/estado/alerta-la-cofepris-por-venta-ilegal-de-productos-con-tirzepatida/"
+   }
+  },
+  {
+   "id": "mx-imss-2917-devices",
+   "nivel": "verde",
+   "fecha": "2026-11-03",
+   "ambito": "Mexico",
+   "organismo": "IMSS",
+   "titulo": "IMSS starts delivering a 2,917-device purchase to its hospitals",
+   "resumen": "Under its 120-day plan, IMSS began distributing medical equipment from a purchase of 2,917 devices. The first batch sent 47 units (20 3D ultrasound systems, 17 emergency ECGs and 10 ICU multiparameter monitors) to 39 hospitals in 19 states.",
+   "accion": "If you supply imaging, monitoring or cardiology equipment, track IMSS follow-up purchases and service contracts tied to this plan.",
+   "fuente": {
+    "nombre": "ABC Noticias (citing IMSS)",
+    "url": "https://abcnoticias.mx/nacional/2026/11/3/imss-inicia-distribucion-de-equipo-medico-de-alta-tecnologia-para-39-hospitales-en-19-estados-del-pais-294331.html"
+   }
+  },
   {
    "id": "mx-go-pen-registration",
    "nivel": "verde",

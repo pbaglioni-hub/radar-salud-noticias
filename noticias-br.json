@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-05",
+ "actualizado": "2026-11-10",
  "noticias": [
+  {
+   "id": "br-supplements-re-4406-4407",
+   "nivel": "rojo",
+   "fecha": "2026-11-10",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA bans supplements from four brands, including suspected counterfeits",
+   "resumen": "Resolutions RE 4,406 and 4,407, published in the DOU on November 10, ban all lots of W Nutry and Vittacaps supplements and Muuh Magic bovine colostrum, plus lot L75F0001 of Essential Nutrition Kit 3 Ômega Core. Reasons include missing sanitary notification, unauthorized health claims and products whose named manufacturers do not recognize them.",
+   "accion": "Pharmacies and distributors should pull these products and lots from shelves and online listings now.",
+   "fuente": {
+    "nombre": "NC News (citing ANVISA RE 4,406 and 4,407)",
+    "url": "https://ncnews.com.br/2026/11/10/anvisa-proibe-suplementos-de-quatro-marcas-veja-produtos-e-lotes-afetados/"
+   }
+  },
+  {
+   "id": "br-mounjaro-counterfeit",
+   "nivel": "rojo",
+   "fecha": "2026-11-06",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "Counterfeit Mounjaro (tirzepatide) lots banned and seized",
+   "resumen": "ANVISA Resolution 4,329/2026, published on November 6, bans sale, distribution and use and orders seizure of five counterfeit Mounjaro lots reported by Eli Lilly: 2.5 mg KUSTR43969410, 5 mg B55010 and 15 mg D810042, D838889 and 2138737. Legitimate Mounjaro bought through regular channels remains authorized.",
+   "accion": "Check tirzepatide stock against these five lot numbers and buy only from Lilly-authorized distributors.",
+   "fuente": {
+    "nombre": "Sou Notícia (citing ANVISA Resolution 4,329/2026)",
+    "url": "https://www.sounoticia.com.br/noticia/141032/saude/anvisa-proibe-mounjaro-no-brasil-09112026"
+   }
+  },
+  {
+   "id": "br-conitec-cp-107-108",
+   "nivel": "amarillo",
+   "fecha": "2026-11-06",
+   "ambito": "Brazil",
+   "organismo": "Conitec",
+   "titulo": "Conitec consultations open on vutrisiran and odevixibat for the SUS",
+   "resumen": "Conitec has two open public consultations on SUS incorporation: CP 107/2026 on vutrisiran for stage I hereditary transthyretin amyloidosis with polyneuropathy (closes November 17) and CP 108/2026 on odevixibat for cholestatic pruritus in Alagille syndrome (published in the DOU on November 6, open November 9 to 30).",
+   "accion": "Companies and specialists with evidence on these drugs should submit contributions before the deadlines.",
+   "fuente": {
+    "nombre": "Conitec · Consultas públicas vigentes",
+    "url": "https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/vigentes"
+   }
+  },
   {
    "id": "br-wcr-radiotherapy-ban",
    "nivel": "rojo",
