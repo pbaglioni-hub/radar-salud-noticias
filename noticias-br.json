@@ -44,6 +44,21 @@
    }
   },
   {
+   "id": "br-eurofarma-bndes-rd",
+   "nivel": "verde",
+   "categoria": "Strategic move",
+   "fecha": "2026-11-04",
+   "ambito": "Brazil",
+   "organismo": "BNDES",
+   "titulo": "BNDES lends R$ 285 million to Eurofarma for new-drug R&D",
+   "resumen": "BNDES approved R$ 285 million under its Mais Inovação program for Eurofarma's research plan, covering opioid-replacement pain treatments, an antibiotic for resistant microorganisms and new combinations for depression and Alzheimer's drugs. Part of the funds goes to clinical trials and seven imported lab devices for its Itapevi R&D center; BNDES says it has approved R$ 11.7 billion for health since 2023.",
+   "accion": "Suppliers of lab equipment and clinical-research services should watch for Eurofarma tenders tied to this plan.",
+   "fuente": {
+    "nombre": "Folha de Alphaville (citing BNDES)",
+    "url": "https://folhadealphaville.com.br/cidades/2026/11/06/eurofarma-recebe-r-285-milhoes-do-bndes-para-desenvolver-novos-medicamentos.html"
+   }
+  },
+  {
    "id": "br-wcr-radiotherapy-ban",
    "nivel": "rojo",
    "fecha": "2026-11-03",
@@ -69,6 +84,20 @@
    "fuente": {
     "nombre": "NC News (ANVISA, DOU)",
     "url": "https://ncnews.com.br/2026/11/03/anvisa-interdita-terminal-porto-santos/"
+   }
+  },
+  {
+   "id": "br-glp1-five-pens",
+   "nivel": "verde",
+   "fecha": "2026-11-01",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA registers five more generic GLP-1 pens",
+   "resumen": "ANVISA published in the DOU the registration of five semaglutide or liraglutide injectable pens: Aribet, Lyrza and Wylovol (liraglutide, made by Biocon, registered by Farma Vision), Embeltah (semaglutide, Dr. Reddy's) and Sevema (semaglutide, Aché), both made by OneSource Specialty. That brings to 20 the GLP-1 pens registered in Brazil in 2026.",
+   "accion": "Distributors and hospital pharmacies should expect more price competition in GLP-1s and review supplier lists.",
+   "fuente": {
+    "nombre": "Portal Itapipoca (citing ANVISA and DOU)",
+    "url": "https://www.portalitapipoca.com.br/saude/2026/11/01/anvisa-aprova-registro-de-cinco-novas-canetas-injetaveis-para-diabetes-e-obesidade.html"
    }
   },
   {
