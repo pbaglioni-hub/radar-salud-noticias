@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "noticias": [
   {
    "id": "br-supplements-re-4406-4407",
@@ -13,6 +13,63 @@
    "fuente": {
     "nombre": "NC News (citing ANVISA RE 4,406 and 4,407)",
     "url": "https://ncnews.com.br/2026/11/10/anvisa-proibe-suplementos-de-quatro-marcas-veja-produtos-e-lotes-afetados/"
+   }
+  },
+  {
+   "id": "br-two-new-semaglutide-pens-avita",
+   "nivel": "verde",
+   "fecha": "2026-11-10",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA registers two more semaglutide pens, bringing 2026 GLP-1 pen registrations to 22",
+   "resumen": "Under RE 4.411/2026, ANVISA registered two injectable semaglutide products from Ávita Care: a generic and the similar product Loryvia, both for adults with insufficiently controlled type 2 diabetes. This brings GLP-1 pen registrations in 2026 to 22, helped by a prioritization the Ministry of Health requested for the SUS.",
+   "accion": "Distributors and clinics should expect more competition and lower prices in GLP-1 pens and update supplier and formulary lists.",
+   "fuente": {
+    "nombre": "Legismap / ANVISA - Notícias Anvisa, 10.11.2026",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-10-11-2026"
+   }
+  },
+  {
+   "id": "br-fleury-bradsaude-fleuryonco",
+   "nivel": "verde",
+   "categoria": "Strategic move",
+   "fecha": "2026-11-10",
+   "ambito": "Brazil",
+   "organismo": "Fleury / Hospitais da Atlântica (Bradsaúde)",
+   "titulo": "Fleury and a Bradsaúde unit set up FleuryOnco oncology venture with R$ 72 million",
+   "resumen": "Fleury and Hospitais da Atlântica, indirectly controlled by Bradsaúde, created FleuryOnco with an initial investment of R$ 72 million; Fleury holds 50.1%. The company will offer oncology therapies, multidisciplinary support and clinical research under the Fleury Oncologia and Onco One brands, and plans seven units by the end of 2027.",
+   "accion": "Suppliers of oncology drugs, infusion equipment and diagnostics should treat FleuryOnco as a new purchasing account through 2027.",
+   "fuente": {
+    "nombre": "Seu Dinheiro",
+    "url": "https://seudinheiro.com/2026/empresas/fleury-e-controlada-da-bradesaude-unem-forcas-para-criar-empresa-de-oncologia-com-investimento-de-r-72-milhoes"
+   }
+  },
+  {
+   "id": "br-alert-5378-vitros-a1c",
+   "nivel": "rojo",
+   "fecha": "2026-11-09",
+   "ambito": "Brazil",
+   "organismo": "ANVISA (Technovigilance)",
+   "titulo": "Field alert 5378: some Vitros A1c slide lots may overstate HbA1c results",
+   "resumen": "ANVISA published technovigilance alert 5378 on Vitros Chemistry Products A1c Slides (registration 81246986861). Certain lot generations may give positively biased glycated hemoglobin results; under field action TC2026-224, Ortho Clinical Diagnostics do Brasil tells labs to stop using them, discard the stock and return the acknowledgment form for credit or replacement. The product was distributed in 19 states.",
+   "accion": "Labs and distributors should check Vitros A1c stock this week, discard affected generations, return the acknowledgment form and report events in Notivisa.",
+   "fuente": {
+    "nombre": "Legismap / ANVISA - Alertas Anvisa, 09.11.2026",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-09-11-2026"
+   }
+  },
+  {
+   "id": "br-trodelvy-turkey-lots-halexminophen",
+   "nivel": "rojo",
+   "fecha": "2026-11-09",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA seizes two Trodelvy lots made for Turkey and a paracetamol IV lot is recalled",
+   "resumen": "ANVISA ordered the seizure of Trodelvy (Gilead) lots 10008806 and 10008808, which were made only for the Turkish market and differ from the original product, and banned their sale, distribution and use. In the same measures (RE 4.355 and RE 4.387/2026), Halex Istar is voluntarily recalling Halexminophen 10 mg/mL IV infusion, lot 0000216652, for a packaging quality defect.",
+   "accion": "Oncology clinics, hospital pharmacies and distributors should check stock for those lots now, quarantine any units and buy only through authorized channels.",
+   "fuente": {
+    "nombre": "Legismap / ANVISA - Notícias Anvisa, 09.11.2026",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-09-11-2026"
    }
   },
   {
@@ -115,6 +172,20 @@
    }
   },
   {
+   "id": "br-ans-cp179-care-guarantee",
+   "nivel": "amarillo",
+   "fecha": "2026-10-23",
+   "ambito": "Brazil",
+   "organismo": "ANS",
+   "titulo": "ANS Public Consultation 179 would change how health plans are suspended from selling; deadline December 7",
+   "resumen": "ANS opened Public Consultation 179 to change the criteria of its Care Guarantee Monitoring, which uses complaints about missed deadlines and denied coverage. A medical-hospital operator would be flagged if its results are far worse than its peers' or worsen over two consecutive periods, and dental-only operators would no longer face temporary sales suspension in regular monitoring. Contributions are open until 7 December 2026.",
+   "accion": "Providers and clinics that depend on health-plan volume should review the proposal and send contributions through the ANS portal before 7 December.",
+   "fuente": {
+    "nombre": "SanarMed",
+    "url": "https://sanarmed.com/noticias/ans-consulta-publica-179-monitoramento-garantia-atendimento/"
+   }
+  },
+  {
    "id": "br-accuchek-counterfeit",
    "nivel": "rojo",
    "fecha": "2026-10-22",
@@ -154,6 +225,20 @@
    "fuente": {
     "nombre": "Legismap (ANVISA news)",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-22-10-2027"
+   }
+  },
+  {
+   "id": "br-anvisa-cp1427-sandbox",
+   "nivel": "amarillo",
+   "fecha": "2026-10-13",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA regulatory sandbox rules open for comment until December 11",
+   "resumen": "ANVISA opened Public Consultation 1.427/2026 on a draft RDC for its Regulatory Sandbox, covering governance, selection criteria, temporary authorization, monitoring and risk safeguards for innovative products, services and business models. The 60-day consultation closes on 11 December 2026.",
+   "accion": "Medtech, SaMD and digital-health companies should read the draft and file comments before 11 December.",
+   "fuente": {
+    "nombre": "Legismap / ANVISA - Notícias Anvisa, 13.10.2026",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-13-10-2026"
    }
   },
   {

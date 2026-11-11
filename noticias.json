@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "noticias": [
+  {
+   "id": "anmat-7199-2026",
+   "nivel": "rojo",
+   "fecha": "2026-11-11",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT prohíbe tres endoprótesis vasculares Gore VIABAHN VBX robadas",
+   "resumen": "La Disposición 7199/2026, publicada en el Boletín Oficial el 11 de noviembre, prohíbe en todo el país el uso, la comercialización y la distribución, incluida la venta online, de tres unidades de la endoprótesis vascular expandible con balón Gore VIABAHN VBX (PM 266-82, titular Emeclar S.A.): código BXA055902H, lote/serie 28350476, y código BXA053902H, lotes/serie 29004355A y 29004356A. Fueron robadas el 12 de junio de 2026 y quedaron fuera de la trazabilidad, por lo que no se puede garantizar cómo se conservaron.",
+   "accion": "Revisar hoy el stock de hemodinamia y cirugía vascular, depósitos y compras recientes por esos códigos y lotes, y apartar cualquier unidad que coincida.",
+   "fuente": {
+    "nombre": "El Argentino Diario (cita Disposición ANMAT 7199/2026, Boletín Oficial)",
+    "url": "https://elargentinodiario.com.ar/economia/consumo/11/11/2026/anmat-prohibio-tres-endoprotesis-vasculares-robadas-gore-viabahn/"
+   }
+  },
+  {
+   "id": "incucai-401-2026-biovigilancia",
+   "nivel": "amarillo",
+   "fecha": "2026-11-11",
+   "ambito": "Nación",
+   "organismo": "INCUCAI",
+   "titulo": "INCUCAI crea el Sistema Nacional de Biovigilancia en Donación-Trasplante con reporte obligatorio en 24 horas",
+   "resumen": "La Resolución 401/2026 crea el Sistema Nacional de Biovigilancia en Donación-Trasplante y rige desde el día siguiente a su publicación. Equipos de trasplante, bancos de tejidos, laboratorios de histocompatibilidad, bancos de sangre de cordón y los 24 OPAI deben designar al menos dos responsables, y las reacciones graves, muy graves o fatales y los eventos de riesgo alto deben reportarse dentro de las 24 horas. La implementación será gradual: una prueba piloto y luego tres etapas.",
+   "accion": "Los centros de trasplante y bancos de tejidos deben designar a sus dos responsables de biovigilancia y armar el circuito interno de reporte en 24 horas.",
+   "fuente": {
+    "nombre": "Ámbito (cita Resolución INCUCAI 401/2026, Boletín Oficial)",
+    "url": "https://www.ambito.com/el-incucai-crea-un-sistema-nacional-reportar-fallas-y-complicaciones-donaciones-y-trasplantes-n6343789"
+   }
+  },
   {
    "id": "pami-aperturas-neuro-orto-nov-2",
    "nivel": "amarillo",
@@ -41,6 +69,20 @@
    "fuente": {
     "nombre": "Infobae (cita la Disposición ANMAT 7157/2026)",
     "url": "https://www.infobae.com/sociedad/2026/11/06/anmat-prohibio-la-venta-y-el-uso-de-un-insumo-odontologico-sin-autorizacion-sanitaria/"
+   }
+  },
+  {
+   "id": "anmat-7203-2026-oxigeno-93",
+   "nivel": "amarillo",
+   "fecha": "2026-11-06",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT actualiza la norma de oxígeno medicinal producido por PSA y admite el oxígeno 93%",
+   "resumen": "La Disposición 7203/2026 reemplaza el Anexo I de la Disposición 4373/2002, que exigía una pureza mínima de 98% V/V para el oxígeno medicinal producido en plantas PSA. El nuevo anexo se alinea con la definición de oxígeno 93% (90% a 96% V/V) de la Farmacopea Argentina y sigue una recomendación de la Comisión Nacional de Defensa de la Competencia. Rige desde su publicación e invita a provincias y CABA a adherir.",
+   "accion": "Hospitales con plantas PSA y proveedores de gases medicinales deben revisar si sus equipos y especificaciones de compra se ajustan al nuevo anexo.",
+   "fuente": {
+    "nombre": "Boletín Oficial, Primera Sección, 06/11/2026",
+    "url": "https://s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf"
    }
   },
   {
@@ -213,17 +255,17 @@
    }
   },
   {
-   "id": "sf-licitaciones-oct",
-   "nivel": "verde",
-   "fecha": "2026-10-22",
-   "ambito": "Santa Fe",
-   "organismo": "Ministerio de Salud y hospitales",
-   "titulo": "Licitaciones de traumatología, instrumental y equipamiento (ya abiertas)",
-   "resumen": "En octubre abrieron licitaciones de insumos traumatológicos (Hospital Provincial de Rosario), descartables e instrumental (Reconquista), productos médicos (Cullen), equipamiento quirúrgico de tercer nivel y ecógrafos portátiles.",
-   "accion": "Referencia de demanda y competidores para las próximas compras.",
+   "id": "pami-geriatricos-aumento-nov-ene",
+   "nivel": "amarillo",
+   "fecha": "2026-10-23",
+   "ambito": "Nación",
+   "organismo": "PAMI (INSSJP)",
+   "titulo": "PAMI acuerda subas de 2,5% mensual para geriátricos prestadores entre noviembre y enero",
+   "resumen": "Según la Asociación Argentina de Establecimientos Geriátricos, PAMI otorgará tres subas de 2,5%: en noviembre de 2026 sobre el arancel de octubre, en diciembre y en enero de 2027, cada una sobre el valor ya actualizado, unos 7,69% acumulado. La propuesta original de PAMI era de 2% mensual no acumulativo. La nota no informa número de resolución.",
+   "accion": "Los geriátricos prestadores deben controlar que la liquidación de noviembre aplique el 2,5% sobre el arancel de octubre y reclamar si no se refleja.",
    "fuente": {
-    "nombre": "Portal de compras Santa Fe",
-    "url": "https://www.santafe.gov.ar/index.php/guia/portal_compras"
+    "nombre": "Crónica (cita a la Asociación Argentina de Establecimientos Geriátricos)",
+    "url": "https://www.cronica.com.ar/salud/pami-otorgo-un-aumento-acumulado-del-7-69-a-los-geriatricos-prestadores/"
    }
   },
   {
@@ -270,6 +312,20 @@
    }
   },
   {
+   "id": "nqn-lp-598-autoclaves",
+   "nivel": "amarillo",
+   "fecha": "2026-10-20",
+   "ambito": "Neuquén",
+   "organismo": "Ministerio de Salud de Neuquén",
+   "titulo": "Neuquén licita cuatro autoclaves a vapor para hospitales del interior; apertura el 17 de noviembre",
+   "resumen": "La Licitación Pública N° 598 es para comprar e instalar cuatro autoclaves automáticos horizontales a vapor para los hospitales de Las Ovejas, Tricao Malal, El Cholar y Las Coloradas. El presupuesto oficial es de $496.000.000, el pliego es sin cargo y las ofertas se presentan por CO.DI.NEU. La apertura es el 17 de noviembre de 2026 a las 11:00.",
+   "accion": "Los proveedores de equipamiento de esterilización deben cargar su oferta en CO.DI.NEU antes del 17/11 a las 11:00.",
+   "fuente": {
+    "nombre": "Ministerio de Salud de la Provincia del Neuquén",
+    "url": "https://salud.neuquen.gob.ar/objeto-adquisicion-e-instalacion-de-cuatro-4-autoclaves-automaticos-a-vapor-horizontal/"
+   }
+  },
+  {
    "id": "colegio-pba-pami",
    "nivel": "rojo",
    "fecha": "2026-10-17",
@@ -284,20 +340,6 @@
    }
   },
   {
-   "id": "nqn-lp-588",
-   "nivel": "amarillo",
-   "fecha": "2026-10-16",
-   "ambito": "Neuquén",
-   "organismo": "Ministerio de Salud",
-   "titulo": "Licitación Pública 588: nutroterápicos por $2.360 millones",
-   "resumen": "Apertura el 3 de noviembre de 2026 a las 10 h en la Dirección General de Compras del Ministerio de Salud de Neuquén. Destino: servicios asistenciales de la provincia.",
-   "accion": "Evaluar si corresponde ofertar antes del 3 de noviembre.",
-   "fuente": {
-    "nombre": "Salud Neuquén",
-    "url": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-nutroterapicos-5/"
-   }
-  },
-  {
    "id": "epi-2-2026",
    "nivel": "verde",
    "fecha": "2026-10-15",
@@ -309,6 +351,21 @@
    "fuente": {
     "nombre": "Boletín Oficial",
     "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348997/20261015"
+   }
+  },
+  {
+   "id": "steris-xodus",
+   "nivel": "verde",
+   "categoria": "Movimiento estratégico",
+   "fecha": "2026-10-12",
+   "ambito": "Internacional",
+   "organismo": "STERIS / Xodus Medical",
+   "titulo": "STERIS compra Xodus Medical por USD 2.100 millones y suma consumibles de quirófano",
+   "resumen": "STERIS acordó comprar Xodus Medical por USD 2.100 millones, más un earnout de hasta USD 150 millones atado a metas de 2028. Xodus fabrica, entre otros, los posicionadores de paciente Pink Pad y el antiempañante laparoscópico See Sharp. STERIS financiará la operación principalmente con deuda y apunta a cerrarla en 2026.",
+   "accion": "Los distribuidores locales de STERIS o Xodus deben seguir posibles cambios en la representación y condiciones comerciales al cierre de la operación.",
+   "fuente": {
+    "nombre": "MedTech Dive",
+    "url": "https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/"
    }
   },
   {

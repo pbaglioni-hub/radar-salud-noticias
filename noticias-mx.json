@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "noticias": [
+  {
+   "id": "mx-imss-bienestar-clinica-es-nuestra-2026",
+   "nivel": "verde",
+   "fecha": "2026-11-09",
+   "ambito": "Mexico",
+   "organismo": "IMSS-Bienestar",
+   "titulo": "IMSS-Bienestar to transfer MXN 4,761 million to 8,797 primary-care centers for equipment and repairs",
+   "resumen": "IMSS-Bienestar announced MXN 4,761 million for 8,797 health centers under the La Clínica es Nuestra program, 314 more units than in 2025. Each center gets MXN 400,000 to 1.2 million depending on its size, and local health committees decide how to spend it, including on clinical instruments, medical equipment, furniture and repairs. Transfers start the week of November 9.",
+   "accion": "Distributors of basic medical equipment and instruments should prepare for many small, community-led local purchases that work differently from centralized tenders.",
+   "fuente": {
+    "nombre": "Consultor Salud México",
+    "url": "https://consultorsalud.com.mx/imss-bienestar-destinara-centros-de-salud/"
+   }
+  },
+  {
+   "id": "mx-issste-supply-beds-insourcing",
+   "nivel": "verde",
+   "fecha": "2026-11-09",
+   "ambito": "Mexico",
+   "organismo": "ISSSTE",
+   "titulo": "ISSSTE reports 97% medicine supply and brings hemodynamics and anesthesia services in-house",
+   "resumen": "Before the Chamber of Deputies Health Committee, ISSSTE head Martí Batres reported 97% medicine supply, 712 new hospital beds and more than MXN 7 billion in construction in two years. He said three hospitals were taken back from public-private partnership schemes and that hemodynamics and anesthesia are now run in-house, with endoscopy moving the same way. No equipment-purchase amounts were disclosed.",
+   "accion": "Suppliers of hemodynamics, anesthesia and endoscopy equipment should expect ISSSTE to buy directly instead of through outsourced service contracts and adjust their tender strategy.",
+   "fuente": {
+    "nombre": "Consultor Salud México",
+    "url": "https://consultorsalud.com.mx/issste-reporta-abasto-de-medicamentos/"
+   }
+  },
   {
    "id": "mx-argliptin-d-adulterated",
    "nivel": "rojo",
@@ -27,6 +55,21 @@
    "fuente": {
     "nombre": "A Tiempo (citing COFEPRIS and SSM Michoacán)",
     "url": "https://atiempo.mx/estado/alerta-la-cofepris-por-venta-ilegal-de-productos-con-tirzepatida/"
+   }
+  },
+  {
+   "id": "mx-avant-sante-distrito-tlalpan",
+   "nivel": "verde",
+   "categoria": "Strategic move",
+   "fecha": "2026-11-06",
+   "ambito": "Mexico",
+   "organismo": "Secretaría de Economía",
+   "titulo": "USD 245 million clinical research hub announced in Mexico City, led by Avant Santé",
+   "resumen": "Economy Secretary Marcelo Ebrard announced USD 245 million under Plan México for the Distrito Tlalpan health-innovation project. Clinical research company Avant Santé will invest USD 225 million in three stages, including a clinical acceleration center and a unit to import, export, label, store and assemble lab equipment. Tecnológico de Monterrey will add USD 20 million for a predictive-medicine center with UNAM.",
+   "accion": "Importers of lab and diagnostic equipment and CRO service providers should evaluate partnership and supply opportunities in the project.",
+   "fuente": {
+    "nombre": "Zolo Noticias",
+    "url": "https://www.zolonoticias.com/2026/11/06/mexico-invertira-245-millones-de-dolares-en-innovacion-medica/"
    }
   },
   {
@@ -87,6 +130,20 @@
    }
   },
   {
+   "id": "mx-ssa-central-ethics-committee",
+   "nivel": "verde",
+   "fecha": "2026-11-03",
+   "ambito": "Mexico",
+   "organismo": "Secretaría de Salud / CCINSHAE",
+   "titulo": "Health Ministry launches Central Ethics and Research Committee for multi-institution protocols",
+   "resumen": "The Ministry of Health launched a Central Ethics and Research Committee coordinated by CCINSHAE, bringing together 19 institutional units to review protocols involving two or more health institutions in a single evaluation. It meets on the second and fourth Wednesday of each month and does not replace COFEPRIS authorization.",
+   "accion": "Sponsors, CROs and hospitals running multi-site studies, including device trials, should route eligible protocols through the central committee.",
+   "fuente": {
+    "nombre": "Consultor Salud México",
+    "url": "https://consultorsalud.com.mx/comite-central-de-etica-investigacion-mexico/"
+   }
+  },
+  {
    "id": "mx-birmex-third-tender",
    "nivel": "amarillo",
    "fecha": "2026-10-29",
@@ -112,6 +169,20 @@
    "fuente": {
     "nombre": "Mexico Business News",
     "url": "https://mexicobusiness.news/health/news/cofepris-joins-global-campaign-boost-drug-safety-reporting"
+   }
+  },
+  {
+   "id": "mx-cofepris-cancel-nom-077-078",
+   "nivel": "amarillo",
+   "fecha": "2026-10-21",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS / CCNNRFS",
+   "titulo": "COFEPRIS opens consultation to cancel two clinical-laboratory NOMs on control materials and calibration",
+   "resumen": "COFEPRIS published in the DOF draft cancellations of NOM-077-SSA1-1994 (control materials for clinical pathology laboratories) and NOM-078-SSA1-1994 (calibration standards for clinical laboratory measurements). Comments are open for 60 calendar days from publication, until around December 20. Both standards remain in force until a final cancellation is published.",
+   "accion": "IVD distributors and clinical laboratories should decide whether to file comments before the window closes and keep complying with both NOMs meanwhile.",
+   "fuente": {
+    "nombre": "Consultor Salud México",
+    "url": "https://consultorsalud.com.mx/cofepris-cancelacion-normas-para-laboratorios-clinicos/"
    }
   },
   {
@@ -168,6 +239,20 @@
    "fuente": {
     "nombre": "El Siglo de Torreón",
     "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/alerta-cofepris-por-falsificacion-de-synvisc-hylan-g-f20-medicamento-comun-inyectado-para-dolor-de-rodilla-u-.html"
+   }
+  },
+  {
+   "id": "mx-nom-253-ssa1-2025-blood",
+   "nivel": "amarillo",
+   "fecha": "2026-10-12",
+   "ambito": "Mexico",
+   "organismo": "Secretaría de Salud / Diario Oficial de la Federación",
+   "titulo": "New blood and transfusion standard NOM-253-SSA1-2025 published, with a 180-day transition",
+   "resumen": "The Ministry of Health published NOM-253-SSA1-2025 on the therapeutic use of human blood and blood components in the DOF; it takes effect 180 days after publication. Blood banks must run more routine laboratory tests on blood products, each type of blood service gets defined functions, and hospital Transfusion Medicine Committees are strengthened to improve hemovigilance.",
+   "accion": "Blood banks, hospitals and suppliers of blood-screening reagents and equipment should compare their testing menus and procedures with the new NOM before the transition ends.",
+   "fuente": {
+    "nombre": "Zócalo (citing La Jornada and the DOF)",
+    "url": "https://www.zocalo.com.mx/ssa-publica-en-el-dof-norma-para-mejorar-seguridad-de-transfusiones-de-sangre/"
    }
   },
   {
