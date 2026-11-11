@@ -73,6 +73,20 @@
    }
   },
   {
+   "id": "mx-imss-emergency-plan",
+   "nivel": "amarillo",
+   "fecha": "2026-11-03",
+   "ambito": "Mexico",
+   "organismo": "IMSS",
+   "titulo": "IMSS emergency plan: 31,700 extra surgeries and new equipment through February",
+   "resumen": "IMSS is running weekend surgery drives under a 12-action emergency plan worth MXN 11.7 billion that runs until February 24, 2027, targeting about 31,700 additional surgeries, mainly cataract, gallbladder, hernia, knee and hip. It made MXN 88 million in direct purchases of wound-care material after supplier defaults, expects 1,321 clinical recliners on November 16 and 15 angiography systems ready by the end of November.",
+   "accion": "Suppliers of orthopedic implants, intraocular lenses and surgical consumables should contact IMSS hospital purchasing; delivery reliability is being watched closely.",
+   "fuente": {
+    "nombre": "Publimetro (IMSS)",
+    "url": "https://www.publimetro.com.mx/nacional/2026/11/03/imss-cirugias-extraordinarias-especialistas-noviembre-2026/"
+   }
+  },
+  {
    "id": "mx-imss-2917-devices",
    "nivel": "verde",
    "fecha": "2026-11-03",
@@ -169,6 +183,20 @@
    "fuente": {
     "nombre": "Mexico Business News",
     "url": "https://mexicobusiness.news/health/news/cofepris-joins-global-campaign-boost-drug-safety-reporting"
+   }
+  },
+  {
+   "id": "mx-nom-077-078-cancellation",
+   "nivel": "amarillo",
+   "fecha": "2026-10-21",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS · DOF",
+   "titulo": "COFEPRIS proposes cancelling two clinical laboratory standards; comments until about December 20",
+   "resumen": "The Ministry of Health published in the DOF notices proposing to cancel NOM-077-SSA1-1994 (control materials for clinical laboratories) and NOM-078-SSA1-1994 (calibration standards). Both remain in force during a 60-day consultation, and the notices do not name replacement standards.",
+   "accion": "Diagnostics and lab-reagent companies should review the texts on PLATIICA and send comments in Spanish before the consultation closes.",
+   "fuente": {
+    "nombre": "Consultor Salud México (DOF)",
+    "url": "https://consultorsalud.com.mx/cofepris-cancelacion-normas-para-laboratorios-clinicos/"
    }
   },
   {

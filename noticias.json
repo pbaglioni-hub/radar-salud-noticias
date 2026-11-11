@@ -58,6 +58,20 @@
    }
   },
   {
+   "id": "cokiba-aranceles-noviembre-2026",
+   "nivel": "verde",
+   "fecha": "2026-11-06",
+   "ambito": "Buenos Aires",
+   "organismo": "Colegio de Kinesiólogos de la Provincia de Buenos Aires (COKIBA)",
+   "titulo": "Kinesiólogos bonaerenses: nuevos aranceles con obras sociales para noviembre y diciembre",
+   "resumen": "El informe 28 del COKIBA detalla subas de aranceles vigentes desde noviembre (OSCAP, Ámsterdam Salud, OSDOP, SERENA ART) y desde diciembre (La Segunda, CEA San Pedro, La Pequeña Familia), con aumentos acumulados en 2026 de entre 30% y 84% según la entidad. También informa la suspensión de servicios a OSPEGYPE en la Regional 6.",
+   "accion": "Contexto: si sos prestador de rehabilitación en Buenos Aires, revisá los valores vigentes por entidad antes de facturar noviembre.",
+   "fuente": {
+    "nombre": "COKIBA",
+    "url": "https://www.cokiba.org.ar/actualidad/obras-sociales/informe-n28-4-11-06-2026"
+   }
+  },
+  {
    "id": "anmat-7157-2026",
    "nivel": "rojo",
    "fecha": "2026-11-06",
@@ -83,6 +97,20 @@
    "fuente": {
     "nombre": "Boletín Oficial, Primera Sección, 06/11/2026",
     "url": "https://s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf"
+   }
+  },
+  {
+   "id": "cobertura-salud-minimo-2016",
+   "nivel": "verde",
+   "fecha": "2026-11-05",
+   "ambito": "Nación",
+   "organismo": "INDEC (EPH) · Superintendencia de Servicios de Salud",
+   "titulo": "La cobertura de obras sociales y prepagas cae al nivel más bajo desde 2016",
+   "resumen": "Según estimaciones con datos de la EPH del INDEC, unas 969.000 personas perdieron su obra social o prepaga entre el primer semestre de 2025 y el de 2026, y el 35,5% de la población ya depende solo del sistema público. Las obras sociales nacionales perdieron 1,16 millones de beneficiarios desde 2023, mientras las cuotas de prepagas subieron cerca de 500% contra una inflación de 344%.",
+   "accion": "Contexto: anticipá más demanda en hospitales públicos y licitaciones provinciales, y menos volumen en prestadores privados.",
+   "fuente": {
+    "nombre": "Zona Norte Hoy (INDEC, SSS)",
+    "url": "https://www.zonanortehoy.com/economia/crisis-de-salud-en-argentina-casi-un-millon-de-personas-perdio-su-obra-social-o-prepaga-en-un-ano/"
    }
   },
   {
