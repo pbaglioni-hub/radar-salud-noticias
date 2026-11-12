@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "noticias": [
+  {
+   "id": "br-eplerenone-sus-incorporation",
+   "nivel": "amarillo",
+   "fecha": "2026-11-12",
+   "ambito": "Brazil",
+   "organismo": "Ministério da Saúde (SECTICS)",
+   "titulo": "Brazil adds eplerenone to the SUS for heart failure patients who cannot tolerate spironolactone",
+   "resumen": "Portaria SCTIE/MS No. 74, dated November 10 and made official on November 12, adds eplerenone to the SUS for heart failure with reduced ejection fraction, NYHA classes II to IV, in patients intolerant to spironolactone and under the Ministry's clinical protocol. The SUS has up to 180 days to make the drug available.",
+   "accion": "Eplerenone suppliers and distributors should prepare for SUS procurement over the next 180 days.",
+   "fuente": {
+    "nombre": "VG Noticias (cites Ministério da Saúde)",
+    "url": "https://www.vgnoticias.com.br/saude/pacientes-cardiacos-terao-novo-remedio-disponivel-pelo-sus/154920"
+   }
+  },
   {
    "id": "br-supplements-re-4406-4407",
    "nivel": "rojo",
@@ -45,6 +59,20 @@
    }
   },
   {
+   "id": "br-ultra-shape-ban-seizure",
+   "nivel": "rojo",
+   "fecha": "2026-11-09",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA bans the unregistered weight-loss product Ultra Shape and orders all lots seized",
+   "resumen": "A resolution published in the Diário Oficial da União on November 9 fully bans Ultra Shape, a weight-loss product with no ANVISA registration, notification or listing, and orders all lots seized. The manufacturer could not be identified. The ban covers manufacturing, sale, distribution, advertising and use.",
+   "accion": "Pharmacies, distributors and clinics should check stock and sales channels, pull any Ultra Shape units and stop advertising it.",
+   "fuente": {
+    "nombre": "Correio Braziliense (cites ANVISA)",
+    "url": "https://www.correiobraziliense.com.br/brasil/2026/11/7535499-anvisa-determina-recolhimento-de-emagrecedor-sem-registro-sanitario.html"
+   }
+  },
+  {
    "id": "br-alert-5378-vitros-a1c",
    "nivel": "rojo",
    "fecha": "2026-11-09",
@@ -73,6 +101,20 @@
    }
   },
   {
+   "id": "br-cadifa-national-api-call",
+   "nivel": "amarillo",
+   "fecha": "2026-11-07",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA opens a call to fast-track up to eight dossiers for active ingredients made in Brazil",
+   "resumen": "ANVISA will select up to eight dossiers for active pharmaceutical ingredients made in Brazil and evaluate them for a CADIFA (dossier adequacy letter). At least the final synthesis step must take place in Brazil and the manufacturer must hold a valid ANVISA GMP certificate. Companies have 60 calendar days from publication to apply, with reviews planned throughout 2027.",
+   "accion": "Local API makers and the drug companies they supply should check the notice's list and apply within the 60-day window.",
+   "fuente": {
+    "nombre": "Diario de Pernambuco (Agência Brasil)",
+    "url": "https://www.diariodepernambuco.com.br/amp/dp-/dp-saude/2026/11/11728603-anvisa-vai-selecionar-dossies-para-incentivar-a-producao-nacional-de-insumos-farmaceuticos.html"
+   }
+  },
+  {
    "id": "br-mounjaro-counterfeit",
    "nivel": "rojo",
    "fecha": "2026-11-06",
@@ -98,6 +140,35 @@
    "fuente": {
     "nombre": "Conitec · Consultas públicas vigentes",
     "url": "https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/vigentes"
+   }
+  },
+  {
+   "id": "br-wegovy-oral-approval",
+   "nivel": "verde",
+   "categoria": "Strategic move",
+   "fecha": "2026-11-04",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA approves oral Wegovy, Brazil's first GLP-1 tablet for obesity",
+   "resumen": "Resolução-RE No. 4.249/2026 approves Novo Nordisk's once-daily oral semaglutide for adults with obesity (BMI 30 or more) or BMI 27 to under 30 with a weight-related comorbidity, titrated from 1.5 mg to a 25 mg maintenance dose. No launch date or price has been announced.",
+   "accion": "Distributors, pharmacies and obesity clinics should plan stock and patient guidance for the oral form.",
+   "fuente": {
+    "nombre": "O Tempo",
+    "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/11/4/anvisa-aprova-primeiro-medicamento-de-glp-1-em-comprimido-para-tratar-obesidade-no-brasil"
+   }
+  },
+  {
+   "id": "br-conitec-157-meeting-pet-transplants",
+   "nivel": "amarillo",
+   "fecha": "2026-11-04",
+   "ambito": "Brazil",
+   "organismo": "Conitec",
+   "titulo": "Conitec's 157th meeting reviews wider PET scan use, transplants and cancer drugs for the SUS",
+   "resumen": "At its 157th meeting on November 4-6, Conitec reviewed wider PET scan use for high-risk melanoma and unrelated-donor and allogeneic stem cell transplants, plus drugs including teprotumumab, durvalumab, brentuximab vedotin, ribociclib and immunoglobulins. Initial recommendations will go to public consultation.",
+   "accion": "Imaging providers, transplant centers and the companies concerned should watch for the resulting public consultations and prepare input.",
+   "fuente": {
+    "nombre": "Biored Brasil (cites Conitec)",
+    "url": "https://www.bioredbrasil.com.br/novos-tratamentos-no-sus-veja-o-que-a-conitec-vai-avaliar-em-novembro/"
    }
   },
   {

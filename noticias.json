@@ -1,6 +1,90 @@
 {
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "noticias": [
+  {
+   "id": "anmat-7250-2026-prohibicion-gangliosidos-gm1",
+   "nivel": "rojo",
+   "fecha": "2026-11-12",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT prohíbe todas las especialidades medicinales con monosialogangliósidos (GM1)",
+   "resumen": "Por la Disposición 7250/2026, publicada el 12/11 en el Boletín Oficial, ANMAT prohibió todas las especialidades medicinales que tengan monosialogangliósidos (GM1) como principio activo. El organismo considera que la relación entre riesgos y beneficios es desfavorable y advierte sobre reacciones inmunológicas graves, como el síndrome de Guillain-Barré.",
+   "accion": "Distribuidores, droguerías, farmacias y prestadores: inmovilizar ya el stock de productos con GM1 y suspender su dispensa y uso.",
+   "fuente": {
+    "nombre": "Ámbito (cita Boletín Oficial / ANMAT)",
+    "url": "https://www.ambito.com/informacion-general/la-anmat-prohibio-medicamentos-gangliosidos-un-botox-falsificado-un-aceite-cannabis-y-un-alcohol-registro-n6344283"
+   }
+  },
+  {
+   "id": "anmat-7207-2026-dysport-500-falsificado",
+   "nivel": "rojo",
+   "fecha": "2026-11-12",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "Dysport 500 falsificado: ANMAT prohíbe el lote P081932",
+   "resumen": "La Disposición 7207/2026 prohíbe el lote P081932 (vencimiento junio 2029) de Dysport 500 IPSEN, una toxina botulínica tipo A, tras la denuncia de Galderma Argentina: la unidad tenía rótulos solo en inglés, sin datos de trazabilidad, y el lote no corresponde a ninguna fabricación válida. El mismo día se prohibieron el aceite de cannabis \"Canna Oil\" (Disp. 7206/2026) y todos los lotes del alcohol etílico 96° \"Fresh & Clean\" de FANC S.A., sin registro (Disp. 7249/2026).",
+   "accion": "Clínicas estéticas, dermatólogos y distribuidores: revisar el lote de Dysport en stock, comprar solo a proveedores autorizados y retirar el alcohol Fresh & Clean.",
+   "fuente": {
+    "nombre": "El Cronista (cita ANMAT)",
+    "url": "https://www.cronista.com/economia-politica/prohiben-la-venta-y-distribucion-de-un-reconocido-relajante-muscular-por-que-anmat-lo-retiro-del-mercado/"
+   }
+  },
+  {
+   "id": "pami-aperturas-cardiovascular-16-20-nov-2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-12",
+   "ambito": "Nación",
+   "organismo": "PAMI - Compras Nivel Central",
+   "titulo": "PAMI abre del 16 al 20/11 nueve compulsas de implantes cardiovasculares y endovasculares",
+   "resumen": "El 16/11 abren CA 1458/26 (válvula aórtica percutánea tricúspide), CA 1482/26 (válvula aórtica transcatéter balón-expandible), CA 1481/26 (prótesis híbrida con ramas supraaórticas) y CA 1466/26 (kit de aterectomía rotacional periférica). El 18/11 abren CA 1469/26 y CA 1476/26 (endoprótesis aórticas abdominales bifurcadas y rectas) y el 19/11, CA 1480/26 (cardiodesfibrilador implantable subcutáneo). El 20/11 abren CA 1484/26 (dispositivo de doble disco para cierre de CIA) y CA 1486/26 (reparación mitral percutánea borde a borde), todas a las 11:00.",
+   "accion": "Proveedores de hemodinamia y cirugía vascular: bajar los pliegos y confirmar registro ANMAT y disponibilidad antes de cada apertura.",
+   "fuente": {
+    "nombre": "PAMI Prestadores - Calendario de aperturas Nivel Central",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
+   "id": "pami-aperturas-auditivos-16-27-nov-2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-12",
+   "ambito": "Nación",
+   "organismo": "PAMI - Compras Nivel Central",
+   "titulo": "PAMI licita implantes cocleares y procesadores de audio entre el 16 y el 27/11",
+   "resumen": "El 16/11 abren CA 1451/26 (procesador de habla para dispositivo osteointegrado OTICON PONTO, recambio) y CA 1453/26 (procesador de habla coclear, recambio). El 24/11 abre CA 1463/26 (implante coclear multicanal) y el 27/11, CA 1485/26 (procesador de habla MED-EL, recambio), todas a las 11:00.",
+   "accion": "Distribuidores de audiología: preparar ofertas y verificar la compatibilidad de marca exigida en cada recambio.",
+   "fuente": {
+    "nombre": "PAMI Prestadores - Calendario de aperturas Nivel Central",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
+   "id": "pami-aperturas-infusion-diabetes-medicamentos-17-19-nov-2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-12",
+   "ambito": "Nación",
+   "organismo": "PAMI - Compras Nivel Central",
+   "titulo": "PAMI: bombas de insulina e infusión, apomorfina y medicamentos especiales del 16 al 19/11",
+   "resumen": "Abren las compulsas de bombas de apomorfina subcutánea con insumos para 90 días (CA 1467/26 el 16/11 y CA 1470/26 el 17/11). El 17/11 abren también la bomba de insulina MiniMed 780G con insumos (CA 1459/26), el sistema de anastomosis microquirúrgica Coupler (CA 1460/26) y guías de infusión con bombas en comodato para la Unidad Asistencial Dr. César Milstein (CA 1454/26, 12:00). El 19/11 abren eplontersen 45 mg (CA 1477/26), timosina alfa 1 (CA 1478/26) y la fórmula Modulen IBD (CA 1479/26).",
+   "accion": "Proveedores de diabetes, infusión y especialidades: confirmar fecha y hora de cada apertura y presentar a tiempo la documentación.",
+   "fuente": {
+    "nombre": "PAMI Prestadores - Calendario de aperturas Nivel Central",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
+   "id": "neuquen-licitacion-laboratorio-medicamentos-junin-de-los-andes",
+   "nivel": "verde",
+   "fecha": "2026-11-11",
+   "ambito": "Neuquén",
+   "organismo": "Gobierno de Neuquén - Ministerio de Infraestructura",
+   "titulo": "Neuquén licita por $5.557 millones un laboratorio público de medicamentos en Junín de los Andes",
+   "resumen": "La provincia llamó a licitación para construir un edificio de 942 m² en el hospital de Junín de los Andes, con presupuesto oficial de $5.557.559.921 y 365 días de obra. Allí funcionará el Laboratorio de Fórmulas Magistrales, que producirá preparaciones para toda la red pública. La apertura de sobres es el 4/12 a las 12:00 en Casa de Gobierno.",
+   "accion": "Proveedores de equipamiento farmacéutico y de laboratorio: seguir la adjudicación, porque después vendrán las compras de equipos e insumos.",
+   "fuente": {
+    "nombre": "Alerta Digital",
+    "url": "https://www.alertadigital.ar/noticias/2026/11/11/181898-junin-de-los-andes-sumara-un-laboratorio-para-producir-medicamentos-para-toda-la-red-publica"
+   }
+  },
   {
    "id": "anmat-7199-2026",
    "nivel": "rojo",
@@ -439,20 +523,6 @@
    }
   },
   {
-   "id": "nqn-traumato",
-   "nivel": "amarillo",
-   "fecha": "2026-10-02",
-   "ambito": "Neuquén",
-   "organismo": "Ministerio de Salud",
-   "titulo": "Licitación de insumos de ortopedia y traumatología",
-   "resumen": "El Ministerio de Salud de Neuquén anunció una licitación de insumos de ortopedia y traumatología. La fecha de apertura no figura en el anuncio.",
-   "accion": "Confirmar fecha de apertura y pliego en el portal de licitaciones.",
-   "fuente": {
-    "nombre": "Licitaciones Salud Neuquén",
-    "url": "https://salud.neuquen.gob.ar/licitaciones-2/"
-   }
-  },
-  {
    "id": "apross-cordoba-rosa",
    "nivel": "verde",
    "fecha": "2026-10-02",
@@ -464,20 +534,6 @@
    "fuente": {
     "nombre": "APROSS",
     "url": "https://www.apross.gov.ar/apross-se-suma-a-cordoba-rosa-2026-con-estudios-sin-coseguro-ni-pedido-medico/"
-   }
-  },
-  {
-   "id": "nqn-plan-invierno",
-   "nivel": "verde",
-   "fecha": "2026-10-02",
-   "ambito": "Neuquén",
-   "organismo": "Gobierno de Neuquén",
-   "titulo": "Se prorroga el refuerzo del Plan Invierno",
-   "resumen": "El Decreto 1530/2026 extiende por 30 días el refuerzo asistencial. Las guardias públicas rondan las 15.000 consultas semanales.",
-   "accion": "Contexto: demanda sostenida de insumos de guardia y pediatría.",
-   "fuente": {
-    "nombre": "Salud Neuquén",
-    "url": "https://salud.neuquen.gob.ar/extienden-el-plan-invierno-por-alta-demanda-de-consultas-medicas/"
    }
   },
   {

@@ -1,6 +1,62 @@
 {
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "noticias": [
+  {
+   "id": "mx-imss-bienestar-plan-12-acciones-equipamiento",
+   "nivel": "amarillo",
+   "fecha": "2026-11-11",
+   "ambito": "Mexico",
+   "organismo": "IMSS-Bienestar",
+   "titulo": "IMSS-Bienestar 120-day plan: more than MXN 10.3bn for medical equipment and 100 million medicine pieces",
+   "resumen": "On November 11, IMSS-Bienestar presented a 12-action plan for the next 120 days in its 24 member states. It allocates over MXN 5,732m to 212 high-tech units, including 7 linear accelerators, 125 AI-equipped mammographs, 9 MRI and 68 CT scanners, plus MXN 4,658m for beds, monitors, ultrasound and defibrillators. It also plans to distribute 100 million medicine pieces, spend MXN 3,470m on maintaining 244 units and hire 19,314 staff.",
+   "accion": "Imaging, radiotherapy, monitoring and hospital-equipment suppliers should track IMSS-Bienestar procurement over the next four months and prepare offers and registrations.",
+   "fuente": {
+    "nombre": "Consultor Salud México",
+    "url": "https://consultorsalud.com.mx/imss-bienestar-plan-de-12-acciones-120-dias/"
+   }
+  },
+  {
+   "id": "mx-pef-2027-salud-aprobado",
+   "nivel": "verde",
+   "fecha": "2026-11-11",
+   "ambito": "Mexico",
+   "organismo": "Cámara de Diputados",
+   "titulo": "Chamber of Deputies approves 2027 federal budget with about MXN 1.105 trillion for health",
+   "resumen": "In the early hours of November 11, the Chamber of Deputies approved the 2027 Presupuesto de Egresos de la Federación by 352 votes to 130. Net spending is MXN 10.636 trillion, of which about MXN 1.105 trillion goes to health. The budget now goes to the Executive for publication; no separate figures for IMSS, ISSSTE, IMSS-Bienestar or medicines were reported.",
+   "accion": "Use the 2027 health budget to plan public-sector sales and look for the institution-level breakdown once it is published in the DOF.",
+   "fuente": {
+    "nombre": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/11/tras-casi-20-horas-camara-de-diputados-aprueba-presupuesto-2027-y-pasa-al-ejecutivo/"
+   }
+  },
+  {
+   "id": "mx-compendio-insumos-oncologia-dispositivos-nov2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-10",
+   "ambito": "Mexico",
+   "organismo": "Consejo de Salubridad General (DOF)",
+   "titulo": "National Compendium of Health Inputs updated with new oncology drugs, a breast biopsy system and a temperature management device",
+   "resumen": "The Consejo de Salubridad General published an update to the Compendio Nacional de Insumos para la Salud in the DOF on November 10, 2026, effective November 11. It adds iptacopan, tucatinib 50 mg and 150 mg, a non-invasive temperature management system (531.500.0611), a vacuum-assisted breast biopsy system (531.829.0947) and two nutrition formulas, and modifies entries including atezolizumab, durvalumab, alteplase and semaglutide, whose indication now covers obesity and overweight. The new keys and specifications become the reference for institutional procurement.",
+   "accion": "Check whether your products match the new or modified keys and specifications ahead of IMSS, ISSSTE, IMSS-Bienestar and Birmex tenders.",
+   "fuente": {
+    "nombre": "Consultor Salud México (cites DOF)",
+    "url": "https://consultorsalud.com.mx/compendio-nacional-insumos-salud-mexico-2026/"
+   }
+  },
+  {
+   "id": "mx-cofepris-reunion-farmacovigilancia-tecnovigilancia-2026",
+   "nivel": "verde",
+   "fecha": "2026-11-10",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS / Cenafyt",
+   "titulo": "COFEPRIS sets priorities for safety-signal management, hospital technovigilance and IoT devices",
+   "resumen": "COFEPRIS reported on November 10 the results of the 2026 National Pharmacovigilance and Technovigilance Meeting held November 5-6 in Mexico City. Topics included safety-signal management with standardized databases, hospital technovigilance, Internet of Things in medical devices and market-withdrawal procedures. No new obligations or deadlines were announced.",
+   "accion": "Registration holders should make sure their adverse-event reporting and recall procedures are up to date.",
+   "fuente": {
+    "nombre": "Consultor Salud México",
+    "url": "https://consultorsalud.com.mx/cofepris-farmacovigilancia-tecnovigilancia/"
+   }
+  },
   {
    "id": "mx-imss-bienestar-clinica-es-nuestra-2026",
    "nivel": "verde",
@@ -186,17 +242,17 @@
    }
   },
   {
-   "id": "mx-nom-077-078-cancellation",
-   "nivel": "amarillo",
-   "fecha": "2026-10-21",
+   "id": "mx-saizen-nuevos-lotes-falsificados",
+   "nivel": "rojo",
+   "fecha": "2026-10-26",
    "ambito": "Mexico",
-   "organismo": "COFEPRIS · DOF",
-   "titulo": "COFEPRIS proposes cancelling two clinical laboratory standards; comments until about December 20",
-   "resumen": "The Ministry of Health published in the DOF notices proposing to cancel NOM-077-SSA1-1994 (control materials for clinical laboratories) and NOM-078-SSA1-1994 (calibration standards). Both remain in force during a 60-day consultation, and the notices do not name replacement standards.",
-   "accion": "Diagnostics and lab-reagent companies should review the texts on PLATIICA and send comments in Spanish before the consultation closes.",
+   "organismo": "COFEPRIS",
+   "titulo": "COFEPRIS adds new counterfeit lot to Saizen (somatropin) alert; affected lots failed sterility tests",
+   "resumen": "COFEPRIS updated its alert on counterfeit Saizen 20 mg (8 mg/mL) prefilled cartridges, adding lot EC179361 (exp. 01/2028), which is not a valid lot released by the company. The alert keeps lots BA054637, BA010812 and KW010374, which failed sterility tests; international notifications also flagged lots BA088217 and AB003660.",
+   "accion": "Check stock for these lots, immobilize affected units and buy Saizen only from distributors authorized by the registration holder.",
    "fuente": {
-    "nombre": "Consultor Salud México (DOF)",
-    "url": "https://consultorsalud.com.mx/cofepris-cancelacion-normas-para-laboratorios-clinicos/"
+    "nombre": "UnoTV (cites COFEPRIS)",
+    "url": "https://www.unotv.com/salud/cofepris-alerta-por-nuevos-lotes-falsificados-de-medicamento-para-tratar-trastornos-del-crecimiento/"
    }
   },
   {
