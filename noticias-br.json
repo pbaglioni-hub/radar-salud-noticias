@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-13",
  "noticias": [
+  {
+   "id": "br-conitec-cp-109-odevixibat-pfic",
+   "nivel": "amarillo",
+   "fecha": "2026-11-13",
+   "ambito": "Brazil",
+   "organismo": "Conitec / Ministerio da Saude",
+   "titulo": "Conitec opens Public Consultation 109/2026 on odevixibat for progressive familial intrahepatic cholestasis",
+   "resumen": "Conitec opened Public Consultation 109/2026 on November 13, running until December 2, 2026, on whether to add odevixibat to the SUS for progressive familial intrahepatic cholestasis (PFIC). It joins CP 108/2026, which covers the same drug for cholestatic pruritus in Alagille syndrome and closes November 30. The preliminary technical report is published on Conitec's open-consultations page.",
+   "accion": "Pediatric hepatology centers, patient groups and the manufacturer should read the preliminary report and comment by December 2.",
+   "fuente": {
+    "nombre": "Conitec - Consultas publicas vigentes",
+    "url": "https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/vigentes"
+   }
+  },
+  {
+   "id": "br-condor-tirzepatide-retatrutide-api-recall",
+   "nivel": "rojo",
+   "fecha": "2026-11-12",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA orders recall of tirzepatide and retatrutide APIs held by importer Condor",
+   "resumen": "Resolution RE 4.422/2026, published in the DOU on November 12, orders the recall of tirzepatide API lot 20241030 and all retatrutide API lots stored by Condor Importador & Operador Logistico Ltda, and suspends their sale, distribution and use. ANVISA found that the storage site did not meet the conservation requirements of RDC 654/2022. It also noted that retatrutide is an experimental drug with no registration anywhere, so importing or selling it as a pharmaceutical input is not allowed. The inputs were meant for compounding pharmacies.",
+   "accion": "Compounding pharmacies and clinics should check their inventories and suppliers for these inputs, quarantine any affected material and stop dispensing retatrutide-based preparations.",
+   "fuente": {
+    "nombre": "Agencia Brasil (citing ANVISA / DOU)",
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-lotes-de-insumos-para-canetas-emagrecedoras"
+   }
+  },
+  {
+   "id": "br-needs-dermoprotective-lotion-ban",
+   "nivel": "rojo",
+   "fecha": "2026-11-12",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA bans Needs dermoprotective oily lotion and orders recall of all lots",
+   "resumen": "Resolution RE 4.414/2026, published in the DOU on November 12, bans the manufacture, sale, distribution, advertising and use of Needs Locao Oleosa Dermoprotetora, made by Greenwood Industria e Comercio Ltda and sold as an RD Saude own brand, and orders a recall of all lots. The product had no valid sanitary registration, and its label made therapeutic claims, such as wound healing, skin regeneration and bedsore prevention, that are not allowed for cosmetics. ANVISA described the measure as preventive and did not report contamination.",
+   "accion": "Clinics, home-care providers and long-term care facilities should remove this lotion from wound and pressure-injury care stocks and use registered products instead.",
+   "fuente": {
+    "nombre": "Agencia GBC (citing ANVISA RE 4.414/2026)",
+    "url": "https://agenciagbc.com/2026/11/12/anvisa-proibe-locao-oleosa-da-needs-e-determina-recolhimento-de-todos-os-lotes/"
+   }
+  },
   {
    "id": "br-eplerenone-sus-incorporation",
    "nivel": "amarillo",
@@ -13,6 +55,21 @@
    "fuente": {
     "nombre": "VG Noticias (cites Ministério da Saúde)",
     "url": "https://www.vgnoticias.com.br/saude/pacientes-cardiacos-terao-novo-remedio-disponivel-pelo-sus/154920"
+   }
+  },
+  {
+   "id": "br-hapvida-octaviano-neves-sale-feluma",
+   "nivel": "verde",
+   "categoria": "Strategic move",
+   "fecha": "2026-11-11",
+   "ambito": "Brazil",
+   "organismo": "Hapvida (market notice to CVM)",
+   "titulo": "Hapvida sells Hospital Octaviano Neves properties in Belo Horizonte to Feluma for R$ 60 million",
+   "resumen": "In a market notice on November 11, Hapvida said its subsidiary signed a promise to sell the properties of Hospital Octaviano Neves in Belo Horizonte to Fundacao Educacional Lucas Machado (Feluma) for R$ 60 million, with 20% paid at signing and the rest due at closing in early 2027. Hapvida is moving the hospital's services to its own Belo Horizonte network as part of a portfolio optimization. According to Moon BH, Feluma plans a university hospital unit focused on the SUS, with 250 beds, 12 of them ICU, and 70 hemodialysis stations, and estimates R$ 40 million in renovation work.",
+   "accion": "Equipment and supply distributors in Minas Gerais should track Feluma's fit-out of the new unit, including ICU and hemodialysis, as a procurement opportunity in 2027.",
+   "fuente": {
+    "nombre": "Suno Noticias (citing Hapvida market notice)",
+    "url": "https://www.suno.com.br/noticias/hapv3-venda-imoveis-hospital-octaviano-neves/"
    }
   },
   {
@@ -187,6 +244,34 @@
    }
   },
   {
+   "id": "br-ans-ccm-rejected-cp-lenvatinib-ivosidenib",
+   "nivel": "amarillo",
+   "fecha": "2026-11-03",
+   "ambito": "Brazil",
+   "organismo": "ANS",
+   "titulo": "ANS rejects cardiac contractility modulation device for health plan coverage and opens consultation on two cancer drugs",
+   "resumen": "On November 3, the ANS board unanimously issued a final unfavorable recommendation on cardiac contractility modulation for refractory chronic heart failure. That ends the device's current assessment cycle, so it will not join the mandatory coverage list (Rol) in this update. ANS cited evidence from a single randomized trial of about 160 patients and an estimated incremental budget impact of about R$ 72 million per year. The board also opened a public consultation, running November 6 to 25, on its preliminary unfavorable recommendations for lenvatinib plus pembrolizumab (advanced clear-cell kidney cancer) and ivosidenib (IDH1-mutated cholangiocarcinoma), with a public hearing on November 16.",
+   "accion": "Device and drug makers affected should plan market access without Rol coverage for these technologies, and anyone wanting to contest the recommendations should take part in the November 16 hearing or comment by November 25.",
+   "fuente": {
+    "nombre": "Biored Brasil (citing ANS)",
+    "url": "https://www.bioredbrasil.com.br/ans-abre-consulta-publica-sobre-terapias-para-cancer-renal-e-colangiocarcinoma-e-rejeita-modulador-de-contratilidade-cardiaca/"
+   }
+  },
+  {
+   "id": "br-ans-cholangioscopy-lithotripsy-coverage",
+   "nivel": "verde",
+   "fecha": "2026-11-03",
+   "ambito": "Brazil",
+   "organismo": "ANS",
+   "titulo": "Health plans must now cover cholangioscopy with laser or electrohydraulic lithotripsy for complex bile duct stones",
+   "resumen": "Since November 3, 2026, Brazilian health plans must cover cholangioscopy with laser or electrohydraulic lithotripsy for patients whose bile duct stones could not be treated by ERCP. The ANS board approved the addition to the Rol on October 2, after a public consultation and technical meetings. The change should increase demand for cholangioscopes, lithotripsy probes and related consumables in private hospitals.",
+   "accion": "Endoscopy device distributors and hospitals should review stock, pricing and plan contracts for cholangioscopy and lithotripsy kits now that coverage is mandatory.",
+   "fuente": {
+    "nombre": "InfoMoney (citing ANS)",
+    "url": "https://www.infomoney.com.br/saude/ans-inclui-tratamento-para-calculo-biliar-na-cobertura-obrigatoria-de-planos-de-saude/"
+   }
+  },
+  {
    "id": "br-wcr-radiotherapy-ban",
    "nivel": "rojo",
    "fecha": "2026-11-03",
@@ -226,6 +311,20 @@
    "fuente": {
     "nombre": "Portal Itapipoca (citing ANVISA and DOU)",
     "url": "https://www.portalitapipoca.com.br/saude/2026/11/01/anvisa-aprova-registro-de-cinco-novas-canetas-injetaveis-para-diabetes-e-obesidade.html"
+   }
+  },
+  {
+   "id": "br-inaep-research-risk-classification-consultation",
+   "nivel": "amarillo",
+   "fecha": "2026-10-28",
+   "ambito": "Brazil",
+   "organismo": "Ministerio da Saude - Instancia Nacional de Etica em Pesquisa (Inaep)",
+   "titulo": "Consultations open on a three-tier risk classification for human research ethics review",
+   "resumen": "Inaep, part of the Ministry of Health, opened two public consultations on October 28. The first proposes classifying research involving human subjects as low, moderate or high risk, with ethics review scaled to each level, and new procedures for handling protocols and amendments in the national research ethics system (Sinep); comments close December 26, 2026. The second sets rules for appeals against decisions of research ethics committees and Inaep; comments close December 13, 2026.",
+   "accion": "Sponsors, CROs and hospitals running device or drug trials should review the risk tiers and comment through the Brasil Participativo platform before the December deadlines.",
+   "fuente": {
+    "nombre": "UNA-SUS / Ministerio da Saude",
+    "url": "https://www.unasus.gov.br/noticia/inaep-abre-duas-consultas-publicas-para-aprimorar-normas-eticas-em-pesquisas-com-seres-humanos"
    }
   },
   {

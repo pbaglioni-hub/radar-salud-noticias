@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-13",
  "noticias": [
+  {
+   "id": "pami-nuevas-aperturas-18-20-nov-2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-13",
+   "ambito": "Nación",
+   "organismo": "PAMI (INSSJP)",
+   "titulo": "PAMI suma al calendario seis compulsas nuevas: marcapasos sin cables, bomba intratecal y endoprótesis aórtica",
+   "resumen": "En cardiovascular, el 18/11 abren CA 1491/26 (marcapasos sin cables) y CA 1488/26 (plug de polímero bioabsorbible autoexpandible en tándem de 12 mm), y el 19/11, CA 1487/26 (endoprótesis de aorta abdominal bifurcada expandible por balón con ramas ilíacas). En neuro abren CA 1490/26 (bomba de infusión intratecal de fármacos de flujo fijo) el 18/11 y CA 1483/26 (dos cables extensores y un generador DBS recargable Medtronic de recambio) el 20/11. En ortopedia, el 18/11 abre CA 1489/26 (prótesis interfalángicas tipo Swanson del 2° al 5° dedo, con asistencia en quirófano e instrumental en préstamo); todas a las 11:00. En servicios, el 16/11 a las 12:00 abre la LP 19/26 de viandas para el Hospital Houssay de Mar del Plata (24 meses).",
+   "accion": "Proveedores de estos rubros: descargar el pliego hoy y preparar la oferta, porque las aperturas son entre el 16 y el 20 de noviembre.",
+   "fuente": {
+    "nombre": "PAMI Prestadores - Calendario de aperturas Compras Nivel Central",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
   {
    "id": "anmat-7250-2026-prohibicion-gangliosidos-gm1",
    "nivel": "rojo",
@@ -72,6 +86,20 @@
    }
   },
   {
+   "id": "hematologos-rio-negro-corte-pami-nov-2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-11",
+   "ambito": "Nación",
+   "organismo": "PAMI (INSSJP) - Asociación de Hematología y Hemoterapia (Río Negro)",
+   "titulo": "Hematólogos de Río Negro cortan prestaciones a PAMI por pagos con más de 90 días de atraso",
+   "resumen": "La Asociación de Hematología y Hemoterapia de Río Negro suspendió las prestaciones programadas a PAMI, incluidos controles de anticoagulación y tratamientos oncohematológicos, y solo mantiene guardias y urgencias. Reclama las prestaciones de agosto, septiembre y octubre: los pagos, que antes demoraban 60 días, ya superan los 90. Levantará la medida si PAMI paga al menos agosto; el reclamo ante la UGL General Roca no tuvo respuesta.",
+   "accion": "Prestadores de PAMI en la Patagonia: revisar el estado de la facturación pendiente y prever demoras de cobro en el flujo de caja de fin de año.",
+   "fuente": {
+    "nombre": "ANRoca",
+    "url": "https://www.anroca.com.ar/noticias/2026/11/11/232082-por-demoras-de-90-dias-en-los-pagos-los-hematologos-cortaron-prestaciones-a-pami"
+   }
+  },
+  {
    "id": "neuquen-licitacion-laboratorio-medicamentos-junin-de-los-andes",
    "nivel": "verde",
    "fecha": "2026-11-11",
@@ -114,6 +142,21 @@
    }
   },
   {
+   "id": "oura-counsel-health-625m",
+   "nivel": "verde",
+   "categoria": "Movimiento estratégico",
+   "fecha": "2026-11-10",
+   "ambito": "Internacional",
+   "organismo": "Oura / Counsel Health",
+   "titulo": "Oura compra Counsel Health por USD 625 millones y suma atención primaria con IA",
+   "resumen": "Oura, fabricante del anillo inteligente, acordó comprar en efectivo Counsel Health, una empresa de atención primaria en la que el paciente consulta síntomas a un asistente de IA y puede sumar a un médico que diagnostica, prescribe o deriva. Oura integrará la plataforma a su app junto con los datos biométricos del anillo y prevé cerrar la operación antes de fin de 2026. Es otra señal de la convergencia entre wearables, IA y atención clínica.",
+   "accion": "Empresas de salud digital y distribuidores de wearables: seguir el modelo de wearable más IA más médico como referencia para alianzas locales.",
+   "fuente": {
+    "nombre": "MedTech Dive",
+    "url": "https://www.medtechdive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874398/"
+   }
+  },
+  {
    "id": "pami-aperturas-neuro-orto-nov-2",
    "nivel": "amarillo",
    "fecha": "2026-11-10",
@@ -139,6 +182,20 @@
    "fuente": {
     "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   }
+  },
+  {
+   "id": "msal-1583-2026-especialidades",
+   "nivel": "amarillo",
+   "fecha": "2026-11-06",
+   "ambito": "Nación",
+   "organismo": "Ministerio de Salud de la Nación",
+   "titulo": "Salud cambia el régimen de reconocimiento de especialidades y crea una comisión asesora nacional",
+   "resumen": "La Resolución 1583/2026 actualiza el régimen para reconocer especialidades de posgrado en salud y crea una comisión nacional asesora sobre el ejercicio de las profesiones universitarias de salud, para unificar criterios de evaluación en todo el país. Las nuevas especialidades deberán tener formación o reconocimiento en al menos tres jurisdicciones y el aval expreso de las autoridades sanitarias de al menos tres provincias, y los posgrados se ordenan en cinco categorías de registro. Las especialidades ya reconocidas mantienen su validez y la norma entra en vigencia 60 días corridos después de su publicación.",
+   "accion": "Sociedades científicas, residencias e instituciones formadoras: revisar los trámites en curso, que pasan al nuevo procedimiento.",
+   "fuente": {
+    "nombre": "Ministerio de Salud de la Nación",
+    "url": "https://www.argentina.gob.ar/noticias/el-ministerio-de-salud-de-la-nacion-actualiza-el-marco-normativo-para-el-reconocimiento-de"
    }
   },
   {
@@ -266,6 +323,20 @@
    "fuente": {
     "nombre": "SPINEMarketGroup",
     "url": "https://thespinemarketgroup.com/globus-medical-acquires-synaptive-medical-strengthening-its-position-in-cranial-neurosurgery/"
+   }
+  },
+  {
+   "id": "anmat-retiro-neocalmans-lote-09125",
+   "nivel": "rojo",
+   "fecha": "2026-11-02",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT informa el retiro del lote 09125 de morfina inyectable NEOCALMANS",
+   "resumen": "Soubeiran Chobet S.R.L. inició el retiro voluntario del lote 09125 (vencimiento 05/28) de NEOCALMANS, morfina clorhidrato trihidrato 10 mg/ml en solución inyectable, en envases de 1 y 20 ampollas (certificado N° 38.723). El motivo es un cambio en la coloración de la solución, cercano al límite de la especificación de aspecto. ANMAT recomienda no utilizar las unidades de ese lote y hace el seguimiento del retiro.",
+   "accion": "Farmacias hospitalarias, clínicas y droguerías: revisar el stock, separar las ampollas del lote 09125 y coordinar la devolución con el laboratorio.",
+   "fuente": {
+    "nombre": "ANMAT - argentina.gob.ar",
+    "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-neocalmans"
    }
   },
   {
@@ -492,76 +563,6 @@
    "fuente": {
     "nombre": "Allende & Brea",
     "url": "https://allende.com/life-sciences/anmat-aprueba-lineamientos-para-certificar-plantas-extranjeras-de-productos-medicos-10-22-2026/"
-   }
-  },
-  {
-   "id": "sss-bajas-rnemp",
-   "nivel": "amarillo",
-   "fecha": "2026-10-06",
-   "ambito": "Nación",
-   "organismo": "Superintendencia",
-   "titulo": "Bajas de prepagas del registro nacional",
-   "resumen": "La Superintendencia de Servicios de Salud dio de baja tres entidades del Registro Nacional de Entidades de Medicina Prepaga.",
-   "accion": "Si vendés a prepagas chicas, verificar que sigan inscriptas.",
-   "fuente": {
-    "nombre": "SSSalud",
-    "url": "https://www.argentina.gob.ar/sssalud"
-   }
-  },
-  {
-   "id": "ioma-2047-2026",
-   "nivel": "rojo",
-   "fecha": "2026-10-02",
-   "ambito": "Buenos Aires",
-   "organismo": "IOMA",
-   "titulo": "IOMA revisa autorizaciones ya otorgadas",
-   "resumen": "La Resolución 2047/2026 permite revisar autorizaciones de prestaciones ya otorgadas por tarifas por encima del Nomenclador Oficial, con efecto desde el 1 de septiembre. Prestadores denuncian débitos retroactivos y atrasos de pago.",
-   "accion": "Revisar la cobranza de clínicas clientes con mucha cartera IOMA.",
-   "fuente": {
-    "nombre": "Mi8",
-    "url": "https://mi8.com.ar/ioma-piden-informes-sobre-una-resolucion-que-permite-revisar-autorizaciones-de-prestaciones-ya-otorgadas/"
-   }
-  },
-  {
-   "id": "apross-cordoba-rosa",
-   "nivel": "verde",
-   "fecha": "2026-10-02",
-   "ambito": "Córdoba",
-   "organismo": "APROSS",
-   "titulo": "Córdoba Rosa: mamografías sin coseguro ni orden médica",
-   "resumen": "La Resolución 303/2026 habilita durante octubre consultas ginecológicas, mamografías y ecografías mamarias sin coseguro para afiliadas de 40 años o más.",
-   "accion": "Contexto: pico de demanda de imágenes mamarias en la red prestadora.",
-   "fuente": {
-    "nombre": "APROSS",
-    "url": "https://www.apross.gov.ar/apross-se-suma-a-cordoba-rosa-2026-con-estudios-sin-coseguro-ni-pedido-medico/"
-   }
-  },
-  {
-   "id": "anmat-6313-2026",
-   "nivel": "rojo",
-   "fecha": "2026-10-01",
-   "ambito": "Nación",
-   "organismo": "ANMAT",
-   "titulo": "Prohibición y retiro de productos de Biosimil S.R.L.",
-   "resumen": "La Disposición 6313/2026 prohibió productos y ordenó su retiro. La firma operaba desde un domicilio distinto del habilitado y tenía productos registrados a nombre de otra empresa. Los cambios en el establecimiento no habían sido notificados.",
-   "accion": "Verificar que depósitos, oficinas y mudanzas estén notificados a ANMAT. Un domicilio sin notificar alcanza para frenar la operación.",
-   "fuente": {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/sociedad/2026/10/01/la-anmat-prohibio-el-uso-y-venta-de-una-serie-de-productos-medicos-por-graves-irregularidades/"
-   }
-  },
-  {
-   "id": "anmat-6171-2026",
-   "nivel": "rojo",
-   "fecha": "2026-09-29",
-   "ambito": "Nación",
-   "organismo": "ANMAT",
-   "titulo": "Prohibidos todos los productos médicos de MW Distribuciones",
-   "resumen": "La Disposición 6171/2026 prohibió el uso, la comercialización y la distribución de todos los productos médicos de la firma, incluida la venta online, tras detectar pesarios de silicona sin registro ni datos de fabricación.",
-   "accion": "Revisar que todo el catálogo propio, incluido lo publicado en plataformas de venta online, tenga registro vigente.",
-   "fuente": {
-    "nombre": "Elonce",
-    "url": "https://www.elonce.com/sociedad/anmat-prohibio-productos-medicos-de-una-firma-en-todo-el-pais.htm"
    }
   }
  ]

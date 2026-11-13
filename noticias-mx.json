@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-13",
  "noticias": [
+  {
+   "id": "mx-mdk-inhabilitacion-contrataciones-publicas",
+   "nivel": "rojo",
+   "fecha": "2026-11-12",
+   "ambito": "Mexico",
+   "organismo": "Diario Oficial de la Federacion / Organo Interno de Control del IMSS (Secretaria Anticorrupcion y Buen Gobierno)",
+   "titulo": "Grupo Farmaceutico MDK barred for 15 months from new public contracts",
+   "resumen": "On November 12 the DOF published Circular SABG/OICGYR/AR/6946/2026, signed by the IMSS Internal Control Office, debarring Grupo Farmaceutico MDK, S.A. de C.V. from new public procurement for 15 months starting November 13, under a sanctioning resolution of October 27 (file PISI-A-NC-DS-0010/2026). The ban covers acquisitions, leasing, services and public works across federal agencies, state-owned firms, states and municipalities when federal funds are used; a fine was also imposed and the ban extends until it is paid. Previously formalized contracts are excluded and sanitary permits are not revoked.",
+   "accion": "Procurement and compliance teams should check whether MDK is a current or prospective supplier and avoid awarding it any new federally funded contract while the debarment is in force.",
+   "fuente": {
+    "nombre": "Consultor Salud (citing DOF Circular SABG/OICGYR/AR/6946/2026)",
+    "url": "https://consultorsalud.com.mx/grupo-farmaceutico-mdk-inhabilitado-mexico/"
+   }
+  },
+  {
+   "id": "mx-hospital-juarez-politicas-dof-2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-11",
+   "ambito": "Mexico",
+   "organismo": "Diario Oficial de la Federacion / Hospital Juarez de Mexico",
+   "titulo": "New Hospital Juarez de Mexico general policies take effect, repealing the 2018 rules",
+   "resumen": "The DOF published on November 11 the updated General Hospital Policies of the Hospital Juarez de Mexico, approved by its regulatory-improvement committee on October 7. The internal regulation took effect November 12 and repeals the policies published in the DOF on April 19, 2018 and their later amendments, including the 2024 update. The notice classifies the document as internal regulation applying only to this national hospital and does not itemize the substantive changes.",
+   "accion": "Suppliers, contractors and staff working with Hospital Juarez de Mexico should obtain the new policy text and compare it against the 2018 version to confirm which operating and contracting rules changed.",
+   "fuente": {
+    "nombre": "Consultor Salud (citing DOF, November 11, 2026)",
+    "url": "https://consultorsalud.com.mx/hospital-juarez-de-mexico-politicas/"
+   }
+  },
   {
    "id": "mx-imss-bienestar-plan-12-acciones-equipamiento",
    "nivel": "amarillo",
@@ -55,6 +83,20 @@
    "fuente": {
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/cofepris-farmacovigilancia-tecnovigilancia/"
+   }
+  },
+  {
+   "id": "mx-imss-bienestar-yucatan-transferencia-158",
+   "nivel": "verde",
+   "fecha": "2026-11-09",
+   "ambito": "Mexico",
+   "organismo": "Diario Oficial de la Federacion / IMSS-Bienestar - Gobierno de Yucatan",
+   "titulo": "Yucatan formalizes transfer of 158 health-unit property records to IMSS-Bienestar",
+   "resumen": "A coordination agreement published in the DOF on November 9 (signed September 15, under the May 17 general accord) regulates IMSS-Bienestar's possession and later ownership of real estate tied to 158 medical-unit registries in Yucatan: 29 state-owned records and 129 held by state entities. IMSS-Bienestar gets free, shared possession while concurrent services continue, and the state must handle donations, regularization and, where needed, INDAABIN procedures. The agreement does not list medical equipment or a per-site handover schedule.",
+   "accion": "Vendors and operators serving Yucatan public facilities should track the unit-by-unit handover, since existing leases and service contracts at affected sites must be reviewed individually as ownership moves to IMSS-Bienestar.",
+   "fuente": {
+    "nombre": "Consultor Salud (citing DOF, November 9, 2026)",
+    "url": "https://consultorsalud.com.mx/imss-bienestar-yucatan-transferencia/"
    }
   },
   {
