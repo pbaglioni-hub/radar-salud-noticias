@@ -86,6 +86,20 @@
    }
   },
   {
+   "id": "la-pampa-jornadas-salud-enfermeria-2026",
+   "nivel": "verde",
+   "fecha": "2026-11-12",
+   "ambito": "La Pampa",
+   "organismo": "Ministerio de Salud de La Pampa",
+   "titulo": "La Pampa eleva su dotación de enfermería a 1.400 agentes y suma obras en el Hospital Favaloro",
+   "resumen": "En la apertura de las Jornadas Interdisciplinarias de Salud en el Hospital de Alta Complejidad \"El Dr. René Favaloro\" (Santa Rosa), el viceministro Gustavo Vera señaló que la planta de enfermería pasó de un promedio histórico de 960-1.000 agentes a 1.400 distribuidos en toda la provincia, en paralelo a nuevas construcciones y ampliaciones edilicias y al abastecimiento sostenido de medicamentos e insumos. También se presentó un trabajo de nueve años sobre referencia pediátrica para digitalizar y ordenar las derivaciones, con equipos itinerantes de subespecialidades.",
+   "accion": "Proveedores de insumos médicos, equipamiento y RRHH en salud: La Pampa está expandiendo capacidad instalada; vale monitorear las próximas licitaciones de obra y compras ligadas a estas ampliaciones.",
+   "fuente": {
+    "nombre": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/12/jornadas-de-salud-ponen-en-valor-la-inversion-continua-en-infraestructura-y-capital-humano/"
+   }
+  },
+  {
    "id": "hematologos-rio-negro-corte-pami-nov-2026",
    "nivel": "amarillo",
    "fecha": "2026-11-11",

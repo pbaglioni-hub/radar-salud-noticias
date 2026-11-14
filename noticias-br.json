@@ -86,6 +86,20 @@
    }
   },
   {
+   "id": "br-hospital-samel-manaus-220m",
+   "nivel": "verde",
+   "fecha": "2026-11-12",
+   "ambito": "Brazil",
+   "organismo": "Grupo Samel",
+   "titulo": "Grupo Samel opens R$220 million hospital in Manaus with robotic-surgery infrastructure",
+   "resumen": "Hospital Samel Sonia Nicolau, the group's fourth unit in Manaus, opens November 27 with 225 new beds, adding a hybrid hemodynamics suite that combines surgery with advanced imaging, adult and pediatric ICUs, and infrastructure built for robotic-assisted surgery. Samel's president cited an investment of R$220 million (an earlier company estimate was R$170 million). The project is privately funded; the Manaus city government's role was limited to licensing approval.",
+   "accion": "Medical-device and hospital-equipment suppliers should note the robotic-surgery and hybrid-OR buildout as a reference point for private hospital capex in the Amazonas region.",
+   "fuente": {
+    "nombre": "Portal 6",
+    "url": "https://portal6.com.br/2026/11/12/novo-hospital-de-r-220-milhoes-abre-em-27-de-novembro-em-manaus-com-225-leitos-sala-hibrida-e-estrutura-para-cirurgia-robotica/"
+   }
+  },
+  {
    "id": "br-hapvida-octaviano-neves-sale-feluma",
    "nivel": "verde",
    "categoria": "Strategic move",
