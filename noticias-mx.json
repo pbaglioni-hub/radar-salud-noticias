@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-13",
+ "actualizado": "2026-11-14",
  "noticias": [
+  {
+   "id": "mx-sheinbaum-china-hospitales-inteligentes",
+   "nivel": "verde",
+   "fecha": "2026-11-13",
+   "ambito": "Mexico",
+   "organismo": "Presidencia de Mexico",
+   "titulo": "Mexico says it will seek cooperation with China on a smart-hospitals model",
+   "resumen": "On November 13, President Sheinbaum said Mexico will seek cooperation with China to explore adopting China's smart-hospitals model, a topic to be raised in a bilateral meeting with Xi Jinping during the APEC summit in Shenzhen (Nov 17-19, 2026). No technology vendors, investment figures or implementation timeline have been disclosed yet.",
+   "accion": "Health-technology and hospital-equipment vendors should watch for details after the Nov 17-19 APEC bilateral meeting to see what specific cooperation, if any, is agreed.",
+   "fuente": {
+    "nombre": "Consultor Salud Mexico",
+    "url": "https://consultorsalud.com.mx/sheinbaum-china-hospitales-inteligentes/"
+   }
+  },
   {
    "id": "mx-mdk-inhabilitacion-contrataciones-publicas",
    "nivel": "rojo",
@@ -55,6 +69,20 @@
    "fuente": {
     "nombre": "Infobae México",
     "url": "https://www.infobae.com/mexico/2026/11/11/tras-casi-20-horas-camara-de-diputados-aprueba-presupuesto-2027-y-pasa-al-ejecutivo/"
+   }
+  },
+  {
+   "id": "mx-imss-chihuahua-primer-tavi",
+   "nivel": "verde",
+   "fecha": "2026-11-11",
+   "ambito": "Mexico",
+   "organismo": "IMSS - Hospital General Regional No. 1 Morelos (Chihuahua)",
+   "titulo": "IMSS performs its first TAVI procedure in the state of Chihuahua",
+   "resumen": "IMSS announced on November 11 that its Hospital General Regional No. 1 Morelos, in Chihuahua, performed the institute's first transcatheter aortic valve implant (TAVI) in that state, treating aortic stenosis without open-heart surgery. No device brand or patient details were disclosed; nationally IMSS reported 82 hemodynamics rooms as of March 2026, 34 of them in second-level hospitals.",
+   "accion": "Cardiovascular device distributors should track whether IMSS expands TAVI capacity to more second-level hospitals in the region following this first case.",
+   "fuente": {
+    "nombre": "Consultor Salud Mexico",
+    "url": "https://consultorsalud.com.mx/imss-chihuahua-primer-procedimiento-tavi/"
    }
   },
   {
@@ -139,6 +167,20 @@
    "fuente": {
     "nombre": "Criterio Hidalgo (citing COFEPRIS)",
     "url": "https://www.criteriohidalgo.com/noticias/mexico/cuidado-en-mexico-cofepris-alerta-por-medicamento-para-la-diabetes-adulterado"
+   }
+  },
+  {
+   "id": "mx-jalisco-inversion-hospitalaria-20667md",
+   "nivel": "verde",
+   "fecha": "2026-11-07",
+   "ambito": "Mexico",
+   "organismo": "Gobierno de Jalisco - Secretaria de Salud Jalisco",
+   "titulo": "Jalisco reports over MXN 20.67 billion invested in its state hospital network",
+   "resumen": "In his Segundo Informe de Gobierno on November 7, Jalisco governor Pablo Lemus reported more than MXN 20,667 million invested in the state's hospital infrastructure: construction started on Hospital Civil de la Costa in Puerto Vallarta, remodeling underway at Hospital General de Occidente Zoquipan in Guadalajara, a new Centro de Cuidados Perinatales in Zapopan, and MXN 429 million for 146 new SAMU ambulances, bringing the state fleet to 836.",
+   "accion": "Equipment and construction suppliers should track procurement tied to these Jalisco projects, particularly the new Puerto Vallarta hospital and the Zoquipan remodel.",
+   "fuente": {
+    "nombre": "La Cronica de Hoy Jalisco",
+    "url": "https://www.cronica.com.mx/jalisco/bienestar/2026/11/07/transforma-jalisco-su-red-hospitalaria-con-inversion-superior-a-20-mil-mdp/"
    }
   },
   {

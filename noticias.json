@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13",
+ "actualizado": "2026-11-14",
  "noticias": [
   {
    "id": "pami-nuevas-aperturas-18-20-nov-2026",
@@ -139,6 +139,20 @@
    "fuente": {
     "nombre": "Ámbito (cita Resolución INCUCAI 401/2026, Boletín Oficial)",
     "url": "https://www.ambito.com/el-incucai-crea-un-sistema-nacional-reportar-fallas-y-complicaciones-donaciones-y-trasplantes-n6343789"
+   }
+  },
+  {
+   "id": "anmat-7204-2026-equivalencia-terapeutica",
+   "nivel": "amarillo",
+   "fecha": "2026-11-11",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT aprueba un nuevo marco regulatorio para demostrar equivalencia terapéutica de medicamentos",
+   "resumen": "La Disposición 7204/2026 unifica los criterios técnicos para demostrar equivalencia terapéutica (bioequivalencia) de especialidades medicinales de síntesis química de uso humano, incorporando las guías ICH M9, M10, M13A y M13B. Alcanza medicamentos para VIH, epilepsia, diabetes, enfermedades cardiovasculares, psiquiátricas, Alzheimer, esclerosis múltiple, Parkinson, inmunosupresores, anticoagulantes, oncología, anticonceptivos, hormonas tiroideas y broncodilatadores, entre otros.",
+   "accion": "Laboratorios de genéricos y titulares de registros deben revisar sus estudios de bioequivalencia: 120 días para nuevos registros y 5 años para adecuar los ya otorgados o en trámite.",
+   "fuente": {
+    "nombre": "Argentina.gob.ar (ANMAT)",
+    "url": "https://www.argentina.gob.ar/noticias/anmat-actualiza-el-marco-regulatorio-para-la-demostracion-de-equivalencia-terapeutica-de"
    }
   },
   {
@@ -283,6 +297,20 @@
    }
   },
   {
+   "id": "arca-5923-2026-suspension-ejecuciones-salud",
+   "nivel": "amarillo",
+   "fecha": "2026-11-05",
+   "ambito": "Nación",
+   "organismo": "ARCA",
+   "titulo": "ARCA extiende hasta junio de 2027 la suspensión de ejecuciones fiscales y embargos para entidades de salud",
+   "resumen": "La Resolución General 5923/2026 prorroga hasta el 30 de junio de 2027 la suspensión de juicios de ejecución fiscal y de la traba de medidas cautelares prevista en la RG 5628, para entidades sin fines de lucro del sector salud, MiPyMEs (Tramos 1 y 2 con certificado vigente al 29/10/2026) y pequeños contribuyentes. ARCA conserva la facultad de actuar ante grave afectación del Fisco, caducidad de instancia o prescripción inminente.",
+   "accion": "Clínicas, sanatorios y entidades de salud sin fines de lucro con deudas en ARCA deben verificar su inscripción y la vigencia del certificado MiPyME al 29/10/2026 para quedar amparados hasta junio de 2027.",
+   "fuente": {
+    "nombre": "CADIME (cita RG ARCA 5923/2026, Boletín Oficial)",
+    "url": "https://cadime.com.ar/resolucion-general-5923-2026-arca-entidades-sector-salud-suspension-de-ejecuciones-fiscales-y-traba-de-medidas-cautelares-resolucion-n-1-899-26-mecon-resolucion-general-n-5-628/"
+   }
+  },
+  {
    "id": "pami-medicamentos-noviembre",
    "nivel": "verde",
    "fecha": "2026-11-04",
@@ -379,6 +407,20 @@
    "fuente": {
     "nombre": "La Nación",
     "url": "https://www.lanacion.com.ar/economia/todos-los-aumentos-que-llegan-en-noviembre-cuanto-subiran-la-luz-el-gas-el-transporte-la-prepagas-y-nid30102026/"
+   }
+  },
+  {
+   "id": "senado-reforma-salud-mental-media-sancion",
+   "nivel": "amarillo",
+   "fecha": "2026-10-30",
+   "ambito": "Nación",
+   "organismo": "Senado de la Nación",
+   "titulo": "El Senado dio media sanción a la reforma de la Ley de Salud Mental y el proyecto pasó a Diputados",
+   "resumen": "El 30 de octubre el Senado aprobó con cambios la reforma de la Ley Nacional de Salud Mental (26.657), que habilita internaciones involuntarias bajo nuevos criterios y suma las adicciones como enfermedad a tratar. El proyecto, con media sanción, pasó a la Cámara de Diputados para su tratamiento.",
+   "accion": "Clínicas, centros de salud mental y prestadores de internación deben seguir el debate en Diputados, porque la reforma cambiará los criterios de admisión e internación.",
+   "fuente": {
+    "nombre": "Noticias NQN",
+    "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/30/358773-el-senado-dio-media-sancion-a-la-reforma-de-la-ley-de-salud-mental"
    }
   },
   {
@@ -520,49 +562,6 @@
    "fuente": {
     "nombre": "El Día",
     "url": "https://www.eldia.com/la-ciudad/crisis-del-pami-los-medicos-advierten-que-pueden-colapsar-los-hospitales-publicos-la-ciudad_1792156440"
-   }
-  },
-  {
-   "id": "epi-2-2026",
-   "nivel": "verde",
-   "fecha": "2026-10-15",
-   "ambito": "Nación",
-   "organismo": "Dirección de Epidemiología",
-   "titulo": "IC descompensada y ACV se notifican por el SNVS 2.0",
-   "resumen": "La Disposición 2/2026 establece que la insuficiencia cardíaca descompensada y el ACV se notifican por el SNVS 2.0. El infarto agudo de miocardio sigue con su registro propio.",
-   "accion": "Contexto: más datos públicos sobre volumen cardiovascular.",
-   "fuente": {
-    "nombre": "Boletín Oficial",
-    "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348997/20261015"
-   }
-  },
-  {
-   "id": "steris-xodus",
-   "nivel": "verde",
-   "categoria": "Movimiento estratégico",
-   "fecha": "2026-10-12",
-   "ambito": "Internacional",
-   "organismo": "STERIS / Xodus Medical",
-   "titulo": "STERIS compra Xodus Medical por USD 2.100 millones y suma consumibles de quirófano",
-   "resumen": "STERIS acordó comprar Xodus Medical por USD 2.100 millones, más un earnout de hasta USD 150 millones atado a metas de 2028. Xodus fabrica, entre otros, los posicionadores de paciente Pink Pad y el antiempañante laparoscópico See Sharp. STERIS financiará la operación principalmente con deuda y apunta a cerrarla en 2026.",
-   "accion": "Los distribuidores locales de STERIS o Xodus deben seguir posibles cambios en la representación y condiciones comerciales al cierre de la operación.",
-   "fuente": {
-    "nombre": "MedTech Dive",
-    "url": "https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/"
-   }
-  },
-  {
-   "id": "anmat-6403-2026",
-   "nivel": "rojo",
-   "fecha": "2026-10-06",
-   "ambito": "Nación",
-   "organismo": "ANMAT",
-   "titulo": "Nuevas reglas para certificar plantas extranjeras de productos médicos",
-   "resumen": "La Disposición 6403/2026 aprueba lineamientos y un modelo de certificado de Buenas Prácticas de Fabricación para plantas en el exterior. El INPM tiene 40 días hábiles para evaluar la documentación inicial. La recertificación se pide dentro de los 60 días hábiles previos al vencimiento. Agregar una categoría de producto exige ampliación de rubro.",
-   "accion": "Armar la lista de plantas proveedoras con la fecha de vencimiento de su certificado y calendarizar la recertificación con margen.",
-   "fuente": {
-    "nombre": "Allende & Brea",
-    "url": "https://allende.com/life-sciences/anmat-aprueba-lineamientos-para-certificar-plantas-extranjeras-de-productos-medicos-10-22-2026/"
    }
   }
  ]

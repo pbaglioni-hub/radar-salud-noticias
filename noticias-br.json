@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13",
+ "actualizado": "2026-11-14",
  "noticias": [
   {
    "id": "br-conitec-cp-109-odevixibat-pfic",
@@ -13,6 +13,20 @@
    "fuente": {
     "nombre": "Conitec - Consultas publicas vigentes",
     "url": "https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/vigentes"
+   }
+  },
+  {
+   "id": "br-hipolabor-bupivacaina-recall",
+   "nivel": "rojo",
+   "fecha": "2026-11-13",
+   "ambito": "Brazil",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA orders recall of a Hipolabor bupivacaine/glucose injectable lot over a foreign particle",
+   "resumen": "Resolution RE 4.427/2026 orders Hipolabor Farmaceutica to recall and suspend sale, distribution and use of lot AR-001/25 of bupivacaine hydrochloride + glucose 5+80 mg/mL injectable solution, after an Instituto Adolfo Lutz / LACEN-SP lab test found a foreign particle in suspension. The same resolution bans online advertising of compounded cannabis and mushroom products by Medkaya.",
+   "accion": "Hospitals, surgical centers and anesthesia providers should check stock for lot AR-001/25 of this Hipolabor bupivacaine/glucose product and quarantine any units found.",
+   "fuente": {
+    "nombre": "Legismap (citing DOU / ANVISA RE 4.427/2026)",
+    "url": "https://legismap.com.br/leis-e-normas/agencia-nacional-de-vigilancia-sanitaria-anvisa-dou-de-13-11-2026"
    }
   },
   {
@@ -55,6 +69,20 @@
    "fuente": {
     "nombre": "VG Noticias (cites Ministério da Saúde)",
     "url": "https://www.vgnoticias.com.br/saude/pacientes-cardiacos-terao-novo-remedio-disponivel-pelo-sus/154920"
+   }
+  },
+  {
+   "id": "br-pl-2099-telessaude-gestantes",
+   "nivel": "verde",
+   "fecha": "2026-11-12",
+   "ambito": "Brazil",
+   "organismo": "Camara dos Deputados",
+   "titulo": "Bill guaranteeing telehealth for pregnant women in rural areas advances in the Camara",
+   "resumen": "PL 2099/24, authored by deputy Meire Serafim, passed the Camara dos Deputados' Comissao de Saude in mid-November. It guarantees remote pre- and post-natal care for pregnant women in rural or hard-to-reach areas, as a complement to required in-person exams, integrated with the SUS Rede Alyne perinatal care network. It next goes to the women's-rights and constitutionality committees.",
+   "accion": "Telehealth and maternal-care providers should track the bill's progress through the remaining committees before it can reach a floor vote.",
+   "fuente": {
+    "nombre": "MRNews (via ejornais.com.br)",
+    "url": "https://ejornais.com.br/index.php/2026/11/12/projetos-de-lei-que-envolvem-saude-feminina-avancam-na-camara/"
    }
   },
   {
@@ -339,6 +367,20 @@
    "fuente": {
     "nombre": "Mix Vale (DOU)",
     "url": "https://www.mixvale.com.br/2026/10/28/anvisa-determina-recolhimento-de-lotes-de-simbeva-abevmy-e-solucao-de-ringer-com-lactato/"
+   }
+  },
+  {
+   "id": "br-pl-1738-2026-conitec-duas-etapas",
+   "nivel": "amarillo",
+   "fecha": "2026-10-28",
+   "ambito": "Brazil",
+   "organismo": "Camara dos Deputados",
+   "titulo": "Bill would split SUS technology-incorporation reviews into a clinical stage and a price-negotiation stage",
+   "resumen": "PL 1738/2026, filed by deputies Silvia Cristina and Geraldo Resende, would amend Brazil's health law so Conitec first evaluates a new drug or device's clinical evidence and only afterward negotiates price with the Ministry of Health before deciding on SUS incorporation. It also allows pre-filing meetings between manufacturers and Conitec. The bill is under committee review (conclusivo) in the Camara dos Deputados; if passed, it would take effect 180 days after publication.",
+   "accion": "Manufacturers seeking SUS incorporation should track this bill, since it would add a formal price-negotiation step before any incorporation decision.",
+   "fuente": {
+    "nombre": "Medicina S/A (Agencia Camara de Noticias)",
+    "url": "https://medicinasa.com.br/novas-tecnologias-sus/"
    }
   },
   {
