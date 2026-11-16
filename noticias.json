@@ -92,7 +92,7 @@
      "objeto": "Prótesis interfalángicas tipo Swanson (2° a 5° dedo)",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "dispositivos"
+     "rubro": "traumatologia"
     },
     {
      "numero": "CA 1487/26",
@@ -520,12 +520,14 @@
     {
      "numero": "CA 1457/26",
      "objeto": "Prótesis total de revisión constreñida",
-     "apertura": "2026-11-16"
+     "apertura": "2026-11-16",
+     "rubro": "traumatologia"
     },
     {
      "numero": "CA 1461/26",
      "objeto": "Revisión de cadera con reconstrucción 3D a medida",
-     "apertura": "2026-11-16"
+     "apertura": "2026-11-16",
+     "rubro": "traumatologia"
     },
     {
      "numero": "CA 1462/26",
@@ -560,7 +562,8 @@
     {
      "numero": "CA 1475/26",
      "objeto": "Dos prótesis de amputación",
-     "apertura": "2026-11-18"
+     "apertura": "2026-11-18",
+     "rubro": "traumatologia"
     },
     {
      "numero": "CA 1464/26",
@@ -866,6 +869,33 @@
     "nombre": "Boletín Oficial (resumen Gob Partners)",
     "url": "https://boresumengobpartners.substack.com/p/boletin-2026-10-29"
    }
+  },
+  {
+   "id": "pba-633-0864-lpu26-oncologicos",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "oncologia",
+   "fecha": "2026-10-28",
+   "ambito": "Buenos Aires",
+   "organismo": "Ministerio de Salud de la Provincia de Buenos Aires",
+   "titulo": "Buenos Aires relicita medicamentos oncológicos por $2.926 millones tras dos llamados sin ofertas; abre el 18/11",
+   "resumen": "Por la Resolución 7946, publicada el 28/10 en el Boletín Oficial bonaerense, el Ministerio de Salud llamó al Proceso de Compra 633-0864-LPU26 para medicamentos oncológicos destinados a unos 19.000 pacientes, pedido por el Instituto de Prevención, Diagnóstico y Tratamiento del Cáncer. Presupuesto: $2.925.749.915,38, ampliable hasta 100% o reducible hasta 20%. Una licitación anterior y una contratación directa no recibieron ofertas; Roche y Novartis informaron que no ofertarán directamente y que los productos pueden llegar por distribuidores y droguerías. La apertura es el 18/11 a las 10:00 en el portal PBAC.",
+   "accion": "Distribuidores y droguerías con productos oncológicos de Roche o Novartis: revisar el pliego en PBAC; las condiciones se modificaron para atraer oferentes.",
+   "fuente": {
+    "nombre": "Cadena Nueve",
+    "url": "https://www.cadenanueve.com/2026/10/28/la-provincia-vuelve-a-licitar-la-compra-de-medicamentos-oncologicos-por-casi-2-926-millones/"
+   },
+   "licitaciones": [
+    {
+     "numero": "633-0864-LPU26",
+     "objeto": "Medicamentos oncológicos (unos 19.000 pacientes)",
+     "apertura": "2026-11-18",
+     "hora": "10:00",
+     "monto": "$2.925.749.915,38",
+     "lugar": "Portal Provincia de Buenos Aires Compras (PBAC)",
+     "rubro": "oncologia"
+    }
+   ]
   },
   {
    "id": "pami-capita-fija-octubre",
