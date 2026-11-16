@@ -184,6 +184,20 @@
    }
   },
   {
+   "id": "mx-issste-monitores-imss-bienestar-mantenimiento-qroo",
+   "nivel": "amarillo",
+   "fecha": "2026-11-09",
+   "ambito": "Mexico",
+   "organismo": "ISSSTE · IMSS-Bienestar",
+   "titulo": "ISSSTE buys 103 vital-sign monitors by direct award; IMSS-Bienestar contracts maintenance for 883 devices in Quintana Roo",
+   "resumen": "According to a weekly review of ComprasMX contracts, ISSSTE made six direct awards worth MXN 65.51 million (before VAT) for operating-room equipment: Corporativo MS Sistemas Medicos won MXN 18.02 million (50 advanced monitors, neonatal incubators, capnographs, laryngoscopes) and TOTECH MXN 41.25 million (53 intermediate monitors, 57 infusion pumps, surgical microscopes, electrosurgery units). IMSS-Bienestar awarded I GUARMA MXN 123.11 million for preventive and corrective maintenance of 883 devices in 14 Quintana Roo units, 187 of them out of service.",
+   "accion": "Equipment suppliers: ISSSTE received compliant offers for only 31 of 422 requested items, so more direct awards are likely; watch ComprasMX and answer its market-research requests.",
+   "fuente": {
+    "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
+    "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   }
+  },
+  {
    "id": "mx-argliptin-d-adulterated",
    "nivel": "rojo",
    "fecha": "2026-11-08",
@@ -238,6 +252,20 @@
    "fuente": {
     "nombre": "Zolo Noticias",
     "url": "https://www.zolonoticias.com/2026/11/06/mexico-invertira-245-millones-de-dolares-en-innovacion-medica/"
+   }
+  },
+  {
+   "id": "mx-birmex-tercera-licitacion-2027-2028",
+   "nivel": "amarillo",
+   "fecha": "2026-11-04",
+   "ambito": "Mexico",
+   "organismo": "Birmex · Secretaria de Salud",
+   "titulo": "Third 2027-2028 consolidated tender awards 997.6 million pieces for MXN 34.4 billion; fourth tender due before year-end",
+   "resumen": "The third consolidated purchase procedure for 2027-2028, announced November 3, awarded 673 product codes and 997.6 million pieces worth MXN 34,398 million, with subsequent-discount bidding cutting the cost by MXN 7,100 million. Mexican-made products were 57% of pieces and 46% of value. The three tenders together cover about 90% of required codes; the remaining ones go to a fourth tender planned before the end of 2026. Contracts are to be signed within 20 days of the awards.",
+   "accion": "Suppliers with codes still unawarded should prepare for the fourth tender; winners should close contract signing within the 20-day window.",
+   "fuente": {
+    "nombre": "Consultor Salud Mexico",
+    "url": "https://consultorsalud.com.mx/compra-consolidada-de-medicamentos-2027-2028/"
    }
   },
   {

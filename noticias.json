@@ -58,6 +58,20 @@
    }
   },
   {
+   "id": "san-isidro-lp-44-2026-insumos-comodato",
+   "nivel": "amarillo",
+   "fecha": "2026-11-13",
+   "ambito": "Buenos Aires",
+   "organismo": "Municipalidad de San Isidro - Secretaría de Salud",
+   "titulo": "San Isidro licita insumos médicos y equipamiento en comodato por $1.312 millones",
+   "resumen": "La Licitación Pública N° 44/2026 (expediente EX-2026-00378788-SI-SSSALU), publicada el 13/11 en el Boletín Oficial bonaerense, busca adquirir insumos y materiales descartables para el área de salud municipal, con provisión de equipamiento en comodato. Presupuesto oficial: $1.312.965.667,38. La apertura de ofertas es el miércoles 16/12 a las 10:00 en la Dirección General de Compras (av. Centenario 77). El aviso no detalla cantidades ni equipos.",
+   "accion": "Proveedores de descartables y equipos en comodato: pedir el pliego en la Dirección General de Compras de San Isidro y preparar oferta antes del 16/12.",
+   "fuente": {
+    "nombre": "Zona Norte Diario Online",
+    "url": "https://www.zonanortediario.com.ar/15/11/2026/san-isidro-lanzo-una-licitacion-por-mas-de-1-312-millones-para-adquirir-insumos-medicos-y-equipamiento-en-comodato/"
+   }
+  },
+  {
    "id": "anmat-7250-2026-prohibicion-gangliosidos-gm1",
    "nivel": "rojo",
    "fecha": "2026-11-12",
@@ -209,6 +223,20 @@
    "fuente": {
     "nombre": "Argentina.gob.ar (ANMAT)",
     "url": "https://www.argentina.gob.ar/noticias/anmat-actualiza-el-marco-regulatorio-para-la-demostracion-de-equivalencia-terapeutica-de"
+   }
+  },
+  {
+   "id": "chaco-lp-127-128-2026-laboratorio-nutricion-enteral",
+   "nivel": "amarillo",
+   "fecha": "2026-11-11",
+   "ambito": "Chaco",
+   "organismo": "Ministerio de Salud del Chaco",
+   "titulo": "Chaco abre el 18/11 dos licitaciones por $8.868 millones: insumos de laboratorio con equipos en comodato y nutrición enteral",
+   "resumen": "La Licitación Pública N° 127/2026 ($2.701.194.345,78) cubre insumos para prácticas de laboratorio de microbiología (detección de bacterias y levaduras, identificación y sensibilidad antibiótica) con equipamiento en comodato por unos 24 meses. La N° 128/2026 ($6.167.549.824,94) cubre productos de nutrición enteral para hospitales de alta complejidad y centros de atención primaria por unos cinco meses. Ambas abren el 18/11 en la Dirección General de Contrataciones Estratégicas (Marcelo T. de Alvear 145, Resistencia).",
+   "accion": "Proveedores de diagnóstico microbiológico y de nutrición enteral: la apertura es este miércoles 18/11; verificar pliegos y presentar oferta en Resistencia.",
+   "fuente": {
+    "nombre": "Examedia",
+    "url": "https://examedia.com.ar/portada/post/88221088"
    }
   },
   {

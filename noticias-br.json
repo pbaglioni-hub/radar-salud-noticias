@@ -242,6 +242,20 @@
    }
   },
   {
+   "id": "br-goias-pe-218-2026-medicamentos",
+   "nivel": "amarillo",
+   "fecha": "2026-11-09",
+   "ambito": "Goias",
+   "organismo": "Secretaria de Estado da Saude de Goias (SES-GO)",
+   "titulo": "Goias opens price-registration tender for medicines worth R$ 4.99 million; session on November 30",
+   "resumen": "SES-GO published the notice for Pregao Eletronico SRP 218/2026 (posted on its site under notice 216/2026) to register prices for medicines, with an estimated value of R$ 4,988,658.24. Proposals are accepted on the state's Sislog platform since November 10, and the public session opens at 9:00 on November 30, 2026.",
+   "accion": "Drug distributors and manufacturers: register on Sislog (sislog.go.gov.br) and submit proposals before the November 30 session.",
+   "fuente": {
+    "nombre": "SES-GO",
+    "url": "https://goias.gov.br/saude/aviso-de-licitacao-do-p-e-n-o-216-2026-2/"
+   }
+  },
+  {
    "id": "br-cadifa-national-api-call",
    "nivel": "amarillo",
    "fecha": "2026-11-07",
@@ -325,6 +339,20 @@
    "fuente": {
     "nombre": "Folha de Alphaville (citing BNDES)",
     "url": "https://folhadealphaville.com.br/cidades/2026/11/06/eurofarma-recebe-r-285-milhoes-do-bndes-para-desenvolver-novos-medicamentos.html"
+   }
+  },
+  {
+   "id": "br-goias-pe-214-2026-cannabis",
+   "nivel": "amarillo",
+   "fecha": "2026-11-04",
+   "ambito": "Goias",
+   "organismo": "Secretaria de Estado da Saude de Goias (SES-GO)",
+   "titulo": "Goias tenders ANVISA-registered cannabis products for court-ordered treatments; session on November 23",
+   "resumen": "Pregao Eletronico SRP 214/2026 will register prices for branded cannabis products, in the presentations and concentrations registered with ANVISA, prescribed in court cases and dispensed by the state high-cost medicines center (CEMAC Juarez Barbosa). Estimated value: R$ 886,561.32. Proposals opened November 6 on Sislog; the public session is at 9:00 on November 23, 2026.",
+   "accion": "Holders of ANVISA cannabis-product authorizations: submit proposals on Sislog before November 23.",
+   "fuente": {
+    "nombre": "SES-GO",
+    "url": "https://goias.gov.br/saude/aviso-de-licitacao-do-p-e-n-o-214-2026/"
    }
   },
   {
