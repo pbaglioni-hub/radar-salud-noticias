@@ -1,0 +1,41 @@
+{
+ "actualizado": "2026-11-16",
+ "adjudicaciones": [
+  {
+   "id": "ar-posadas-lp-42-2025-hemodinamia-infantil",
+   "fecha": "2026-02-18",
+   "ambito": "Nación",
+   "organismo": "Hospital Nacional Prof. Alejandro Posadas (ANES)",
+   "procedimiento": "Licitación Pública 42/2025 (96-0042-LPU25)",
+   "objeto": "Insumos para hemodinamia infantil",
+   "rubro": "cardiovascular",
+   "proveedor": "OMNIMEDICA S.A.",
+   "monto": 722500000,
+   "moneda": "ARS",
+   "detalle": "Renglones 1 a 7. El aviso no informa precios unitarios.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Boletín Oficial",
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2407820/20260218"
+   }
+  },
+  {
+   "id": "ar-posadas-lp-50-2025-valvulas-cardiacas",
+   "fecha": "2025-11-13",
+   "ambito": "Nación",
+   "organismo": "Hospital Nacional Prof. Alejandro Posadas (ANES)",
+   "procedimiento": "Licitación Pública 50/2025 (96-0050-LPU25)",
+   "objeto": "Válvulas cardíacas y tubos valvulados",
+   "rubro": "cardiovascular",
+   "proveedor": "STORING INSUMOS MEDICOS S.R.L.",
+   "monto": 161000000,
+   "moneda": "ARS",
+   "detalle": "El aviso informa solo el monto total, sin detalle por renglón.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Boletín Oficial",
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2404056/20251113"
+   }
+  }
+ ]
+}

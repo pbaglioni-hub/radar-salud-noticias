@@ -55,7 +55,9 @@
    "fuente": {
     "nombre": "Consultor Salud (citing DOF Circular SABG/OICGYR/AR/6946/2026)",
     "url": "https://consultorsalud.com.mx/grupo-farmaceutico-mdk-inhabilitado-mexico/"
-   }
+   },
+   "tipo": "prohibicion",
+   "rubro": "medicamentos"
   },
   {
    "id": "mx-hospital-juarez-politicas-dof-2026",
@@ -195,7 +197,9 @@
    "fuente": {
     "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
     "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos"
   },
   {
    "id": "mx-argliptin-d-adulterated",

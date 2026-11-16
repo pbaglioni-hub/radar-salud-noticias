@@ -1,0 +1,59 @@
+{
+ "actualizado": "2026-11-16",
+ "adjudicaciones": [
+  {
+   "id": "mx-issste-totech-quirofano-sem45-2026",
+   "fecha": "2026-11-09",
+   "ambito": "Mexico",
+   "organismo": "ISSSTE",
+   "procedimiento": "Direct award (ComprasMX)",
+   "objeto": "Operating-room equipment: 53 intermediate vital-sign monitors, 57 infusion pumps, 2 surgical microscopes, 11 electrosurgery units, 1 high-frequency oscillatory ventilator",
+   "rubro": "dispositivos",
+   "proveedor": "TOTECH",
+   "monto": 41250000,
+   "moneda": "MXN",
+   "detalle": "Intermediate monitors at MXN 304,615.38 each (MXN 16.14 million for 53). Amounts before VAT.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
+    "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   }
+  },
+  {
+   "id": "mx-issste-ms-sistemas-medicos-sem45-2026",
+   "fecha": "2026-11-09",
+   "ambito": "Mexico",
+   "organismo": "ISSSTE",
+   "procedimiento": "Direct award (ComprasMX)",
+   "objeto": "Operating-room equipment: 50 advanced vital-sign monitors, 2 neonatal incubators, 2 capnographs with portable oximeters, 23 laryngoscopes",
+   "rubro": "dispositivos",
+   "proveedor": "Corporativo MS Sistemas Medicos",
+   "monto": 18020000,
+   "moneda": "MXN",
+   "detalle": "Advanced monitors at MXN 320,000 each (MXN 16 million for 50). Amounts before VAT.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
+    "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   }
+  },
+  {
+   "id": "mx-imss-bienestar-iguarma-mantenimiento-qroo-2026",
+   "fecha": "2026-11-09",
+   "ambito": "Quintana Roo",
+   "organismo": "IMSS-Bienestar",
+   "procedimiento": "ComprasMX contract",
+   "objeto": "Preventive and corrective maintenance of 883 medical devices in 14 units (570 vital-sign monitors, 112 radiant warmers, 64 incubators)",
+   "rubro": "dispositivos",
+   "proveedor": "I GUARMA",
+   "monto": 123110000,
+   "moneda": "MXN",
+   "detalle": "187 of the 883 devices were reported out of service. VAT treatment not stated.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
+    "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   }
+  }
+ ]
+}

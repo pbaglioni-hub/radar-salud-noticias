@@ -253,7 +253,19 @@
    "fuente": {
     "nombre": "SES-GO",
     "url": "https://goias.gov.br/saude/aviso-de-licitacao-do-p-e-n-o-216-2026-2/"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "medicamentos",
+   "licitaciones": [
+    {
+     "numero": "PE SRP 218/2026",
+     "objeto": "Price registration for medicines",
+     "apertura": "2026-11-30",
+     "hora": "09:00",
+     "monto": "R$ 4,988,658.24",
+     "lugar": "Sislog (sislog.go.gov.br)"
+    }
+   ]
   },
   {
    "id": "br-cadifa-national-api-call",
@@ -353,7 +365,19 @@
    "fuente": {
     "nombre": "SES-GO",
     "url": "https://goias.gov.br/saude/aviso-de-licitacao-do-p-e-n-o-214-2026/"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "medicamentos",
+   "licitaciones": [
+    {
+     "numero": "PE SRP 214/2026",
+     "objeto": "ANVISA-registered cannabis products for court-ordered treatments",
+     "apertura": "2026-11-23",
+     "hora": "09:00",
+     "monto": "R$ 886,561.32",
+     "lugar": "Sislog (sislog.go.gov.br)"
+    }
+   ]
   },
   {
    "id": "br-ans-ccm-rejected-cp-lenvatinib-ivosidenib",

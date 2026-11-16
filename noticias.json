@@ -55,7 +55,61 @@
    "fuente": {
     "nombre": "PAMI Prestadores - Calendario de aperturas Compras Nivel Central",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "licitaciones": [
+    {
+     "numero": "LP 19/26",
+     "objeto": "Viandas para el Hospital Houssay de Mar del Plata (24 meses)",
+     "apertura": "2026-11-16",
+     "hora": "12:00",
+     "rubro": "otros"
+    },
+    {
+     "numero": "CA 1491/26",
+     "objeto": "Marcapasos sin cables",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1488/26",
+     "objeto": "Plug de polímero bioabsorbible autoexpandible en tándem de 12 mm",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1490/26",
+     "objeto": "Bomba de infusión intratecal de fármacos de flujo fijo",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1489/26",
+     "objeto": "Prótesis interfalángicas tipo Swanson (2° a 5° dedo)",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1487/26",
+     "objeto": "Endoprótesis de aorta abdominal bifurcada expandible por balón con ramas ilíacas",
+     "apertura": "2026-11-19",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1483/26",
+     "objeto": "Cables extensores y generador DBS recargable Medtronic (recambio)",
+     "apertura": "2026-11-20",
+     "hora": "11:00",
+     "rubro": "dispositivos"
+    }
+   ],
+   "comentario": "PAMI compra los implantes de alto costo por compulsa abreviada, dispositivo por dispositivo. Esta tanda suma un marcapasos sin cables y una endoprótesis aórtica con ramas ilíacas: son ventas puntuales con pocos días entre la publicación y la apertura, así que conviene mirar el calendario a diario."
   },
   {
    "id": "san-isidro-lp-44-2026-insumos-comodato",
@@ -69,7 +123,19 @@
    "fuente": {
     "nombre": "Zona Norte Diario Online",
     "url": "https://www.zonanortediario.com.ar/15/11/2026/san-isidro-lanzo-una-licitacion-por-mas-de-1-312-millones-para-adquirir-insumos-medicos-y-equipamiento-en-comodato/"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "licitaciones": [
+    {
+     "numero": "LP 44/2026",
+     "objeto": "Insumos y descartables con equipamiento en comodato",
+     "apertura": "2026-12-16",
+     "hora": "10:00",
+     "monto": "$1.312.965.667,38",
+     "lugar": "Dirección General de Compras, av. Centenario 77, San Isidro"
+    }
+   ]
   },
   {
    "id": "anmat-7250-2026-prohibicion-gangliosidos-gm1",
@@ -111,7 +177,75 @@
    "fuente": {
     "nombre": "PAMI Prestadores - Calendario de aperturas Nivel Central",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "licitaciones": [
+    {
+     "numero": "CA 1458/26",
+     "objeto": "Válvula aórtica percutánea tricúspide",
+     "apertura": "2026-11-16",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1482/26",
+     "objeto": "Válvula aórtica transcatéter balón-expandible",
+     "apertura": "2026-11-16",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1481/26",
+     "objeto": "Prótesis híbrida con ramas supraaórticas",
+     "apertura": "2026-11-16",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1466/26",
+     "objeto": "Kit de aterectomía rotacional periférica",
+     "apertura": "2026-11-16",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1469/26",
+     "objeto": "Endoprótesis aórtica abdominal (bifurcadas y rectas)",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1476/26",
+     "objeto": "Endoprótesis aórtica abdominal (bifurcadas y rectas)",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1480/26",
+     "objeto": "Cardiodesfibrilador implantable subcutáneo",
+     "apertura": "2026-11-19",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1484/26",
+     "objeto": "Dispositivo de doble disco para cierre de CIA",
+     "apertura": "2026-11-20",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1486/26",
+     "objeto": "Reparación mitral percutánea borde a borde",
+     "apertura": "2026-11-20",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    }
+   ],
+   "comentario": "Semana cargada en cardiopatía estructural: dos válvulas aórticas transcatéter (una balón-expandible), una reparación mitral borde a borde, un cierre de CIA y un cardiodesfibrilador subcutáneo. Para quien vende TAVI, estructural o endovascular aórtico, son nueve oportunidades concretas en cinco días."
   },
   {
    "id": "pami-aperturas-auditivos-16-27-nov-2026",
@@ -125,7 +259,35 @@
    "fuente": {
     "nombre": "PAMI Prestadores - Calendario de aperturas Nivel Central",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "licitaciones": [
+    {
+     "numero": "CA 1451/26",
+     "objeto": "Procesador de habla para dispositivo osteointegrado OTICON PONTO (recambio)",
+     "apertura": "2026-11-16",
+     "hora": "11:00"
+    },
+    {
+     "numero": "CA 1453/26",
+     "objeto": "Procesador de habla coclear (recambio)",
+     "apertura": "2026-11-16",
+     "hora": "11:00"
+    },
+    {
+     "numero": "CA 1463/26",
+     "objeto": "Implante coclear multicanal",
+     "apertura": "2026-11-24",
+     "hora": "11:00"
+    },
+    {
+     "numero": "CA 1485/26",
+     "objeto": "Procesador de habla MED-EL (recambio)",
+     "apertura": "2026-11-27",
+     "hora": "11:00"
+    }
+   ]
   },
   {
    "id": "pami-aperturas-infusion-diabetes-medicamentos-17-19-nov-2026",
@@ -139,7 +301,60 @@
    "fuente": {
     "nombre": "PAMI Prestadores - Calendario de aperturas Nivel Central",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "licitaciones": [
+    {
+     "numero": "CA 1467/26",
+     "objeto": "Bomba de apomorfina subcutánea con insumos para 90 días",
+     "apertura": "2026-11-16",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1470/26",
+     "objeto": "Bomba de apomorfina subcutánea con insumos para 90 días",
+     "apertura": "2026-11-17",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1459/26",
+     "objeto": "Bomba de insulina MiniMed 780G con insumos",
+     "apertura": "2026-11-17",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1460/26",
+     "objeto": "Sistema de anastomosis microquirúrgica Coupler",
+     "apertura": "2026-11-17",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1454/26",
+     "objeto": "Guías de infusión con bombas en comodato (Unidad Asistencial Dr. César Milstein)",
+     "apertura": "2026-11-17",
+     "hora": "12:00",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1477/26",
+     "objeto": "Eplontersen 45 mg",
+     "apertura": "2026-11-19",
+     "rubro": "medicamentos"
+    },
+    {
+     "numero": "CA 1478/26",
+     "objeto": "Timosina alfa 1",
+     "apertura": "2026-11-19",
+     "rubro": "medicamentos"
+    },
+    {
+     "numero": "CA 1479/26",
+     "objeto": "Fórmula Modulen IBD",
+     "apertura": "2026-11-19",
+     "rubro": "medicamentos"
+    }
+   ]
   },
   {
    "id": "la-pampa-jornadas-salud-enfermeria-2026",
@@ -181,7 +396,19 @@
    "fuente": {
     "nombre": "Alerta Digital",
     "url": "https://www.alertadigital.ar/noticias/2026/11/11/181898-junin-de-los-andes-sumara-un-laboratorio-para-producir-medicamentos-para-toda-la-red-publica"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "otros",
+   "licitaciones": [
+    {
+     "numero": "",
+     "objeto": "Construcción del Laboratorio de Fórmulas Magistrales (942 m², hospital de Junín de los Andes)",
+     "apertura": "2026-12-04",
+     "hora": "12:00",
+     "monto": "$5.557.559.921",
+     "lugar": "Casa de Gobierno, Neuquén"
+    }
+   ]
   },
   {
    "id": "anmat-7199-2026",
@@ -237,7 +464,27 @@
    "fuente": {
     "nombre": "Examedia",
     "url": "https://examedia.com.ar/portada/post/88221088"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "licitaciones": [
+    {
+     "numero": "LP 127/2026",
+     "objeto": "Insumos de laboratorio de microbiología con equipamiento en comodato (24 meses)",
+     "apertura": "2026-11-18",
+     "monto": "$2.701.194.345,78",
+     "lugar": "Dirección General de Contrataciones Estratégicas, Marcelo T. de Alvear 145, Resistencia",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "LP 128/2026",
+     "objeto": "Productos de nutrición enteral (unos cinco meses)",
+     "apertura": "2026-11-18",
+     "monto": "$6.167.549.824,94",
+     "lugar": "Dirección General de Contrataciones Estratégicas, Marcelo T. de Alvear 145, Resistencia",
+     "rubro": "otros"
+    }
+   ]
   },
   {
    "id": "oura-counsel-health-625m",
@@ -266,7 +513,61 @@
    "fuente": {
     "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "licitaciones": [
+    {
+     "numero": "CA 1457/26",
+     "objeto": "Prótesis total de revisión constreñida",
+     "apertura": "2026-11-16"
+    },
+    {
+     "numero": "CA 1461/26",
+     "objeto": "Revisión de cadera con reconstrucción 3D a medida",
+     "apertura": "2026-11-16"
+    },
+    {
+     "numero": "CA 1462/26",
+     "objeto": "Neuroestimulador espinal no recargable",
+     "apertura": "2026-11-17"
+    },
+    {
+     "numero": "CA 1471/26",
+     "objeto": "Disruptor de flujo intrasacular",
+     "apertura": "2026-11-17"
+    },
+    {
+     "numero": "CA 1472/26",
+     "objeto": "Stent diversor de flujo 0.021",
+     "apertura": "2026-11-17"
+    },
+    {
+     "numero": "CA 1465/26",
+     "objeto": "Microcatéter con adhesivo y contraste",
+     "apertura": "2026-11-17"
+    },
+    {
+     "numero": "CA 1473/26",
+     "objeto": "Estimulación vagal",
+     "apertura": "2026-11-18"
+    },
+    {
+     "numero": "CA 1474/26",
+     "objeto": "Generador DBS recargable",
+     "apertura": "2026-11-18"
+    },
+    {
+     "numero": "CA 1475/26",
+     "objeto": "Dos prótesis de amputación",
+     "apertura": "2026-11-18"
+    },
+    {
+     "numero": "CA 1464/26",
+     "objeto": "Generador DBS bilateral no recargable",
+     "apertura": "2026-11-24"
+    }
+   ]
   },
   {
    "id": "pami-aperturas-medicamentos-nov",
@@ -280,7 +581,35 @@
    "fuente": {
     "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "medicamentos",
+   "licitaciones": [
+    {
+     "numero": "CA 1426/26",
+     "objeto": "Omaveloxolona 50 mg",
+     "apertura": "2026-11-18",
+     "hora": "10:00"
+    },
+    {
+     "numero": "CA 1433/26",
+     "objeto": "Nusinersen 12 mg",
+     "apertura": "2026-11-18",
+     "hora": "10:00"
+    },
+    {
+     "numero": "CA 1468/26",
+     "objeto": "Timosina alfa 1,6 mg",
+     "apertura": "2026-11-18",
+     "hora": "10:00"
+    },
+    {
+     "numero": "LP 21/26",
+     "objeto": "Medicación general para los efectores propios",
+     "apertura": "2026-11-26",
+     "hora": "12:00"
+    }
+   ]
   },
   {
    "id": "msal-1583-2026-especialidades",
@@ -364,7 +693,9 @@
    "fuente": {
     "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "cardiovascular"
   },
   {
    "id": "pami-licitacion-oxigeno-domiciliario",
@@ -378,7 +709,22 @@
    "fuente": {
     "nombre": "PAMI · Calendario de aperturas (Compras Nivel Central)",
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "otros",
+   "licitaciones": [
+    {
+     "numero": "LP 20/26",
+     "objeto": "Servicio de oxigenoterapia domiciliaria",
+     "apertura": "2026-11-20"
+    },
+    {
+     "numero": "CA 1452/26",
+     "objeto": "Puesta en servicio y mantenimiento de equipamiento",
+     "apertura": "2026-11-20",
+     "rubro": "dispositivos"
+    }
+   ]
   },
   {
    "id": "arca-5923-2026-suspension-ejecuciones-salud",
@@ -547,7 +893,19 @@
    "fuente": {
     "nombre": "Ministerio de Salud de Neuquén",
     "url": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-reactivos-de-laboratorio-6/"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "licitaciones": [
+    {
+     "numero": "LP 593",
+     "objeto": "Reactivos de laboratorio con equipamiento en préstamo por consumo",
+     "apertura": "2026-11-19",
+     "hora": "10:00",
+     "monto": "$1.156.970.000",
+     "lugar": "Plataforma CO.DI.NEU"
+    }
+   ]
   },
   {
    "id": "msal-remediar-calidad",
@@ -632,7 +990,19 @@
    "fuente": {
     "nombre": "Ministerio de Salud de la Provincia del Neuquén",
     "url": "https://salud.neuquen.gob.ar/objeto-adquisicion-e-instalacion-de-cuatro-4-autoclaves-automaticos-a-vapor-horizontal/"
-   }
+   },
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "licitaciones": [
+    {
+     "numero": "LP 598",
+     "objeto": "Cuatro autoclaves automáticos horizontales a vapor",
+     "apertura": "2026-11-17",
+     "hora": "11:00",
+     "monto": "$496.000.000",
+     "lugar": "Plataforma CO.DI.NEU"
+    }
+   ]
   },
   {
    "id": "colegio-pba-pami",

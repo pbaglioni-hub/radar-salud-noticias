@@ -1,0 +1,23 @@
+{
+ "actualizado": "2026-11-16",
+ "adjudicaciones": [
+  {
+   "id": "br-inc-arp-294-2026-liga-hospitalar",
+   "fecha": "2026-08-11",
+   "ambito": "Rio de Janeiro",
+   "organismo": "Instituto Nacional de Cardiologia (INC)",
+   "procedimiento": "Ata de Registro de Precos 294/2026 · Pregao Eletronico 90.013/2026",
+   "objeto": "Hospital materials (items 11, 13 to 20 and 22)",
+   "rubro": "dispositivos",
+   "proveedor": "Liga Hospitalar Ltda.",
+   "monto": 35366.36,
+   "moneda": "BRL",
+   "detalle": "Price registration valid for 12 months. The notice gives no quantities or unit prices.",
+   "vence": "2027-08-11",
+   "fuente": {
+    "nombre": "O Tempo (DOU)",
+    "url": "https://www.otempo.com.br/politica/2026/8/11/instituto-nacional-de-cardiologia-formaliza-registro-de-precos-para-materiais-hospitalares"
+   }
+  }
+ ]
+}
