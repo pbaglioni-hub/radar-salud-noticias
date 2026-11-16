@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-15",
+ "actualizado": "2026-11-16",
  "noticias": [
+  {
+   "id": "mx-sarampion-brote-cerca-cierre-nov2026",
+   "nivel": "verde",
+   "fecha": "2026-11-15",
+   "ambito": "Mexico",
+   "organismo": "Secretaría de Salud",
+   "titulo": "México se acerca al cierre del brote de sarampión con 90% de cobertura de vacunación",
+   "resumen": "El secretario de Salud, David Kershenobich, reportó que México está muy cerca de cerrar el brote de sarampión activo desde 2025, con solo 6 casos activos a nivel nacional (5 en Chiapas, 1 en Quintana Roo) y 90% de cobertura de vacunación. Desde febrero de 2025 hasta el 13 de noviembre de 2026 se han confirmado 20,701 casos y 50 muertes, con 40.9 millones de dosis aplicadas en 2025-2026 y 10.8 millones de dosis disponibles en 21,000 puntos de vacunación. El gobierno busca interrumpir la transmisión en 2027 y recertificarse como país libre de sarampión en 2028.",
+   "accion": "Empresas de salud, aseguradoras y hospitales privados pueden anticipar una reducción del riesgo epidemiológico de sarampión en el corto plazo, aunque deben mantener protocolos de vacunación y vigilancia dado que Jalisco, Chihuahua, CDMX y Durango aún concentran casos históricos.",
+   "fuente": {
+    "nombre": "El Chamuco y los Hijos del Averno (citando Secretaría de Salud)",
+    "url": "https://elchamuco.com.mx/2026/11/15/mexico-registra-seis-casos-activos-de-sarampion-salud-reporta-90-de-cobertura-de-vacunacion/"
+   }
+  },
   {
    "id": "mx-sheinbaum-china-hospitales-inteligentes",
    "nivel": "verde",
@@ -13,6 +27,20 @@
    "fuente": {
     "nombre": "Consultor Salud Mexico",
     "url": "https://consultorsalud.com.mx/sheinbaum-china-hospitales-inteligentes/"
+   }
+  },
+  {
+   "id": "mx-concalidad-dof-nov2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-13",
+   "ambito": "Mexico",
+   "organismo": "Secretaría de Salud",
+   "titulo": "DOF publica acuerdo que actualiza y reestructura el Comité Nacional por la Calidad en Salud (CONCALIDAD)",
+   "resumen": "La Secretaría de Salud, encabezada por David Kershenobich, publicó en el Diario Oficial de la Federación del 13 de noviembre de 2026 el acuerdo que actualiza y sustituye el marco de 2007 de CONCALIDAD, con 26 integrantes (19 permanentes, entre ellos IMSS, IMSS-Bienestar, ISSSTE y Cofepris, mas 7 representantes estatales rotativos) y representacion de hospitales privados (AMH, ANHP, Consorcio Mexicano de Hospitales). La presidencia pasa de la Subsecretaria de Innovacion y Calidad a la Secretaria de Salud; el acuerdo entra en vigor el 17 de noviembre de 2026 y otorga 13 atribuciones, incluida la aprobacion de indicadores de calidad y el seguimiento a quejas por mala calidad de servicio.",
+   "accion": "Hospitales privados y proveedores del sector salud deben revisar el acuerdo DOF del 13/11/2026 para entender sus nuevas obligaciones de reporte de calidad y preparar su participación antes de la entrada en vigor el 17 de noviembre.",
+   "fuente": {
+    "nombre": "Diario Oficial de la Federación (DOF) / Consultorsalud México",
+    "url": "https://consultorsalud.com.mx/concalidad-mexico-2026/"
    }
   },
   {

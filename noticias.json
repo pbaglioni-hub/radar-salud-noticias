@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-15",
+ "actualizado": "2026-11-16",
  "noticias": [
+  {
+   "id": "anmat-7338-2026-kinfarma-prohibicion-bsas",
+   "nivel": "rojo",
+   "fecha": "2026-11-16",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT prohíbe a KINFARMA S.A. comercializar fuera de la provincia de Buenos Aires",
+   "resumen": "Mediante la Disposición 7338/2026 (firmada el 11/11/2026 y publicada en el Boletín Oficial el 16/11/2026), ANMAT prohibió a KINFARMA S.A. (CUIL 30-71451777-1, planta en Villa Adelina, provincia de Buenos Aires) comercializar medicamentos, especialidades medicinales y productos médicos fuera de dicha provincia, por no contar con habilitación para tránsito interjurisdiccional. Una inspección (Acta 3413 Serie A) detectó remitos y facturas de venta a empresas de internación domiciliaria y obras sociales dentro y fuera de la provincia. ANMAT instruyó además un sumario sanitario a la firma y a su dirección técnica.",
+   "accion": "Las obras sociales, droguerías y empresas de internación domiciliaria que operen con KINFARMA S.A. deben suspender de inmediato toda compra o distribución de sus productos fuera de la provincia de Buenos Aires y verificar la habilitación vigente de sus proveedores farmacéuticos.",
+   "fuente": {
+    "nombre": "Boletín Oficial de la República Argentina",
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350363/20261116"
+   }
+  },
+  {
+   "id": "resfc-4-2026-caa-uvb-vitamina-d2",
+   "nivel": "amarillo",
+   "fecha": "2026-11-16",
+   "ambito": "Nación",
+   "organismo": "Secretaría de Gestión Sanitaria (Ministerio de Salud) y Secretaría de Agricultura, Ganadería y Pesca",
+   "titulo": "Nueva norma habilita el tratamiento UV-B de alimentos para enriquecerlos con vitamina D2",
+   "resumen": "La Resolución Conjunta 4/2026 (RESFC-2026-4-APN-SGS#MS, firmada el 05/11/2026 y publicada en el Boletín Oficial el 16/11/2026) modifica el artículo 183 del Código Alimentario Argentino y autoriza aplicar radiación UV-B (280-320 nm) en alimentos con ergosterol natural, como hongos de cultivo controlado, para aumentar su contenido de vitamina D2. Exige que los envases lleven la leyenda 'Tratado con luz UV-B para aumentar el contenido de Vit.D2' y entra en vigencia el 17/11/2026, el día siguiente de su publicación.",
+   "accion": "Las empresas de alimentos (en especial productoras de hongos y suplementos) que quieran aplicar este tratamiento deben revisar los nuevos requisitos de proceso y rotulado antes de lanzar o reformular productos.",
+   "fuente": {
+    "nombre": "Boletín Oficial de la República Argentina",
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350360/20261116"
+   }
+  },
+  {
+   "id": "anlis-malbran-antivenenos-50-aumento-nino-2026",
+   "nivel": "verde",
+   "fecha": "2026-11-14",
+   "ambito": "Nación",
+   "organismo": "Ministerio de Salud de la Nación / ANLIS-Malbrán",
+   "titulo": "Salud aumentó 50% la producción de antivenenos ante la llegada de El Niño",
+   "resumen": "El Ministerio de Salud, a través del Instituto Nacional de Producción de Biológicos de ANLIS-Malbrán, incrementó un 50% su producción habitual de sueros antivenenos dentro de su Plan de Contingencia 2026, elaborando 5.400 unidades adicionales, de las cuales 1.776 ya fueron distribuidas a las provincias, como medida preventiva ante el mayor riesgo de mordeduras y picaduras que trae el fenómeno climático El Niño.",
+   "accion": "Instituciones de salud, aseguradoras y empresas con operaciones en zonas de riesgo de inundación deberían confirmar con las autoridades sanitarias provinciales el stock disponible de sueros antiofídicos para la temporada.",
+   "fuente": {
+    "nombre": "BAE Negocios",
+    "url": "https://www.baenegocios.com/saludybienestar/alud-aumento-un-50-la-produccion-de-antivenenos-ante-la-llegada-de-el-nino/"
+   }
+  },
   {
    "id": "pami-nuevas-aperturas-18-20-nov-2026",
    "nivel": "amarillo",
