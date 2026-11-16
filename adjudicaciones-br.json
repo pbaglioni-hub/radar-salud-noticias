@@ -2,6 +2,24 @@
  "actualizado": "2026-11-16",
  "adjudicaciones": [
   {
+   "id": "br-inc-arp-339-2026-aframed",
+   "fecha": "2026-09-01",
+   "ambito": "Rio de Janeiro",
+   "organismo": "Instituto Nacional de Cardiologia (INC)",
+   "procedimiento": "Ata de Registro de Precos 339/2026 · Pregao Eletronico 90.061/2026",
+   "objeto": "Hospital materials (items 10 and 11)",
+   "rubro": "dispositivos",
+   "proveedor": "Aframed Produtos Hospitalares Ltda",
+   "monto": 837.5,
+   "moneda": "BRL",
+   "detalle": "Signed August 29, 2026. The notice does not give quantities or unit prices.",
+   "vence": "2027-09-01",
+   "fuente": {
+    "nombre": "O Tempo (DOU)",
+    "url": "https://www.otempo.com.br/politica/2026/9/1/inc-formaliza-registro-de-precos-para-aquisicao-de-materiais-hospitalares"
+   }
+  },
+  {
    "id": "br-inc-arp-294-2026-liga-hospitalar",
    "fecha": "2026-08-11",
    "ambito": "Rio de Janeiro",
@@ -17,6 +35,78 @@
    "fuente": {
     "nombre": "O Tempo (DOU)",
     "url": "https://www.otempo.com.br/politica/2026/8/11/instituto-nacional-de-cardiologia-formaliza-registro-de-precos-para-materiais-hospitalares"
+   }
+  },
+  {
+   "id": "br-inc-pe-90052-2026-levemed",
+   "fecha": "2026-08-05",
+   "ambito": "Rio de Janeiro",
+   "organismo": "Instituto Nacional de Cardiologia (INC)",
+   "procedimiento": "Price registration · Pregao Eletronico 90.052/2026",
+   "objeto": "General-use medicines (items 1 and 13)",
+   "rubro": "medicamentos",
+   "proveedor": "Levemed Distribuicao, Importacao e Exportacao de Medicamentos Ltda",
+   "monto": 64519.51,
+   "moneda": "BRL",
+   "detalle": "Signed July 31, 2026. The notice does not name the products or unit prices.",
+   "vence": "2027-08-05",
+   "fuente": {
+    "nombre": "O Tempo (DOU)",
+    "url": "https://www.otempo.com.br/politica/2026/8/5/instituto-nacional-de-cardiologia-registra-r-821-mil-para-compra-de-medicamentos"
+   }
+  },
+  {
+   "id": "br-inc-pe-90052-2026-green-med",
+   "fecha": "2026-08-05",
+   "ambito": "Rio de Janeiro",
+   "organismo": "Instituto Nacional de Cardiologia (INC)",
+   "procedimiento": "Price registration · Pregao Eletronico 90.052/2026",
+   "objeto": "General-use medicines (items 3 and 6)",
+   "rubro": "medicamentos",
+   "proveedor": "Green Med Distribuidora e Importadora de Medicamentos e Produtos para Saude Ltda",
+   "monto": 15352.56,
+   "moneda": "BRL",
+   "detalle": "Signed July 31, 2026. The notice does not name the products or unit prices.",
+   "vence": "2027-08-05",
+   "fuente": {
+    "nombre": "O Tempo (DOU)",
+    "url": "https://www.otempo.com.br/politica/2026/8/5/instituto-nacional-de-cardiologia-registra-r-821-mil-para-compra-de-medicamentos"
+   }
+  },
+  {
+   "id": "br-inc-pe-90052-2026-fresenius",
+   "fecha": "2026-08-05",
+   "ambito": "Rio de Janeiro",
+   "organismo": "Instituto Nacional de Cardiologia (INC)",
+   "procedimiento": "Price registration · Pregao Eletronico 90.052/2026",
+   "objeto": "General-use medicines (item 4)",
+   "rubro": "medicamentos",
+   "proveedor": "Fresenius Kabi Brasil Ltda",
+   "monto": 2267,
+   "moneda": "BRL",
+   "detalle": "Signed July 31, 2026. The notice does not name the product or unit price.",
+   "vence": "2027-08-05",
+   "fuente": {
+    "nombre": "O Tempo (DOU)",
+    "url": "https://www.otempo.com.br/politica/2026/8/5/instituto-nacional-de-cardiologia-registra-r-821-mil-para-compra-de-medicamentos"
+   }
+  },
+  {
+   "id": "br-inc-arp-249-2026-sellmed",
+   "fecha": "2026-07-15",
+   "ambito": "Rio de Janeiro",
+   "organismo": "Instituto Nacional de Cardiologia (INC)",
+   "procedimiento": "Ata de Registro de Precos 249/2026 · Pregao Eletronico 90.030/2026",
+   "objeto": "Hospital materials (item 11)",
+   "rubro": "dispositivos",
+   "proveedor": "Sellmed Produtos Medicos e Hospitalares Ltda.",
+   "monto": 7078.4,
+   "moneda": "BRL",
+   "detalle": "Signed July 13, 2026. The notice does not give quantities or unit prices.",
+   "vence": "2027-07-15",
+   "fuente": {
+    "nombre": "O Tempo (DOU)",
+    "url": "https://www.otempo.com.br/politica/2026/7/15/inc-oficializa-registro-de-precos-para-compra-de-materiais-hospitalares"
    }
   }
  ]

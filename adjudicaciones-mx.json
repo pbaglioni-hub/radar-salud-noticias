@@ -54,6 +54,24 @@
     "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
     "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
    }
+  },
+  {
+   "id": "mx-imss-sonora-endomedica-extraccion-electrodos-2026",
+   "fecha": "2026-07-23",
+   "ambito": "Sonora",
+   "organismo": "IMSS · UMAE Hospital de Especialidades No. 2 (Ciudad Obregon)",
+   "procedimiento": "Direct award AA-50-GYR-050GYR037-N-80-2026 · Contract 050GYR037N08026-119-00 (open contract)",
+   "objeto": "Integrated service for pacemaker lead extraction, including stylets, dilator sheaths and snares",
+   "rubro": "cardiovascular",
+   "proveedor": "ENDOMEDICA, S.A. de C.V.",
+   "monto": 1582734.16,
+   "moneda": "MXN",
+   "detalle": "Open contract: minimum MXN 720,725.00 + VAT, maximum MXN 1,364,426.00 + MXN 218,308.16 VAT (MXN 1,582,734.16 total). Valid July 3 to September 30, 2026 per the main clause; one annex lists June 30, 2026.",
+   "vence": "2026-09-30",
+   "fuente": {
+    "nombre": "IMSS (contract PDF)",
+    "url": "https://reposipot.imss.gob.mx/OOAD/UMAE/UMAE2-SONORA/2026/050GYR037N08026-0119-00%20FINAT%20SEIA26EO10190057.pdf"
+   }
   }
  ]
 }
