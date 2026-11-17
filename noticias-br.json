@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16",
+ "actualizado": "2026-11-17",
  "noticias": [
   {
    "id": "br-ans-ap71-lenvatinib-ivosidenib-rol",
@@ -308,6 +308,32 @@
     "nombre": "Conitec · Consultas públicas vigentes",
     "url": "https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/vigentes"
    }
+  },
+  {
+   "id": "br-exercito-hgef-pe-260-2026-oncologicos-comodato",
+   "nivel": "amarillo",
+   "fecha": "2026-11-04",
+   "ambito": "Federal",
+   "organismo": "Hospital Geral de Fortaleza (Exercito Brasileiro)",
+   "titulo": "Army's Hospital Geral de Fortaleza opens price-registration tender for 142 oncology drug items with equipment on loan, closing Nov 18",
+   "resumen": "Pregao Eletronico 260/2026, run by the Hospital Geral de Fortaleza (Brazilian Army) under price-registration rules (SRP, Law 14.133/2021), covers the eventual purchase of oncology medicines across 142 items, supplied together with equipment on loan (comodato) for the hospital and other participating units. The notice was published on PNCP on 2026-11-04 under control number 00394452000103-1-023582/2026 (internal process 64579.005749/2026-29); the proposal submission window closes on 2026-11-18 at 09:00. Estimated value: R$156,623.28. The specific drug list sits in the restricted annex and was not available for this check.",
+   "accion": "Oncology suppliers: review the 142-item annex on PNCP (control number 00394452000103-1-023582/2026) before the window closes on Nov 18 at 09:00.",
+   "fuente": {
+    "nombre": "Querolicitacao - Pregao Eletronico 260/2026, Hospital Geral de Fortaleza (PNCP)",
+    "url": "https://querolicitacao.com.br/licitacoes/escolha-da-proposta-mais-vantajosa-para-a-eventual-aquisicao-de-medicamentos-oncologicos-com-forneci/00394452000103-1-023582/2026"
+   },
+   "tipo": "licitacion",
+   "rubro": "oncologia",
+   "licitaciones": [
+    {
+     "numero": "Pregao Eletronico 260/2026",
+     "objeto": "Oncology medicines with equipment supplied on loan (comodato), 142 items",
+     "apertura": "2026-11-18",
+     "hora": "09:00",
+     "monto": "R$156.623,28",
+     "rubro": "oncologia"
+    }
+   ]
   },
   {
    "id": "br-wegovy-oral-approval",

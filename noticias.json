@@ -1,6 +1,67 @@
 {
- "actualizado": "2026-11-16",
+ "actualizado": "2026-11-17",
  "noticias": [
+  {
+   "id": "pami-aperturas-cardiovascular-trauma-18-20-nov-2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-17",
+   "ambito": "Nación",
+   "organismo": "PAMI (INSSJP)",
+   "titulo": "PAMI abre cinco compulsas cardiovasculares entre el 18 y el 20 de noviembre: dos endoprótesis aórticas, cierre de CIA, válvula mitral y cardiodesfibrilador, más una prótesis de amputación",
+   "resumen": "El calendario de aperturas de PAMI suma seis compulsas abreviadas nuevas. En cardiovascular, el 18/11 a las 11:00 abren CA 1469/26 y CA 1476/26, dos endoprótesis de aorta abdominal bifurcada y recta expandibles por balón; el 19/11 a las 11:00 abre CA 1480/26, un cardiodesfibrilador implantable subcutáneo; y el 20/11 a las 11:00 abren CA 1484/26 (dispositivo de cierre de comunicación interauricular de doble disco) y CA 1486/26 (sistema de reparación percutánea de válvula mitral borde a borde). En ortopedia, el 18/11 a las 11:00 abre CA 1475/26, dos prótesis de amputación.",
+   "accion": "Proveedores de implantes cardiovasculares y de amputación: descargar el pliego hoy y preparar la oferta, porque las aperturas son entre el 18 y el 20 de noviembre.",
+   "fuente": {
+    "nombre": "PAMI Prestadores - Calendario de aperturas Compras Nivel Central",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
+   },
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "licitaciones": [
+    {
+     "numero": "CA 1469/26",
+     "objeto": "Endoprótesis de aorta abdominal bifurcada y recta, expandibles por balón",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1476/26",
+     "objeto": "Endoprótesis de aorta abdominal bifurcada y recta, expandibles por balón",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1475/26",
+     "objeto": "Dos prótesis de amputación",
+     "apertura": "2026-11-18",
+     "hora": "11:00",
+     "rubro": "traumatologia"
+    },
+    {
+     "numero": "CA 1480/26",
+     "objeto": "Cardiodesfibrilador implantable subcutáneo",
+     "apertura": "2026-11-19",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1484/26",
+     "objeto": "Dispositivo de cierre de comunicación interauricular (CIA) de doble disco",
+     "apertura": "2026-11-20",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "CA 1486/26",
+     "objeto": "Sistema de reparación percutánea de válvula mitral borde a borde",
+     "apertura": "2026-11-20",
+     "hora": "11:00",
+     "rubro": "cardiovascular"
+    }
+   ],
+   "comentario": "Esta tanda concentra implantes estructurales de alto valor unitario -dos endoprótesis aórticas, un sistema de reparación percutánea de válvula mitral y un dispositivo de cierre de CIA-, además de un cardiodesfibrilador subcutáneo, todos con apertura entre el 18 y el 20 de noviembre y pocos días de margen para presentar oferta."
+  },
   {
    "id": "anmat-7338-2026-kinfarma-prohibicion-bsas",
    "nivel": "rojo",
