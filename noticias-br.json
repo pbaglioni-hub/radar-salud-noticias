@@ -1,6 +1,22 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "noticias": [
+    {
+      "id": "br-anvisa-suplementos-norvy-nutrymed-morbach",
+      "nivel": "rojo",
+      "fecha": "2026-11-17",
+      "ambito": "Brazil",
+      "organismo": "ANVISA",
+      "titulo": "ANVISA suspends sale of three dietary-supplement lines after safety and manufacturing irregularities",
+      "resumen": "On Tuesday, November 17, ANVISA ordered the suspension of sale, distribution, advertising and use of three dietary supplement products after finding quality and safety irregularities: Melatonina Spray, made by Norvy Saude Ltda, a sublingual melatonin product for which no safety assessment was on file and which advertised unauthorized sleep-related claims; all supplements made by Nutrymed Industria Farmaceutica e Alimenticia Ltda, after a Goiania health-surveillance inspection found expired raw materials, inadequate storage, no quality control and water-quality problems; and the capsule products Nutri Bluwey and Nutri AN-T, made by Morbach Nutri Complementos Alimentares Ltda, cited for insufficient documentation of quality, safety and composition, unauthorized ingredients and calcium levels below the required minimum. The exact ANVISA resolution (RE) number was not available in the source used for this item.",
+      "accion": "Pharmacies, supplement retailers and distributors should pull Melatonina Spray (Norvy), any Nutrymed-brand supplement, and Nutri Bluwey/Nutri AN-T (Morbach) from sale and confirm the measure's exact scope with ANVISA before restocking.",
+      "fuente": {
+        "nombre": "Prensa Mercosur",
+        "url": "https://prensamercosur.org/2026/11/18/brasil-anvisa-suspende-venda-de-suplementos-alimentares-apos-identificar-irregularidades-saiba-quais-sao/"
+      },
+      "tipo": "prohibicion",
+      "rubro": "otros"
+    },
     {
       "id": "br-ans-ap71-lenvatinib-ivosidenib-rol",
       "nivel": "amarillo",

@@ -1,6 +1,38 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "noticias": [
+    {
+      "id": "anmat-7368-2026-gel-sanicol-burkholderia",
+      "nivel": "rojo",
+      "fecha": "2026-11-18",
+      "ambito": "Nación",
+      "organismo": "ANMAT",
+      "titulo": "ANMAT prohíbe el gel para ecografías Sanicol tras hallar contaminación bacteriana",
+      "resumen": "Mediante la Disposición 7368/2026, publicada en el Boletín Oficial el 18 de noviembre, ANMAT prohibió en todo el país el uso, venta, publicidad y distribución del \"Gel Neutro\" marca Sanicol, fabricado por Alcofrac SA (localidad de 9 de Abril, provincia de Buenos Aires), tras detectar en al menos cinco lotes analizados por la propia empresa (L290N, L295N, L351N, L346N y L284N) colonias compatibles con el complejo Burkholderia cepacia/Burkholderia contaminans; el Hospital Muñiz reportó además otro lote con el mismo problema. El producto estaba registrado como cosmético, pero algunos envases lo rotulaban como \"apto para ultrasonido\", un uso no autorizado para esa categoría. La inspección de ANMAT halló falta de órdenes de elaboración, envasado y etiquetado, ausencia de controles microbiológicos y deficiencias en el circuito de agua desmineralizada de la planta. ANMAT inhibió preventivamente a Alcofrac para elaborar cosméticos e inició un sumario sanitario contra la empresa y su directora técnica.",
+      "accion": "Hospitales, centros de diagnóstico por imágenes y consultorios que usen gel Sanicol para ecografías deben retirarlo de inmediato y verificar los lotes mencionados, dado que es un insumo médico de uso diario con riesgo de contaminación microbiológica en pacientes.",
+      "fuente": {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/sociedad/2026/11/18/la-anmat-prohibio-un-gel-para-ecografias-tras-detectar-contaminacion-con-una-bacteria/"
+      },
+      "tipo": "prohibicion",
+      "rubro": "dispositivos"
+    },
+    {
+      "id": "anmat-7383-2026-baja-distribuidoras-certificados-vencidos",
+      "nivel": "amarillo",
+      "fecha": "2026-11-18",
+      "ambito": "Nación",
+      "organismo": "ANMAT",
+      "titulo": "ANMAT da de baja el permiso de tránsito interjurisdiccional de 55 distribuidoras de productos médicos por certificados vencidos",
+      "resumen": "Mediante la Disposición 7383/2026, publicada en el Boletín Oficial del miércoles 18 de noviembre, ANMAT dio de baja la autorización de tránsito interjurisdiccional de 55 firmas y 56 depósitos que distribuyen productos médicos y de diagnóstico in vitro, al comprobar que no habían iniciado el trámite de renovación de sus certificados -que vencen a los cinco años y debe iniciarse hasta 120 días corridos antes del vencimiento- y perdieron así el permiso para trasladar insumos fuera de su jurisdicción provincial. Las firmas afectadas se reparten entre CABA, la provincia de Buenos Aires, Córdoba (siete empresas), Santa Fe, Tucumán, Entre Ríos, Mendoza, Salta (dos) y Corrientes (dos), según la nota de El Argentino Diario; el aviso no detalla la nómina completa de las 55 firmas. El mismo día, mediante la Disposición 7212/2026, ANMAT canceló además la habilitación y el legajo de la droguería Femedical S.A., tras constatar en una inspección que el domicilio declarado en Guevara 1671/1675 (CABA) estaba cerrado; el Ministerio de Salud porteño ya había dado de baja la habilitación jurisdiccional de ese domicilio.",
+      "accion": "Hospitales, droguerías y distribuidores que operen con alguna de estas firmas deben verificar su situación ante ANMAT antes de recibir o despachar productos médicos a través de ellas, dado que perdieron el permiso de tránsito interjurisdiccional; las empresas afectadas pueden presentar recursos de reconsideración o de alzada.",
+      "fuente": {
+        "nombre": "El Argentino Diario",
+        "url": "https://elargentinodiario.com.ar/zona-destacada/18/11/2026/certificados-vencidos-anmat-dio-de-baja-a-55-distribuidoras-de-insumos-medicos/"
+      },
+      "tipo": "otro",
+      "rubro": "dispositivos"
+    },
     {
       "id": "pami-aperturas-cardiovascular-trauma-18-20-nov-2026",
       "nivel": "amarillo",
