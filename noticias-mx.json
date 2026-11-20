@@ -2,6 +2,66 @@
  "actualizado": "2026-11-20",
  "noticias": [
   {
+   "id": "mx-equipo-instrumental-medico-licitaciones-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-19",
+   "ambito": "Federal",
+   "organismo": "IMSS, SEDENA, INDESALUD",
+   "titulo": "Open tenders for medical equipment, instruments and consumables at IMSS, SEDENA and INDESALUD, with openings Nov 23 to Dec 9",
+   "resumen": "Several public procedures for medical equipment and supplies are open on ComprasMX. IMSS: LA-50-GYR-050GYR998-N-106-2026 (group 379 equipment, instruments and medical accessories), bid opening November 23; LA-50-GYR-050GYR012-N-2-2027 (leasing of medical equipment for medical units), November 27; LA-50-GYR-050GYR023-N-13-2027 (maintenance of endoscopy equipment at HGZ 1, 2, 6 and 50, San Luis Potosí, for 2027), December 9. SEDENA: LA-07-110-007000999-T-782-2026 (medical instruments for the 5th section of the Hospital Central Militar, second round), December 2; LA-07-110-007000999-T-48-2027 (wound-care material and other consumables, procedure I), December 8. INDESALUD: LA-63-O39-904037996-N-34-2026 (minor spare parts and accessories for medical and laboratory equipment and instruments), December 9.",
+   "accion": "Device and consumables distributors should check the bases on ComprasMX and confirm the opening dates there before preparing bids.",
+   "fuente": {
+    "nombre": "Postor (ComprasMX data)",
+    "url": "https://postor.com.mx/mercado/equipo-medico"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-50-GYR-050GYR998-N-106-2026",
+     "objeto": "Group 379 equipment, instruments and medical accessories",
+     "apertura": "2026-11-23",
+     "rubro": "dispositivos",
+     "lugar": "IMSS · ComprasMX"
+    },
+    {
+     "numero": "LA-50-GYR-050GYR012-N-2-2027",
+     "objeto": "Leasing of medical equipment for medical units",
+     "apertura": "2026-11-27",
+     "rubro": "dispositivos",
+     "lugar": "IMSS · ComprasMX"
+    },
+    {
+     "numero": "LA-07-110-007000999-T-782-2026",
+     "objeto": "Medical instruments, 5th section Hospital Central Militar (2nd round)",
+     "apertura": "2026-12-02",
+     "rubro": "dispositivos",
+     "lugar": "SEDENA · ComprasMX"
+    },
+    {
+     "numero": "LA-07-110-007000999-T-48-2027",
+     "objeto": "Wound-care material and other consumables (procedure I)",
+     "apertura": "2026-12-08",
+     "rubro": "dispositivos",
+     "lugar": "SEDENA · ComprasMX"
+    },
+    {
+     "numero": "LA-63-O39-904037996-N-34-2026",
+     "objeto": "Spare parts and accessories for medical and lab equipment",
+     "apertura": "2026-12-09",
+     "rubro": "dispositivos",
+     "lugar": "INDESALUD · ComprasMX"
+    },
+    {
+     "numero": "LA-50-GYR-050GYR023-N-13-2027",
+     "objeto": "Maintenance of endoscopy equipment, HGZ 1, 2, 6 and 50 (San Luis Potosí)",
+     "apertura": "2026-12-09",
+     "rubro": "dispositivos",
+     "lugar": "IMSS OOAD San Luis Potosí · ComprasMX"
+    }
+   ]
+  },
+  {
    "id": "mx-lineamientos-uso-seguro-medicamentos-insumos-nov2026",
    "nivel": "amarillo",
    "fecha": "2026-11-18",
@@ -250,6 +310,45 @@
    "rubro": "dispositivos"
   },
   {
+   "id": "mx-imss-protesis-osteosintesis-licitaciones-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-09",
+   "ambito": "Federal",
+   "organismo": "IMSS",
+   "titulo": "IMSS has three open tenders for osteosynthesis, endoprostheses, prostheses and orthoses, with bid openings from Nov 26 to Dec 15",
+   "resumen": "Three IMSS procedures for orthopedic and trauma supplies are open on ComprasMX. LA-50-GYR-050GYR012-T-150-2026 (osteosynthesis material and endoprostheses) is in the clarification stage with bid opening on November 30, 2026. LA-50-GYR-050GYR035-N-6-2027 (supply or repair of prostheses, orthoses and functional aids) opens bids on November 26, 2026. The Mexico City North regional office (OOAD Norte) tendered LA-50-GYR-050GYR016-T-6-2027 for orthoses, prostheses and functional technical aids under a zero-inventory scheme: clarification meeting December 2, bid opening December 15, award January 5, 2027, and expected contract start January 25, 2027.",
+   "accion": "Orthopedic and trauma implant suppliers should download the bases on ComprasMX now and confirm dates there, since the first opening is November 26.",
+   "fuente": {
+    "nombre": "Postor (ComprasMX data) / Roma Licitaciones",
+    "url": "https://www.romalicitaciones.com.mx/imss-abre-licitacion-para-protesis-y-ortesis/"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-50-GYR-050GYR035-N-6-2027",
+     "objeto": "Prostheses, orthoses and functional aids (supply or repair)",
+     "apertura": "2026-11-26",
+     "rubro": "traumatologia",
+     "lugar": "IMSS · ComprasMX"
+    },
+    {
+     "numero": "LA-50-GYR-050GYR012-T-150-2026",
+     "objeto": "Osteosynthesis material and endoprostheses",
+     "apertura": "2026-11-30",
+     "rubro": "traumatologia",
+     "lugar": "IMSS · ComprasMX"
+    },
+    {
+     "numero": "LA-50-GYR-050GYR016-T-6-2027",
+     "objeto": "Orthoses, prostheses and functional technical aids (zero inventory)",
+     "apertura": "2026-12-15",
+     "rubro": "traumatologia",
+     "lugar": "IMSS OOAD Norte, Mexico City · ComprasMX"
+    }
+   ]
+  },
+  {
    "id": "mx-argliptin-d-adulterated",
    "nivel": "rojo",
    "fecha": "2026-11-08",
@@ -420,6 +519,22 @@
    }
   },
   {
+   "id": "mx-quirort-inhabilitacion-imss-osteosintesis",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "traumatologia",
+   "fecha": "2026-10-29",
+   "ambito": "Federal",
+   "organismo": "Secretaría Anticorrupción y Buen Gobierno (OIC IMSS)",
+   "titulo": "IMSS osteosynthesis and endoprosthesis supplier Quirort barred for one year from public contracts",
+   "resumen": "A circular published in the DOF on October 29, 2026 (SABG/OICGYR/AR/6633/2026, case PISI-A-NC-DS-0004/2026) disqualifies Quirort, S.A. de C.V., a supplier of osteosynthesis and endoprosthesis material to IMSS, from submitting bids or signing new public contracts for one year starting October 30, 2026, and imposes a fine; the restriction continues past the year if the fine is unpaid. The report did not state the amount or the specific reason.",
+   "accion": "Hospitals and competitors should expect IMSS orthopedic contracts held by Quirort to be re-tendered or reassigned; distributors partnered with Quirort should review pending bids.",
+   "fuente": {
+    "nombre": "Consultor Salud",
+    "url": "https://consultorsalud.com.mx/quirort-imss-inhabilitacion-mexico/"
+   }
+  },
+  {
    "id": "mx-saizen-nuevos-lotes-falsificados",
    "nivel": "rojo",
    "fecha": "2026-10-26",
@@ -543,6 +658,22 @@
    "fuente": {
     "nombre": "La Región",
     "url": "https://laregiontam.com.mx/2026/10/05/gobierno-adjudica-94-5-del-material-de-curacion-para-hospitales-en-2027-y-2028/"
+   }
+  },
+  {
+   "id": "mx-darzalex-simponi-falsificados",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "oncologia",
+   "fecha": "2026-10-05",
+   "ambito": "Federal",
+   "organismo": "COFEPRIS",
+   "titulo": "COFEPRIS warns of counterfeit oncology drug Darzalex (daratumumab) and Simponi lots",
+   "resumen": "COFEPRIS issued a health alert for counterfeit DARZALEX (daratumumab) 400 mg/20 mL vials, lot GGH2227 (expiry 06/2028), and Simponi (golimumab) 50 mg/0.5 mL prefilled syringes, lot 01H201KE (expiry May 2028). Importer Janssen-Cilag reported it has no manufacturing, packaging or release records for these lots, so their identity, purity, efficacy and quality cannot be guaranteed. The same alert flagged adulterated ADerogyl lots CMXA036 and CMXA037 (Sanofi).",
+   "accion": "Oncology pharmacies and hospital buyers should quarantine these lots if found, file a sanitary complaint, and buy only from distributors authorized by the registration holder.",
+   "fuente": {
+    "nombre": "La Voz de Michoacán",
+    "url": "https://www.lavozdemichoacan.com.mx/mexico/salud-pais/cofepris-alerta-falsificacion-medicamentos-darzalex-simponi-2026/"
    }
   },
   {
