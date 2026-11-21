@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20",
+ "actualizado": "2026-11-21",
  "noticias": [
   {
    "id": "pami-aperturas-cardiovascular-19-24-nov-2026",
@@ -156,6 +156,22 @@
      "rubro": "traumatologia"
     }
    ]
+  },
+  {
+   "id": "anmat-retiro-sinaxial-gm1-trb-pharma",
+   "nivel": "rojo",
+   "fecha": "2026-11-19",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT ordena el retiro de todos los lotes de Sinaxial (monosialogangliósido porcino GM1) de TRB Pharma",
+   "resumen": "A solicitud de ANMAT, TRB PHARMA S.A. inició el retiro del mercado de todos los lotes de SINAXIAL / Monosialogangliósido porcino (GM1) 20 mg y 100 mg inyectable (Certificado N° 39.097, presentaciones de 6 y 3 ampollas de 2 ml), utilizado como neurotrófico, neuritogénico y neuroprotector. La medida es consecuencia de la Disposición 7250/2026 del 12 de noviembre, que prohibió todas las especialidades medicinales con GM1 en el país al concluir que la evidencia científica disponible no demuestra su eficacia y advierte riesgos graves, como el síndrome de Guillain-Barré asociado a gangliósidos de origen animal.",
+   "accion": "Hospitales, farmacias y droguerías deben retirar de inmediato todas las unidades de Sinaxial 20 y 100 y abstenerse de utilizarlas o dispensarlas.",
+   "fuente": {
+    "nombre": "ANMAT - argentina.gob.ar",
+    "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-todos-los-lotes-de-sinaxial"
+   },
+   "tipo": "otro",
+   "rubro": "medicamentos"
   },
   {
    "id": "anmat-7368-2026-gel-sanicol-burkholderia",
@@ -385,6 +401,22 @@
      "lugar": "Dirección General de Compras, av. Centenario 77, San Isidro"
     }
    ]
+  },
+  {
+   "id": "anmat-retiro-ciprofloxacina-ugal-cp100-1383",
+   "nivel": "rojo",
+   "fecha": "2026-11-13",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT informa el retiro del lote CP100-1383 de Ciprofloxacina UGAL inyectable",
+   "resumen": "UGAL FARMACÉUTICA S.A. inició de manera voluntaria el retiro del mercado de CIPROFLOXACINA UGAL / Ciprofloxacino 200 mg, solución inyectable por 100 ml (presentación hospitalaria por 20, 25 y 50 unidades, Certificado N° 57880), lote CP100-1383, sub-lotes 01 y 02, con vencimiento 07/2027. La medida fue tomada por un desvío de calidad detectado en el producto; ANMAT no precisa el parámetro técnico involucrado. Es un antibacteriano de amplio espectro de uso hospitalario para infecciones del tracto urinario, respiratorio inferior, piel y tejidos blandos, huesos y articulaciones, intraabdominales y neumonía nosocomial.",
+   "accion": "Farmacias hospitalarias, clínicas y droguerías deben revisar su stock, separar las unidades del lote CP100-1383 (sub-lotes 01 y 02) y abstenerse de utilizarlas.",
+   "fuente": {
+    "nombre": "ANMAT - argentina.gob.ar",
+    "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-ciprofloxacina-ugal"
+   },
+   "tipo": "otro",
+   "rubro": "medicamentos"
   },
   {
    "id": "anmat-7250-2026-prohibicion-gangliosidos-gm1",
@@ -618,6 +650,38 @@
     "nombre": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/12/jornadas-de-salud-ponen-en-valor-la-inversion-continua-en-infraestructura-y-capital-humano/"
    }
+  },
+  {
+   "id": "anmat-7206-2026-canna-oil-prohibicion",
+   "nivel": "rojo",
+   "fecha": "2026-11-12",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT prohíbe el aceite de cannabis \"Canna Oil\" promocionado para uso medicinal sin registro",
+   "resumen": "Mediante la Disposición 7206/2026, ANMAT prohibió el uso, la comercialización -incluso por plataformas electrónicas- y la distribución en todo el país de los productos identificados como \"Canna Oil\" (presentaciones en gotero y crema), promocionados en internet por los establecimientos \"Canna Oil\" y \"Pura Sanación\" para tratar dolores crónicos, fibromialgia, cáncer, epilepsia, VIH, alzhéimer, párkinson y autismo, entre otras afecciones. La investigación se originó en una denuncia por un folleto publicitario y ANMAT no halló registro del producto ni habilitación de los establecimientos que lo comercializan; se desconoce su composición, condiciones de elaboración y canales de dispensación. La medida se comunicará a las provincias, a Defensa del Consumidor y a las áreas de control de publicidad.",
+   "accion": "Farmacias, tiendas online y profesionales de la salud deben discontinuar la venta y la recomendación de \"Canna Oil\" ante la ausencia total de registro sanitario y controles de calidad sobre su composición.",
+   "fuente": {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/sociedad/2026/11/12/la-anmat-prohibio-una-marca-de-botox-un-aceite-de-cannabis-y-un-alcohol-etilico/"
+   },
+   "tipo": "prohibicion",
+   "rubro": "otros"
+  },
+  {
+   "id": "anmat-7249-2026-fresh-clean-alcohol-etilico",
+   "nivel": "rojo",
+   "fecha": "2026-11-12",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT prohíbe todos los lotes del alcohol etílico \"Fresh & Clean\" de FANC S.A. por no tener registro como desinfectante",
+   "resumen": "A través de la Disposición 7249/2026, ANMAT prohibió la comercialización y ordenó el retiro del mercado de todos los lotes de \"Fresh & Clean. Alcohol Etílico. Exclusivo Uso Profesional. Categoría Desinfectante\", de la firma FANC S.A. El producto se presentaba como sanitizante con alcohol etílico de 96° pero no contaba con registro, y por sus características corresponde a un producto de uso sanitario, por lo que no podía comercializarse como desinfectante domisanitario. La empresa fue citada: su director técnico dijo inicialmente desconocer el producto, y luego los apoderados lo reconocieron como propio y señalaron no haber consultado su elaboración y venta con ese responsable técnico.",
+   "accion": "Distribuidores y usuarios profesionales de \"Fresh & Clean\" deben discontinuar su comercialización y uso de inmediato, dado que carece de registro sanitario habilitante.",
+   "fuente": {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/sociedad/2026/11/12/la-anmat-prohibio-una-marca-de-botox-un-aceite-de-cannabis-y-un-alcohol-etilico/"
+   },
+   "tipo": "prohibicion",
+   "rubro": "otros"
   },
   {
    "id": "hematologos-rio-negro-corte-pami-nov-2026",

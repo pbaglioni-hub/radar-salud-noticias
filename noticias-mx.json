@@ -1,6 +1,38 @@
 {
- "actualizado": "2026-11-20",
+ "actualizado": "2026-11-21",
  "noticias": [
+  {
+   "id": "mx-uanl-kits-angiografia-angioplastia-coronaria-endovascular-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-20",
+   "ambito": "Nuevo Leon (state)",
+   "organismo": "Universidad Autonoma de Nuevo Leon (UANL)",
+   "titulo": "UANL opens tenders for coronary angiography/angioplasty kits and neurological endovascular therapy kits, with cardiovascular products",
+   "resumen": "UANL has two open ComprasMX procedures for interventional kits, both published November 20, 2026: LA-78-037-919058965-T-2-2027, for kits for coronary angiography and angioplasty procedures (bid opening December 3, 2026); and LA-78-037-919058965-T-1-2027, for kits for neurological endovascular therapy procedures (bid opening December 2, 2026). A third, related procedure from the same institution (LA-78-037-919058965-T-3-2027, laboratory and blood-bank supplies) opens December 2, 2026 but is not cardiovascular.",
+   "accion": "Suppliers of coronary angiography/angioplasty kits and neuro-endovascular devices should review the ComprasMX bases and prepare bids ahead of the December 2-3 openings.",
+   "fuente": {
+    "nombre": "Postor (ComprasMX data)",
+    "url": "https://postor.com.mx/mercado/material-de-curacion"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-78-037-919058965-T-2-2027",
+     "objeto": "Kits for coronary angiography and angioplasty procedures",
+     "apertura": "2026-12-03",
+     "rubro": "cardiovascular",
+     "lugar": "UANL · ComprasMX"
+    },
+    {
+     "numero": "LA-78-037-919058965-T-1-2027",
+     "objeto": "Kits for neurological endovascular therapy procedures",
+     "apertura": "2026-12-02",
+     "rubro": "dispositivos",
+     "lugar": "UANL · ComprasMX"
+    }
+   ]
+  },
   {
    "id": "mx-equipo-instrumental-medico-licitaciones-nov2026",
    "nivel": "amarillo",
@@ -250,6 +282,38 @@
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/cofepris-farmacovigilancia-tecnovigilancia/"
    }
+  },
+  {
+   "id": "mx-imss-osteosintesis-endoprotesis-protesis-ortesis-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-10",
+   "ambito": "Federal",
+   "organismo": "IMSS",
+   "titulo": "IMSS has two open tenders for osteosynthesis/endoprosthesis supply-and-removal services and for prosthesis and orthosis fitting",
+   "resumen": "IMSS has two open ComprasMX procedures for orthopedic devices: LA-50-GYR-050GYR012-T-150-2026, for the acquisition, placement and removal of osteosynthesis material and endoprostheses, published November 10, 2026 with bid opening November 30, 2026; and LA-50-GYR-050GYR035-N-6-2027, for the provision or repair of prostheses, orthoses and functional aids, published November 9, 2026 with bid opening November 26, 2026.",
+   "accion": "Osteosynthesis, endoprosthesis and prosthetics/orthotics suppliers should check the ComprasMX bases and prepare bids ahead of the November 26 and 30 openings.",
+   "fuente": {
+    "nombre": "Postor (ComprasMX data)",
+    "url": "https://postor.com.mx/mercado/material-de-curacion"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-50-GYR-050GYR012-T-150-2026",
+     "objeto": "Acquisition, placement and removal of osteosynthesis material and endoprostheses",
+     "apertura": "2026-11-30",
+     "rubro": "traumatologia",
+     "lugar": "IMSS · ComprasMX"
+    },
+    {
+     "numero": "LA-50-GYR-050GYR035-N-6-2027",
+     "objeto": "Provision or repair of prostheses, orthoses and functional aids",
+     "apertura": "2026-11-26",
+     "rubro": "traumatologia",
+     "lugar": "IMSS · ComprasMX"
+    }
+   ]
   },
   {
    "id": "mx-imss-bienestar-yucatan-transferencia-158",
