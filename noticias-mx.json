@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21",
+ "actualizado": "2026-11-22",
  "noticias": [
   {
    "id": "mx-uanl-kits-angiografia-angioplastia-coronaria-endovascular-nov2026",
@@ -32,6 +32,99 @@
      "lugar": "UANL · ComprasMX"
     }
    ]
+  },
+  {
+   "id": "mx-imss-arthroscopy-integral-service-dec2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-19",
+   "ambito": "Federal",
+   "organismo": "IMSS (Órgano de Operación Administrativa Desconcentrada Sur del Distrito Federal)",
+   "titulo": "IMSS opens tender for integral minimally invasive arthroscopy service for 2027 (traumatology)",
+   "resumen": "IMSS's Southern Mexico City delegation published tender LA-50-GYR-050GYR025-N-6-2027 for an integral minimally invasive medical service covering 834 arthroscopy procedures for fiscal year 2027. The clarifications meeting is scheduled for November 26, 2026, with the bid opening on December 7, 2026.",
+   "accion": "Orthopedic and arthroscopy device and integral-service providers should request the full tender bases before the November 26 clarifications meeting.",
+   "fuente": {
+    "nombre": "SIDOF (Diario Oficial de la Federación)",
+    "url": "https://sidof.segob.gob.mx/notas/docFuente/5804457"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-50-GYR-050GYR025-N-6-2027",
+     "objeto": "Integral minimally invasive medical service for arthroscopy procedures (834 services, FY2027)",
+     "apertura": "2026-12-07",
+     "lugar": "IMSS Sur D.F. (ComprasMX)",
+     "rubro": "traumatologia"
+    }
+   ]
+  },
+  {
+   "id": "mx-imss-oftalmologia-integral-2027-2030",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-19",
+   "ambito": "Federal",
+   "organismo": "IMSS",
+   "titulo": "IMSS opens multi-year, multi-billion-peso tender for integral ophthalmology service 2027-2030",
+   "resumen": "IMSS published international tender LA-50-GYR-050GYR988-T-8-2026 for an integral ophthalmology medical service covering 2027-2030, with a budget ceiling between MXN 1,565,703,667.04 and MXN 3,876,519,806.84 before VAT. The bid opening is December 3, 2026, with the award decision on December 23, 2026.",
+   "accion": "Integral ophthalmology service providers and the equipment/consumable suppliers feeding those contracts should review scope and budget ceilings now.",
+   "fuente": {
+    "nombre": "SIDOF",
+    "url": "https://sidof.segob.gob.mx/notas/docFuente/5802879"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-50-GYR-050GYR988-T-8-2026",
+     "objeto": "Servicio Médico Integral para Oftalmología 2027-2030",
+     "apertura": "2026-12-03",
+     "monto": "$1,565,703,667.04 a $3,876,519,806.84 (techo presupuestal, antes de IVA)",
+     "lugar": "IMSS (ComprasMX)",
+     "rubro": "dispositivos"
+    }
+   ]
+  },
+  {
+   "id": "mx-imss-trasplantes-integral-2027-2031",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-19",
+   "ambito": "Federal",
+   "organismo": "IMSS",
+   "titulo": "IMSS opens multi-year, multi-billion-peso tender for integral transplant service 2027-2031",
+   "resumen": "IMSS published international tender LA-50-GYR-050GYR988-T-7-2026 for an integral transplant medical service covering 2027-2031, with a budget ceiling between MXN 1,566,834,213.87 and MXN 3,841,310,748.74 before VAT. The bid opening is December 3, 2026, with the award decision on December 23, 2026.",
+   "accion": "Transplant-service networks and the equipment/consumable suppliers feeding those contracts should review scope and budget ceilings now.",
+   "fuente": {
+    "nombre": "SIDOF",
+    "url": "https://sidof.segob.gob.mx/notas/docFuente/5804460"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-50-GYR-050GYR988-T-7-2026",
+     "objeto": "Servicio Médico Integral para Trasplantes 2027-2031",
+     "apertura": "2026-12-03",
+     "monto": "$1,566,834,213.87 a $3,841,310,748.74 (techo presupuestal, antes de IVA)",
+     "lugar": "IMSS (ComprasMX)",
+     "rubro": "dispositivos"
+    }
+   ]
+  },
+  {
+   "id": "mx-incan-detecto-expansion-nov2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "oncologia",
+   "fecha": "2026-11-19",
+   "ambito": "Federal",
+   "organismo": "Instituto Nacional de Cancerología (INCan) / Secretaría de Salud",
+   "titulo": "Instituto Nacional de Cancerología expands its DETECTO lung-cancer screening program to three more states",
+   "resumen": "INCan reported that its DETECTO low-dose CT lung-cancer screening program has evaluated 852 people (1,338 scans, 10 cancers found, a 1.3% detection rate) and is expanding to Oaxaca, Jalisco and Yucatán.",
+   "accion": "Imaging/CT equipment vendors and oncology-service providers should track DETECTO's expansion sites for future capacity needs.",
+   "fuente": {
+    "nombre": "Consultorsalud México",
+    "url": "https://consultorsalud.com.mx/programa-detecto-detencion-temprana/"
+   }
   },
   {
    "id": "mx-equipo-instrumental-medico-licitaciones-nov2026",
@@ -154,6 +247,31 @@
     "nombre": "El Chamuco y los Hijos del Averno (citando Secretaría de Salud)",
     "url": "https://elchamuco.com.mx/2026/11/15/mexico-registra-seis-casos-activos-de-sarampion-salud-reporta-90-de-cobertura-de-vacunacion/"
    }
+  },
+  {
+   "id": "mx-birmex-consolidada-complementaria-2027-2028",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "medicamentos",
+   "fecha": "2026-11-13",
+   "ambito": "Federal",
+   "organismo": "BIRMEX",
+   "titulo": "BIRMEX opens complementary consolidated tender for 2027-2028 medicines and health supplies",
+   "resumen": "BIRMEX published international tender LA-12-NEF-012NEF001-I-398-2026 for a complementary consolidated purchase of medicines and health supplies for National Health System institutions, covering fiscal years 2027-2028, following a previous consolidated purchase whose remaining uncovered volume is now being re-tendered. The clarifications meeting is November 18, with the bid opening on November 26, 2026 and the award decision on December 23, 2026.",
+   "accion": "Suppliers that lost codes in the original consolidated award, or that want the remaining volume, should review the bases ahead of the November 26 opening.",
+   "fuente": {
+    "nombre": "SIDOF",
+    "url": "https://sidof.segob.gob.mx/notas/docFuente/5804042"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-12-NEF-012NEF001-I-398-2026",
+     "objeto": "Adquisición Consolidada Complementaria de Medicamentos e Insumos para la Salud 2027-2028",
+     "apertura": "2026-11-26",
+     "lugar": "BIRMEX (ComprasMX)",
+     "rubro": "medicamentos"
+    }
+   ]
   },
   {
    "id": "mx-sheinbaum-china-hospitales-inteligentes",
@@ -468,6 +586,31 @@
     "nombre": "Zolo Noticias",
     "url": "https://www.zolonoticias.com/2026/11/06/mexico-invertira-245-millones-de-dolares-en-innovacion-medica/"
    }
+  },
+  {
+   "id": "mx-imss-protesis-auditivas-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-04",
+   "ambito": "Federal",
+   "organismo": "IMSS",
+   "titulo": "IMSS opens tender for hearing (auditory) prosthesis supply, opening December 14",
+   "resumen": "IMSS published tender LA-50-GYR-050GYR035-T-4-2027 for the supply of hearing prostheses, with the bid opening set for December 14, 2026.",
+   "accion": "Hearing-prosthesis suppliers should track this tender ahead of the December 14 opening.",
+   "fuente": {
+    "nombre": "Postor (ComprasMX data)",
+    "url": "https://postor.com.mx/mercado/material-de-curacion"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-50-GYR-050GYR035-T-4-2027",
+     "objeto": "Dotación de prótesis auditivas",
+     "apertura": "2026-12-14",
+     "lugar": "IMSS (ComprasMX)",
+     "rubro": "dispositivos"
+    }
+   ]
   },
   {
    "id": "mx-imss-emergency-plan",

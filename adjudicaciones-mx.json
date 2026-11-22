@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-16",
+ "actualizado": "2026-11-22",
  "adjudicaciones": [
+  {
+   "id": "mx-imss-philips-angiografos-nov2026",
+   "fecha": "2026-11-10",
+   "ambito": "Federal",
+   "organismo": "IMSS (División de Equipo y Mobiliario Médico)",
+   "procedimiento": "Licitación Pública Internacional Bajo Cobertura de Tratados Electrónica LA-50-GYR-050GYR040-T-2-2026 (Programa de Adquisición de Equipo Médico 2026, Angiógrafos)",
+   "objeto": "2 sistemas de angiografía (angiógrafos) para hemodinamia",
+   "rubro": "cardiovascular",
+   "proveedor": "Philips Mexico Commercial, S.A. de C.V.",
+   "monto": 318900000,
+   "moneda": "MXN",
+   "detalle": "Fallo (decisión de adjudicación) con fecha 2026-09-09; publicado en el Diario Oficial de la Federación vía SIDOF el 2026-11-10. Monto total antes de IVA por 2 partidas/ítems; la fuente no detalla precio unitario por equipo.",
+   "vence": null,
+   "fuente": {
+    "nombre": "SIDOF (Diario Oficial de la Federación)",
+    "url": "https://sidof.segob.gob.mx/notas/docFuente/5803488"
+   }
+  },
   {
    "id": "mx-issste-totech-quirofano-sem45-2026",
    "fecha": "2026-11-09",

@@ -1,6 +1,181 @@
 {
- "actualizado": "2026-11-21",
+ "actualizado": "2026-11-22",
  "noticias": [
+  {
+   "id": "pami-stent-periferico-everolimus-26nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-22",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI licita un stent vascular periférico CARDIOVASCULAR liberador de everolimus, con apertura el 26 de noviembre",
+   "resumen": "El calendario de compulsas abreviadas de PAMI (Nivel Central) suma la CA 1532/26, por un stent vascular periférico liberador de fármaco (everolimus) de 3,75 mm x 28 mm, con apertura el 26 de noviembre a las 11 horas.",
+   "accion": "Proveedores de dispositivos endovasculares periféricos deben revisar el pliego antes de la apertura del 26/11 para presentar oferta.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1532/26",
+     "objeto": "Stent vascular periférico liberador de fármaco (everolimus), 3,75 mm x 28 mm",
+     "apertura": "2026-11-26",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "cardiovascular"
+    }
+   ],
+   "comentario": "La apertura de esta compulsa por un stent periférico liberador de everolimus queda separada dos días de la tanda de aperturas estructurales y de electrofisiología del 24/11, lo que distingue en procesos distintos la demanda de PAMI en endovascular periférico frente a la de alta complejidad estructural."
+  },
+  {
+   "id": "pami-selumetinib-koselugo-30nov2026",
+   "nivel": "verde",
+   "tipo": "licitacion",
+   "rubro": "oncologia",
+   "fecha": "2026-11-22",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI licita selumetinib (Koselugo) para neurofibromatosis tipo 1, apertura el 30 de noviembre",
+   "resumen": "PAMI (Nivel Central) abrió la CA 1529/26 para la provisión, logística y dispensa de selumetinib (Koselugo) 25 mg por 60 cápsulas, un inhibidor de MEK de uso oncológico de nicho indicado para neurofibromas plexiformes de la neurofibromatosis tipo 1. La apertura es el 30 de noviembre a las 10 horas.",
+   "accion": "Droguerías y distribuidores de medicación oncológica de alto costo deben evaluar presentarse antes del 30/11, dado el número acotado de proveedores habilitados en Argentina para este fármaco.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1529/26",
+     "objeto": "Selumetinib (Koselugo) 25 mg, 60 cápsulas",
+     "apertura": "2026-11-30",
+     "hora": "10:00",
+     "lugar": "Nivel Central",
+     "rubro": "oncologia"
+    }
+   ]
+  },
+  {
+   "id": "pami-aperturas-neuro-auditivos-25nov-1dic2026",
+   "nivel": "verde",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-22",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI abre 13 compulsas de neuromodulación e implantes auditivos entre el 25 de noviembre y el 1 de diciembre",
+   "resumen": "El calendario de PAMI (Nivel Central) suma compulsas abreviadas de neuromodulación e implantes auditivos escalonadas entre el 25/11 y el 1/12: bombas de infusión de apomorfina e intratecal, un kit de recarga y generadores para estimulación cerebral profunda, un neuroestimulador vagal, un neuroestimulador espinal, un electroestimulador funcional de cuádriceps, dos procesadores de habla y tres implantes cocleares.",
+   "accion": "Relevante para proveedores de neuromodulación e implantes auditivos; sin impacto directo para dispositivos cardiovasculares.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1521/26",
+     "objeto": "Bomba de infusión subcutánea de apomorfina con kits para 90 días",
+     "apertura": "2026-11-25",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1522/26",
+     "objeto": "Kit de recarga externa para neuroestimulador cerebral profundo recargable (Boston)",
+     "apertura": "2026-11-25",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1523/26",
+     "objeto": "Sistema de neuroestimulación vagal compatible con sistema LivaNova implantado",
+     "apertura": "2026-11-25",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1533/26",
+     "objeto": "Electroestimulador funcional bilateral para flexión de cuádriceps",
+     "apertura": "2026-11-26",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1538/26",
+     "objeto": "Estimulador cerebral profundo, batería no recargable, electrodos octopolares",
+     "apertura": "2026-11-26",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1539/26",
+     "objeto": "Bomba de infusión intratecal de flujo programable",
+     "apertura": "2026-11-26",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1540/26",
+     "objeto": "Estimulador cerebral profundo, batería recargable, electrodos direccionables",
+     "apertura": "2026-11-26",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1541/26",
+     "objeto": "Neuroestimulador espinal implantable para dolor, batería recargable",
+     "apertura": "2026-11-26",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1508/26",
+     "objeto": "Implante coclear multidireccional con estilete y procesador",
+     "apertura": "2026-11-30",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1506/26",
+     "objeto": "Implante coclear con guía de electrodos, procesador y filtro de ruido",
+     "apertura": "2026-12-01",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1507/26",
+     "objeto": "Procesador de habla osteointegrado MED-EL SAMBA 2 (recambio)",
+     "apertura": "2026-12-01",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1524/26",
+     "objeto": "Procesador de habla Cochlear (recambio)",
+     "apertura": "2026-12-01",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    },
+    {
+     "numero": "CA 1527/26",
+     "objeto": "Implante coclear Cochlear Nucleus Profile Plus CI612 con procesador Nucleus 8",
+     "apertura": "2026-12-01",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    }
+   ]
+  },
   {
    "id": "pami-aperturas-cardiovascular-19-24-nov-2026",
    "nivel": "amarillo",
