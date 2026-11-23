@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22",
+ "actualizado": "2026-11-23",
  "adjudicaciones": [
   {
    "id": "mx-imss-philips-angiografos-nov2026",
@@ -71,6 +71,24 @@
    "fuente": {
     "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
     "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   }
+  },
+  {
+   "id": "mx-sedena-sismed2-soluglob-ikon-nov2026",
+   "fecha": "2026-11-02",
+   "ambito": "Federal",
+   "organismo": "SEDENA (Secretaría de la Defensa Nacional)",
+   "procedimiento": "Licitación pública LA-07-110-007000999-N-707-2026 (segunda fase, Servicio Integral de Suministro de Medicamentos - SISMED)",
+   "objeto": "Suministro integral de medicamentos (SISMED, segunda fase) para 2026 y 2027, una partida con 334 subpartidas",
+   "rubro": "medicamentos",
+   "proveedor": "Soluglob Ikon",
+   "monto": 740486460.53,
+   "moneda": "MXN",
+   "detalle": "Oferta económica inicial de MXN 731,827,489.58; el monto adjudicado quedó MXN 8,658,970.95 por encima de esa oferta inicial. Puntaje técnico+económico: Soluglob Ikon 56.60+39.45=96.05 vs. Fármacos Darovi 54.50+40=94.50 (única otra oferta que pasó la evaluación técnica); otros tres participantes fueron descalificados por incumplimiento técnico. La oferta económica más baja fue la de CVS Pharma (MXN 639,056,549.84) pero no ganó por la evaluación técnica. Sedena anuló por error un dictamen técnico adjunto al fallo del 02/11/2026 y lo sustituyó sin modificar el resultado. Soluglob Ikon había sido inhabilitada 12 meses por la Secretaría de la Función Pública en 2024 (circular DOF 013/2024, por presentar información falsa) y multada por COFEPRIS en junio de 2025 (expediente M 214/25) por irregularidades en su almacén de Cuautitlán Izcalli, Estado de México; ninguna de las dos sanciones impidió que ganara este nuevo contrato.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Proceso",
+    "url": "https://www.proceso.com.mx/nacional/2026/11/6/empresa-inhabilitada-y-multada-por-la-cofepris-gana-contrato-millonario-con-la-sedena-383218.html"
    }
   },
   {
