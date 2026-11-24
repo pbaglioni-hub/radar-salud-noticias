@@ -34,7 +34,23 @@
      "rubro": "cardiovascular"
     }
    ],
-   "comentario": "Two separate, relatively small-scope hemodynamics openings rather than one large consolidated purchase, but useful near-term demand signals in the Sao Paulo and Rio Grande do Norte public markets for interventional cardiology supplies."
+   "comentario": "Two separate, relatively small-scope hemodynamics openings rather than one large consolidated purchase, but useful near-term demand signals in the Sao Paulo and Rio Grande do Norte public markets for interventional cardiology supplies.",
+   "trad": {
+    "es": {
+     "titulo": "Brasil abre dos licitaciones de dispositivos cardiovasculares: stent venoso autoexpandible (San Pablo) y materiales de cardiología intervencionista/hemodinamia (EBSERH, Natal)",
+     "resumen": "La Secretaría de Salud del estado de San Pablo (Edital 372/2026) licita un stent venoso autoexpandible, mientras que el Hospital Universitario Onofre Lopes de Natal, de EBSERH (Edital 91/2026), licita materiales de hemodinamia y cardiología intervencionista, incluidos insumos usados para tratar malformaciones arteriovenosas cerebrales. Ambas sesiones de apertura de propuestas se realizan el 27 de noviembre de 2026.",
+     "accion": "Los fabricantes y distribuidores de dispositivos cardiovasculares deberían revisar ambos editales en el PNCP y presentar sus propuestas antes de las sesiones de apertura del 27 de noviembre.",
+     "comentario": "Son dos aperturas de hemodinamia separadas y de alcance relativamente acotado, en lugar de una gran compra consolidada, pero funcionan como señales útiles de demanda a corto plazo en los mercados públicos de San Pablo y Rio Grande do Norte para insumos de cardiología intervencionista.",
+     "licitaciones": [
+      {
+       "objeto": "Adquisición de stent venoso autoexpandible"
+      },
+      {
+       "objeto": "Material médico-hospitalario para hemodinamia, cardiología intervencionista y tratamiento de malformaciones arteriovenosas (MAV) cerebrales (Parte II)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "br-rio-oncologicos-grupo-ix-03dec2026",
@@ -61,7 +77,19 @@
      "lugar": "Rio de Janeiro (RJ)",
      "rubro": "oncologia"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "Río de Janeiro abre una licitación de R$ 14,2 millones para medicamentos oncológicos del Grupo IX",
+     "resumen": "La ciudad de Río de Janeiro publicó el Edital 2058/2026, una licitación electrónica de registro de precios (pregão eletrônico) para medicamentos oncológicos del Grupo IX por un valor aproximado de R$ 14,23 millones, con la sesión de apertura de propuestas el 3 de diciembre de 2026.",
+     "accion": "Los proveedores de medicamentos oncológicos deberían revisar el Edital y el Termo de Referência para conocer los productos específicos incluidos en el Grupo IX y presentar propuestas antes de la sesión del 3 de diciembre.",
+     "licitaciones": [
+      {
+       "objeto": "Registro de precios - Medicamentos del Grupo IX (Oncológicos)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "br-varginha-material-ortopedia-oncologica-02dec2026",
@@ -88,7 +116,19 @@
      "lugar": "Varginha (MG)",
      "rubro": "traumatologia"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "La fundación hospitalaria de Varginha (Minas Gerais) abre una licitación de material quirúrgico de ortopedia oncológica",
+     "resumen": "FHOMUV publicó el Edital 87/2026, una licitación electrónica por un valor aproximado de R$ 1,07 millones para material médico-hospitalario utilizado en procedimientos quirúrgicos de ortopedia oncológica, con la sesión de apertura de propuestas el 2 de diciembre de 2026.",
+     "accion": "Los proveedores de implantes ortopédicos y material quirúrgico deberían revisar el listado de ítems del Edital y presentar propuestas antes de la sesión del 2 de diciembre.",
+     "licitaciones": [
+      {
+       "objeto": "Material médico-hospitalario para procedimientos quirúrgicos de ortopedia oncológica"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "br-anvisa-suplementos-norvy-nutrymed-morbach",
@@ -104,7 +144,14 @@
     "url": "https://prensamercosur.org/2026/11/18/brasil-anvisa-suspende-venda-de-suplementos-alimentares-apos-identificar-irregularidades-saiba-quais-sao/"
    },
    "tipo": "prohibicion",
-   "rubro": "otros"
+   "rubro": "otros",
+   "trad": {
+    "es": {
+     "titulo": "ANVISA suspende la venta de tres líneas de suplementos alimenticios por irregularidades de seguridad y fabricación",
+     "resumen": "El martes 17 de noviembre, ANVISA ordenó la suspensión de la venta, distribución, publicidad y uso de tres suplementos alimenticios tras detectar irregularidades de calidad y seguridad: Melatonina Spray, fabricado por Norvy Saúde Ltda, un producto de melatonina sublingual que no contaba con evaluación de seguridad registrada y que publicitaba indicaciones no autorizadas relacionadas con el sueño; todos los suplementos fabricados por Nutrymed Indústria Farmacêutica e Alimentícia Ltda, luego de que una inspección de vigilancia sanitaria en Goiânia encontrara materias primas vencidas, almacenamiento inadecuado, ausencia de control de calidad y problemas de calidad del agua; y los productos en cápsulas Nutri Bluwey y Nutri AN-T, fabricados por Morbach Nutri Complementos Alimentares Ltda, señalados por documentación insuficiente sobre calidad, seguridad y composición, ingredientes no autorizados y niveles de calcio por debajo del mínimo exigido. El número exacto de la resolución (RE) de ANVISA no estaba disponible en la fuente utilizada para esta nota.",
+     "accion": "Las farmacias, comercios minoristas de suplementos y distribuidores deberían retirar de la venta Melatonina Spray (Norvy), cualquier suplemento de la marca Nutrymed y Nutri Bluwey/Nutri AN-T (Morbach), y confirmar con ANVISA el alcance exacto de la medida antes de reponer stock."
+    }
+   }
   },
   {
    "id": "br-ans-ap71-lenvatinib-ivosidenib-rol",
@@ -118,6 +165,13 @@
    "fuente": {
     "nombre": "ANS - Regimento Interno Audiência Pública 71",
     "url": "https://www.gov.br/ans/pt-br/arquivos/acesso-a-informacao/participacao-da-sociedade/audiencias-publicas/71/REGIMENTOINTERNOAP71.pdf"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANS realiza audiencia pública sobre la propuesta de no incorporar dos medicamentos oncológicos al Rol de cobertura de los planes de salud",
+     "resumen": "ANS realizó la Audiência Pública nº 71/2026 el 16 de noviembre (de 9:30 a 12:30, en modalidad online por Teams) para recibir aportes sobre su recomendación preliminar de NO incorporar dos tecnologías oncológicas al listado obligatorio de cobertura de los planes de salud (Rol): lenvatinib + pembrolizumab como terapia de primera línea para el carcinoma renal de células claras avanzado/metastásico (UAT 216), e ivosidenib para el colangiocarcinoma avanzado/metastásico con mutación IDH1 R132 tras tratamiento sistémico previo (UAT 219). La audiencia se realiza en el marco del Artículo 10, Sección 11, inciso IV, de la Ley 9.656/1998, modificada por la Ley 14.307/2022.",
+     "accion": "Las operadoras de planes de salud y los prestadores oncológicos deberían presentar aportes técnicos antes de que ANS defina su decisión final, ya que un resultado de no incorporación dejaría a ambos medicamentos fuera de la cobertura obligatoria."
+    }
    }
   },
   {
@@ -135,7 +189,15 @@
    },
    "tipo": "prohibicion",
    "rubro": "cardiovascular",
-   "comentario": "La falla en las bombas de balón intra-aórtico Cardiosave de Getinge, equipo crítico en soporte hemodinámico, abre una ventana comercial para proveedores de equipos de contrapulsación de respaldo mientras los centros de hemodinamia esperan la corrección. Conviene relevar qué hospitales usan estas unidades para ofrecer soporte temporal o evaluar reemplazo."
+   "comentario": "La falla en las bombas de balón intra-aórtico Cardiosave de Getinge, equipo crítico en soporte hemodinámico, abre una ventana comercial para proveedores de equipos de contrapulsación de respaldo mientras los centros de hemodinamia esperan la corrección. Conviene relevar qué hospitales usan estas unidades para ofrecer soporte temporal o evaluar reemplazo.",
+   "trad": {
+    "es": {
+     "titulo": "ANVISA emite una alerta de seguridad de campo para las bombas de balón intraaórtico Cardiosave de Getinge por capacitores con polaridad invertida",
+     "resumen": "La Alerta 5386 (Tecnovigilância), publicada el 16 de noviembre de 2026, abarca los sistemas de bomba de balón intraaórtico Cardiosave Hybrid y Cardiosave Rescue (Clase III, registro 80259110220), fabricados por Datascope Corp. (Getinge, EE. UU.) y distribuidos por Getinge do Brasil Equipamentos Médicos Ltda. La empresa detectó que algunas unidades pueden tener uno o más capacitores instalados con polaridad invertida en la placa de gestión de energía (Power Management Board) y/o en la placa de control de solenoides (Solenoid Control Board), problema identificado el 9 de noviembre de 2026. Con el tiempo, esto puede degradarse y provocar fallas en la carga de la batería, imposibilidad de encendido, interrupción de la terapia o apagado inesperado. La Acción de Campo ID407 / FSCA 1630767 dispone que el equipo de servicio autorizado de Getinge corrija las placas; se indica a los hospitales mantener disponible una bomba de balón intraaórtico alternativa y no usar las unidades afectadas para el traslado interhospitalario de pacientes de alta complejidad.",
+     "accion": "Los equipos de ventas y servicio técnico de equipos de soporte hemodinámico deberían contactar proactivamente a las cuentas de hemodinamia y cirugía cardíaca que tengan unidades Cardiosave, confirmar el cronograma de corrección de Getinge y ofrecer cobertura de respaldo con bombas de balón durante la reparación: es a la vez un riesgo de servicio y una oportunidad comercial.",
+     "comentario": "La falla en las bombas de balón intra-aórtico Cardiosave de Getinge, equipo crítico en soporte hemodinámico, abre una ventana comercial para proveedores de equipos de contrapulsación de respaldo mientras los centros de hemodinamia esperan la corrección. Conviene relevar qué hospitales usan estas unidades para ofrecer soporte temporal o evaluar reemplazo."
+    }
+   }
   },
   {
    "id": "br-anvisa-alert-5388-philips-intellivue-defib-protection",
@@ -152,7 +214,15 @@
    },
    "tipo": "prohibicion",
    "rubro": "cardiovascular",
-   "comentario": "El riesgo de protección incompleta contra desfibrilación en los monitores Intellivue con doble adaptador de presión invasiva es relevante para unidades de hemodinamia y UCI cardíaca; vale la pena ofrecer a esos clientes los transductores descartables compatibles que recomienda Philips."
+   "comentario": "El riesgo de protección incompleta contra desfibrilación en los monitores Intellivue con doble adaptador de presión invasiva es relevante para unidades de hemodinamia y UCI cardíaca; vale la pena ofrecer a esos clientes los transductores descartables compatibles que recomienda Philips.",
+   "trad": {
+    "es": {
+     "titulo": "ANVISA advierte que el adaptador de doble presión del monitor Philips Intellivue puede debilitar la protección contra desfibrilación",
+     "resumen": "La Alerta 5388 (Tecnovigilância), publicada el 16 de noviembre de 2026, abarca la plataforma de monitores de paciente Intellivue de Philips (Clase III, registros 10216710362 y 10216710215), incluidos los módulos Capnography Extension, Hemodynamic Extension, Multi-Measurement Module X3, Patient Monitor MX100, Microstream Extension y MMX. Philips Medical Systems Ltda (titular del registro) y Philips Medizin Systeme Böblingen GmbH (fabricante, Alemania) detectaron que el adaptador de presión arterial invasiva doble puede no mantener la protección contra desfibrilación cuando se conectan simultáneamente dos transductores de presión no resistentes a la desfibrilación, debido a que el conector no cuenta con el espaciado de pines que exige esa protección; en ese caso, la energía de desfibrilación podría desviarse parcialmente del paciente. Philips identificó el problema el 16 de octubre de 2026 y abrió la acción de campo 2026-CC-HPM-002 (actualización de las instrucciones de uso), recomendando usar únicamente transductores de presión descartables y compatibles.",
+     "accion": "Los equipos de ventas y clínicos de monitoreo de pacientes deberían identificar qué cuentas de hemodinamia y UCI cardíaca usan la configuración Intellivue con doble presión arterial invasiva, y difundir las instrucciones actualizadas y el listado de accesorios compatibles, dado que la desfibrilación durante el monitoreo es un procedimiento habitual en esas unidades.",
+     "comentario": "El riesgo de protección incompleta contra desfibrilación en los monitores Intellivue con doble adaptador de presión invasiva es relevante para unidades de hemodinamia y UCI cardíaca; vale la pena ofrecer a esos clientes los transductores descartables compatibles que recomienda Philips."
+    }
+   }
   },
   {
    "id": "br-rio-mpox-first-death-2026",
@@ -166,6 +236,13 @@
    "fuente": {
     "nombre": "CNN Brasil",
     "url": "https://www.cnnbrasil.com.br/saude/rio-de-janeiro-confirma-primeira-morte-por-mpox-em-2026/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Río de Janeiro confirma la primera muerte por Mpox de la ciudad en 2026 en medio de un aumento de casos",
+     "resumen": "La Secretaria Municipal de Saúde de Río de Janeiro confirmó la primera muerte por Mpox de la ciudad en 2026: un hombre de 48 años con una condición inmunosupresora preexistente, según los datos del Ministerio de Salud sobre la víctima. El Ministerio de Salud reportó 1.055 casos confirmados de Mpox a nivel nacional hasta el 13 de noviembre, con más de 250 casos nuevos notificados solo en noviembre; San Pablo registró 409 casos y Río de Janeiro 395, en medio de la circulación de la variante clado 1b, más transmisible, en ambos estados.",
+     "accion": "Los empleadores y administradores de planes de salud que atienden a poblaciones de riesgo (pacientes con VIH/sida, personal inmunocomprometido) en San Pablo/Río de Janeiro deberían señalar la tendencia creciente de Mpox y confirmar que el acceso a la vacunación esté comunicado internamente."
+    }
    }
   },
   {
@@ -180,6 +257,13 @@
    "fuente": {
     "nombre": "Conitec - Consultas publicas vigentes",
     "url": "https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/vigentes"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Conitec abre la Consulta Pública 109/2026 sobre odevixibat para la colestasis intrahepática familiar progresiva",
+     "resumen": "Conitec abrió el 13 de noviembre la Consulta Pública 109/2026, vigente hasta el 2 de diciembre de 2026, sobre la incorporación de odevixibat al SUS para la colestasis intrahepática familiar progresiva (PFIC). Se suma a la CP 108/2026, que trata el mismo fármaco para el prurito colestásico en el síndrome de Alagille y cierra el 30 de noviembre. El informe técnico preliminar está publicado en la página de consultas abiertas de Conitec.",
+     "accion": "Los centros de hepatología pediátrica, las agrupaciones de pacientes y el fabricante deberían leer el informe preliminar y enviar comentarios antes del 2 de diciembre."
+    }
    }
   },
   {
@@ -194,6 +278,13 @@
    "fuente": {
     "nombre": "Legismap (citing DOU / ANVISA RE 4.427/2026)",
     "url": "https://legismap.com.br/leis-e-normas/agencia-nacional-de-vigilancia-sanitaria-anvisa-dou-de-13-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA ordena el retiro de un lote inyectable de bupivacaína/glucosa de Hipolabor por una partícula extraña",
+     "resumen": "La Resolución RE 4.427/2026 ordena a Hipolabor Farmacêutica retirar y suspender la venta, distribución y uso del lote AR-001/25 de solución inyectable de clorhidrato de bupivacaína + glucosa 5+80 mg/mL, luego de que un análisis de laboratorio del Instituto Adolfo Lutz / LACEN-SP detectara una partícula extraña en suspensión. La misma resolución prohíbe la publicidad en línea de productos magistrales de cannabis y hongos de Medkaya.",
+     "accion": "Los hospitales, centros quirúrgicos y prestadores de anestesia deberían revisar su stock en busca del lote AR-001/25 de este producto de bupivacaína/glucosa de Hipolabor y poner en cuarentena cualquier unidad encontrada."
+    }
    }
   },
   {
@@ -208,6 +299,13 @@
    "fuente": {
     "nombre": "Brasil Inovador",
     "url": "https://brasilinovador.com.br/flua-estrutura-holding-de-saude-acessivel-e-projeta-investir-mais-de-r-100-milhoes-ate-2029"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Nace el holding de salud Flua con un plan de inversión de más de R$ 100 millones hasta 2029",
+     "resumen": "Flua, un nuevo holding de salud accesible que fusiona las cadenas del Nordeste Clínica SiM (17 unidades en CE/PE/BA) y SuperClínica (6 unidades en MA), anunció en noviembre de 2026 la unificación de sus operaciones a nivel nacional, respaldada por los inversores Monashees, 23S Capital y Bewater. La empresa informa, por cuenta propia, un plan de inversión a 3 años que supera los R$ 100 millones hasta 2029 para la modernización de instalaciones, transformación digital basada en IA y expansión orgánica y por fusiones y adquisiciones, con el objetivo de crecer de aproximadamente 300.000 a 3 millones de vidas impactadas para fines de 2027. Las cifras son reportadas por la empresa y no fueron auditadas de forma independiente.",
+     "accion": "Los competidores regionales e inversores en atención ambulatoria/preventiva deberían seguir la actividad de fusiones y adquisiciones de Flua en el Nordeste como señal de consolidación en el segmento de salud accesible."
+    }
    }
   },
   {
@@ -225,7 +323,15 @@
    },
    "tipo": "prohibicion",
    "rubro": "cardiovascular",
-   "comentario": "La falla de carga de batería en las consolas Rotaflow de circulación extracorpórea, usadas en cirugía cardíaca y soporte circulatorio, exige verificar con los centros afectados si ya aplicaron la actualización de software de Getinge, dado el riesgo durante traslados o uso prolongado en modo batería."
+   "comentario": "La falla de carga de batería en las consolas Rotaflow de circulación extracorpórea, usadas en cirugía cardíaca y soporte circulatorio, exige verificar con los centros afectados si ya aplicaron la actualización de software de Getinge, dado el riesgo durante traslados o uso prolongado en modo batería.",
+   "trad": {
+    "es": {
+     "titulo": "ANVISA señala una falla de carga de batería en las consolas de circulación extracorpórea Rotaflow de Getinge/Maquet",
+     "resumen": "La Alerta 5385 (Tecnovigilância), publicada el 13 de noviembre de 2026, abarca el sistema de circulación extracorpórea Rotaflow I (Clase III, registro 80259110224), fabricado por Maquet Cardiopulmonary GmbH (Alemania) y distribuido por Getinge do Brasil Equipamentos Médicos Ltda. Getinge identificó el 21 de octubre de 2026 que la consola puede dejar de cargar su batería después de operar en modo batería. La corrección de campo ID 406 / 1618466, aplicada mediante una actualización de software, abarca unidades en Bahía, Distrito Federal, Espírito Santo, Maranhão, Río de Janeiro, Rio Grande do Sul y San Pablo. ANVISA recibió la notificación de la empresa el 13 de noviembre de 2026.",
+     "accion": "Los proveedores de equipos de perfusión/ECMO deberían confirmar con los clientes de cirugía cardíaca y cuidados críticos que usan el Rotaflow I si ya aplicaron la actualización de software, dado que una batería agotada durante un traslado o un procedimiento con soporte de circulación extracorpórea representa un riesgo alto.",
+     "comentario": "La falla de carga de batería en las consolas Rotaflow de circulación extracorpórea, usadas en cirugía cardíaca y soporte circulatorio, exige verificar con los centros afectados si ya aplicaron la actualización de software de Getinge, dado el riesgo durante traslados o uso prolongado en modo batería."
+    }
+   }
   },
   {
    "id": "br-condor-tirzepatide-retatrutide-api-recall",
@@ -239,6 +345,13 @@
    "fuente": {
     "nombre": "Agencia Brasil (citing ANVISA / DOU)",
     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-lotes-de-insumos-para-canetas-emagrecedoras"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA ordena el retiro de insumos farmacéuticos de tirzepatida y retatrutida en poder del importador Condor",
+     "resumen": "La Resolución RE 4.422/2026, publicada en el DOU el 12 de noviembre, ordena el retiro del lote 20241030 del insumo farmacéutico tirzepatida y de todos los lotes del insumo retatrutida almacenados por Condor Importador & Operador Logístico Ltda, y suspende su venta, distribución y uso. ANVISA constató que el sitio de almacenamiento no cumplía con los requisitos de conservación de la RDC 654/2022. También señaló que la retatrutida es un fármaco experimental sin registro en ningún país, por lo que su importación o venta como insumo farmacéutico no está permitida. Los insumos estaban destinados a farmacias de manipulación.",
+     "accion": "Las farmacias de manipulación y las clínicas deberían revisar sus inventarios y proveedores en busca de estos insumos, poner en cuarentena cualquier material afectado y dejar de dispensar preparaciones a base de retatrutida."
+    }
    }
   },
   {
@@ -253,6 +366,13 @@
    "fuente": {
     "nombre": "Agencia GBC (citing ANVISA RE 4.414/2026)",
     "url": "https://agenciagbc.com/2026/11/12/anvisa-proibe-locao-oleosa-da-needs-e-determina-recolhimento-de-todos-os-lotes/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA prohíbe la loción oleosa dermoprotectora Needs y ordena el retiro de todos los lotes",
+     "resumen": "La Resolución RE 4.414/2026, publicada en el DOU el 12 de noviembre, prohíbe la fabricación, venta, distribución, publicidad y uso de Needs Loção Oleosa Dermoprotetora, fabricada por Greenwood Indústria e Comércio Ltda y comercializada como marca propia de RD Saúde, y ordena el retiro de todos los lotes. El producto no contaba con registro sanitario vigente, y su etiqueta hacía afirmaciones terapéuticas —como cicatrización de heridas, regeneración de la piel y prevención de escaras— que no están permitidas para cosméticos. ANVISA calificó la medida como preventiva y no reportó contaminación.",
+     "accion": "Las clínicas, prestadores de atención domiciliaria y centros de cuidados de larga estancia deberían retirar esta loción de sus stocks de cuidado de heridas y lesiones por presión, y usar en su lugar productos registrados."
+    }
    }
   },
   {
@@ -267,6 +387,13 @@
    "fuente": {
     "nombre": "VG Noticias (cites Ministério da Saúde)",
     "url": "https://www.vgnoticias.com.br/saude/pacientes-cardiacos-terao-novo-remedio-disponivel-pelo-sus/154920"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Brasil incorpora la eplerenona al SUS para pacientes con insuficiencia cardíaca que no toleran la espironolactona",
+     "resumen": "La Portaria SCTIE/MS n.º 74, fechada el 10 de noviembre y oficializada el 12 de noviembre, incorpora la eplerenona al SUS para la insuficiencia cardíaca con fracción de eyección reducida, clases NYHA II a IV, en pacientes intolerantes a la espironolactona y bajo el protocolo clínico del Ministerio. El SUS tiene hasta 180 días para poner el medicamento a disposición.",
+     "accion": "Los proveedores y distribuidores de eplerenona deberían prepararse para compras del SUS durante los próximos 180 días."
+    }
    }
   },
   {
@@ -281,6 +408,13 @@
    "fuente": {
     "nombre": "MRNews (via ejornais.com.br)",
     "url": "https://ejornais.com.br/index.php/2026/11/12/projetos-de-lei-que-envolvem-saude-feminina-avancam-na-camara/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Avanza en la Cámara el proyecto de ley que garantiza telesalud para embarazadas en zonas rurales",
+     "resumen": "El PL 2099/24, de autoría de la diputada Meire Serafim, fue aprobado a mediados de noviembre en la Comissão de Saúde de la Cámara de Diputados. Garantiza atención prenatal y posnatal a distancia para embarazadas en zonas rurales o de difícil acceso, como complemento de los exámenes presenciales obligatorios, integrada a la red de atención perinatal Rede Alyne del SUS. El proyecto pasa ahora a las comisiones de derechos de la mujer y de constitucionalidad.",
+     "accion": "Los prestadores de telesalud y de atención materna deberían seguir el avance del proyecto en las comisiones restantes antes de que pueda llegar a votación en el pleno."
+    }
    }
   },
   {
@@ -295,6 +429,13 @@
    "fuente": {
     "nombre": "Portal 6",
     "url": "https://portal6.com.br/2026/11/12/novo-hospital-de-r-220-milhoes-abre-em-27-de-novembro-em-manaus-com-225-leitos-sala-hibrida-e-estrutura-para-cirurgia-robotica/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Grupo Samel inaugura un hospital de R$ 220 millones en Manaos con infraestructura para cirugía robótica",
+     "resumen": "El Hospital Samel Sonia Nicolau, cuarta unidad del grupo en Manaos, abre el 27 de noviembre con 225 camas nuevas, e incorpora una sala híbrida de hemodinamia que combina cirugía con imágenes avanzadas, UCI de adultos y pediátrica, e infraestructura preparada para cirugía asistida por robot. El presidente de Samel mencionó una inversión de R$ 220 millones (una estimación anterior de la empresa había sido de R$ 170 millones). El proyecto es de financiamiento privado; el rol del gobierno municipal de Manaos se limitó a la aprobación de habilitaciones.",
+     "accion": "Los proveedores de dispositivos médicos y equipamiento hospitalario deberían tomar nota de esta incorporación de cirugía robótica y quirófano híbrido como punto de referencia para el capex hospitalario privado en la región de Amazonas."
+    }
    }
   },
   {
@@ -310,6 +451,13 @@
    "fuente": {
     "nombre": "Suno Noticias (citing Hapvida market notice)",
     "url": "https://www.suno.com.br/noticias/hapv3-venda-imoveis-hospital-octaviano-neves/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Hapvida vende los inmuebles del Hospital Octaviano Neves en Belo Horizonte a Feluma por R$ 60 millones",
+     "resumen": "En un hecho relevante comunicado el 11 de noviembre, Hapvida informó que su subsidiaria firmó un compromiso de venta de los inmuebles del Hospital Octaviano Neves, en Belo Horizonte, a la Fundação Educacional Lucas Machado (Feluma) por R$ 60 millones, con el 20% pagado al firmar y el resto a abonar en el cierre, previsto para principios de 2027. Hapvida está trasladando los servicios del hospital a su propia red en Belo Horizonte como parte de una optimización de su cartera. Según Moon BH, Feluma planea una unidad de hospital universitario orientada al SUS, con 250 camas (12 de ellas de terapia intensiva) y 70 puestos de hemodiálisis, y estima R$ 40 millones en obras de renovación.",
+     "accion": "Los distribuidores de equipamiento e insumos en Minas Gerais deberían seguir el equipamiento de la nueva unidad por parte de Feluma, incluidas la UCI y la hemodiálisis, como una oportunidad de compras para 2027."
+    }
    }
   },
   {
@@ -327,7 +475,15 @@
    },
    "tipo": "prohibicion",
    "rubro": "cardiovascular",
-   "comentario": "Una falla de arranque en un sistema de hemodinamia/angiografía de uso intensivo como el Azurion puede dejar fuera de servicio una sala de cateterismo completa, lo que representa tanto un riesgo de continuidad asistencial para el hospital como una oportunidad de ofrecer capacidad de respaldo o servicio técnico acelerado."
+   "comentario": "Una falla de arranque en un sistema de hemodinamia/angiografía de uso intensivo como el Azurion puede dejar fuera de servicio una sala de cateterismo completa, lo que representa tanto un riesgo de continuidad asistencial para el hospital como una oportunidad de ofrecer capacidad de respaldo o servicio técnico acelerado.",
+   "trad": {
+    "es": {
+     "titulo": "ANVISA alerta sobre fallas en la fuente de alimentación que pueden inhabilitar los sistemas de hemodinamia/angiografía Philips Azurion",
+     "resumen": "La Alerta 5381 (Tecnovigilância), publicada el 11 de noviembre de 2026, abarca el sistema de hemodinamia y angiografía Azurion de Philips (Clase III, registro 10216710345), modelos Azurion 3 M12, 3 M15, 5 M12, 5 M20, 7 M12 y 7 M20. Philips Medical Systems Ltda (titular del registro) y Philips Medical Systems Nederland B.V. (fabricante) reportaron que las fuentes de alimentación de la Unidad de Distribución de Energía pueden fallar por picos de tensión al encender o reiniciar el equipo, lo que impide que el sistema complete el arranque y deja la obtención de imágenes no disponible. Philips identificó el defecto el 15 de octubre de 2026 y abrió la acción de campo 2025-IGT-BST-024 (una corrección de piezas) que abarca unidades en 16 estados brasileños y aproximadamente 95 países en todo el mundo.",
+     "accion": "Los proveedores de equipamiento de cardiología intervencionista/hemodinamia deberían relevar la base instalada de equipos Azurion en las cuentas afectadas, seguir el cronograma de corrección de piezas de Philips y estar preparados para ofrecer capacidad temporal de angiografía si una unidad queda fuera de servicio durante la reparación.",
+     "comentario": "Una falla de arranque en un sistema de hemodinamia/angiografía de uso intensivo como el Azurion puede dejar fuera de servicio una sala de cateterismo completa, lo que representa tanto un riesgo de continuidad asistencial para el hospital como una oportunidad de ofrecer capacidad de respaldo o servicio técnico acelerado."
+    }
+   }
   },
   {
    "id": "br-anvisa-alert-5380-merit-prelude-femoral-introducer",
@@ -344,7 +500,15 @@
    },
    "tipo": "prohibicion",
    "rubro": "cardiovascular",
-   "comentario": "El retiro de este lote de introductores femorales de Merit Medical, por un error de fabricación con el dilatador incorrecto, es una oportunidad directa para proveedores competidores de introductores vasculares de ofrecer reposición inmediata a los centros de hemodinamia afectados."
+   "comentario": "El retiro de este lote de introductores femorales de Merit Medical, por un error de fabricación con el dilatador incorrecto, es una oportunidad directa para proveedores competidores de introductores vasculares de ofrecer reposición inmediata a los centros de hemodinamia afectados.",
+   "trad": {
+    "es": {
+     "titulo": "ANVISA ordena el retiro de un lote de introductores femorales de Merit Medical fabricado con el dilatador incorrecto",
+     "resumen": "La Alerta 5380 (Tecnovigilância), publicada el 11 de noviembre de 2026, abarca el introductor femoral Prelude de Merit Medical (Clase II, registro 80740950028), específicamente el modelo de 6F, 11 cm, 0,035\"/18G, conector verde, lote A701994 (parte PSI-6F-11-035-18G/BR). Merit Medical Comercialização, Distribuição, Importação e Exportação de Produtos Hospitalares Ltda (Joinville, SC), titular del registro y fabricante, detectó que el lote había sido producido con un dilatador de 0,018\" destinado a procedimientos de acceso radial, en lugar del dilatador femoral de 0,035\" requerido, luego de recibir siete reclamos; el defecto fue identificado el 7 de julio de 2026. La acción de campo 002-26 ordena el retiro y la destrucción del lote, distribuido en 14 estados brasileños, entre ellos San Pablo, Río de Janeiro y Paraná.",
+     "accion": "Los distribuidores y representantes de acceso vascular deberían revisar el stock hospitalario en busca del lote A701994 y reemplazarlo proactivamente por unidades correctas, ya que usar el dilatador incorrecto durante un procedimiento de acceso femoral es un problema directo de seguridad del paciente y de responsabilidad legal.",
+     "comentario": "El retiro de este lote de introductores femorales de Merit Medical, por un error de fabricación con el dilatador incorrecto, es una oportunidad directa para proveedores competidores de introductores vasculares de ofrecer reposición inmediata a los centros de hemodinamia afectados."
+    }
+   }
   },
   {
    "id": "br-supplements-re-4406-4407",
@@ -358,6 +522,13 @@
    "fuente": {
     "nombre": "NC News (citing ANVISA RE 4,406 and 4,407)",
     "url": "https://ncnews.com.br/2026/11/10/anvisa-proibe-suplementos-de-quatro-marcas-veja-produtos-e-lotes-afetados/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA prohíbe suplementos de cuatro marcas, entre ellos presuntas falsificaciones",
+     "resumen": "Las resoluciones RE 4.406 y 4.407, publicadas en el DOU el 10 de noviembre, prohíben todos los lotes de los suplementos W Nutry y Vittacaps y del calostro bovino Muuh Magic, además del lote L75F0001 de Essential Nutrition Kit 3 Ômega Core. Entre los motivos se cuentan la falta de notificación sanitaria, afirmaciones de salud no autorizadas y productos cuyos fabricantes declarados no los reconocen como propios.",
+     "accion": "Las farmacias y distribuidores deberían retirar ya mismo estos productos y lotes de sus góndolas y listados en línea."
+    }
    }
   },
   {
@@ -372,6 +543,13 @@
    "fuente": {
     "nombre": "Legismap / ANVISA - Notícias Anvisa, 10.11.2026",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-10-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA registra dos lapiceras más de semaglutida y llega a 22 registros de lapiceras GLP-1 en 2026",
+     "resumen": "Mediante la RE 4.411/2026, ANVISA registró dos productos inyectables de semaglutida de Ávita Care: un genérico y el producto similar Loryvia, ambos para adultos con diabetes tipo 2 insuficientemente controlada. Con esto, los registros de lapiceras GLP-1 en 2026 llegan a 22, impulsados por una priorización solicitada por el Ministerio de Salud para el SUS.",
+     "accion": "Los distribuidores y clínicas deberían esperar mayor competencia y precios más bajos en las lapiceras GLP-1, y actualizar sus listas de proveedores y formularios."
+    }
    }
   },
   {
@@ -387,6 +565,13 @@
    "fuente": {
     "nombre": "Seu Dinheiro",
     "url": "https://seudinheiro.com/2026/empresas/fleury-e-controlada-da-bradesaude-unem-forcas-para-criar-empresa-de-oncologia-com-investimento-de-r-72-milhoes"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Fleury y una unidad de Bradsaúde crean la empresa oncológica FleuryOnco con R$ 72 millones",
+     "resumen": "Fleury y Hospitais da Atlântica, controlada indirectamente por Bradsaúde, crearon FleuryOnco con una inversión inicial de R$ 72 millones; Fleury posee el 50,1%. La empresa ofrecerá terapias oncológicas, soporte multidisciplinario e investigación clínica bajo las marcas Fleury Oncologia y Onco One, y planea contar con siete unidades para fines de 2027.",
+     "accion": "Los proveedores de medicamentos oncológicos, equipos de infusión y diagnóstico deberían considerar a FleuryOnco como una nueva cuenta de compras de cara a 2027."
+    }
    }
   },
   {
@@ -401,6 +586,13 @@
    "fuente": {
     "nombre": "Correio Braziliense (cites ANVISA)",
     "url": "https://www.correiobraziliense.com.br/brasil/2026/11/7535499-anvisa-determina-recolhimento-de-emagrecedor-sem-registro-sanitario.html"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA prohíbe el producto adelgazante sin registro Ultra Shape y ordena la incautación de todos los lotes",
+     "resumen": "Una resolución publicada en el Diário Oficial da União el 9 de noviembre prohíbe por completo Ultra Shape, un producto adelgazante sin registro, notificación ni listado ante ANVISA, y ordena la incautación de todos los lotes. No fue posible identificar al fabricante. La prohibición abarca la fabricación, venta, distribución, publicidad y uso.",
+     "accion": "Las farmacias, distribuidores y clínicas deberían revisar su stock y canales de venta, retirar cualquier unidad de Ultra Shape y dejar de publicitarlo."
+    }
    }
   },
   {
@@ -415,6 +607,13 @@
    "fuente": {
     "nombre": "Legismap / ANVISA - Alertas Anvisa, 09.11.2026",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-09-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Alerta de campo 5378: algunos lotes de láminas Vitros A1c pueden sobreestimar los resultados de HbA1c",
+     "resumen": "ANVISA publicó la alerta de tecnovigilancia 5378 sobre las láminas Vitros Chemistry Products A1c Slides (registro 81246986861). Ciertas generaciones de lotes pueden dar resultados de hemoglobina glicosilada con sesgo positivo; bajo la acción de campo TC2026-224, Ortho Clinical Diagnostics do Brasil indica a los laboratorios dejar de usarlas, descartar el stock y devolver el formulario de acuse de recibo para obtener crédito o reposición. El producto fue distribuido en 19 estados.",
+     "accion": "Los laboratorios y distribuidores deberían revisar el stock de Vitros A1c esta semana, descartar las generaciones afectadas, devolver el formulario de acuse de recibo y reportar los eventos en Notivisa."
+    }
    }
   },
   {
@@ -429,6 +628,13 @@
    "fuente": {
     "nombre": "Legismap / ANVISA - Notícias Anvisa, 09.11.2026",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-09-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA incauta dos lotes de Trodelvy fabricados para Turquía y se retira un lote de paracetamol IV",
+     "resumen": "ANVISA ordenó la incautación de los lotes 10008806 y 10008808 de Trodelvy (Gilead), fabricados exclusivamente para el mercado turco y que difieren del producto original, y prohibió su venta, distribución y uso. En las mismas medidas (RE 4.355 y RE 4.387/2026), Halex Istar realiza el retiro voluntario del lote 0000216652 de Halexminophen 10 mg/mL infusión IV, por un defecto de calidad en el envase.",
+     "accion": "Las clínicas de oncología, farmacias hospitalarias y distribuidores deberían revisar ya su stock en busca de esos lotes, poner en cuarentena cualquier unidad y comprar únicamente a través de canales autorizados."
+    }
    }
   },
   {
@@ -455,7 +661,19 @@
      "monto": "R$ 4,988,658.24",
      "lugar": "Sislog (sislog.go.gov.br)"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "Goiás abre una licitación de registro de precios de medicamentos por R$ 4,99 millones; sesión el 30 de noviembre",
+     "resumen": "SES-GO publicó el aviso del Pregão Eletrônico SRP 218/2026 (publicado en su sitio bajo el aviso 216/2026) para el registro de precios de medicamentos, con un valor estimado de R$ 4.988.658,24. Las propuestas se reciben en la plataforma estatal Sislog desde el 10 de noviembre, y la sesión pública se abre a las 9:00 del 30 de noviembre de 2026.",
+     "accion": "Distribuidores y fabricantes de medicamentos: regístrense en Sislog (sislog.go.gov.br) y presenten sus propuestas antes de la sesión del 30 de noviembre.",
+     "licitaciones": [
+      {
+       "objeto": "Registro de precios de medicamentos"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "br-cadifa-national-api-call",
@@ -469,6 +687,13 @@
    "fuente": {
     "nombre": "Diario de Pernambuco (Agência Brasil)",
     "url": "https://www.diariodepernambuco.com.br/amp/dp-/dp-saude/2026/11/11728603-anvisa-vai-selecionar-dossies-para-incentivar-a-producao-nacional-de-insumos-farmaceuticos.html"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA abre una convocatoria para acelerar hasta ocho expedientes de ingredientes activos fabricados en Brasil",
+     "resumen": "ANVISA seleccionará hasta ocho expedientes de ingredientes farmacéuticos activos fabricados en Brasil y los evaluará para una CADIFA (carta de adecuación de expediente). Al menos la etapa final de síntesis debe realizarse en Brasil, y el fabricante debe contar con un certificado de BPF vigente de ANVISA. Las empresas tienen 60 días corridos desde la publicación para presentarse, con evaluaciones previstas a lo largo de 2027.",
+     "accion": "Los fabricantes locales de IFA y los laboratorios a los que abastecen deberían revisar el listado de la convocatoria y presentarse dentro del plazo de 60 días."
+    }
    }
   },
   {
@@ -483,6 +708,13 @@
    "fuente": {
     "nombre": "Sou Notícia (citing ANVISA Resolution 4,329/2026)",
     "url": "https://www.sounoticia.com.br/noticia/141032/saude/anvisa-proibe-mounjaro-no-brasil-09112026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se prohíben e incautan lotes falsificados de Mounjaro (tirzepatida)",
+     "resumen": "La Resolución 4.329/2026 de ANVISA, publicada el 6 de noviembre, prohíbe la venta, distribución y uso, y ordena la incautación de cinco lotes falsificados de Mounjaro reportados por Eli Lilly: 2,5 mg KUSTR43969410, 5 mg B55010, y 15 mg D810042, D838889 y 2138737. El Mounjaro legítimo adquirido a través de canales regulares sigue autorizado.",
+     "accion": "Verifique el stock de tirzepatida contra estos cinco números de lote y compre únicamente a distribuidores autorizados por Lilly."
+    }
    }
   },
   {
@@ -497,6 +729,13 @@
    "fuente": {
     "nombre": "Conitec · Consultas públicas vigentes",
     "url": "https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/vigentes"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se abren consultas de Conitec sobre vutrisiran y odevixibat para el SUS",
+     "resumen": "Conitec tiene abiertas dos consultas públicas sobre incorporación al SUS: la CP 107/2026 sobre vutrisiran para la amiloidosis hereditaria por transtiretina en estadio I con polineuropatía (cierra el 17 de noviembre) y la CP 108/2026 sobre odevixibat para el prurito colestásico en el síndrome de Alagille (publicada en el DOU el 6 de noviembre, abierta del 9 al 30 de noviembre).",
+     "accion": "Las empresas y especialistas que cuenten con evidencia sobre estos fármacos deberían enviar sus aportes antes de los plazos indicados."
+    }
    }
   },
   {
@@ -523,7 +762,19 @@
      "monto": "R$156.623,28",
      "rubro": "oncologia"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El Hospital Geral de Fortaleza del Ejército abre una licitación de registro de precios de 142 ítems de medicamentos oncológicos con equipos en comodato, que cierra el 18 de noviembre",
+     "resumen": "El Pregão Eletrônico 260/2026, llevado adelante por el Hospital Geral de Fortaleza (Ejército de Brasil) bajo las reglas de registro de precios (SRP, Ley 14.133/2021), abarca la eventual adquisición de medicamentos oncológicos en 142 ítems, suministrados junto con equipos en comodato para el hospital y otras unidades participantes. El aviso se publicó en el PNCP el 4 de noviembre de 2026 bajo el número de control 00394452000103-1-023582/2026 (proceso interno 64579.005749/2026-29); la ventana de presentación de propuestas cierra el 18 de noviembre de 2026 a las 09:00. Valor estimado: R$ 156.623,28. El listado específico de medicamentos se encuentra en el anexo restringido y no estuvo disponible para esta verificación.",
+     "accion": "Proveedores de oncología: revisen el anexo de 142 ítems en el PNCP (número de control 00394452000103-1-023582/2026) antes de que cierre la ventana el 18 de noviembre a las 09:00.",
+     "licitaciones": [
+      {
+       "objeto": "Medicamentos oncológicos con equipos suministrados en comodato, 142 ítems"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "br-wegovy-oral-approval",
@@ -538,6 +789,13 @@
    "fuente": {
     "nombre": "O Tempo",
     "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/11/4/anvisa-aprova-primeiro-medicamento-de-glp-1-em-comprimido-para-tratar-obesidade-no-brasil"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA aprueba el Wegovy oral, el primer comprimido GLP-1 para la obesidad en Brasil",
+     "resumen": "La Resolução-RE n.º 4.249/2026 aprueba la semaglutida oral de una toma diaria de Novo Nordisk para adultos con obesidad (IMC de 30 o más) o IMC de 27 a menos de 30 con una comorbilidad relacionada con el peso, con titulación desde 1,5 mg hasta una dosis de mantenimiento de 25 mg. Aún no se anunció fecha de lanzamiento ni precio.",
+     "accion": "Distribuidores, farmacias y clínicas de obesidad deberían planificar el stock y la orientación a pacientes para la presentación oral."
+    }
    }
   },
   {
@@ -552,6 +810,13 @@
    "fuente": {
     "nombre": "Biored Brasil (cites Conitec)",
     "url": "https://www.bioredbrasil.com.br/novos-tratamentos-no-sus-veja-o-que-a-conitec-vai-avaliar-em-novembro/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "La 157ª reunión de Conitec evalúa una ampliación del uso de PET, trasplantes y medicamentos oncológicos para el SUS",
+     "resumen": "En su 157ª reunión, realizada del 4 al 6 de noviembre, Conitec evaluó una ampliación del uso de la tomografía por emisión de positrones (PET) para el melanoma de alto riesgo y los trasplantes de células madre alogénicos y de donante no emparentado, además de medicamentos como teprotumumab, durvalumab, brentuximab vedotina, ribociclib e inmunoglobulinas. Las recomendaciones iniciales pasarán a consulta pública.",
+     "accion": "Los prestadores de diagnóstico por imágenes, los centros de trasplante y las empresas involucradas deberían estar atentos a las consultas públicas que se deriven de esto y preparar sus aportes."
+    }
    }
   },
   {
@@ -567,6 +832,13 @@
    "fuente": {
     "nombre": "Folha de Alphaville (citing BNDES)",
     "url": "https://folhadealphaville.com.br/cidades/2026/11/06/eurofarma-recebe-r-285-milhoes-do-bndes-para-desenvolver-novos-medicamentos.html"
+   },
+   "trad": {
+    "es": {
+     "titulo": "BNDES presta R$ 285 millones a Eurofarma para I+D de nuevos medicamentos",
+     "resumen": "BNDES aprobó R$ 285 millones a través de su programa Mais Inovação para el plan de investigación de Eurofarma, que abarca tratamientos del dolor sustitutos de opioides, un antibiótico para microorganismos resistentes y nuevas combinaciones de fármacos para depresión y Alzheimer. Parte de los fondos se destina a ensayos clínicos y a siete equipos de laboratorio importados para su centro de I+D en Itapevi; BNDES señala que aprobó R$ 11.700 millones para salud desde 2023.",
+     "accion": "Los proveedores de equipamiento de laboratorio y servicios de investigación clínica deberían estar atentos a licitaciones de Eurofarma vinculadas a este plan."
+    }
    }
   },
   {
@@ -593,7 +865,19 @@
      "monto": "R$ 886,561.32",
      "lugar": "Sislog (sislog.go.gov.br)"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "Goiás licita productos de cannabis registrados ante ANVISA para tratamientos por orden judicial; sesión el 23 de noviembre",
+     "resumen": "El Pregão Eletrônico SRP 214/2026 registrará precios para productos de cannabis de marca, en las presentaciones y concentraciones registradas ante ANVISA, prescriptos en causas judiciales y dispensados por el centro estatal de medicamentos de alto costo (CEMAC Juarez Barbosa). Valor estimado: R$ 886.561,32. Las propuestas se abrieron el 6 de noviembre en Sislog; la sesión pública es a las 9:00 del 23 de noviembre de 2026.",
+     "accion": "Titulares de autorizaciones de productos de cannabis ante ANVISA: presenten sus propuestas en Sislog antes del 23 de noviembre.",
+     "licitaciones": [
+      {
+       "objeto": "Productos de cannabis registrados ante ANVISA para tratamientos por orden judicial"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "br-ans-ccm-rejected-cp-lenvatinib-ivosidenib",
@@ -607,6 +891,13 @@
    "fuente": {
     "nombre": "Biored Brasil (citing ANS)",
     "url": "https://www.bioredbrasil.com.br/ans-abre-consulta-publica-sobre-terapias-para-cancer-renal-e-colangiocarcinoma-e-rejeita-modulador-de-contratilidade-cardiaca/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANS rechaza la cobertura del dispositivo de modulación de contractilidad cardíaca en los planes de salud y abre consulta sobre dos medicamentos oncológicos",
+     "resumen": "El 3 de noviembre, el directorio de ANS emitió por unanimidad una recomendación final desfavorable sobre la modulación de contractilidad cardíaca para la insuficiencia cardíaca crónica refractaria. Esto cierra el ciclo actual de evaluación del dispositivo, que no se incorporará al listado obligatorio de cobertura (Rol) en esta actualización. ANS citó evidencia proveniente de un único ensayo aleatorizado de aproximadamente 160 pacientes y un impacto presupuestario incremental estimado de alrededor de R$ 72 millones anuales. El directorio también abrió una consulta pública, vigente del 6 al 25 de noviembre, sobre sus recomendaciones preliminares desfavorables para lenvatinib más pembrolizumab (cáncer renal de células claras avanzado) e ivosidenib (colangiocarcinoma con mutación IDH1), con una audiencia pública el 16 de noviembre.",
+     "accion": "Los fabricantes de dispositivos y medicamentos afectados deberían planificar el acceso al mercado sin cobertura del Rol para estas tecnologías, y quienes quieran impugnar las recomendaciones deberían participar en la audiencia del 16 de noviembre o enviar comentarios antes del 25 de noviembre."
+    }
    }
   },
   {
@@ -621,6 +912,13 @@
    "fuente": {
     "nombre": "InfoMoney (citing ANS)",
     "url": "https://www.infomoney.com.br/saude/ans-inclui-tratamento-para-calculo-biliar-na-cobertura-obrigatoria-de-planos-de-saude/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Los planes de salud deben ahora cubrir la colangioscopia con litotricia láser o electrohidráulica para cálculos biliares complejos",
+     "resumen": "Desde el 3 de noviembre de 2026, los planes de salud brasileños deben cubrir la colangioscopia con litotricia láser o electrohidráulica para los pacientes cuyos cálculos biliares no pudieron tratarse mediante CPRE. El directorio de ANS aprobó la incorporación al Rol el 2 de octubre, tras una consulta pública y reuniones técnicas. El cambio debería aumentar la demanda de colangioscopios, sondas de litotricia e insumos relacionados en los hospitales privados.",
+     "accion": "Los distribuidores de equipos de endoscopía y los hospitales deberían revisar el stock, los precios y los contratos con los planes de salud para los kits de colangioscopia y litotricia, ahora que la cobertura es obligatoria."
+    }
    }
   },
   {
@@ -635,6 +933,13 @@
    "fuente": {
     "nombre": "Prensa Mercosur (ANVISA, DOU)",
     "url": "https://prensamercosur.org/2026/11/04/anvisa-proibe-equipamento-de-radioterapia-usado-contra-cancer-de-pele/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se prohíbe el equipo de radioterapia superficial WCR tras una inspección de fabricación",
+     "resumen": "Las resoluciones RE 4.256/2026 y RE 4.262/2026 prohíben la fabricación, distribución, venta, uso, publicidad y almacenamiento del equipo WCR, usado en radioterapia superficial para el cáncer de piel, distribuido por Safe Life Distribuidora de Produtos para Saúde. La prohibición abarca todos los lotes fabricados desde el 16 de septiembre, luego de que una inspección constatara que el equipo no se producía conforme a las normas sanitarias vigentes.",
+     "accion": "Si su hospital o clínica usa o tiene en stock unidades WCR, suspenda ya mismo el uso de los lotes afectados y contacte al distribuidor."
+    }
    }
   },
   {
@@ -649,6 +954,13 @@
    "fuente": {
     "nombre": "NC News (ANVISA, DOU)",
     "url": "https://ncnews.com.br/2026/11/03/anvisa-interdita-terminal-porto-santos/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Interdicción parcial en una terminal del Puerto de Santos para productos de salud",
+     "resumen": "La Resolución RE 4.282/2026 prohíbe a Brasil Terminal Portuário (BTP), en Santos, recibir y almacenar dispositivos médicos y materias primas sensibles a la temperatura, medicamentos e insumos farmacéuticos, y sustancias controladas. Los inspectores no encontraron un área segregada para mercadería sospechosa o interdictada ni un área con llave para productos controlados. La medida permanece vigente hasta que se corrijan las falencias.",
+     "accion": "Si importa productos de salud a través de BTP, consulte con su despachante o forwarder si los envíos deben redireccionarse y prevea posibles demoras."
+    }
    }
   },
   {
@@ -663,6 +975,13 @@
    "fuente": {
     "nombre": "Portal Itapipoca (citing ANVISA and DOU)",
     "url": "https://www.portalitapipoca.com.br/saude/2026/11/01/anvisa-aprova-registro-de-cinco-novas-canetas-injetaveis-para-diabetes-e-obesidade.html"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA registra cinco lapiceras genéricas más de GLP-1",
+     "resumen": "ANVISA publicó en el DOU el registro de cinco lapiceras inyectables de semaglutida o liraglutida: Aribet, Lyrza y Wylovol (liraglutida, fabricadas por Biocon, registradas por Farma Vision), Embeltah (semaglutida, Dr. Reddy's) y Sevema (semaglutida, Aché), ambas fabricadas por OneSource Specialty. Con esto, las lapiceras GLP-1 registradas en Brasil en 2026 llegan a 20.",
+     "accion": "Los distribuidores y farmacias hospitalarias deberían esperar mayor competencia de precios en los GLP-1 y revisar sus listas de proveedores."
+    }
    }
   },
   {
@@ -677,6 +996,13 @@
    "fuente": {
     "nombre": "UNA-SUS / Ministerio da Saude",
     "url": "https://www.unasus.gov.br/noticia/inaep-abre-duas-consultas-publicas-para-aprimorar-normas-eticas-em-pesquisas-com-seres-humanos"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se abren consultas sobre una clasificación de riesgo en tres niveles para la revisión ética de investigaciones con seres humanos",
+     "resumen": "Inaep, dependiente del Ministerio de Salud, abrió dos consultas públicas el 28 de octubre. La primera propone clasificar las investigaciones con seres humanos en riesgo bajo, moderado o alto, con una revisión ética graduada según cada nivel, y nuevos procedimientos para la tramitación de protocolos y enmiendas en el sistema nacional de ética en investigación (Sinep); los comentarios cierran el 26 de diciembre de 2026. La segunda fija reglas para apelaciones contra decisiones de los comités de ética en investigación e Inaep; los comentarios cierran el 13 de diciembre de 2026.",
+     "accion": "Los patrocinadores, CRO y hospitales que llevan adelante ensayos de dispositivos o medicamentos deberían revisar los niveles de riesgo y enviar comentarios a través de la plataforma Brasil Participativo antes de los plazos de diciembre."
+    }
    }
   },
   {
@@ -691,6 +1017,13 @@
    "fuente": {
     "nombre": "Mix Vale (DOU)",
     "url": "https://www.mixvale.com.br/2026/10/28/anvisa-determina-recolhimento-de-lotes-de-simbeva-abevmy-e-solucao-de-ringer-com-lactato/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Retiro de Ringer lactato y de dos lotes de biosimilares de bevacizumab",
+     "resumen": "La Resolución RE 4.231/2026 ordena el retiro y suspende la venta y el uso del lote M 0465 26 de Ringer lactato 500 mL (JP Indústria Farmacêutica), tras hallarse partículas oscuras en las bolsas, y de los lotes BF25008896 de Simbeva (Teuto) y BF26002105 de Abevmy (Biocon), tras resultados de endotoxinas bacterianas fuera de especificación.",
+     "accion": "Los hospitales, clínicas y distribuidores deberían revisar hoy su stock en busca de estos lotes y poner en cuarentena cualquier unidad afectada."
+    }
    }
   },
   {
@@ -705,6 +1038,13 @@
    "fuente": {
     "nombre": "Medicina S/A (Agencia Camara de Noticias)",
     "url": "https://medicinasa.com.br/novas-tecnologias-sus/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Un proyecto de ley dividiría la evaluación de incorporación de tecnologías al SUS en una etapa clínica y una de negociación de precios",
+     "resumen": "El PL 1738/2026, presentado por los diputados Silvia Cristina y Geraldo Resende, modificaría la ley de salud de Brasil para que Conitec primero evalúe la evidencia clínica de un nuevo medicamento o dispositivo y recién después negocie el precio con el Ministerio de Salud antes de decidir su incorporación al SUS. También habilita reuniones previas a la presentación entre los fabricantes y Conitec. El proyecto está bajo revisión en comisión (carácter conclusivo) en la Cámara de Diputados; de aprobarse, entraría en vigencia 180 días después de su publicación.",
+     "accion": "Los fabricantes que buscan la incorporación al SUS deberían seguir este proyecto, ya que agregaría una etapa formal de negociación de precios antes de cualquier decisión de incorporación."
+    }
    }
   },
   {
@@ -719,6 +1059,59 @@
    "fuente": {
     "nombre": "SanarMed",
     "url": "https://sanarmed.com/noticias/ans-consulta-publica-179-monitoramento-garantia-atendimento/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "La Consulta Pública 179 de ANS cambiaría los criterios para suspender la venta de planes de salud; plazo el 7 de diciembre",
+     "resumen": "ANS abrió la Consulta Pública 179 para cambiar los criterios de su Monitoreo de Garantía de Atención, que utiliza reclamos sobre plazos incumplidos y negativas de cobertura. Una operadora médico-hospitalaria sería señalada si sus resultados son muy inferiores a los de sus pares o empeoran durante dos períodos consecutivos, y las operadoras exclusivamente odontológicas dejarían de enfrentar la suspensión temporal de ventas en el monitoreo regular. Los aportes están abiertos hasta el 7 de diciembre de 2026.",
+     "accion": "Los prestadores y clínicas que dependen del volumen de los planes de salud deberían revisar la propuesta y enviar sus aportes a través del portal de ANS antes del 7 de diciembre."
+    }
+   }
+  },
+  {
+   "id": "br-anvisa-re-4153-bd-angiocath-recall-23oct2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-10-23",
+   "ambito": "federal",
+   "organismo": "ANVISA (Agência Nacional de Vigilância Sanitária)",
+   "titulo": "ANVISA finalizes recall and suspension of a Becton Dickinson BD Angiocath catheter lot after a failed surface-quality retest",
+   "resumen": "ANVISA's Resolução-RE No. 4.153/2026, signed October 21 and published in the Diário Oficial da União on October 23, 2026, converts a July precautionary interdiction (RE No. 2.954/2026) into a definitive recall and suspension of sale, distribution and use of lot 5304259 of the BD Angiocath peripheral catheter, made by Becton Dickinson Indústrias Cirúrgicas Ltda. The measure follows a Fundação Ezequiel Dias (Funed) fiscal analysis report (No. 897.1P.0/2026) that found an unsatisfactory result in the surface-verification test; no appeal was filed within the ten-day window, so the finding became conclusive.",
+   "accion": "Hospitals, distributors and purchasing units holding BD Angiocath lot 5304259 should immediately withdraw it from use and sale and confirm compliance with the recall; vascular-access device suppliers sourcing from Becton Dickinson's Brazilian plant should monitor for further ANVISA quality findings.",
+   "fuente": {
+    "nombre": "Diário Oficial da União (via Atlas Publico)",
+    "url": "https://atlaspublico.com.br/regulacao/dou/resolucao-re-n-4-153-de-21-de-outubro-de-2026-872638"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA confirma el recall y la suspensión de un lote de cateteres BD Angiocath tras un nuevo ensayo de superficie fallido",
+     "resumen": "La Resolución-RE N.º 4.153/2026 de ANVISA, firmada el 21 de octubre y publicada en el Diário Oficial da União el 23 de octubre de 2026, convierte en definitiva la interdicción cautelar de julio (RE N.º 2.954/2026) y ordena el recall y la suspensión de la comercialización, distribución y uso del lote 5304259 del catéter periférico BD Angiocath, fabricado por Becton Dickinson Indústrias Cirúrgicas Ltda. La medida surge de un laudo de análisis fiscal de la Fundação Ezequiel Dias (Funed, N.º 897.1P.0/2026) que arrojó un resultado insatisfactorio en el ensayo de verificación de superficie; al no presentarse recurso dentro del plazo de diez días, el laudo quedó firme.",
+     "accion": "Los hospitales, distribuidores y áreas de compras que tengan el lote 5304259 de BD Angiocath deben retirarlo de inmediato del uso y la venta y confirmar el cumplimiento del recall; los proveedores de dispositivos de acceso vascular que se abastecen de la planta brasileña de Becton Dickinson deberían monitorear nuevos hallazgos de calidad de ANVISA."
+    }
+   }
+  },
+  {
+   "id": "br-anvisa-precision-concepts-recall-23oct2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-10-23",
+   "ambito": "federal",
+   "organismo": "ANVISA (Agência Nacional de Vigilância Sanitária)",
+   "titulo": "ANVISA recalls three medical devices made at a Costa Rican plant, including a vascular endovenous-ablation stylet, over manufacturing non-compliance",
+   "resumen": "Two ANVISA resolutions signed October 21 and published in the Diário Oficial da União on October 23, 2026 order the recall and suspension of three devices manufactured from February 5, 2026 by Precision Concepts Costa Rica S.A. (Biomerics Alajuela): the Covidien CLOSURERFS endovenous radiofrequency ablation stylet, imported by Auto Suture do Brasil (RE No. 4.154/2026), and the Cavux Cervical Cage and CORUS Spinal System-X cannula kit, imported by Biomédica Equipamentos e Suprimentos Hospitalares (RE No. 4.157/2026). Both measures stem from a February 2-5, 2026 ANVISA inspection of the Costa Rican plant, requested by importer VR Medical, which found manufacturing non-compliant with multiple articles of RDC No. 665/2022.",
+   "accion": "Vascular-surgery and spine-device distributors and hospitals using CLOSURERFS ablation stylets, Cavux cervical cages or CORUS spinal cannula kits made from February 5, 2026 onward should halt sale and use and verify lot records against the recall notice; buyers sourcing OPME from this Costa Rican contract manufacturer should expect continued regulatory scrutiny.",
+   "fuente": {
+    "nombre": "Diário Oficial da União (via Atlas Publico)",
+    "url": "https://atlaspublico.com.br/regulacao/dou/resolucao-re-n-4-154-de-21-de-outubro-de-2026-872422"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA retira tres dispositivos médicos fabricados en una planta de Costa Rica, entre ellos un estilete vascular de ablación endovenosa, por incumplimientos de fabricación",
+     "resumen": "Dos resoluciones de ANVISA firmadas el 21 de octubre y publicadas en el Diário Oficial da União el 23 de octubre de 2026 ordenan el recall y la suspensión de tres dispositivos fabricados a partir del 5 de febrero de 2026 por Precision Concepts Costa Rica S.A. (Biomerics Alajuela): el estilete de ablación endovenosa por radiofrecuencia CLOSURERFS de Covidien, importado por Auto Suture do Brasil (RE N.º 4.154/2026), y la jaula cervical Cavux y el kit de cánula CORUS Spinal System-X, importados por Biomedica Equipamentos e Suprimentos Hospitalares (RE N.º 4.157/2026). Ambas medidas surgen de una inspección de ANVISA realizada entre el 2 y el 5 de febrero de 2026 en la planta costarricense, solicitada por el importador VR Medical, que halló incumplimientos de varios artículos de la RDC N.º 665/2022.",
+     "accion": "Los distribuidores y hospitales de cirugía vascular y de columna que utilicen estiletes de ablación CLOSURERFS, jaulas cervicales Cavux o kits de cánula CORUS fabricados desde el 5 de febrero de 2026 deben suspender la venta y el uso y verificar los lotes contra el aviso de recall; los compradores de OPME que se abastecen de este fabricante tercerizado en Costa Rica deberían esperar mayor escrutinio regulatorio."
+    }
    }
   },
   {
@@ -733,6 +1126,13 @@
    "fuente": {
     "nombre": "Legismap (ANVISA news)",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-22-10-2027"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se prohíben tiras reactivas falsificadas Accu-Chek Active",
+     "resumen": "ANVISA prohibió la venta de tiras reactivas de glucosa en sangre Accu-Chek Active falsificadas, encontradas en dos publicaciones de Amazon. Roche identificó tiras con características diferentes, sin el envase externo original y con la etiqueta \"ONLY FOR GOVERNMENT TENDER\" (solo para licitación gubernamental). Los productos no pueden distribuirse, importarse ni usarse.",
+     "accion": "Si vende tiras reactivas de glucosa, compre únicamente a través de canales autorizados y verifique el envase contra el original; reporte cualquier stock sospechoso."
+    }
    }
   },
   {
@@ -747,6 +1147,13 @@
    "fuente": {
     "nombre": "Legismap (ANVISA news)",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-22-10-2027"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Prohibición cautelar de un lote de Fauldleuco (folinato de calcio)",
+     "resumen": "La Resolución RE 4.150/2026 suspende el lote 25D0808 de Fauldleuco (folinato de calcio 10 mg/mL, fabricado por Libbs) por sospecha de presencia de material particulado. No debe usarse ni venderse hasta que los ensayos confirmen su seguridad.",
+     "accion": "Los hospitales y distribuidores deberían poner en cuarentena el lote 25D0808 y revisar su stock hoy mismo."
+    }
    }
   },
   {
@@ -761,6 +1168,13 @@
    "fuente": {
     "nombre": "Legismap (ANVISA news)",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-22-10-2027"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA publica listados de normas técnicas reconocidas para dispositivos",
+     "resumen": "ANVISA publicará en su portal las normas técnicas que reconoce para dispositivos médicos, en tres listados: normas transversales, implantes ortopédicos y materiales de uso en salud. Los listados se actualizarán de forma continua.",
+     "accion": "Use los listados para alinear el desarrollo de productos y los expedientes de registro con las normas que exige ANVISA."
+    }
    }
   },
   {
@@ -775,6 +1189,13 @@
    "fuente": {
     "nombre": "Legismap / ANVISA - Notícias Anvisa, 13.10.2026",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-anvisa-em-13-10-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Las reglas del sandbox regulatorio de ANVISA quedan abiertas a comentarios hasta el 11 de diciembre",
+     "resumen": "ANVISA abrió la Consulta Pública 1.427/2026 sobre un anteproyecto de RDC para su Sandbox Regulatorio, que abarca gobernanza, criterios de selección, autorización temporal, monitoreo y resguardos de riesgo para productos, servicios y modelos de negocio innovadores. La consulta, de 60 días, cierra el 11 de diciembre de 2026.",
+     "accion": "Las empresas de medtech, SaMD y salud digital deberían leer el anteproyecto y presentar comentarios antes del 11 de diciembre."
+    }
    }
   },
   {
@@ -789,6 +1210,13 @@
    "fuente": {
     "nombre": "Legismap (ANVISA alerts)",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-08-10-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Alerta de campo 5356: etiquetas de cables del monitor Edwards HemoSphere",
+     "resumen": "Edwards Lifesciences reportó que en los monitores avanzados HemoSphere HEM1 (modelo HEMFSM10) fabricados entre junio de 2021 y junio de 2026, las etiquetas laterales pueden faltar o estar intercambiadas, por lo que los valores de izquierda y derecha pueden no coincidir con las etiquetas de los cables.",
+     "accion": "Si cuenta con estos monitores, verifique que las etiquetas de bandera, sensor y canal coincidan con la caja (A1 izquierda, B2 derecha) y conecte los cables según las etiquetas de la caja; reporte cualquier problema en Notivisa citando la alerta 5356."
+    }
    }
   },
   {
@@ -803,6 +1231,13 @@
    "fuente": {
     "nombre": "Legismap (ANVISA alerts)",
     "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-08-10-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Alerta de campo 5355: desconexiones de Bluetooth en el Medtronic CareLink SmartSync",
+     "resumen": "Auto Suture do Brasil (Medtronic) reportó desconexiones de Bluetooth entre la tablet y la estación base y el conector de paciente del CareLink SmartSync (modelos 24967 y 24970A), lo que puede corromper datos y causar pérdida de formas de onda. Las tablets con iPadOS 26.6 o 26.6.1 no requieren ninguna acción; las tablets no deben actualizarse a iPadOS 27 hasta que se confirme la compatibilidad.",
+     "accion": "Si usa programadores SmartSync, verifique la versión del sistema operativo de la tablet, posponga las actualizaciones a iPadOS 27 y devuelva el formulario de confirmación del cliente a Medtronic."
+    }
    }
   },
   {
@@ -817,6 +1252,13 @@
    "fuente": {
     "nombre": "Seguros Lar (ANS)",
     "url": "https://www.seguroslar.com.br/post/ans-atualiza-o-rol-o-que-muda-nos-planos-de-sa%C3%BAde-em-outubro"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Los planes de salud deben cubrir cinco nuevas tecnologías a partir del 1 de octubre",
+     "resumen": "ANS agregó o amplió cinco ítems en el listado obligatorio de cobertura (Rol) de los planes de salud privados, con vigencia desde el 1 de octubre de 2026. Incluyen el sistema intrauterino hormonal para endometriosis y la elastografía hepática por ultrasonido para la colangitis biliar primaria, además de anfotericina B liposomal, rituximab y adalimumab para indicaciones específicas.",
+     "accion": "Contexto: los proveedores de DIU y de equipos de elastografía podrían ver un aumento de la demanda por parte de prestadores privados."
+    }
    }
   },
   {
@@ -831,6 +1273,13 @@
    "fuente": {
     "nombre": "ABIMED",
     "url": "https://abimed.org.br/noticias/anvisa-revisa-regras-de-reuso-de-dispositivos-medicos-em-vigor-desde-2006/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Consulta pública para reemplazar las normas de reprocesamiento de dispositivos de 2006",
+     "resumen": "ANVISA abrió consultas públicas de 120 días para reemplazar la RDC 156/2006 y las Resoluciones 2.605 y 2.606 sobre el reprocesamiento de dispositivos médicos. La propuesta avanza hacia un modelo basado en riesgo y evidencia, con trazabilidad, validación científica de cada ciclo, nuevas reglas para reprocesadores tercerizados y un listado, actualizado periódicamente, de dispositivos que no pueden reprocesarse.",
+     "accion": "Si sus dispositivos se reprocesan en hospitales o usted ofrece servicios de reprocesamiento, revise el anteproyecto y envíe comentarios dentro del plazo de 120 días."
+    }
    }
   },
   {
@@ -845,6 +1294,13 @@
    "fuente": {
     "nombre": "ANVISA",
     "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-suspende-dispositivos-medicos-apos-inspecoes"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se suspenden dispositivos de tres empresas tras inspecciones",
+     "resumen": "Las resoluciones RE 3.642, 3.643 y 3.644/2026 ordenaron el retiro y la suspensión de productos de Mico Biomed do Brasil (diagnóstico molecular), Healtech Saúde (21 productos dentales y ortopédicos) y el calibrador Íonpro fabricado por KDV, que no cuenta con autorización de funcionamiento.",
+     "accion": "Verifique si distribuye o usa alguno de los productos listados y suspenda su venta y uso."
+    }
    }
   },
   {
@@ -859,6 +1315,13 @@
    "fuente": {
     "nombre": "CBDL",
     "url": "https://cbdl.org.br/anvisa-atualiza-manual-sobre-equipamentos-e-softwares-medicos/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Manual actualizado para el registro de equipos médicos y software",
+     "resumen": "ANVISA publicó una nueva edición de su manual para la regularización de equipos médicos y software como dispositivo médico, alineado con la RDC 751/2022, la RDC 657/2022 y la RDC 848/2024. Abarca la clasificación, la diferencia entre notificación y registro, el etiquetado y los requisitos de seguridad.",
+     "accion": "Revise el nuevo manual antes de su próxima presentación de equipos o software para reducir las cartas de exigencia."
+    }
    }
   }
  ]

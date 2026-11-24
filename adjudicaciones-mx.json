@@ -17,6 +17,12 @@
    "fuente": {
     "nombre": "SIDOF (Diario Oficial de la Federación)",
     "url": "https://sidof.segob.gob.mx/notas/docFuente/5803488"
+   },
+   "trad": {
+    "es": {
+     "objeto": "2 sistemas de angiografía (angiógrafos) para hemodinamia",
+     "detalle": "Fallo (decisión de adjudicación) con fecha 2026-09-09; publicado en el Diario Oficial de la Federación vía SIDOF el 2026-11-10. Monto total antes de IVA por 2 partidas/ítems; la fuente no detalla precio unitario por equipo."
+    }
    }
   },
   {
@@ -35,6 +41,12 @@
    "fuente": {
     "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
     "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Equipo de quirófano: 53 monitores intermedios de signos vitales, 57 bombas de infusión, 2 microscopios quirúrgicos, 11 unidades de electrocirugía, 1 ventilador oscilatorio de alta frecuencia",
+     "detalle": "Monitores intermedios a MXN 304,615.38 cada uno (MXN 16.14 millones por 53). Montos antes de IVA."
+    }
    }
   },
   {
@@ -53,6 +65,12 @@
    "fuente": {
     "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
     "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Equipo de quirófano: 50 monitores avanzados de signos vitales, 2 incubadoras neonatales, 2 capnógrafos con oxímetros portátiles, 23 laringoscopios",
+     "detalle": "Monitores avanzados a MXN 320,000 cada uno (MXN 16 millones por 50). Montos antes de IVA."
+    }
    }
   },
   {
@@ -71,6 +89,12 @@
    "fuente": {
     "nombre": "Adolfo Rosas (Substack, ComprasMX data)",
     "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Mantenimiento preventivo y correctivo de 883 equipos médicos en 14 unidades (570 monitores de signos vitales, 112 cuneros de calor radiante, 64 incubadoras)",
+     "detalle": "187 de los 883 equipos fueron reportados fuera de servicio. No se indica el tratamiento de IVA."
+    }
    }
   },
   {
@@ -89,6 +113,12 @@
    "fuente": {
     "nombre": "Proceso",
     "url": "https://www.proceso.com.mx/nacional/2026/11/6/empresa-inhabilitada-y-multada-por-la-cofepris-gana-contrato-millonario-con-la-sedena-383218.html"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Suministro integral de medicamentos (SISMED, segunda fase) para 2026 y 2027, una partida con 334 subpartidas",
+     "detalle": "Oferta económica inicial de MXN 731,827,489.58; el monto adjudicado quedó MXN 8,658,970.95 por encima de esa oferta inicial. Puntaje técnico+económico: Soluglob Ikon 56.60+39.45=96.05 vs. Fármacos Darovi 54.50+40=94.50 (única otra oferta que pasó la evaluación técnica); otros tres participantes fueron descalificados por incumplimiento técnico. La oferta económica más baja fue la de CVS Pharma (MXN 639,056,549.84) pero no ganó por la evaluación técnica. Sedena anuló por error un dictamen técnico adjunto al fallo del 02/11/2026 y lo sustituyó sin modificar el resultado. Soluglob Ikon había sido inhabilitada 12 meses por la Secretaría de la Función Pública en 2024 (circular DOF 013/2024, por presentar información falsa) y multada por COFEPRIS en junio de 2025 (expediente M 214/25) por irregularidades en su almacén de Cuautitlán Izcalli, Estado de México; ninguna de las dos sanciones impidió que ganara este nuevo contrato."
+    }
    }
   },
   {
@@ -107,6 +137,12 @@
    "fuente": {
     "nombre": "IMSS (contract PDF)",
     "url": "https://reposipot.imss.gob.mx/OOAD/UMAE/UMAE2-SONORA/2026/050GYR037N08026-0119-00%20FINAT%20SEIA26EO10190057.pdf"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Servicio integral de extracción de electrodos de marcapasos, incluyendo estiletes, vainas dilatadoras y lazos (snares)",
+     "detalle": "Contrato abierto: mínimo MXN 720,725.00 + IVA, máximo MXN 1,364,426.00 + MXN 218,308.16 de IVA (MXN 1,582,734.16 total). Vigente del 3 de julio al 30 de septiembre de 2026 según la cláusula principal; un anexo indica el 30 de junio de 2026."
+    }
    }
   }
  ]

@@ -17,6 +17,12 @@
    "fuente": {
     "nombre": "Boletín Oficial",
     "url": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2407820/20260218"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supplies for pediatric hemodynamics",
+     "detalle": "Line items 1 to 7. The notice does not report unit prices."
+    }
    }
   },
   {
@@ -35,6 +41,12 @@
    "fuente": {
     "nombre": "Boletín Oficial",
     "url": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2404056/20251113"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Heart valves and valved conduits",
+     "detalle": "The notice reports only the total amount, without a breakdown by line item."
+    }
    }
   }
  ]

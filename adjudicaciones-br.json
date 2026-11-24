@@ -17,6 +17,12 @@
    "fuente": {
     "nombre": "O Tempo (DOU)",
     "url": "https://www.otempo.com.br/politica/2026/9/1/inc-formaliza-registro-de-precos-para-aquisicao-de-materiais-hospitalares"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Materiales hospitalarios (ítems 10 y 11)",
+     "detalle": "Firmado el 29 de agosto de 2026. El aviso no indica cantidades ni precios unitarios."
+    }
    }
   },
   {
@@ -35,6 +41,12 @@
    "fuente": {
     "nombre": "O Tempo (DOU)",
     "url": "https://www.otempo.com.br/politica/2026/8/11/instituto-nacional-de-cardiologia-formaliza-registro-de-precos-para-materiais-hospitalares"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Materiales hospitalarios (ítems 11, 13 a 20 y 22)",
+     "detalle": "Registro de precios vigente por 12 meses. El aviso no indica cantidades ni precios unitarios."
+    }
    }
   },
   {
@@ -53,6 +65,12 @@
    "fuente": {
     "nombre": "O Tempo (DOU)",
     "url": "https://www.otempo.com.br/politica/2026/8/5/instituto-nacional-de-cardiologia-registra-r-821-mil-para-compra-de-medicamentos"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Medicamentos de uso general (ítems 1 y 13)",
+     "detalle": "Firmado el 31 de julio de 2026. El aviso no identifica los productos ni los precios unitarios."
+    }
    }
   },
   {
@@ -71,6 +89,12 @@
    "fuente": {
     "nombre": "O Tempo (DOU)",
     "url": "https://www.otempo.com.br/politica/2026/8/5/instituto-nacional-de-cardiologia-registra-r-821-mil-para-compra-de-medicamentos"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Medicamentos de uso general (ítems 3 y 6)",
+     "detalle": "Firmado el 31 de julio de 2026. El aviso no identifica los productos ni los precios unitarios."
+    }
    }
   },
   {
@@ -89,6 +113,12 @@
    "fuente": {
     "nombre": "O Tempo (DOU)",
     "url": "https://www.otempo.com.br/politica/2026/8/5/instituto-nacional-de-cardiologia-registra-r-821-mil-para-compra-de-medicamentos"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Medicamentos de uso general (ítem 4)",
+     "detalle": "Firmado el 31 de julio de 2026. El aviso no identifica el producto ni el precio unitario."
+    }
    }
   },
   {
@@ -107,6 +137,12 @@
    "fuente": {
     "nombre": "O Tempo (DOU)",
     "url": "https://www.otempo.com.br/politica/2026/7/15/inc-oficializa-registro-de-precos-para-compra-de-materiais-hospitalares"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Materiales hospitalarios (ítem 11)",
+     "detalle": "Firmado el 13 de julio de 2026. El aviso no indica cantidades ni precios unitarios."
+    }
    }
   }
  ]

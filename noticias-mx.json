@@ -31,7 +31,22 @@
      "rubro": "dispositivos",
      "lugar": "UANL · ComprasMX"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "La UANL abre licitaciones para kits de angiografía/angioplastia coronaria y kits de terapia endovascular neurológica, con productos cardiovasculares",
+     "resumen": "La UANL tiene dos procedimientos abiertos en ComprasMX para kits de intervencionismo, ambos publicados el 20 de noviembre de 2026: LA-78-037-919058965-T-2-2027, para kits de procedimientos de angiografía y angioplastia coronaria (apertura de ofertas el 3 de diciembre de 2026); y LA-78-037-919058965-T-1-2027, para kits de procedimientos de terapia endovascular neurológica (apertura de ofertas el 2 de diciembre de 2026). Un tercer procedimiento relacionado de la misma institución (LA-78-037-919058965-T-3-2027, insumos de laboratorio y banco de sangre) abre el 2 de diciembre de 2026, pero no es cardiovascular.",
+     "accion": "Los proveedores de kits de angiografía/angioplastia coronaria y dispositivos neuroendovasculares deberían revisar las bases en ComprasMX y preparar sus ofertas antes de las aperturas del 2 y 3 de diciembre.",
+     "licitaciones": [
+      {
+       "objeto": "Kits para procedimientos de angiografía y angioplastia coronaria"
+      },
+      {
+       "objeto": "Kits para procedimientos de terapia endovascular neurológica"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-imss-arthroscopy-integral-service-dec2026",
@@ -56,7 +71,19 @@
      "lugar": "IMSS Sur D.F. (ComprasMX)",
      "rubro": "traumatologia"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El IMSS abre licitación para servicio integral de artroscopia mínimamente invasiva para 2027 (traumatología)",
+     "resumen": "La delegación Sur de la Ciudad de México del IMSS publicó la licitación LA-50-GYR-050GYR025-N-6-2027 para un servicio médico integral mínimamente invasivo que cubre 834 procedimientos de artroscopia para el ejercicio fiscal 2027. La junta de aclaraciones está prevista para el 26 de noviembre de 2026, con apertura de ofertas el 7 de diciembre de 2026.",
+     "accion": "Los proveedores de dispositivos de ortopedia y artroscopia y de servicios integrales deberían solicitar las bases completas de la licitación antes de la junta de aclaraciones del 26 de noviembre.",
+     "licitaciones": [
+      {
+       "objeto": "Servicio médico integral mínimamente invasivo para procedimientos de artroscopia (834 servicios, ejercicio fiscal 2027)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-imss-oftalmologia-integral-2027-2030",
@@ -82,7 +109,19 @@
      "lugar": "IMSS (ComprasMX)",
      "rubro": "dispositivos"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El IMSS abre licitación plurianual de miles de millones de pesos para servicio integral de oftalmología 2027-2030",
+     "resumen": "El IMSS publicó la licitación pública internacional LA-50-GYR-050GYR988-T-8-2026 para un servicio médico integral de oftalmología que cubre el periodo 2027-2030, con un techo presupuestal de entre MXN 1,565,703,667.04 y MXN 3,876,519,806.84 antes de IVA. La apertura de ofertas es el 3 de diciembre de 2026, con fallo (decisión de adjudicación) el 23 de diciembre de 2026.",
+     "accion": "Los proveedores de servicios integrales de oftalmología y los proveedores de equipo/insumos que abastecen esos contratos deberían revisar desde ahora el alcance y los techos presupuestales.",
+     "licitaciones": [
+      {
+       "objeto": "Servicio Médico Integral para Oftalmología 2027-2030"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-imss-trasplantes-integral-2027-2031",
@@ -108,7 +147,19 @@
      "lugar": "IMSS (ComprasMX)",
      "rubro": "dispositivos"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El IMSS abre licitación plurianual de miles de millones de pesos para servicio integral de trasplantes 2027-2031",
+     "resumen": "El IMSS publicó la licitación pública internacional LA-50-GYR-050GYR988-T-7-2026 para un servicio médico integral de trasplantes que cubre el periodo 2027-2031, con un techo presupuestal de entre MXN 1,566,834,213.87 y MXN 3,841,310,748.74 antes de IVA. La apertura de ofertas es el 3 de diciembre de 2026, con fallo el 23 de diciembre de 2026.",
+     "accion": "Las redes de servicios de trasplantes y los proveedores de equipo/insumos que abastecen esos contratos deberían revisar desde ahora el alcance y los techos presupuestales.",
+     "licitaciones": [
+      {
+       "objeto": "Servicio Médico Integral para Trasplantes 2027-2031"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-incan-detecto-expansion-nov2026",
@@ -124,6 +175,13 @@
    "fuente": {
     "nombre": "Consultorsalud México",
     "url": "https://consultorsalud.com.mx/programa-detecto-detencion-temprana/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "El Instituto Nacional de Cancerología expande su programa de tamizaje de cáncer de pulmón DETECTO a tres estados más",
+     "resumen": "El INCan informó que su programa de tamizaje de cáncer de pulmón DETECTO, basado en tomografía computarizada de baja dosis, ha evaluado a 852 personas (1,338 estudios, 10 cánceres detectados, una tasa de detección del 1.3%) y se está expandiendo a Oaxaca, Jalisco y Yucatán.",
+     "accion": "Los proveedores de equipos de imagenología/tomografía y de servicios oncológicos deberían seguir los sitios de expansión de DETECTO para futuras necesidades de capacidad."
+    }
    }
   },
   {
@@ -184,7 +242,34 @@
      "rubro": "dispositivos",
      "lugar": "IMSS OOAD San Luis Potosí · ComprasMX"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "Licitaciones abiertas de equipo médico, instrumental y consumibles en IMSS, SEDENA e INDESALUD, con aperturas del 23 de noviembre al 9 de diciembre",
+     "resumen": "Hay varios procedimientos públicos abiertos en ComprasMX para equipo médico e insumos. IMSS: LA-50-GYR-050GYR998-N-106-2026 (grupo 379, equipo, instrumental y accesorios médicos), apertura de ofertas el 23 de noviembre; LA-50-GYR-050GYR012-N-2-2027 (arrendamiento de equipo médico para unidades médicas), 27 de noviembre; LA-50-GYR-050GYR023-N-13-2027 (mantenimiento de equipo de endoscopía en los HGZ 1, 2, 6 y 50, San Luis Potosí, para 2027), 9 de diciembre. SEDENA: LA-07-110-007000999-T-782-2026 (instrumental médico para la 5ª sección del Hospital Central Militar, segunda ronda), 2 de diciembre; LA-07-110-007000999-T-48-2027 (material de curación y otros consumibles, procedimiento I), 8 de diciembre. INDESALUD: LA-63-O39-904037996-N-34-2026 (refacciones menores y accesorios para equipo e instrumental médico y de laboratorio), 9 de diciembre.",
+     "accion": "Los distribuidores de dispositivos y consumibles deberían revisar las bases en ComprasMX y confirmar ahí las fechas de apertura antes de preparar sus ofertas.",
+     "licitaciones": [
+      {
+       "objeto": "Equipo, instrumental y accesorios médicos del grupo 379"
+      },
+      {
+       "objeto": "Arrendamiento de equipo médico para unidades médicas"
+      },
+      {
+       "objeto": "Instrumental médico, 5ª sección del Hospital Central Militar (2ª ronda)"
+      },
+      {
+       "objeto": "Material de curación y otros consumibles (procedimiento I)"
+      },
+      {
+       "objeto": "Refacciones y accesorios para equipo médico y de laboratorio"
+      },
+      {
+       "objeto": "Mantenimiento de equipo de endoscopía, HGZ 1, 2, 6 y 50 (San Luis Potosí)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-lineamientos-uso-seguro-medicamentos-insumos-nov2026",
@@ -200,7 +285,14 @@
     "url": "https://consultorsalud.com.mx/lineami-uso-seguro-de-medicamentos-e-insumos/"
    },
    "tipo": "otro",
-   "rubro": "medicamentos"
+   "rubro": "medicamentos",
+   "trad": {
+    "es": {
+     "titulo": "México emite nuevos lineamientos nacionales para el uso seguro de medicamentos e insumos para la salud, que incluyen la tecnovigilancia de dispositivos",
+     "resumen": "El 18 de noviembre de 2026, el titular de la Secretaría de Salud, David Kershenobich, anunció nuevos Lineamientos nacionales para el Uso Seguro de Medicamentos e Insumos para la Salud, un documento técnico de 50 páginas elaborado por la DGPLADES. Se aplica a las instituciones públicas del Sistema Nacional de Salud (IMSS, ISSSTE, IMSS-Bienestar, servicios estatales de salud, institutos nacionales, unidades de alta especialidad) a través de cinco componentes: regulación sanitaria de la cadena de suministro de medicamentos, cumplimiento de normas clínicas/NOM, farmacovigilancia y tecnovigilancia (con referencia a la NOM-220-SSA1-2016 y la NOM-240-SSA1-2012, que cubre el reporte de incidentes con dispositivos médicos), uso óptimo de insumos/inventario, y estandarización de los Comités de Farmacia y Terapéutica (COFAT). Entra en vigor al día siguiente de su publicación en el DOF, sin un cronograma único de implementación, y con revisión obligatoria al menos cada dos años; el artículo no indicó el número de edición del DOF ni especificó sanciones.",
+     "accion": "Los proveedores de medicamentos y dispositivos médicos al sistema público de salud de México deberían revisar los requisitos de validación de compras y de tecnovigilancia de los lineamientos, ya que los hospitales deberán actualizar los estándares de documentación de proveedores y el reporte de dispositivos/eventos adversos una vez que la publicación en el DOF active la entrada en vigor."
+    }
+   }
   },
   {
    "id": "mx-imss-boletin593-equipo-alta-tecnologia-nov2026",
@@ -216,7 +308,14 @@
     "url": "https://www.imss.gob.mx/prensa/archivo/202611/593"
    },
    "tipo": "otro",
-   "rubro": "dispositivos"
+   "rubro": "dispositivos",
+   "trad": {
+    "es": {
+     "titulo": "El IMSS reporta 6,294 cirugías adicionales y 64 equipos de alta tecnología en operación, incluyendo nuevos tomógrafos para cardiología y trauma",
+     "resumen": "En el comunicado de prensa No. 593/2026 (17 de noviembre), el director del IMSS, Zoé Robledo, informó que desde el 12 de octubre el instituto realizó 6,294 cirugías adicionales en turnos nocturnos/de fin de semana (3,072 procedimientos de cataratas, más casos de vesícula, hernia, rodilla y cadera). Señaló que 64 equipos de alta tecnología ya atienden pacientes, con 81 instalados y 69 en pruebas/capacitación. Entre ellos, dos tomógrafos de 256 cortes comenzaron a atender pacientes ese día en el Hospital General Regional No. 1 de Charo, Michoacán, y en el Hospital General de Zona No. 42 de Puerto Vallarta, Jalisco, utilizados para estudios más rápidos de cardiología, trauma y ortopedia, dentro de una meta nacional de 26 tomógrafos de este tipo. Se reportó que el 94% de las recetas se surtieron completas.",
+     "accion": "Los proveedores y distribuidores de equipo de imagenología deberían seguir qué hospitales reciben los tomógrafos restantes (26 planeados a nivel nacional) y los demás equipos de alta tecnología aún en instalación o pruebas, ya que cada uno representa oportunidades de corto plazo en consumibles, servicio y mantenimiento."
+    }
+   }
   },
   {
    "id": "mx-cancer-cervicouterino-estadisticas-2025",
@@ -232,7 +331,14 @@
     "url": "https://consultorsalud.com.mx/cancer-de-cuello-uterino-mexico/"
    },
    "tipo": "otro",
-   "rubro": "oncologia"
+   "rubro": "oncologia",
+   "trad": {
+    "es": {
+     "titulo": "México registró 4,441 muertes por cáncer cervicouterino en 2025; las consultas aumentaron 51.6% desde 2021",
+     "resumen": "Con motivo del Día Mundial para la Eliminación del Cáncer Cervicouterino (17 de noviembre), Consultorsalud México informó, citando las estadísticas de registros de defunciones 2025 del INEGI, que el cáncer cervicouterino causó 4,441 muertes en México en 2025, con el 75.8% de las muertes en mujeres de 45 años o más (31.6% en mujeres de 65 o más). Las consultas registradas pasaron de 24,583 (2021) a 37,267 (2024), un aumento del 51.6%, luego de alcanzar un máximo de 59,921 en 2023. Un informe de la Secretaría de Salud (al 15 de julio de 2026) mostró 1,950,119 dosis de vacuna contra el VPH aplicadas desde septiembre de 2025, el 78% de una meta de 2.5 millones de dosis para alumnas de quinto grado y niñas de 11 años sin escolaridad; la OMS reportó aproximadamente 604,000 casos nuevos y 280,000 muertes a nivel mundial en 2024.",
+     "accion": "Los proveedores de diagnóstico y tratamiento oncológico deberían notar la brecha entre el aumento en el volumen de consultas y la cobertura de vacunación del 78% de la meta como una señal de demanda continua de tamizaje de cáncer cervicouterino, pruebas de VPH y capacidad de tratamiento en el sistema público de México."
+    }
+   }
   },
   {
    "id": "mx-sarampion-brote-cerca-cierre-nov2026",
@@ -246,6 +352,13 @@
    "fuente": {
     "nombre": "El Chamuco y los Hijos del Averno (citando Secretaría de Salud)",
     "url": "https://elchamuco.com.mx/2026/11/15/mexico-registra-seis-casos-activos-de-sarampion-salud-reporta-90-de-cobertura-de-vacunacion/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "México se acerca al cierre del brote de sarampión con 90% de cobertura de vacunación",
+     "resumen": "El secretario de Salud, David Kershenobich, reportó que México está muy cerca de cerrar el brote de sarampión activo desde 2025, con solo 6 casos activos a nivel nacional (5 en Chiapas, 1 en Quintana Roo) y 90% de cobertura de vacunación. Desde febrero de 2025 hasta el 13 de noviembre de 2026 se han confirmado 20,701 casos y 50 muertes, con 40.9 millones de dosis aplicadas en 2025-2026 y 10.8 millones de dosis disponibles en 21,000 puntos de vacunación. El gobierno busca interrumpir la transmisión en 2027 y recertificarse como país libre de sarampión en 2028.",
+     "accion": "Empresas de salud, aseguradoras y hospitales privados pueden anticipar una reducción del riesgo epidemiológico de sarampión en el corto plazo, aunque deben mantener protocolos de vacunación y vigilancia dado que Jalisco, Chihuahua, CDMX y Durango aún concentran casos históricos."
+    }
    }
   },
   {
@@ -271,7 +384,19 @@
      "lugar": "BIRMEX (ComprasMX)",
      "rubro": "medicamentos"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "BIRMEX abre licitación consolidada complementaria de medicamentos e insumos para la salud 2027-2028",
+     "resumen": "BIRMEX publicó la licitación pública internacional LA-12-NEF-012NEF001-I-398-2026 para una compra consolidada complementaria de medicamentos e insumos para la salud destinada a instituciones del Sistema Nacional de Salud, que cubre los ejercicios fiscales 2027-2028, luego de una compra consolidada previa cuyo volumen remanente no cubierto se está volviendo a licitar. La junta de aclaraciones es el 18 de noviembre, con apertura de ofertas el 26 de noviembre de 2026 y fallo el 23 de diciembre de 2026.",
+     "accion": "Los proveedores que perdieron claves en la adjudicación consolidada original, o que quieran el volumen remanente, deberían revisar las bases antes de la apertura del 26 de noviembre.",
+     "licitaciones": [
+      {
+       "objeto": "Adquisición Consolidada Complementaria de Medicamentos e Insumos para la Salud 2027-2028"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-sheinbaum-china-hospitales-inteligentes",
@@ -285,6 +410,13 @@
    "fuente": {
     "nombre": "Consultor Salud Mexico",
     "url": "https://consultorsalud.com.mx/sheinbaum-china-hospitales-inteligentes/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "México dice que buscará cooperación con China en un modelo de hospitales inteligentes",
+     "resumen": "El 13 de noviembre, la presidenta Sheinbaum dijo que México buscará cooperación con China para explorar la adopción del modelo chino de hospitales inteligentes, un tema que se plantearía en una reunión bilateral con Xi Jinping durante la cumbre de la APEC en Shenzhen (17-19 de noviembre de 2026). Aún no se han revelado proveedores de tecnología, montos de inversión ni cronograma de implementación.",
+     "accion": "Los proveedores de tecnología de salud y equipo hospitalario deberían estar atentos a los detalles después de la reunión bilateral de la APEC del 17 al 19 de noviembre, para ver qué cooperación concreta, si la hay, se acuerda."
+    }
    }
   },
   {
@@ -299,6 +431,13 @@
    "fuente": {
     "nombre": "Diario Oficial de la Federación (DOF) / Consultorsalud México",
     "url": "https://consultorsalud.com.mx/concalidad-mexico-2026/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "DOF publica acuerdo que actualiza y reestructura el Comité Nacional por la Calidad en Salud (CONCALIDAD)",
+     "resumen": "La Secretaría de Salud, encabezada por David Kershenobich, publicó en el Diario Oficial de la Federación del 13 de noviembre de 2026 el acuerdo que actualiza y sustituye el marco de 2007 de CONCALIDAD, con 26 integrantes (19 permanentes, entre ellos IMSS, IMSS-Bienestar, ISSSTE y Cofepris, mas 7 representantes estatales rotativos) y representacion de hospitales privados (AMH, ANHP, Consorcio Mexicano de Hospitales). La presidencia pasa de la Subsecretaria de Innovacion y Calidad a la Secretaria de Salud; el acuerdo entra en vigor el 17 de noviembre de 2026 y otorga 13 atribuciones, incluida la aprobacion de indicadores de calidad y el seguimiento a quejas por mala calidad de servicio.",
+     "accion": "Hospitales privados y proveedores del sector salud deben revisar el acuerdo DOF del 13/11/2026 para entender sus nuevas obligaciones de reporte de calidad y preparar su participación antes de la entrada en vigor el 17 de noviembre."
+    }
    }
   },
   {
@@ -315,7 +454,14 @@
     "url": "https://consultorsalud.com.mx/grupo-farmaceutico-mdk-inhabilitado-mexico/"
    },
    "tipo": "prohibicion",
-   "rubro": "medicamentos"
+   "rubro": "medicamentos",
+   "trad": {
+    "es": {
+     "titulo": "Grupo Farmacéutico MDK queda inhabilitado por 15 meses para nuevas contrataciones públicas",
+     "resumen": "El 12 de noviembre, el DOF publicó la Circular SABG/OICGYR/AR/6946/2026, firmada por el Órgano Interno de Control del IMSS, que inhabilita a Grupo Farmacéutico MDK, S.A. de C.V. para nuevas contrataciones públicas por 15 meses a partir del 13 de noviembre, en virtud de una resolución sancionadora del 27 de octubre (expediente PISI-A-NC-DS-0010/2026). La inhabilitación abarca adquisiciones, arrendamientos, servicios y obra pública en dependencias federales, empresas paraestatales, estados y municipios cuando se usan fondos federales; también se impuso una multa, y la inhabilitación se extiende hasta que esta se pague. Los contratos previamente formalizados quedan excluidos y no se revocan los permisos sanitarios.",
+     "accion": "Los equipos de compras y cumplimiento deberían verificar si MDK es un proveedor actual o potencial y evitar adjudicarle cualquier nuevo contrato con fondos federales mientras la inhabilitación esté vigente."
+    }
+   }
   },
   {
    "id": "mx-hospital-juarez-politicas-dof-2026",
@@ -329,6 +475,13 @@
    "fuente": {
     "nombre": "Consultor Salud (citing DOF, November 11, 2026)",
     "url": "https://consultorsalud.com.mx/hospital-juarez-de-mexico-politicas/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Entran en vigor las nuevas políticas generales del Hospital Juárez de México, que derogan las normas de 2018",
+     "resumen": "El DOF publicó el 11 de noviembre las Políticas Generales actualizadas del Hospital Juárez de México, aprobadas por su comité de mejora regulatoria el 7 de octubre. El reglamento interno entró en vigor el 12 de noviembre y deroga las políticas publicadas en el DOF el 19 de abril de 2018 y sus reformas posteriores, incluida la actualización de 2024. El aviso clasifica el documento como regulación interna aplicable únicamente a este hospital nacional y no detalla los cambios de fondo.",
+     "accion": "Los proveedores, contratistas y personal que trabajan con el Hospital Juárez de México deberían obtener el texto de las nuevas políticas y compararlo con la versión de 2018 para confirmar qué reglas de operación y contratación cambiaron."
+    }
    }
   },
   {
@@ -343,6 +496,13 @@
    "fuente": {
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/imss-bienestar-plan-de-12-acciones-120-dias/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Plan de 120 días de IMSS-Bienestar: más de MXN 10,300 millones para equipo médico y 100 millones de piezas de medicamentos",
+     "resumen": "El 11 de noviembre, IMSS-Bienestar presentó un plan de 12 acciones para los próximos 120 días en sus 24 estados integrantes. Destina más de MXN 5,732 millones a 212 equipos de alta tecnología, incluyendo 7 aceleradores lineales, 125 mastógrafos con inteligencia artificial, 9 resonancias magnéticas y 68 tomógrafos, además de MXN 4,658 millones para camas, monitores, ultrasonidos y desfibriladores. También planea distribuir 100 millones de piezas de medicamentos, gastar MXN 3,470 millones en el mantenimiento de 244 unidades y contratar a 19,314 trabajadores.",
+     "accion": "Los proveedores de imagenología, radioterapia, monitoreo y equipo hospitalario deberían seguir las compras de IMSS-Bienestar durante los próximos cuatro meses y preparar sus ofertas y registros."
+    }
    }
   },
   {
@@ -357,6 +517,13 @@
    "fuente": {
     "nombre": "Infobae México",
     "url": "https://www.infobae.com/mexico/2026/11/11/tras-casi-20-horas-camara-de-diputados-aprueba-presupuesto-2027-y-pasa-al-ejecutivo/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "La Cámara de Diputados aprueba el presupuesto federal 2027 con cerca de MXN 1.105 billones para salud",
+     "resumen": "En la madrugada del 11 de noviembre, la Cámara de Diputados aprobó el Presupuesto de Egresos de la Federación 2027 por 352 votos a favor y 130 en contra. El gasto neto es de MXN 10.636 billones, de los cuales cerca de MXN 1.105 billones se destinan a salud. El presupuesto pasa ahora al Ejecutivo para su publicación; no se reportaron cifras separadas para IMSS, ISSSTE, IMSS-Bienestar ni medicamentos.",
+     "accion": "Utilizar el presupuesto de salud 2027 para planear las ventas al sector público y buscar el desglose por institución una vez que se publique en el DOF."
+    }
    }
   },
   {
@@ -371,6 +538,13 @@
    "fuente": {
     "nombre": "Consultor Salud Mexico",
     "url": "https://consultorsalud.com.mx/imss-chihuahua-primer-procedimiento-tavi/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "El IMSS realiza su primer procedimiento TAVI en el estado de Chihuahua",
+     "resumen": "El IMSS anunció el 11 de noviembre que su Hospital General Regional No. 1 Morelos, en Chihuahua, realizó el primer implante percutáneo de válvula aórtica (TAVI) del instituto en ese estado, tratando la estenosis aórtica sin cirugía a corazón abierto. No se revelaron la marca del dispositivo ni datos del paciente; a nivel nacional, el IMSS reportó 82 salas de hemodinamia al mes de marzo de 2026, 34 de ellas en hospitales de segundo nivel.",
+     "accion": "Los distribuidores de dispositivos cardiovasculares deberían seguir si el IMSS amplía la capacidad de TAVI a más hospitales de segundo nivel en la región tras este primer caso."
+    }
    }
   },
   {
@@ -385,6 +559,13 @@
    "fuente": {
     "nombre": "Consultor Salud México (cites DOF)",
     "url": "https://consultorsalud.com.mx/compendio-nacional-insumos-salud-mexico-2026/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se actualiza el Compendio Nacional de Insumos para la Salud con nuevos medicamentos oncológicos, un sistema de biopsia mamaria y un dispositivo de control de temperatura",
+     "resumen": "El Consejo de Salubridad General publicó una actualización del Compendio Nacional de Insumos para la Salud en el DOF el 10 de noviembre de 2026, vigente a partir del 11 de noviembre. Agrega iptacopán, tucatinib 50 mg y 150 mg, un sistema no invasivo de control de temperatura (531.500.0611), un sistema de biopsia mamaria asistida por vacío (531.829.0947) y dos fórmulas nutricionales, y modifica entradas incluyendo atezolizumab, durvalumab, alteplasa y semaglutida, cuya indicación ahora cubre obesidad y sobrepeso. Las nuevas claves y especificaciones se convierten en la referencia para las compras institucionales.",
+     "accion": "Verificar si sus productos coinciden con las claves y especificaciones nuevas o modificadas antes de las licitaciones de IMSS, ISSSTE, IMSS-Bienestar y Birmex."
+    }
    }
   },
   {
@@ -399,6 +580,13 @@
    "fuente": {
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/cofepris-farmacovigilancia-tecnovigilancia/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS fija prioridades para la gestión de señales de seguridad, la tecnovigilancia hospitalaria y los dispositivos IoT",
+     "resumen": "COFEPRIS informó el 10 de noviembre los resultados de la Reunión Nacional de Farmacovigilancia y Tecnovigilancia 2026, realizada los días 5 y 6 de noviembre en la Ciudad de México. Los temas incluyeron la gestión de señales de seguridad con bases de datos estandarizadas, la tecnovigilancia hospitalaria, el Internet de las Cosas en dispositivos médicos y los procedimientos de retiro del mercado. No se anunciaron nuevas obligaciones ni plazos.",
+     "accion": "Los titulares de registros sanitarios deberían asegurarse de que sus procedimientos de reporte de eventos adversos y de retiro de producto estén actualizados."
+    }
    }
   },
   {
@@ -431,7 +619,22 @@
      "rubro": "traumatologia",
      "lugar": "IMSS · ComprasMX"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El IMSS tiene dos licitaciones abiertas para servicios de suministro y retiro de material de osteosíntesis/endoprótesis y para la dotación de prótesis y órtesis",
+     "resumen": "El IMSS tiene dos procedimientos abiertos en ComprasMX para dispositivos ortopédicos: LA-50-GYR-050GYR012-T-150-2026, para la adquisición, colocación y retiro de material de osteosíntesis y endoprótesis, publicada el 10 de noviembre de 2026 con apertura de ofertas el 30 de noviembre de 2026; y LA-50-GYR-050GYR035-N-6-2027, para la dotación o reparación de prótesis, órtesis y ayudas funcionales, publicada el 9 de noviembre de 2026 con apertura de ofertas el 26 de noviembre de 2026.",
+     "accion": "Los proveedores de material de osteosíntesis, endoprótesis y de prótesis/órtesis deberían revisar las bases en ComprasMX y preparar sus ofertas antes de las aperturas del 26 y 30 de noviembre.",
+     "licitaciones": [
+      {
+       "objeto": "Adquisición, colocación y retiro de material de osteosíntesis y endoprótesis"
+      },
+      {
+       "objeto": "Dotación o reparación de prótesis, órtesis y ayudas funcionales"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-imss-bienestar-yucatan-transferencia-158",
@@ -445,6 +648,13 @@
    "fuente": {
     "nombre": "Consultor Salud (citing DOF, November 9, 2026)",
     "url": "https://consultorsalud.com.mx/imss-bienestar-yucatan-transferencia/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Yucatán formaliza la transferencia de 158 registros de propiedad de unidades de salud a IMSS-Bienestar",
+     "resumen": "Un acuerdo de coordinación publicado en el DOF el 9 de noviembre (firmado el 15 de septiembre, en el marco del acuerdo general del 17 de mayo) regula la posesión y posterior propiedad por parte de IMSS-Bienestar de los inmuebles vinculados a 158 registros de unidades médicas en Yucatán: 29 registros estatales y 129 en manos de entidades estatales. IMSS-Bienestar obtiene posesión gratuita y compartida mientras continúan los servicios concurrentes, y el estado debe gestionar donaciones, regularización y, cuando sea necesario, trámites ante el INDAABIN. El acuerdo no detalla el equipo médico ni un cronograma de entrega por sitio.",
+     "accion": "Los proveedores y operadores que atienden instalaciones públicas de Yucatán deberían seguir la entrega unidad por unidad, ya que los arrendamientos y contratos de servicio vigentes en los sitios afectados deben revisarse individualmente a medida que la propiedad pasa a IMSS-Bienestar."
+    }
    }
   },
   {
@@ -459,6 +669,13 @@
    "fuente": {
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/imss-bienestar-destinara-centros-de-salud/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "IMSS-Bienestar transferirá MXN 4,761 millones a 8,797 centros de atención primaria para equipo y reparaciones",
+     "resumen": "IMSS-Bienestar anunció MXN 4,761 millones para 8,797 centros de salud bajo el programa La Clínica es Nuestra, 314 unidades más que en 2025. Cada centro recibe entre MXN 400,000 y 1.2 millones según su tamaño, y los comités locales de salud deciden cómo gastarlo, incluyendo instrumental clínico, equipo médico, mobiliario y reparaciones. Las transferencias comienzan la semana del 9 de noviembre.",
+     "accion": "Los distribuidores de equipo e instrumental médico básico deberían prepararse para numerosas compras locales pequeñas, lideradas por la comunidad, que funcionan de manera distinta a las licitaciones centralizadas."
+    }
    }
   },
   {
@@ -473,6 +690,13 @@
    "fuente": {
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/issste-reporta-abasto-de-medicamentos/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "El ISSSTE reporta 97% de abasto de medicamentos y pasa a operar directamente los servicios de hemodinamia y anestesia",
+     "resumen": "Ante la Comisión de Salud de la Cámara de Diputados, el titular del ISSSTE, Martí Batres, reportó 97% de abasto de medicamentos, 712 nuevas camas hospitalarias y más de MXN 7,000 millones en construcción en dos años. Señaló que tres hospitales fueron recuperados de esquemas de asociación público-privada y que los servicios de hemodinamia y anestesia ahora se operan directamente, con la endoscopía en el mismo proceso. No se revelaron montos de compras de equipo.",
+     "accion": "Los proveedores de equipo de hemodinamia, anestesia y endoscopía deberían esperar que el ISSSTE compre directamente en lugar de a través de contratos de servicios subcontratados, y ajustar su estrategia de licitación."
+    }
    }
   },
   {
@@ -489,7 +713,14 @@
     "url": "https://adolforosas.substack.com/p/semana-45-el-issste-compra-103-monitores"
    },
    "tipo": "licitacion",
-   "rubro": "dispositivos"
+   "rubro": "dispositivos",
+   "trad": {
+    "es": {
+     "titulo": "El ISSSTE compra 103 monitores de signos vitales por adjudicación directa; IMSS-Bienestar contrata mantenimiento para 883 equipos en Quintana Roo",
+     "resumen": "Según una revisión semanal de contratos en ComprasMX, el ISSSTE realizó seis adjudicaciones directas por MXN 65.51 millones (antes de IVA) para equipo de quirófano: Corporativo MS Sistemas Médicos ganó MXN 18.02 millones (50 monitores avanzados, incubadoras neonatales, capnógrafos, laringoscopios) y TOTECH MXN 41.25 millones (53 monitores intermedios, 57 bombas de infusión, microscopios quirúrgicos, unidades de electrocirugía). IMSS-Bienestar adjudicó a I GUARMA MXN 123.11 millones para el mantenimiento preventivo y correctivo de 883 equipos en 14 unidades de Quintana Roo, 187 de ellos fuera de servicio.",
+     "accion": "Proveedores de equipo: el ISSSTE recibió ofertas que cumplían los requisitos para solo 31 de los 422 ítems solicitados, por lo que es probable que haya más adjudicaciones directas; sigan ComprasMX y respondan a sus solicitudes de investigación de mercado."
+    }
+   }
   },
   {
    "id": "mx-imss-protesis-osteosintesis-licitaciones-nov2026",
@@ -528,7 +759,25 @@
      "rubro": "traumatologia",
      "lugar": "IMSS OOAD Norte, Mexico City · ComprasMX"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El IMSS tiene tres licitaciones abiertas para osteosíntesis, endoprótesis, prótesis y órtesis, con aperturas de ofertas del 26 de noviembre al 15 de diciembre",
+     "resumen": "Hay tres procedimientos del IMSS para insumos de ortopedia y trauma abiertos en ComprasMX. LA-50-GYR-050GYR012-T-150-2026 (material de osteosíntesis y endoprótesis) está en etapa de aclaraciones, con apertura de ofertas el 30 de noviembre de 2026. LA-50-GYR-050GYR035-N-6-2027 (dotación o reparación de prótesis, órtesis y ayudas funcionales) abre ofertas el 26 de noviembre de 2026. La delegación regional Norte de la Ciudad de México (OOAD Norte) licitó LA-50-GYR-050GYR016-T-6-2027 para órtesis, prótesis y ayudas técnicas funcionales bajo un esquema de inventario cero: junta de aclaraciones el 2 de diciembre, apertura de ofertas el 15 de diciembre, fallo el 5 de enero de 2027, y arranque de contrato previsto para el 25 de enero de 2027.",
+     "accion": "Los proveedores de implantes de ortopedia y trauma deberían descargar ya las bases en ComprasMX y confirmar ahí las fechas, ya que la primera apertura es el 26 de noviembre.",
+     "licitaciones": [
+      {
+       "objeto": "Prótesis, órtesis y ayudas funcionales (dotación o reparación)"
+      },
+      {
+       "objeto": "Material de osteosíntesis y endoprótesis"
+      },
+      {
+       "objeto": "Órtesis, prótesis y ayudas técnicas funcionales (inventario cero)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-argliptin-d-adulterated",
@@ -542,6 +791,13 @@
    "fuente": {
     "nombre": "Criterio Hidalgo (citing COFEPRIS)",
     "url": "https://www.criteriohidalgo.com/noticias/mexico/cuidado-en-mexico-cofepris-alerta-por-medicamento-para-la-diabetes-adulterado"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Circula un lote adulterado de Argliptin-D (sitagliptina/metformina)",
+     "resumen": "COFEPRIS alertó sobre el lote LC89738 de Argliptin-D 50 mg/850 mg, un medicamento para diabetes tipo 2, tras una evaluación visual con el titular del registro, Mexar Pharma. El lote no fue importado oficialmente para su venta en México, por lo que no se puede garantizar su origen ni calidad; la alerta cubre únicamente ese lote.",
+     "accion": "Revisar el inventario de farmacias y hospitales en busca del lote LC89738, ponerlo en cuarentena y presentar una denuncia sanitaria si se encuentra a la venta."
+    }
    }
   },
   {
@@ -556,6 +812,13 @@
    "fuente": {
     "nombre": "La Cronica de Hoy Jalisco",
     "url": "https://www.cronica.com.mx/jalisco/bienestar/2026/11/07/transforma-jalisco-su-red-hospitalaria-con-inversion-superior-a-20-mil-mdp/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Jalisco reporta más de MXN 20,670 millones invertidos en su red hospitalaria estatal",
+     "resumen": "En su Segundo Informe de Gobierno, el 7 de noviembre, el gobernador de Jalisco, Pablo Lemus, reportó más de MXN 20,667 millones invertidos en la infraestructura hospitalaria del estado: arranque de la construcción del Hospital Civil de la Costa en Puerto Vallarta, remodelación en curso del Hospital General de Occidente Zoquipan en Guadalajara, un nuevo Centro de Cuidados Perinatales en Zapopan, y MXN 429 millones para 146 nuevas ambulancias del SAMU, con lo que la flota estatal llega a 836.",
+     "accion": "Los proveedores de equipo y construcción deberían seguir las compras vinculadas a estos proyectos de Jalisco, en particular el nuevo hospital de Puerto Vallarta y la remodelación de Zoquipan."
+    }
    }
   },
   {
@@ -570,6 +833,13 @@
    "fuente": {
     "nombre": "A Tiempo (citing COFEPRIS and SSM Michoacán)",
     "url": "https://atiempo.mx/estado/alerta-la-cofepris-por-venta-ilegal-de-productos-con-tirzepatida/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Alerta por venta ilegal en línea de productos con tirzepatida",
+     "resumen": "COFEPRIS, a través de la Secretaría de Salud de Michoacán, alertó sobre productos con tirzepatida para pérdida de peso y diabetes que se venden por debajo de los precios regulados y sin receta en sitios y aplicaciones de comercio electrónico, en forma de viales, plumas, gotas, parches e inyectables. Pueden carecer del ingrediente activo, tener dosis incorrectas o contener sustancias dañinas.",
+     "accion": "Comprar tirzepatida únicamente a distribuidores autorizados con factura, y reportar a COFEPRIS las ofertas en línea de presentaciones no registradas."
+    }
    }
   },
   {
@@ -585,6 +855,13 @@
    "fuente": {
     "nombre": "Zolo Noticias",
     "url": "https://www.zolonoticias.com/2026/11/06/mexico-invertira-245-millones-de-dolares-en-innovacion-medica/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se anuncia en la Ciudad de México un polo de investigación clínica de USD 245 millones, liderado por Avant Santé",
+     "resumen": "El secretario de Economía, Marcelo Ebrard, anunció USD 245 millones en el marco del Plan México para el proyecto de innovación en salud Distrito Tlalpan. La empresa de investigación clínica Avant Santé invertirá USD 225 millones en tres etapas, que incluyen un centro de aceleración clínica y una unidad para importar, exportar, etiquetar, almacenar y ensamblar equipo de laboratorio. El Tecnológico de Monterrey aportará USD 20 millones adicionales para un centro de medicina predictiva junto con la UNAM.",
+     "accion": "Los importadores de equipo de laboratorio y diagnóstico, y los proveedores de servicios CRO, deberían evaluar oportunidades de alianza y suministro en el proyecto."
+    }
    }
   },
   {
@@ -610,7 +887,19 @@
      "lugar": "IMSS (ComprasMX)",
      "rubro": "dispositivos"
     }
-   ]
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El IMSS abre licitación para la dotación de prótesis auditivas, con apertura el 14 de diciembre",
+     "resumen": "El IMSS publicó la licitación LA-50-GYR-050GYR035-T-4-2027 para la dotación de prótesis auditivas, con apertura de ofertas prevista para el 14 de diciembre de 2026.",
+     "accion": "Los proveedores de prótesis auditivas deberían seguir esta licitación antes de la apertura del 14 de diciembre.",
+     "licitaciones": [
+      {
+       "objeto": "Dotación de prótesis auditivas"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "mx-imss-emergency-plan",
@@ -624,6 +913,13 @@
    "fuente": {
     "nombre": "Publimetro (IMSS)",
     "url": "https://www.publimetro.com.mx/nacional/2026/11/03/imss-cirugias-extraordinarias-especialistas-noviembre-2026/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Plan de emergencia del IMSS: 31,700 cirugías adicionales y nuevo equipo hasta febrero",
+     "resumen": "El IMSS está realizando jornadas de cirugía de fin de semana bajo un plan de emergencia de 12 acciones por MXN 11,700 millones, vigente hasta el 24 de febrero de 2027, con una meta de aproximadamente 31,700 cirugías adicionales, principalmente de cataratas, vesícula, hernia, rodilla y cadera. Realizó compras directas por MXN 88 millones de material de curación tras incumplimientos de proveedores, espera 1,321 sillones clínicos reclinables para el 16 de noviembre y 15 sistemas de angiografía listos para fin de noviembre.",
+     "accion": "Los proveedores de implantes ortopédicos, lentes intraoculares y consumibles quirúrgicos deberían contactar a las áreas de compras hospitalarias del IMSS; la confiabilidad en la entrega está siendo vigilada de cerca."
+    }
    }
   },
   {
@@ -638,6 +934,13 @@
    "fuente": {
     "nombre": "ABC Noticias (citing IMSS)",
     "url": "https://abcnoticias.mx/nacional/2026/11/3/imss-inicia-distribucion-de-equipo-medico-de-alta-tecnologia-para-39-hospitales-en-19-estados-del-pais-294331.html"
+   },
+   "trad": {
+    "es": {
+     "titulo": "El IMSS comienza a entregar a sus hospitales una compra de 2,917 equipos",
+     "resumen": "En el marco de su plan de 120 días, el IMSS comenzó a distribuir equipo médico de una compra de 2,917 equipos. El primer lote envió 47 unidades (20 sistemas de ultrasonido 3D, 17 electrocardiógrafos de urgencias y 10 monitores multiparamétricos de terapia intensiva) a 39 hospitales en 19 estados.",
+     "accion": "Si usted provee equipo de imagenología, monitoreo o cardiología, siga las compras de seguimiento y los contratos de servicio del IMSS vinculados a este plan."
+    }
    }
   },
   {
@@ -653,6 +956,13 @@
    "fuente": {
     "nombre": "De Reporteros",
     "url": "https://dereporteros.com/2026/11/03/cofepris-otorgo-registro-sanitario-a-pluma-danesa-para-insulina"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS registra la pluma reutilizable de insulina GO-PEN; México es su primer mercado",
+     "resumen": "La empresa danesa GO-Pen ApS obtuvo el registro sanitario de COFEPRIS para GO-PEN, una pluma reutilizable para personas que usan insulina en vial. México es el primer mercado de lanzamiento comercial, y Grupo LYBB será el importador y distribuidor exclusivo. El dispositivo ya cuenta con la autorización 510(k) de la FDA y el marcado CE (clase IIb).",
+     "accion": "Contexto: nueva competencia en dispositivos de aplicación de insulina para farmacias y clínicas de diabetes."
+    }
    }
   },
   {
@@ -667,6 +977,13 @@
    "fuente": {
     "nombre": "Código Qro",
     "url": "https://codigoqro.mx/nota/salud/2026/11/03/alerta-cofepris-sobre-la-falsificacion-de-kitocream"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se vende KitoCream falsificado en línea",
+     "resumen": "COFEPRIS alertó sobre unidades falsificadas de KitoCream (pirfenidona 10%), un producto que clasifica como dispositivo médico, vendidas en línea. Las falsificaciones no tienen número de lote ni fecha de caducidad, presentan un color café oscuro y carecen de empaque secundario. La alerta sigue a un reporte del titular del registro, Grupo Medifarma.",
+     "accion": "Si usted vende o tiene en inventario KitoCream, verifique el lote y la caducidad de cada unidad y compre únicamente al titular del registro o a sus distribuidores autorizados."
+    }
    }
   },
   {
@@ -681,6 +998,13 @@
    "fuente": {
     "nombre": "Mexico Business News",
     "url": "https://mexicobusiness.news/health/news/how-cofepris-classifies-and-evaluates-ai-medical-device"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Cómo clasifica y evalúa COFEPRIS la inteligencia artificial y el software como dispositivo médico",
+     "resumen": "El software y las herramientas de inteligencia artificial se regulan bajo el mismo sistema de riesgo de Clase I-III que los dispositivos físicos. Los solicitantes deben demostrar asociación clínica, validación analítica y clínica, control de cambios para las actualizaciones del modelo y ciberseguridad. Los dispositivos ya aprobados por reguladores extranjeros de confianza pueden usar una vía abreviada con una meta de 30 días hábiles. Aún se están redactando reglas específicas para la inteligencia artificial.",
+     "accion": "Si planea registrar un producto de software o inteligencia artificial en México, prepare desde ahora la documentación de validación clínica y control de cambios, y verifique si es elegible para la vía abreviada."
+    }
    }
   },
   {
@@ -695,6 +1019,13 @@
    "fuente": {
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/comite-central-de-etica-investigacion-mexico/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "La Secretaría de Salud lanza el Comité Central de Ética e Investigación para protocolos multiinstitucionales",
+     "resumen": "La Secretaría de Salud lanzó un Comité Central de Ética e Investigación coordinado por la CCINSHAE, que reúne a 19 unidades institucionales para revisar en una sola evaluación los protocolos que involucran a dos o más instituciones de salud. Se reúne el segundo y cuarto miércoles de cada mes y no sustituye la autorización de COFEPRIS.",
+     "accion": "Los patrocinadores, CRO y hospitales que llevan a cabo estudios multicéntricos, incluidos ensayos con dispositivos, deberían canalizar los protocolos elegibles a través del comité central."
+    }
    }
   },
   {
@@ -709,6 +1040,13 @@
    "fuente": {
     "nombre": "El Imparcial",
     "url": "https://www.elimparcial.com/dinero/2026/10/29/la-secretaria-de-salud-y-birmex-aseguran-el-90-por-ciento-de-los-medicamentos-para-2027-y-2028-tras-concluir-la-tercera-licitacion-publica/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Cierra la tercera licitación 2027-2028; una cuarta cubrirá el 10% restante",
+     "resumen": "La Secretaría de Salud y Birmex señalan que ya está cubierto cerca del 90% de las claves necesarias para 2027-2028. La tercera licitación adjudicó 673 claves (997.6 millones de piezas, MXN 34,400 millones), incluyendo insumos de curación, laboratorio y radiología; los proveedores mexicanos ganaron el 57% de las piezas. Se planea una cuarta licitación antes de fin de año.",
+     "accion": "Si usted perdió claves o no participó, prepárese para la cuarta licitación; los ganadores deben firmar los contratos dentro de los 20 días posteriores al fallo."
+    }
    }
   },
   {
@@ -723,6 +1061,13 @@
    "fuente": {
     "nombre": "Mexico Business News",
     "url": "https://mexicobusiness.news/health/news/cofepris-joins-global-campaign-boost-drug-safety-reporting"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS se suma a #MedSafetyWeek para impulsar el reporte de eventos adversos",
+     "resumen": "COFEPRIS participa en la campaña mundial #MedSafetyWeek (del 2 al 8 de noviembre de 2026) para aumentar los reportes de sospechas de efectos adversos de medicamentos y vacunas a través de VigiRam y VigiVac.",
+     "accion": "Contexto: se espera mayor atención al reporte de farmacovigilancia y tecnovigilancia; revise que su proceso interno de reporte esté actualizado."
+    }
    }
   },
   {
@@ -739,6 +1084,13 @@
    "fuente": {
     "nombre": "Consultor Salud",
     "url": "https://consultorsalud.com.mx/quirort-imss-inhabilitacion-mexico/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Quirort, proveedor de osteosíntesis y endoprótesis del IMSS, queda inhabilitado por un año para contratos públicos",
+     "resumen": "Una circular publicada en el DOF el 29 de octubre de 2026 (SABG/OICGYR/AR/6633/2026, expediente PISI-A-NC-DS-0004/2026) inhabilita a Quirort, S.A. de C.V., proveedor de material de osteosíntesis y endoprótesis del IMSS, para presentar ofertas o firmar nuevos contratos públicos durante un año a partir del 30 de octubre de 2026, y le impone una multa; la restricción se extiende más allá del año si la multa no se paga. El reporte no indicó el monto ni la razón específica.",
+     "accion": "Los hospitales y competidores deberían esperar que los contratos de ortopedia del IMSS en manos de Quirort se vuelvan a licitar o se reasignen; los distribuidores asociados con Quirort deberían revisar las licitaciones pendientes."
+    }
    }
   },
   {
@@ -753,6 +1105,13 @@
    "fuente": {
     "nombre": "UnoTV (cites COFEPRIS)",
     "url": "https://www.unotv.com/salud/cofepris-alerta-por-nuevos-lotes-falsificados-de-medicamento-para-tratar-trastornos-del-crecimiento/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS agrega un nuevo lote falsificado a la alerta de Saizen (somatropina); los lotes afectados no pasaron pruebas de esterilidad",
+     "resumen": "COFEPRIS actualizó su alerta sobre cartuchos prellenados falsificados de Saizen 20 mg (8 mg/mL), agregando el lote EC179361 (caducidad 01/2028), que no es un lote válido liberado por la empresa. La alerta mantiene los lotes BA054637, BA010812 y KW010374, que no pasaron pruebas de esterilidad; notificaciones internacionales también señalaron los lotes BA088217 y AB003660.",
+     "accion": "Revisar el inventario en busca de estos lotes, inmovilizar las unidades afectadas y comprar Saizen únicamente a distribuidores autorizados por el titular del registro."
+    }
    }
   },
   {
@@ -767,6 +1126,13 @@
    "fuente": {
     "nombre": "Consultor Salud México",
     "url": "https://consultorsalud.com.mx/cofepris-cancelacion-normas-para-laboratorios-clinicos/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS abre consulta para cancelar dos NOM de laboratorio clínico sobre materiales de control y calibración",
+     "resumen": "COFEPRIS publicó en el DOF los proyectos de cancelación de la NOM-077-SSA1-1994 (materiales de control para laboratorios de patología clínica) y la NOM-078-SSA1-1994 (patrones de calibración para mediciones de laboratorio clínico). Los comentarios están abiertos por 60 días naturales desde la publicación, hasta alrededor del 20 de diciembre. Ambas normas siguen vigentes hasta que se publique la cancelación definitiva.",
+     "accion": "Los distribuidores de IVD y los laboratorios clínicos deberían decidir si presentan comentarios antes de que cierre el plazo, y seguir cumpliendo ambas NOM mientras tanto."
+    }
    }
   },
   {
@@ -781,6 +1147,13 @@
    "fuente": {
     "nombre": "N+",
     "url": "https://www.nmas.com.mx/politica/imss-bienestar-compra-6-mil-millones-insumos-medicos-hospitales-anuncia-eduardo-clark/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "El gobierno planea la compra de alrededor de 6,000 millones de piezas de insumos para IMSS-Bienestar",
+     "resumen": "El gobierno federal anunció la compra de aproximadamente 6,000 millones de piezas de medicamentos e insumos para los hospitales de IMSS-Bienestar, desde medicamentos oncológicos hasta material de curación. Priorizará las compras directas a fabricantes y las subastas inversas, y favorecerá a los proveedores que cumplan con los términos de calidad y entrega. Los detalles se publican en compraconsolidada.salud.gob.mx.",
+     "accion": "Seguir las adjudicaciones y el desempeño de entrega en compraconsolidada.salud.gob.mx; la entrega a tiempo pesará en futuras adjudicaciones."
+    }
    }
   },
   {
@@ -795,6 +1168,13 @@
    "fuente": {
     "nombre": "Los Tubos (Milenio)",
     "url": "https://lostubos.com/2026/10/19/cofepris-busca-agilizar-la-autorizacion-de-medicamentos-y-reforzar-la-vigilancia-sanitaria/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS busca resolver el 70% de su rezago para diciembre; los dispositivos van rezagados",
+     "resumen": "COFEPRIS espera resolver más del 70% de las solicitudes pendientes de medicamentos y dispositivos para diciembre de 2026. Las respuestas a solicitudes de dispositivos aumentaron solo 8%, debido a la escasez de personal especializado; contrató a 70 personas, principalmente para dispositivos y ensayos clínicos. También planea reglas más amplias para dispositivos basados en inteligencia artificial y una ventanilla digital única para 2027.",
+     "accion": "Si tiene registros de dispositivos pendientes, espere demoras y mantenga sus expedientes completos para evitar prevenciones."
+    }
    }
   },
   {
@@ -809,6 +1189,13 @@
    "fuente": {
     "nombre": "La Verdad Noticias (COFEPRIS)",
     "url": "https://laverdadnoticias.com/ultimas-noticias/mexico/cofepris-riopan-alerta"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Lotes falsificados de Riopan, IMMUNORHO y el aerosol para heridas Granulox",
+     "resumen": "COFEPRIS emitió alertas por lotes falsificados o alterados de gel Riopan (lotes 12542237 y 12191278), inmunoglobulina anti-D IMMUNORHO 300 µg (lote 09b84695, no reconocido por Kedrion) y el aerosol para heridas Granulox (lote 16115143, con la caducidad alterada de 2019 a 2026). Las alertas aplican únicamente a los lotes mencionados.",
+     "accion": "Revisar el inventario en busca de estos lotes, no dispensarlos y comprar únicamente a proveedores autorizados por el titular del registro."
+    }
    }
   },
   {
@@ -823,6 +1210,13 @@
    "fuente": {
     "nombre": "El Siglo de Torreón",
     "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/alerta-cofepris-por-falsificacion-de-synvisc-hylan-g-f20-medicamento-comun-inyectado-para-dolor-de-rodilla-u-.html"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Circula Synvisc Hylan G-F20 falsificado (lote ARSP005)",
+     "resumen": "COFEPRIS emitió una alerta de riesgo por Synvisc Hylan G-F20 falsificado, un dispositivo médico de aplicación intraarticular registrado por Sanofi México. Las unidades falsificadas del lote ARSP005 muestran una caducidad de febrero de 2026, mientras que el lote genuino caducó en febrero de 2023.",
+     "accion": "Revisar su inventario en busca del lote ARSP005, comprar únicamente a distribuidores autorizados por el titular del registro y exigir comprobante de adquisición legal."
+    }
    }
   },
   {
@@ -837,6 +1231,13 @@
    "fuente": {
     "nombre": "Zócalo (citing La Jornada and the DOF)",
     "url": "https://www.zocalo.com.mx/ssa-publica-en-el-dof-norma-para-mejorar-seguridad-de-transfusiones-de-sangre/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se publica la nueva norma de sangre y transfusiones NOM-253-SSA1-2025, con una transición de 180 días",
+     "resumen": "La Secretaría de Salud publicó en el DOF la NOM-253-SSA1-2025 sobre el uso terapéutico de la sangre humana y sus componentes; entra en vigor 180 días después de su publicación. Los bancos de sangre deberán realizar más pruebas de laboratorio de rutina a los productos sanguíneos, cada tipo de servicio de sangre tendrá funciones definidas, y se fortalecen los Comités Hospitalarios de Medicina Transfusional para mejorar la hemovigilancia.",
+     "accion": "Los bancos de sangre, hospitales y proveedores de reactivos y equipo para tamizaje sanguíneo deberían comparar sus menús de pruebas y procedimientos con la nueva NOM antes de que termine la transición."
+    }
    }
   },
   {
@@ -851,6 +1252,13 @@
    "fuente": {
     "nombre": "Consultor Salud",
     "url": "https://consultorsalud.com.mx/lineamientos-uso-seguro-medicamentos-mexico/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Nuevos lineamientos para el uso seguro de medicamentos e insumos para la salud",
+     "resumen": "La Secretaría de Salud publicó lineamientos técnicos sobre el uso seguro de medicamentos e insumos para la salud para el Sistema Nacional de Salud. Son documentos orientativos que por sí mismos no crean nuevas obligaciones ni modifican las normas existentes.",
+     "accion": "Contexto: los clientes hospitalarios podrían actualizar sus protocolos internos de uso seguro; no se requiere acción inmediata."
+    }
    }
   },
   {
@@ -865,6 +1273,13 @@
    "fuente": {
     "nombre": "La Región",
     "url": "https://laregiontam.com.mx/2026/10/05/gobierno-adjudica-94-5-del-material-de-curacion-para-hospitales-en-2027-y-2028/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Se adjudica el 94.5% de los insumos médicos 2027-2028; el resto se volverá a licitar",
+     "resumen": "El gobierno federal adjudicó el 94.5% del volumen planeado de insumos médicos y material de curación (grupo 060) para IMSS, IMSS-Bienestar e ISSSTE para 2027-2028: 646 millones de piezas por MXN 12,570 millones en 239 claves, con la participación de 135 empresas. El 5.5% restante pasará por nuevos procedimientos de compra antes de fin de 2026, y los contratos adjudicados deben firmarse dentro de los 20 días.",
+     "accion": "Si usted provee artículos del grupo 060 y perdió claves, esté atento a las nuevas licitaciones antes de fin de año; si ganó, prepare la documentación contractual dentro del plazo de 20 días."
+    }
    }
   },
   {
@@ -881,6 +1296,59 @@
    "fuente": {
     "nombre": "La Voz de Michoacán",
     "url": "https://www.lavozdemichoacan.com.mx/mexico/salud-pais/cofepris-alerta-falsificacion-medicamentos-darzalex-simponi-2026/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS alerta sobre lotes falsificados del medicamento oncológico Darzalex (daratumumab) y de Simponi",
+     "resumen": "COFEPRIS emitió una alerta sanitaria por viales falsificados de DARZALEX (daratumumab) 400 mg/20 mL, lote GGH2227 (caducidad 06/2028), y jeringas prellenadas de Simponi (golimumab) 50 mg/0.5 mL, lote 01H201KE (caducidad mayo de 2028). El importador Janssen-Cilag reportó que no tiene registros de fabricación, empaque ni liberación de estos lotes, por lo que no se puede garantizar su identidad, pureza, eficacia ni calidad. La misma alerta señaló lotes adulterados de ADerogyl, CMXA036 y CMXA037 (Sanofi).",
+     "accion": "Las farmacias oncológicas y los compradores hospitalarios deberían poner en cuarentena estos lotes si los encuentran, presentar una denuncia sanitaria, y comprar únicamente a distribuidores autorizados por el titular del registro."
+    }
+   }
+  },
+  {
+   "id": "mx-cofepris-bedoyecta-buscapina-falsificados-sep2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "medicamentos",
+   "fecha": "2026-09-28",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "COFEPRIS warns of counterfeit Bedoyecta and Buscapina Compositum lots",
+   "resumen": "COFEPRIS issued an alert on September 28, 2026 for counterfeit Bedoyecta (vitamin B complex/folic acid/vitamin C/rutin capsules, Laboratorios Grossman registration holder), lots 230593 and 230589 (both expiry November 2026), with no record of these lots having been packaged or distributed. The same alert flagged counterfeit Buscapina Compositum (hyoscine/metamizole sodium, Sanofi Aventis Mexico registration holder) in several altered lot codes, including CMXA001, CNXA001, CMXA007/MXA007 and C57411, with expiration dates found to have been changed from their originals.",
+   "accion": "Pharmacies and distributors should immobilize any stock matching these lots, buy only from distributors authorized by the registration holders (Grossman, Sanofi), and file a sanitary complaint (denuncia sanitaria) if found; the public should not buy or use these lots regardless of the printed expiry date.",
+   "fuente": {
+    "nombre": "UnoTV (citing COFEPRIS)",
+    "url": "https://www.unotv.com/salud/alerta-sanitaria-cofepris-detecta-buscapina-y-bedoyecta-falsas-como-identificarlas/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS alerta por lotes falsificados de Bedoyecta y Buscapina Compositum",
+     "resumen": "El 28 de septiembre de 2026 COFEPRIS emitió una alerta por falsificación de Bedoyecta (complejo B/ácido fólico/vitamina C/rutina en cápsulas, titular del registro Laboratorios Grossman), lotes 230593 y 230589 (ambos con caducidad noviembre 2026), de los cuales no hay registro de haber sido envasados o distribuidos. La misma alerta señaló Buscapina Compositum falsificada (hioscina/metamizol sódico, titular del registro Sanofi Aventis México) en varios códigos de lote alterados, entre ellos CMXA001, CNXA001, CMXA007/MXA007 y C57411, con fechas de caducidad modificadas respecto de las originales.",
+     "accion": "Farmacias y distribuidores deben inmovilizar cualquier stock que coincida con estos lotes, comprar solo a distribuidores autorizados por los titulares del registro (Grossman, Sanofi) y presentar una denuncia sanitaria si los detectan; el público no debe comprar ni usar estos lotes sin importar la fecha de caducidad impresa."
+    }
+   }
+  },
+  {
+   "id": "mx-cofepris-prudence-condones-robo-sep2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-09-24",
+   "ambito": "Mexico",
+   "organismo": "COFEPRIS",
+   "titulo": "COFEPRIS warns of stolen Prudence Clasico condoms (medical device), three lots affected",
+   "resumen": "COFEPRIS issued an alert, reported September 24, 2026, after DKT de Mexico, holder of the sanitary registration for Prudence Clasico latex condoms (3-piece box), notified the theft of lots NV577602, NV577603 and NV580901 (expiry July 2030). Condoms fall under COFEPRIS's medical-device tecnovigilancia framework, and the agency warned the stolen stock could be resold outside authorized channels with unverifiable storage and handling conditions.",
+   "accion": "Pharmacies and distributors should buy only from distributors authorized by DKT de Mexico, keep purchase invoices, and report any sighting of these lots through a sanitary complaint; the public should avoid buying this product from informal sellers or unverified online sellers.",
+   "fuente": {
+    "nombre": "Plano Informativo (citing COFEPRIS)",
+    "url": "https://planoinformativo.com/1171461/cofepris-alerta-por-robo-de-condones-asi-puedes-identificar"
+   },
+   "trad": {
+    "es": {
+     "titulo": "COFEPRIS alerta por robo de condones Prudence Clásico (dispositivo médico), tres lotes afectados",
+     "resumen": "COFEPRIS emitió una alerta, reportada el 24 de septiembre de 2026, luego de que DKT de México, titular del registro sanitario de los condones de látex Prudence Clásico (caja de 3 piezas), notificara el robo de los lotes NV577602, NV577603 y NV580901 (caducidad julio 2030). Los condones están sujetos al esquema de tecnovigilancia de dispositivos médicos de COFEPRIS, y el organismo advirtió que el stock robado podría revenderse fuera de los canales autorizados, sin poder garantizarse sus condiciones de almacenamiento y manejo.",
+     "accion": "Farmacias y distribuidores deben comprar solo a distribuidores autorizados por DKT de México, conservar las facturas de compra y denunciar sanitariamente cualquier indicio de venta de estos lotes; el público debe evitar comprar este producto a vendedores informales o no verificados en línea."
+    }
    }
   },
   {
@@ -895,6 +1363,13 @@
    "fuente": {
     "nombre": "Publimetro (COFEPRIS)",
     "url": "https://www.publimetro.com.mx/noticias/2026/09/23/medicinas-falsas-y-productos-sin-registro-encienden-alerta-sanitaria-de-cofepris/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Alertas por venta ilegal de Sculptra y por meropenem falsificado",
+     "resumen": "COFEPRIS alertó sobre Sculptra (ácido poli-L-láctico, lote A00203) vendido ilegalmente en línea, un lote falsificado de meropenem 1 g (lote X2MF160A) no importado por el distribuidor autorizado, y un retiro voluntario del lote 5CE003A de Sortec 200 mg.",
+     "accion": "Las clínicas estéticas y los hospitales deberían verificar el origen de estos productos y comprar únicamente a través de proveedores reconocidos."
+    }
    }
   },
   {
@@ -909,6 +1384,13 @@
    "fuente": {
     "nombre": "Consultor Salud",
     "url": "https://consultorsalud.com.mx/visor-de-registros-sanitarios-cofepris/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Visor público de registros sanitarios de dispositivos médicos",
+     "resumen": "COFEPRIS lanzó un visor público en línea para verificar si un dispositivo médico cuenta con un registro sanitario vigente. Los titulares de registros pueden enviar observaciones sobre la información publicada.",
+     "accion": "Verificar que sus registros aparezcan correctamente en el visor y reportar cualquier error, ya que los compradores ahora lo usan para verificar productos."
+    }
    }
   },
   {
@@ -923,6 +1405,13 @@
    "fuente": {
     "nombre": "Consultor Salud",
     "url": "https://consultorsalud.com.mx/cofepris-farmacovigilancia-y-tecnovigilancia/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Boletín Nacional de Farmacovigilancia y Tecnovigilancia 2026-I",
+     "resumen": "COFEPRIS publicó su boletín 2026-I sobre la vigilancia de medicamentos, vacunas y dispositivos médicos, que incluye un capítulo sobre el análisis de riesgo de los dispositivos médicos. Destaca que más reportes sobre un dispositivo no implican automáticamente un mayor riesgo.",
+     "accion": "Contexto: referencia útil sobre cómo COFEPRIS interpreta los reportes de incidentes con dispositivos."
+    }
    }
   }
  ]

@@ -2,6 +2,120 @@
  "actualizado": "2026-11-24",
  "noticias": [
   {
+   "id": "pami-generador-dbs-percept-medtronic-24nov2026",
+   "nivel": "verde",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-24",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI licita un generador de estimulación cerebral profunda Medtronic Percept PC para recambio, con apertura hoy 24 de noviembre",
+   "resumen": "El calendario de compulsas abreviadas de PAMI (Nivel Central) suma la CA 1464/26, por un generador de estimulación cerebral profunda bilateral no recargable para recambio, modelo Percept PC (Medtronic), con apertura el 24 de noviembre a las 11 horas.",
+   "accion": "Proveedores de neuromodulación deben verificar el estado de esta compulsa, dado que la apertura coincide con el mismo día de su publicación en el calendario.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1464/26",
+     "objeto": "Generador de estimulación cerebral profunda bilateral no recargable, modelo Percept PC (Medtronic), para recambio",
+     "apertura": "2026-11-24",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI tenders a Medtronic Percept PC deep brain stimulation generator for replacement, opening today November 24",
+     "resumen": "PAMI's (Head Office) abbreviated-tender calendar adds CA 1464/26, for a non-rechargeable bilateral deep brain stimulation generator for replacement, Medtronic Percept PC model, opening on November 24 at 11:00.",
+     "accion": "Neuromodulation suppliers should check the status of this tender, since the opening falls on the same day it was listed on the calendar.",
+     "licitaciones": [
+      {
+       "objeto": "Non-rechargeable bilateral deep brain stimulation generator, Medtronic Percept PC model, for replacement"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "pami-nusinersen-spinraza-25nov2026",
+   "nivel": "verde",
+   "tipo": "licitacion",
+   "rubro": "medicamentos",
+   "fecha": "2026-11-24",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI licita nusinersen (Spinraza) para atrofia muscular espinal, apertura el 25 de noviembre",
+   "resumen": "PAMI (Nivel Central) abrió la CA 1515/26 para la provisión, logística y dispensa de nusinersen (Spinraza), vial de 12 mg/5 ml, un fármaco de alto costo indicado para la atrofia muscular espinal. La apertura es el 25 de noviembre a las 10 horas.",
+   "accion": "Droguerías y distribuidores de medicación de alto costo para enfermedades neuromusculares deben evaluar presentarse antes del 25/11.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1515/26",
+     "objeto": "Nusinersen (Spinraza), vial de 12 mg/5 ml",
+     "apertura": "2026-11-25",
+     "hora": "10:00",
+     "lugar": "Nivel Central",
+     "rubro": "medicamentos"
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI tenders nusinersen (Spinraza) for spinal muscular atrophy, opening November 25",
+     "resumen": "PAMI (Head Office) opened CA 1515/26 for the supply, logistics and dispensing of nusinersen (Spinraza), 12 mg/5 ml vial, a high-cost drug indicated for spinal muscular atrophy. The opening is on November 25 at 10:00.",
+     "accion": "Pharmaceutical wholesalers and distributors of high-cost medication for neuromuscular diseases should consider bidding before 11/25.",
+     "licitaciones": [
+      {
+       "objeto": "Nusinersen (Spinraza), 12 mg/5 ml vial"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "pami-procesador-habla-advanced-bionics-27nov2026",
+   "nivel": "verde",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-24",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI licita un procesador de habla Advanced Bionics de reposición, apertura el 27 de noviembre",
+   "resumen": "El calendario de PAMI (Nivel Central) suma la CA 1519/26, por un procesador de habla Advanced Bionics (AB) con filtro de ruido, micrófonos direccionales y conectividad, en carácter de reposición. La apertura es el 27 de noviembre a las 11 horas.",
+   "accion": "Distribuidores de audiología deben revisar el pliego y confirmar la compatibilidad de marca exigida antes de la apertura del 27/11.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1519/26",
+     "objeto": "Procesador de habla Advanced Bionics (AB) con filtro de ruido, micrófonos direccionales y conectividad (reposición)",
+     "apertura": "2026-11-27",
+     "hora": "11:00",
+     "lugar": "Nivel Central",
+     "rubro": "dispositivos"
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI tenders a replacement Advanced Bionics speech processor, opening November 27",
+     "resumen": "PAMI's (Head Office) calendar adds CA 1519/26, for an Advanced Bionics (AB) speech processor with noise filtering, directional microphones and connectivity, as a replacement unit. The opening is on November 27 at 11:00.",
+     "accion": "Audiology distributors should review the tender documents and confirm the required brand compatibility before the 11/27 opening.",
+     "licitaciones": [
+      {
+       "objeto": "Advanced Bionics (AB) speech processor with noise filtering, directional microphones and connectivity (replacement)"
+      }
+     ]
+    }
+   }
+  },
+  {
    "id": "pami-stent-periferico-everolimus-26nov2026",
    "nivel": "amarillo",
    "tipo": "licitacion",
@@ -26,7 +140,20 @@
      "rubro": "cardiovascular"
     }
    ],
-   "comentario": "La apertura de esta compulsa por un stent periférico liberador de everolimus queda separada dos días de la tanda de aperturas estructurales y de electrofisiología del 24/11, lo que distingue en procesos distintos la demanda de PAMI en endovascular periférico frente a la de alta complejidad estructural."
+   "comentario": "La apertura de esta compulsa por un stent periférico liberador de everolimus queda separada dos días de la tanda de aperturas estructurales y de electrofisiología del 24/11, lo que distingue en procesos distintos la demanda de PAMI en endovascular periférico frente a la de alta complejidad estructural.",
+   "trad": {
+    "en": {
+     "titulo": "PAMI puts out a tender for a CARDIOVASCULAR peripheral vascular everolimus-eluting stent, with opening on November 26",
+     "resumen": "PAMI's (Central Level) schedule of abbreviated tenders adds CA 1532/26, for a drug-eluting (everolimus) peripheral vascular stent measuring 3.75 mm x 28 mm, with opening on November 26 at 11:00.",
+     "accion": "Suppliers of peripheral endovascular devices should review the bidding documents before the November 26 opening in order to submit a bid.",
+     "comentario": "The opening of this tender for an everolimus-eluting peripheral stent falls two days after the batch of structural and electrophysiology openings on November 24, which separates PAMI's demand in peripheral endovascular devices from its demand in high-complexity structural devices into distinct processes.",
+     "licitaciones": [
+      {
+       "objeto": "Drug-eluting (everolimus) peripheral vascular stent, 3.75 mm x 28 mm"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-selumetinib-koselugo-30nov2026",
@@ -52,7 +179,19 @@
      "lugar": "Nivel Central",
      "rubro": "oncologia"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI puts out a tender for selumetinib (Koselugo) for neurofibromatosis type 1, opening on November 30",
+     "resumen": "PAMI (Central Level) opened CA 1529/26 for the supply, logistics and dispensing of selumetinib (Koselugo) 25 mg, 60 capsules, a MEK inhibitor used in a niche oncology indication for plexiform neurofibromas in neurofibromatosis type 1. The opening is on November 30 at 10:00.",
+     "accion": "Pharmaceutical wholesalers and distributors of high-cost oncology medication should consider bidding before November 30, given the limited number of suppliers authorized in Argentina for this drug.",
+     "licitaciones": [
+      {
+       "objeto": "Selumetinib (Koselugo) 25 mg, 60 capsules"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-aperturas-neuro-auditivos-25nov-1dic2026",
@@ -174,7 +313,55 @@
      "lugar": "Nivel Central",
      "rubro": "dispositivos"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI opens 13 tenders for neuromodulation and hearing implants between November 25 and December 1",
+     "resumen": "PAMI's (Central Level) schedule adds abbreviated tenders for neuromodulation and hearing implants staggered between November 25 and December 1: apomorphine and intrathecal infusion pumps, a recharge kit and generators for deep brain stimulation, a vagal neurostimulator, a spinal neurostimulator, a functional quadriceps electrostimulator, two speech processors and three cochlear implants.",
+     "accion": "Relevant for suppliers of neuromodulation and hearing implants; no direct impact for cardiovascular devices.",
+     "licitaciones": [
+      {
+       "objeto": "Subcutaneous apomorphine infusion pump with kits for 90 days"
+      },
+      {
+       "objeto": "External recharge kit for rechargeable deep brain neurostimulator (Boston)"
+      },
+      {
+       "objeto": "Vagal neurostimulation system compatible with implanted LivaNova system"
+      },
+      {
+       "objeto": "Bilateral functional electrostimulator for quadriceps flexion"
+      },
+      {
+       "objeto": "Deep brain stimulator, non-rechargeable battery, octopolar electrodes"
+      },
+      {
+       "objeto": "Programmable-flow intrathecal infusion pump"
+      },
+      {
+       "objeto": "Deep brain stimulator, rechargeable battery, directional electrodes"
+      },
+      {
+       "objeto": "Implantable spinal neurostimulator for pain, rechargeable battery"
+      },
+      {
+       "objeto": "Multidirectional cochlear implant with stylet and processor"
+      },
+      {
+       "objeto": "Cochlear implant with electrode guide, processor and noise filter"
+      },
+      {
+       "objeto": "MED-EL SAMBA 2 osseointegrated speech processor (replacement)"
+      },
+      {
+       "objeto": "Cochlear speech processor (replacement)"
+      },
+      {
+       "objeto": "Cochlear Nucleus Profile Plus CI612 cochlear implant with Nucleus 8 processor"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-aperturas-cardiovascular-19-24-nov-2026",
@@ -291,7 +478,59 @@
      "rubro": "cardiovascular"
     }
    ],
-   "comentario": "La tanda concentra una cantidad inusualmente alta de implantes estructurales de alto valor -válvulas transcatéter aórticas y mitrales, resincronizadores y un cardiodesfibrilador-resincronizador combinado-, lo que sugiere una renovación simultánea de varios contratos de hemodinamia y electrofisiología en el sistema PAMI entre el 18 y el 24 de noviembre."
+   "comentario": "La tanda concentra una cantidad inusualmente alta de implantes estructurales de alto valor -válvulas transcatéter aórticas y mitrales, resincronizadores y un cardiodesfibrilador-resincronizador combinado-, lo que sugiere una renovación simultánea de varios contratos de hemodinamia y electrofisiología en el sistema PAMI entre el 18 y el 24 de noviembre.",
+   "trad": {
+    "en": {
+     "titulo": "PAMI adds 14 new cardiovascular tenders between November 18 and 24: transcatheter valves, resynchronizers, a cardiac defibrillator-resynchronizer and electrophysiology equipment",
+     "resumen": "PAMI's opening schedule added 14 abbreviated cardiovascular tenders (CA) not previously published. On 11/18 at 11:00, CA 1495/26 opened (covered self-expanding stent for TIPS). On 11/19 at 11:00, the following open: CA 1494/26 (balloon-expandable aorto-bi-iliac endoprosthesis), CA 1496/26 (radiofrequency ablation catheter and deflectable decapolar catheter, with equipment on loan), CA 1497/26 and CA 1498/26 (two identical tenders for a balloon-expandable bovine pericardium trivalve valve), CA 1499/26 (14 Fr self-expanding intra-annular aortic valve) and CA 1501/26 (percutaneous mitral valve repair device with transseptal puncture set). On 11/20 at 11:00, the following open: CA 1493/26 (sutureless aortic valve), CA 1512/26 (tricameral cardiac resynchronizer with catheters and introducers), CA 1513/26 (connector, pulsed-field ablation catheter and transseptal sheath) and CA 1514/26 (percutaneous mitral valve repair system with clip and suture sets). On 11/24 at 11:00, the following open: CA 1517/26 (cardiac defibrillator with resynchronizer and catheters), CA 1518/26 (transseptal sheath, pulsed-field connector and pulsed-field ablation catheter) and CA 1520/26 (transcatheter bovine pericardium aortic valve with delivery system).",
+     "accion": "Suppliers of transcatheter valves (TAVI/mitral), resynchronization/defibrillation devices and electrophysiology equipment should review the bidding documents for each CA today: the openings on 11/19 and 11/20 are imminent (tomorrow and the day after) and those on 11/24 leave only a few days to submit a bid.",
+     "comentario": "This batch concentrates an unusually high number of high-value structural implants — transcatheter aortic and mitral valves, resynchronizers and a combined cardiac defibrillator-resynchronizer — suggesting the simultaneous renewal of several hemodynamics and electrophysiology contracts within the PAMI system between November 18 and 24.",
+     "licitaciones": [
+      {
+       "objeto": "Covered self-expanding stent for TIPS"
+      },
+      {
+       "objeto": "Balloon-expandable aorto-bi-iliac endoprosthesis"
+      },
+      {
+       "objeto": "Radiofrequency ablation catheter and deflectable decapolar catheter, with equipment on loan"
+      },
+      {
+       "objeto": "Balloon-expandable bovine pericardium trivalve valve"
+      },
+      {
+       "objeto": "Balloon-expandable bovine pericardium trivalve valve (tender identical to CA 1497/26)"
+      },
+      {
+       "objeto": "14 Fr self-expanding intra-annular aortic valve"
+      },
+      {
+       "objeto": "Percutaneous mitral valve repair device and transseptal puncture set"
+      },
+      {
+       "objeto": "Sutureless aortic valve"
+      },
+      {
+       "objeto": "Tricameral cardiac resynchronizer with catheters and introducers"
+      },
+      {
+       "objeto": "Connector, pulsed-field ablation catheter and transseptal sheath"
+      },
+      {
+       "objeto": "Percutaneous mitral valve repair system with clip and suture sets"
+      },
+      {
+       "objeto": "Cardiac defibrillator with resynchronizer and catheters"
+      },
+      {
+       "objeto": "Transseptal sheath, pulsed-field connector and pulsed-field ablation catheter"
+      },
+      {
+       "objeto": "Transcatheter bovine pericardium aortic valve, with delivery system"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-aperturas-traumatologia-columna-19-24-nov-2026",
@@ -330,7 +569,25 @@
      "hora": "11:00",
      "rubro": "traumatologia"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI opens three spine and orthopedic trauma tenders between November 19 and 24: silver-coated cages, transpedicular fixation and elbow prosthesis",
+     "resumen": "PAMI's schedule adds three abbreviated tenders (CA) for orthopedic trauma/spine not previously published. On 11/19 at 11:00, CA 1500/26 opens, for three PLIF/TLIF/ACIF/ALIF cages coated with silver nanoparticles. On 11/20 at 11:00, CA 1505/26 opens, for a Coonrad-Morrey type (Zimmer) total elbow prosthesis with placement set and antibiotic bone cement. On 11/24 at 11:00, CA 1516/26 opens, for a transpedicular fixation system and three cages, both coated with silver nanoparticles.",
+     "accion": "Suppliers of spine implants (cages, transpedicular fixation systems) and elbow prostheses should download the bidding documents for CA 1500/26, 1505/26 and 1516/26 and prepare a bid before the openings on November 19, 20 and 24 respectively.",
+     "licitaciones": [
+      {
+       "objeto": "Three PLIF/TLIF/ACIF/ALIF cages coated with silver nanoparticles"
+      },
+      {
+       "objeto": "Coonrad-Morrey type (Zimmer) total elbow prosthesis, with placement set and antibiotic bone cement"
+      },
+      {
+       "objeto": "Transpedicular fixation system and three cages, coated with silver nanoparticles"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "anmat-retiro-sinaxial-gm1-trb-pharma",
@@ -346,7 +603,14 @@
     "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-todos-los-lotes-de-sinaxial"
    },
    "tipo": "otro",
-   "rubro": "medicamentos"
+   "rubro": "medicamentos",
+   "trad": {
+    "en": {
+     "titulo": "ANMAT orders the withdrawal of all batches of Sinaxial (porcine monosialoganglioside GM1) from TRB Pharma",
+     "resumen": "At ANMAT's request, TRB PHARMA S.A. began withdrawing from the market all batches of SINAXIAL / porcine monosialoganglioside (GM1) 20 mg and 100 mg injectable (Certificate No. 39,097, presentations of 6 and 3 ampoules of 2 ml), used as a neurotrophic, neuritogenic and neuroprotective agent. The measure follows Disposition 7250/2026 of November 12, which banned all medicinal specialties containing GM1 in the country after concluding that the available scientific evidence does not demonstrate their efficacy and warning of serious risks, such as Guillain-Barré syndrome associated with animal-derived gangliosides.",
+     "accion": "Hospitals, pharmacies and pharmaceutical wholesalers must immediately withdraw all units of Sinaxial 20 and 100 and refrain from using or dispensing them."
+    }
+   }
   },
   {
    "id": "anmat-7368-2026-gel-sanicol-burkholderia",
@@ -362,7 +626,14 @@
     "url": "https://www.infobae.com/sociedad/2026/11/18/la-anmat-prohibio-un-gel-para-ecografias-tras-detectar-contaminacion-con-una-bacteria/"
    },
    "tipo": "prohibicion",
-   "rubro": "dispositivos"
+   "rubro": "dispositivos",
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans Sanicol ultrasound gel after finding bacterial contamination",
+     "resumen": "Through Disposition 7368/2026, published in the Official Gazette on November 18, ANMAT banned nationwide the use, sale, advertising and distribution of the \"Gel Neutro\" (Neutral Gel) brand Sanicol, manufactured by Alcofrac SA (in 9 de Abril, Buenos Aires province), after detecting in at least five batches analyzed by the company itself (L290N, L295N, L351N, L346N and L284N) colonies compatible with the Burkholderia cepacia/Burkholderia contaminans complex; the Muñiz Hospital additionally reported another batch with the same problem. The product was registered as a cosmetic, but some packages labeled it as \"suitable for ultrasound,\" a use not authorized for that category. ANMAT's inspection found a lack of manufacturing, packaging and labeling orders, an absence of microbiological controls, and deficiencies in the plant's demineralized water circuit. ANMAT preventively barred Alcofrac from manufacturing cosmetics and opened a sanitary proceeding against the company and its technical director.",
+     "accion": "Hospitals, diagnostic imaging centers and medical offices that use Sanicol gel for ultrasounds must withdraw it immediately and check the batches mentioned, since it is a daily-use medical supply with a risk of microbiological contamination in patients."
+    }
+   }
   },
   {
    "id": "anmat-7383-2026-baja-distribuidoras-certificados-vencidos",
@@ -378,7 +649,14 @@
     "url": "https://elargentinodiario.com.ar/zona-destacada/18/11/2026/certificados-vencidos-anmat-dio-de-baja-a-55-distribuidoras-de-insumos-medicos/"
    },
    "tipo": "otro",
-   "rubro": "dispositivos"
+   "rubro": "dispositivos",
+   "trad": {
+    "en": {
+     "titulo": "ANMAT revokes the interjurisdictional transit permit of 55 medical product distributors over expired certificates",
+     "resumen": "Through Disposition 7383/2026, published in the Official Gazette on Wednesday, November 18, ANMAT revoked the interjurisdictional transit authorization of 55 firms and 56 warehouses that distribute medical and in vitro diagnostic products, after verifying that they had not begun the renewal process for their certificates — which expire after five years and must be initiated up to 120 calendar days before expiration — and thereby lost the permit to move supplies outside their provincial jurisdiction. The affected firms are spread across CABA, Buenos Aires province, Córdoba (seven companies), Santa Fe, Tucumán, Entre Ríos, Mendoza, Salta (two) and Corrientes (two), according to the report by El Argentino Diario; the notice does not list the complete roster of the 55 firms. The same day, through Disposition 7212/2026, ANMAT also canceled the authorization and the file of the pharmaceutical wholesaler Femedical S.A., after an inspection found that the declared address at Guevara 1671/1675 (CABA) was closed; the City of Buenos Aires Ministry of Health had already revoked the jurisdictional authorization for that address.",
+     "accion": "Hospitals, pharmaceutical wholesalers and distributors operating with any of these firms must verify their status with ANMAT before receiving or dispatching medical products through them, since they lost the interjurisdictional transit permit; the affected companies may file motions for reconsideration or appeal."
+    }
+   }
   },
   {
    "id": "pami-aperturas-cardiovascular-trauma-18-20-nov-2026",
@@ -439,7 +717,35 @@
      "rubro": "cardiovascular"
     }
    ],
-   "comentario": "Esta tanda concentra implantes estructurales de alto valor unitario -dos endoprótesis aórticas, un sistema de reparación percutánea de válvula mitral y un dispositivo de cierre de CIA-, además de un cardiodesfibrilador subcutáneo, todos con apertura entre el 18 y el 20 de noviembre y pocos días de margen para presentar oferta."
+   "comentario": "Esta tanda concentra implantes estructurales de alto valor unitario -dos endoprótesis aórticas, un sistema de reparación percutánea de válvula mitral y un dispositivo de cierre de CIA-, además de un cardiodesfibrilador subcutáneo, todos con apertura entre el 18 y el 20 de noviembre y pocos días de margen para presentar oferta.",
+   "trad": {
+    "en": {
+     "titulo": "PAMI opens five cardiovascular tenders between November 18 and 20: two aortic endoprostheses, ASD closure, mitral valve and cardiac defibrillator, plus an amputation prosthesis",
+     "resumen": "PAMI's opening schedule adds six new abbreviated tenders. In cardiovascular, on 11/18 at 11:00, CA 1469/26 and CA 1476/26 open, two balloon-expandable bifurcated and straight abdominal aortic endoprostheses; on 11/19 at 11:00, CA 1480/26 opens, a subcutaneous implantable cardiac defibrillator; and on 11/20 at 11:00, CA 1484/26 (double-disc atrial septal defect closure device) and CA 1486/26 (edge-to-edge percutaneous mitral valve repair system) open. In orthopedics, on 11/18 at 11:00, CA 1475/26 opens, two amputation prostheses.",
+     "accion": "Suppliers of cardiovascular and amputation implants: download the bidding documents today and prepare a bid, because the openings are between November 18 and 20.",
+     "comentario": "This batch concentrates structural implants of high unit value — two aortic endoprostheses, a percutaneous mitral valve repair system and an ASD closure device — plus a subcutaneous cardiac defibrillator, all opening between November 18 and 20 with only a few days' margin to submit a bid.",
+     "licitaciones": [
+      {
+       "objeto": "Balloon-expandable bifurcated and straight abdominal aortic endoprosthesis"
+      },
+      {
+       "objeto": "Balloon-expandable bifurcated and straight abdominal aortic endoprosthesis"
+      },
+      {
+       "objeto": "Two amputation prostheses"
+      },
+      {
+       "objeto": "Subcutaneous implantable cardiac defibrillator"
+      },
+      {
+       "objeto": "Double-disc atrial septal defect (ASD) closure device"
+      },
+      {
+       "objeto": "Edge-to-edge percutaneous mitral valve repair system"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "anmat-7338-2026-kinfarma-prohibicion-bsas",
@@ -453,6 +759,13 @@
    "fuente": {
     "nombre": "Boletín Oficial de la República Argentina",
     "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350363/20261116"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans KINFARMA S.A. from marketing products outside Buenos Aires province",
+     "resumen": "Through Disposition 7338/2026 (signed on 11/11/2026 and published in the Official Gazette on 11/16/2026), ANMAT banned KINFARMA S.A. (CUIL 30-71451777-1, plant in Villa Adelina, Buenos Aires province) from marketing medicines, medicinal specialties and medical products outside that province, for not holding authorization for interjurisdictional transit. An inspection (Record 3413 Series A) detected delivery notes and sales invoices to home-care companies and health insurance funds (obras sociales) both inside and outside the province. ANMAT also ordered a sanitary proceeding against the firm and its technical director.",
+     "accion": "Health insurance funds (obras sociales), pharmaceutical wholesalers and home-care companies operating with KINFARMA S.A. must immediately suspend any purchase or distribution of its products outside Buenos Aires province and verify the current authorization of their pharmaceutical suppliers."
+    }
    }
   },
   {
@@ -467,6 +780,13 @@
    "fuente": {
     "nombre": "Boletín Oficial de la República Argentina",
     "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350360/20261116"
+   },
+   "trad": {
+    "en": {
+     "titulo": "New regulation authorizes UV-B treatment of food to enrich it with vitamin D2",
+     "resumen": "Joint Resolution 4/2026 (RESFC-2026-4-APN-SGS#MS, signed on 11/05/2026 and published in the Official Gazette on 11/16/2026) amends article 183 of the Argentine Food Code and authorizes the application of UV-B radiation (280-320 nm) to foods with natural ergosterol, such as controlled-cultivation mushrooms, to increase their vitamin D2 content. It requires packaging to carry the legend 'Treated with UV-B light to increase Vit. D2 content' and takes effect on 11/17/2026, the day after its publication.",
+     "accion": "Food companies (especially mushroom and supplement producers) that want to apply this treatment must review the new process and labeling requirements before launching or reformulating products."
+    }
    }
   },
   {
@@ -481,6 +801,13 @@
    "fuente": {
     "nombre": "BAE Negocios",
     "url": "https://www.baenegocios.com/saludybienestar/alud-aumento-un-50-la-produccion-de-antivenenos-ante-la-llegada-de-el-nino/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Health Ministry increased antivenom production by 50% ahead of the arrival of El Niño",
+     "resumen": "The Ministry of Health, through the National Institute for Biologics Production of ANLIS-Malbrán, increased its usual production of antivenom serums by 50% as part of its 2026 Contingency Plan, producing 5,400 additional units, of which 1,776 have already been distributed to the provinces, as a preventive measure against the higher risk of bites and stings brought by the El Niño climate phenomenon.",
+     "accion": "Health institutions, insurers and companies with operations in flood-risk areas should confirm with provincial health authorities the available stock of antivenom serums for the season."
+    }
    }
   },
   {
@@ -549,7 +876,38 @@
      "rubro": "dispositivos"
     }
    ],
-   "comentario": "PAMI compra los implantes de alto costo por compulsa abreviada, dispositivo por dispositivo. Esta tanda suma un marcapasos sin cables y una endoprótesis aórtica con ramas ilíacas: son ventas puntuales con pocos días entre la publicación y la apertura, así que conviene mirar el calendario a diario."
+   "comentario": "PAMI compra los implantes de alto costo por compulsa abreviada, dispositivo por dispositivo. Esta tanda suma un marcapasos sin cables y una endoprótesis aórtica con ramas ilíacas: son ventas puntuales con pocos días entre la publicación y la apertura, así que conviene mirar el calendario a diario.",
+   "trad": {
+    "en": {
+     "titulo": "PAMI adds six new tenders to the schedule: leadless pacemaker, intrathecal pump and aortic endoprosthesis",
+     "resumen": "In cardiovascular, on 11/18 CA 1491/26 opens (leadless pacemaker) and CA 1488/26 (12 mm self-expanding bioabsorbable polymer plug in tandem), and on 11/19, CA 1487/26 (balloon-expandable bifurcated abdominal aortic endoprosthesis with iliac branches). In neuro, CA 1490/26 opens (fixed-flow intrathecal drug infusion pump) on 11/18 and CA 1483/26 (two extension leads and a replacement rechargeable Medtronic DBS generator) on 11/20. In orthopedics, on 11/18 CA 1489/26 opens (Swanson-type interphalangeal prostheses for the 2nd to 5th finger, with operating-room assistance and instrumentation on loan); all at 11:00. In services, on 11/16 at 12:00, LP 19/26 opens for meal service for the Houssay Hospital in Mar del Plata (24 months).",
+     "accion": "Suppliers in these categories: download the bidding documents today and prepare a bid, because the openings are between November 16 and 20.",
+     "comentario": "PAMI purchases high-cost implants through abbreviated tenders, device by device. This batch adds a leadless pacemaker and an aortic endoprosthesis with iliac branches: these are one-off sales with few days between publication and opening, so it is worth checking the schedule daily.",
+     "licitaciones": [
+      {
+       "objeto": "Meal service for the Houssay Hospital in Mar del Plata (24 months)"
+      },
+      {
+       "objeto": "Leadless pacemaker"
+      },
+      {
+       "objeto": "12 mm self-expanding bioabsorbable polymer plug in tandem"
+      },
+      {
+       "objeto": "Fixed-flow intrathecal drug infusion pump"
+      },
+      {
+       "objeto": "Swanson-type interphalangeal prostheses (2nd to 5th finger)"
+      },
+      {
+       "objeto": "Balloon-expandable bifurcated abdominal aortic endoprosthesis with iliac branches"
+      },
+      {
+       "objeto": "Extension leads and rechargeable Medtronic DBS generator (replacement)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "san-isidro-lp-44-2026-insumos-comodato",
@@ -575,7 +933,19 @@
      "monto": "$1.312.965.667,38",
      "lugar": "Dirección General de Compras, av. Centenario 77, San Isidro"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "San Isidro puts out a tender for medical supplies and equipment on loan worth $1.312 billion",
+     "resumen": "Public Tender No. 44/2026 (file EX-2026-00378788-SI-SSSALU), published on 11/13 in the Buenos Aires provincial Official Gazette, seeks to acquire supplies and disposable materials for the municipal health area, with equipment provided on loan. Official budget: $1,312,965,667.38. The opening of bids is Wednesday 12/16 at 10:00 at the General Procurement Directorate (av. Centenario 77). The notice does not detail quantities or equipment.",
+     "accion": "Suppliers of disposables and loaned equipment: request the bidding documents at San Isidro's General Procurement Directorate and prepare a bid before 12/16.",
+     "licitaciones": [
+      {
+       "objeto": "Supplies and disposables with equipment on loan"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "anmat-retiro-ciprofloxacina-ugal-cp100-1383",
@@ -591,7 +961,14 @@
     "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-ciprofloxacina-ugal"
    },
    "tipo": "otro",
-   "rubro": "medicamentos"
+   "rubro": "medicamentos",
+   "trad": {
+    "en": {
+     "titulo": "ANMAT reports the withdrawal of batch CP100-1383 of injectable Ciprofloxacina UGAL",
+     "resumen": "UGAL FARMACÉUTICA S.A. voluntarily began withdrawing from the market CIPROFLOXACINA UGAL / Ciprofloxacin 200 mg, injectable solution in 100 ml (hospital presentation in packs of 20, 25 and 50 units, Certificate No. 57880), batch CP100-1383, sub-batches 01 and 02, expiring 07/2027. The measure was taken due to a quality deviation detected in the product; ANMAT does not specify the technical parameter involved. It is a broad-spectrum antibacterial for hospital use for urinary tract, lower respiratory tract, skin and soft tissue, bone and joint, intra-abdominal infections and nosocomial pneumonia.",
+     "accion": "Hospital pharmacies, clinics and pharmaceutical wholesalers must review their stock, set aside units from batch CP100-1383 (sub-batches 01 and 02) and refrain from using them."
+    }
+   }
   },
   {
    "id": "anmat-7250-2026-prohibicion-gangliosidos-gm1",
@@ -605,6 +982,13 @@
    "fuente": {
     "nombre": "Ámbito (cita Boletín Oficial / ANMAT)",
     "url": "https://www.ambito.com/informacion-general/la-anmat-prohibio-medicamentos-gangliosidos-un-botox-falsificado-un-aceite-cannabis-y-un-alcohol-registro-n6344283"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans all medicinal specialties containing monosialogangliosides (GM1)",
+     "resumen": "Through Disposition 7250/2026, published on 11/12 in the Official Gazette, ANMAT banned all medicinal specialties that have monosialogangliosides (GM1) as their active ingredient. The agency considers the risk-benefit ratio unfavorable and warns of serious immunological reactions, such as Guillain-Barré syndrome.",
+     "accion": "Distributors, pharmaceutical wholesalers, pharmacies and healthcare providers: immediately immobilize stock of products containing GM1 and suspend their dispensing and use."
+    }
    }
   },
   {
@@ -619,6 +1003,13 @@
    "fuente": {
     "nombre": "El Cronista (cita ANMAT)",
     "url": "https://www.cronista.com/economia-politica/prohiben-la-venta-y-distribucion-de-un-reconocido-relajante-muscular-por-que-anmat-lo-retiro-del-mercado/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Counterfeit Dysport 500: ANMAT bans batch P081932",
+     "resumen": "Disposition 7207/2026 bans batch P081932 (expiring June 2029) of Dysport 500 IPSEN, a type A botulinum toxin, following a complaint from Galderma Argentina: the unit had labels only in English, no traceability data, and the batch does not correspond to any valid manufacturing run. The same day, the cannabis oil \"Canna Oil\" was banned (Disp. 7206/2026), along with all batches of the unregistered 96° ethyl alcohol \"Fresh & Clean\" from FANC S.A. (Disp. 7249/2026).",
+     "accion": "Aesthetic clinics, dermatologists and distributors: check the Dysport batch in stock, purchase only from authorized suppliers, and withdraw the Fresh & Clean alcohol."
+    }
    }
   },
   {
@@ -701,7 +1092,44 @@
      "rubro": "cardiovascular"
     }
    ],
-   "comentario": "Semana cargada en cardiopatía estructural: dos válvulas aórticas transcatéter (una balón-expandible), una reparación mitral borde a borde, un cierre de CIA y un cardiodesfibrilador subcutáneo. Para quien vende TAVI, estructural o endovascular aórtico, son nueve oportunidades concretas en cinco días."
+   "comentario": "Semana cargada en cardiopatía estructural: dos válvulas aórticas transcatéter (una balón-expandible), una reparación mitral borde a borde, un cierre de CIA y un cardiodesfibrilador subcutáneo. Para quien vende TAVI, estructural o endovascular aórtico, son nueve oportunidades concretas en cinco días.",
+   "trad": {
+    "en": {
+     "titulo": "PAMI opens nine tenders for cardiovascular and endovascular implants from 11/16 to 11/20",
+     "resumen": "On 11/16, the following open: CA 1458/26 (percutaneous tricuspid aortic valve), CA 1482/26 (balloon-expandable transcatheter aortic valve), CA 1481/26 (hybrid prosthesis with supra-aortic branches) and CA 1466/26 (peripheral rotational atherectomy kit). On 11/18, CA 1469/26 and CA 1476/26 open (bifurcated and straight abdominal aortic endoprostheses) and on 11/19, CA 1480/26 (subcutaneous implantable cardiac defibrillator). On 11/20, CA 1484/26 (double-disc device for ASD closure) and CA 1486/26 (edge-to-edge percutaneous mitral repair) open, all at 11:00.",
+     "accion": "Suppliers of hemodynamics and vascular surgery: download the bidding documents and confirm ANMAT registration and availability before each opening.",
+     "comentario": "A heavy week for structural heart disease: two transcatheter aortic valves (one balloon-expandable), an edge-to-edge mitral repair, an ASD closure and a subcutaneous cardiac defibrillator. For those selling TAVI, structural or aortic endovascular devices, these are nine concrete opportunities in five days.",
+     "licitaciones": [
+      {
+       "objeto": "Percutaneous tricuspid aortic valve"
+      },
+      {
+       "objeto": "Balloon-expandable transcatheter aortic valve"
+      },
+      {
+       "objeto": "Hybrid prosthesis with supra-aortic branches"
+      },
+      {
+       "objeto": "Peripheral rotational atherectomy kit"
+      },
+      {
+       "objeto": "Abdominal aortic endoprosthesis (bifurcated and straight)"
+      },
+      {
+       "objeto": "Abdominal aortic endoprosthesis (bifurcated and straight)"
+      },
+      {
+       "objeto": "Subcutaneous implantable cardiac defibrillator"
+      },
+      {
+       "objeto": "Double-disc device for ASD closure"
+      },
+      {
+       "objeto": "Edge-to-edge percutaneous mitral repair"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-aperturas-auditivos-16-27-nov-2026",
@@ -743,7 +1171,28 @@
      "apertura": "2026-11-27",
      "hora": "11:00"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI tenders cochlear implants and audio processors between 11/16 and 11/27",
+     "resumen": "On 11/16, CA 1451/26 opens (speech processor for OTICON PONTO osseointegrated device, replacement) and CA 1453/26 (cochlear speech processor, replacement). On 11/24, CA 1463/26 opens (multichannel cochlear implant) and on 11/27, CA 1485/26 (MED-EL speech processor, replacement), all at 11:00.",
+     "accion": "Audiology distributors: prepare bids and verify the brand compatibility required for each replacement.",
+     "licitaciones": [
+      {
+       "objeto": "Speech processor for OTICON PONTO osseointegrated device (replacement)"
+      },
+      {
+       "objeto": "Cochlear speech processor (replacement)"
+      },
+      {
+       "objeto": "Multichannel cochlear implant"
+      },
+      {
+       "objeto": "MED-EL speech processor (replacement)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-aperturas-infusion-diabetes-medicamentos-17-19-nov-2026",
@@ -810,7 +1259,40 @@
      "apertura": "2026-11-19",
      "rubro": "medicamentos"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI: insulin and infusion pumps, apomorphine and special medications from 11/16 to 11/19",
+     "resumen": "Tenders open for subcutaneous apomorphine pumps with supplies for 90 days (CA 1467/26 on 11/16 and CA 1470/26 on 11/17). On 11/17, the MiniMed 780G insulin pump with supplies also opens (CA 1459/26), the Coupler microsurgical anastomosis system (CA 1460/26) and infusion sets with pumps on loan for the Dr. César Milstein Care Unit (CA 1454/26, 12:00). On 11/19, eplontersen 45 mg opens (CA 1477/26), thymosin alpha 1 (CA 1478/26) and the Modulen IBD formula (CA 1479/26).",
+     "accion": "Suppliers of diabetes, infusion and specialty products: confirm the date and time of each opening and submit documentation on time.",
+     "licitaciones": [
+      {
+       "objeto": "Subcutaneous apomorphine pump with supplies for 90 days"
+      },
+      {
+       "objeto": "Subcutaneous apomorphine pump with supplies for 90 days"
+      },
+      {
+       "objeto": "MiniMed 780G insulin pump with supplies"
+      },
+      {
+       "objeto": "Coupler microsurgical anastomosis system"
+      },
+      {
+       "objeto": "Infusion sets with pumps on loan (Dr. César Milstein Care Unit)"
+      },
+      {
+       "objeto": "Eplontersen 45 mg"
+      },
+      {
+       "objeto": "Thymosin alpha 1"
+      },
+      {
+       "objeto": "Modulen IBD formula"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "la-pampa-jornadas-salud-enfermeria-2026",
@@ -824,6 +1306,13 @@
    "fuente": {
     "nombre": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/12/jornadas-de-salud-ponen-en-valor-la-inversion-continua-en-infraestructura-y-capital-humano/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "La Pampa raises its nursing staff to 1,400 workers and adds construction work at the Favaloro Hospital",
+     "resumen": "At the opening of the Interdisciplinary Health Conference at the \"Dr. René Favaloro\" High-Complexity Hospital (Santa Rosa), Deputy Minister Gustavo Vera noted that the nursing staff grew from a historical average of 960-1,000 workers to 1,400 distributed throughout the province, alongside new construction and building expansions and a sustained supply of medicines and supplies. A nine-year project on pediatric referrals was also presented, aimed at digitizing and organizing referrals, with traveling subspecialty teams.",
+     "accion": "Suppliers of medical supplies, equipment and healthcare HR: La Pampa is expanding its installed capacity; it is worth monitoring upcoming construction tenders and purchases linked to these expansions."
+    }
    }
   },
   {
@@ -840,7 +1329,14 @@
     "url": "https://www.infobae.com/sociedad/2026/11/12/la-anmat-prohibio-una-marca-de-botox-un-aceite-de-cannabis-y-un-alcohol-etilico/"
    },
    "tipo": "prohibicion",
-   "rubro": "otros"
+   "rubro": "otros",
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans the cannabis oil \"Canna Oil\" promoted for medicinal use without registration",
+     "resumen": "Through Disposition 7206/2026, ANMAT banned the use, marketing — including via online platforms — and distribution nationwide of products identified as \"Canna Oil\" (dropper and cream presentations), promoted online by the \"Canna Oil\" and \"Pura Sanación\" establishments to treat chronic pain, fibromyalgia, cancer, epilepsy, HIV, Alzheimer's, Parkinson's and autism, among other conditions. The investigation originated from a complaint about an advertising flyer, and ANMAT found no product registration nor authorization for the establishments marketing it; its composition, manufacturing conditions and dispensing channels are unknown. The measure will be communicated to the provinces, to Consumer Protection authorities and to advertising oversight bodies.",
+     "accion": "Pharmacies, online stores and health professionals must discontinue the sale and recommendation of \"Canna Oil\" given the total absence of sanitary registration and quality controls over its composition."
+    }
+   }
   },
   {
    "id": "anmat-7249-2026-fresh-clean-alcohol-etilico",
@@ -856,7 +1352,14 @@
     "url": "https://www.infobae.com/sociedad/2026/11/12/la-anmat-prohibio-una-marca-de-botox-un-aceite-de-cannabis-y-un-alcohol-etilico/"
    },
    "tipo": "prohibicion",
-   "rubro": "otros"
+   "rubro": "otros",
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans all batches of \"Fresh & Clean\" ethyl alcohol from FANC S.A. for lacking registration as a disinfectant",
+     "resumen": "Through Disposition 7249/2026, ANMAT banned the marketing of and ordered the withdrawal from the market of all batches of \"Fresh & Clean. Ethyl Alcohol. Exclusively for Professional Use. Disinfectant Category,\" from the firm FANC S.A. The product was presented as a sanitizer with 96° ethyl alcohol but lacked registration, and given its characteristics it corresponds to a sanitary-use product, so it could not be marketed as a household disinfectant. The company was summoned: its technical director initially said he was unaware of the product, and the company's representatives later acknowledged it as their own and stated that its manufacture and sale had not been consulted with that technical director.",
+     "accion": "Distributors and professional users of \"Fresh & Clean\" must immediately discontinue its marketing and use, since it lacks the enabling sanitary registration."
+    }
+   }
   },
   {
    "id": "hematologos-rio-negro-corte-pami-nov-2026",
@@ -870,6 +1373,13 @@
    "fuente": {
     "nombre": "ANRoca",
     "url": "https://www.anroca.com.ar/noticias/2026/11/11/232082-por-demoras-de-90-dias-en-los-pagos-los-hematologos-cortaron-prestaciones-a-pami"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Hematologists in Río Negro suspend services to PAMI over payments more than 90 days overdue",
+     "resumen": "The Río Negro Hematology and Hemotherapy Association suspended scheduled services to PAMI, including anticoagulation monitoring and onco-hematological treatments, and is only maintaining on-call and emergency coverage. It is claiming payment for August, September and October services: payments, which previously took 60 days, now exceed 90. It will lift the measure if PAMI pays at least August; the claim filed with the UGL General Roca local office received no response.",
+     "accion": "PAMI providers in Patagonia: review the status of pending invoicing and anticipate collection delays in year-end cash flow."
+    }
    }
   },
   {
@@ -896,7 +1406,19 @@
      "monto": "$5.557.559.921",
      "lugar": "Casa de Gobierno, Neuquén"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Neuquén puts out a $5.557 billion tender for a public drug compounding laboratory in Junín de los Andes",
+     "resumen": "The province called a tender to build a 942 m² building at the Junín de los Andes hospital, with an official budget of $5,557,559,921 and 365 days of construction. It will house the Compounding Formulas Laboratory, which will produce preparations for the entire public network. The bid opening is on 12/4 at 12:00 at the Casa de Gobierno (seat of government).",
+     "accion": "Suppliers of pharmaceutical and laboratory equipment: follow the award, because purchases of equipment and supplies will come afterward.",
+     "licitaciones": [
+      {
+       "objeto": "Construction of the Compounding Formulas Laboratory (942 m², Junín de los Andes hospital)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "anmat-7199-2026",
@@ -910,6 +1432,13 @@
    "fuente": {
     "nombre": "El Argentino Diario (cita Disposición ANMAT 7199/2026, Boletín Oficial)",
     "url": "https://elargentinodiario.com.ar/economia/consumo/11/11/2026/anmat-prohibio-tres-endoprotesis-vasculares-robadas-gore-viabahn/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans three stolen Gore VIABAHN VBX vascular endoprostheses",
+     "resumen": "Disposition 7199/2026, published in the Official Gazette on November 11, bans nationwide the use, marketing and distribution, including online sale, of three units of the balloon-expandable Gore VIABAHN VBX vascular endoprosthesis (PM 266-82, holder Emeclar S.A.): code BXA055902H, batch/serial 28350476, and code BXA053902H, batches/serial 29004355A and 29004356A. They were stolen on June 12, 2026 and fell outside the traceability chain, so how they were stored cannot be guaranteed.",
+     "accion": "Check today's hemodynamics and vascular surgery stock, warehouses and recent purchases for those codes and batches, and set aside any matching unit."
+    }
    }
   },
   {
@@ -924,6 +1453,13 @@
    "fuente": {
     "nombre": "Ámbito (cita Resolución INCUCAI 401/2026, Boletín Oficial)",
     "url": "https://www.ambito.com/el-incucai-crea-un-sistema-nacional-reportar-fallas-y-complicaciones-donaciones-y-trasplantes-n6343789"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INCUCAI creates the National Biovigilance System in Donation-Transplant with mandatory 24-hour reporting",
+     "resumen": "Resolution 401/2026 creates the National Biovigilance System in Donation-Transplant and takes effect the day after its publication. Transplant teams, tissue banks, histocompatibility laboratories, cord blood banks and the 24 OPAI (provincial organ procurement agencies) must designate at least two officers in charge, and serious, very serious or fatal reactions and high-risk events must be reported within 24 hours. Implementation will be gradual: a pilot test followed by three stages.",
+     "accion": "Transplant centers and tissue banks must designate their two biovigilance officers and set up the internal 24-hour reporting process."
+    }
    }
   },
   {
@@ -938,6 +1474,13 @@
    "fuente": {
     "nombre": "Argentina.gob.ar (ANMAT)",
     "url": "https://www.argentina.gob.ar/noticias/anmat-actualiza-el-marco-regulatorio-para-la-demostracion-de-equivalencia-terapeutica-de"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT approves a new regulatory framework to demonstrate therapeutic equivalence of medicines",
+     "resumen": "Disposition 7204/2026 unifies the technical criteria for demonstrating therapeutic equivalence (bioequivalence) of chemically synthesized medicinal specialties for human use, incorporating the ICH M9, M10, M13A and M13B guidelines. It covers medications for HIV, epilepsy, diabetes, cardiovascular and psychiatric diseases, Alzheimer's, multiple sclerosis, Parkinson's, immunosuppressants, anticoagulants, oncology, contraceptives, thyroid hormones and bronchodilators, among others.",
+     "accion": "Generic drug manufacturers and registration holders must review their bioequivalence studies: 120 days for new registrations and 5 years to bring already-granted or pending registrations into compliance."
+    }
    }
   },
   {
@@ -972,7 +1515,22 @@
      "lugar": "Dirección General de Contrataciones Estratégicas, Marcelo T. de Alvear 145, Resistencia",
      "rubro": "otros"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Chaco opens two tenders worth $8.868 billion on 11/18: laboratory supplies with equipment on loan and enteral nutrition",
+     "resumen": "Public Tender No. 127/2026 ($2,701,194,345.78) covers supplies for microbiology laboratory tests (bacteria and yeast detection, identification and antibiotic sensitivity) with equipment on loan for about 24 months. No. 128/2026 ($6,167,549,824.94) covers enteral nutrition products for high-complexity hospitals and primary care centers for about five months. Both open on 11/18 at the General Directorate of Strategic Procurement (Marcelo T. de Alvear 145, Resistencia).",
+     "accion": "Suppliers of microbiological diagnostics and enteral nutrition: the opening is this Wednesday 11/18; check the bidding documents and submit a bid in Resistencia.",
+     "licitaciones": [
+      {
+       "objeto": "Microbiology laboratory supplies with equipment on loan (24 months)"
+      },
+      {
+       "objeto": "Enteral nutrition products (about five months)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "oura-counsel-health-625m",
@@ -987,6 +1545,13 @@
    "fuente": {
     "nombre": "MedTech Dive",
     "url": "https://www.medtechdive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874398/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Oura buys Counsel Health for USD 625 million and adds AI-driven primary care",
+     "resumen": "Oura, maker of the smart ring, agreed to buy Counsel Health in cash, a primary care company where patients consult symptoms with an AI assistant and can add a physician who diagnoses, prescribes or refers. Oura will integrate the platform into its app alongside the ring's biometric data and expects to close the deal before the end of 2026. It is another sign of the convergence between wearables, AI and clinical care.",
+     "accion": "Digital health companies and wearable distributors: follow the wearable-plus-AI-plus-physician model as a reference for local partnerships."
+    }
    }
   },
   {
@@ -1058,7 +1623,46 @@
      "objeto": "Generador DBS bilateral no recargable",
      "apertura": "2026-11-24"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI: openings for neurostimulators, neuroembolization and orthopedics through November 24",
+     "resumen": "PAMI's schedule lists neuro tenders: recharge kit for deep brain stimulator (CA 1449/26) and rechargeable spinal neurostimulator (CA 1450/26) on 11/11; non-rechargeable spinal (CA 1462/26), intrasaccular flow disruptor (CA 1471/26), 0.021 flow-diverting stent (CA 1472/26) and microcatheter with adhesive and contrast (CA 1465/26) on 11/17; vagal stimulation (CA 1473/26) and rechargeable DBS (CA 1474/26) on 11/18; and a non-rechargeable bilateral DBS generator (CA 1464/26) on 11/24. In orthopedics, a constrained total revision prosthesis (CA 1457/26) and a hip revision with custom 3D reconstruction (CA 1461/26) open on 11/16, and two amputation prostheses (CA 1475/26) on 11/18.",
+     "accion": "If you distribute neurostimulation, neurointerventional or orthopedic products, download the bidding documents and submit your bid before each opening.",
+     "licitaciones": [
+      {
+       "objeto": "Constrained total revision prosthesis"
+      },
+      {
+       "objeto": "Hip revision with custom 3D reconstruction"
+      },
+      {
+       "objeto": "Non-rechargeable spinal neurostimulator"
+      },
+      {
+       "objeto": "Intrasaccular flow disruptor"
+      },
+      {
+       "objeto": "0.021 flow-diverting stent"
+      },
+      {
+       "objeto": "Microcatheter with adhesive and contrast"
+      },
+      {
+       "objeto": "Vagal stimulation"
+      },
+      {
+       "objeto": "Rechargeable DBS generator"
+      },
+      {
+       "objeto": "Two amputation prostheses"
+      },
+      {
+       "objeto": "Non-rechargeable bilateral DBS generator"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-aperturas-medicamentos-nov",
@@ -1100,7 +1704,28 @@
      "apertura": "2026-11-26",
      "hora": "12:00"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI purchases high-cost medications on 11/18 and general medication on 11/26",
+     "resumen": "On November 18 at 10:00, tenders open for omaveloxolone 50 mg (CA 1426/26), nusinersen 12 mg (CA 1433/26) and thymosin alpha 1.6 mg (CA 1468/26). There are also subcutaneous apomorphine pumps for 90 days (CA 1467/26 on 11/16 and CA 1470/26 on 11/17), a MiniMed 780G insulin micro-infusion pump with supplies (CA 1459/26, 11/17) and Public Tender 21/26 for general medication for PAMI's own healthcare facilities, opening on November 26 at 12:00.",
+     "accion": "If you are a pharmaceutical wholesaler or manufacturer with these products, review the bidding documents and deadlines in PAMI's schedule and prepare your quote.",
+     "licitaciones": [
+      {
+       "objeto": "Omaveloxolone 50 mg"
+      },
+      {
+       "objeto": "Nusinersen 12 mg"
+      },
+      {
+       "objeto": "Thymosin alpha 1.6 mg"
+      },
+      {
+       "objeto": "General medication for PAMI's own healthcare facilities"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "msal-1583-2026-especialidades",
@@ -1114,6 +1739,13 @@
    "fuente": {
     "nombre": "Ministerio de Salud de la Nación",
     "url": "https://www.argentina.gob.ar/noticias/el-ministerio-de-salud-de-la-nacion-actualiza-el-marco-normativo-para-el-reconocimiento-de"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Health Ministry changes the specialty-recognition regime and creates a national advisory commission",
+     "resumen": "Resolution 1583/2026 updates the regime for recognizing postgraduate health specialties and creates a national advisory commission on the practice of university health professions, to unify evaluation criteria nationwide. New specialties must have training or recognition in at least three jurisdictions and the express endorsement of the health authorities of at least three provinces, and postgraduate programs are organized into five registration categories. Already-recognized specialties retain their validity, and the regulation takes effect 60 calendar days after its publication.",
+     "accion": "Scientific societies, residency programs and training institutions: review ongoing applications, which move to the new procedure."
+    }
    }
   },
   {
@@ -1128,6 +1760,13 @@
    "fuente": {
     "nombre": "COKIBA",
     "url": "https://www.cokiba.org.ar/actualidad/obras-sociales/informe-n28-4-11-06-2026"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Buenos Aires province kinesiologists: new fee schedules with health insurance funds for November and December",
+     "resumen": "COKIBA's Report 28 details fee increases in effect from November (OSCAP, Ámsterdam Salud, OSDOP, SERENA ART) and from December (La Segunda, CEA San Pedro, La Pequeña Familia), with cumulative 2026 increases ranging between 30% and 84% depending on the entity. It also reports the suspension of services to OSPEGYPE in Regional District 6.",
+     "accion": "Context: if you are a rehabilitation provider in Buenos Aires province, check the current rates per entity before billing for November."
+    }
    }
   },
   {
@@ -1142,6 +1781,13 @@
    "fuente": {
     "nombre": "Infobae (cita la Disposición ANMAT 7157/2026)",
     "url": "https://www.infobae.com/sociedad/2026/11/06/anmat-prohibio-la-venta-y-el-uso-de-un-insumo-odontologico-sin-autorizacion-sanitaria/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans VERITAS brand endodontic files - Distribuidora Dental Edigma",
+     "resumen": "Through Disposition 7157/2026, published in the Official Gazette on November 6, ANMAT banned nationwide the use, marketing, distribution and online advertising of all batches of medical products under the VERITAS - Distribuidora Dental Edigma brand. Stainless steel H-Files were detected with no manufacturer or importer data, no expiration date and no registration number, at a pharmaceutical wholesaler in Mendoza.",
+     "accion": "If you sell or use dental supplies, review your stock, set aside any VERITAS product, and purchase only from authorized suppliers."
+    }
    }
   },
   {
@@ -1156,6 +1802,13 @@
    "fuente": {
     "nombre": "Boletín Oficial, Primera Sección, 06/11/2026",
     "url": "https://s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT updates the standard for PSA-produced medicinal oxygen and allows 93% oxygen",
+     "resumen": "Disposition 7203/2026 replaces Annex I of Disposition 4373/2002, which required a minimum purity of 98% V/V for medicinal oxygen produced at PSA plants. The new annex aligns with the 93% oxygen definition (90% to 96% V/V) in the Argentine Pharmacopoeia and follows a recommendation from the National Commission for the Defense of Competition. It takes effect upon publication and invites the provinces and the City of Buenos Aires to adhere to it.",
+     "accion": "Hospitals with PSA plants and medical gas suppliers must check whether their equipment and purchasing specifications comply with the new annex."
+    }
    }
   },
   {
@@ -1170,6 +1823,13 @@
    "fuente": {
     "nombre": "Zona Norte Hoy (INDEC, SSS)",
     "url": "https://www.zonanortehoy.com/economia/crisis-de-salud-en-argentina-casi-un-millon-de-personas-perdio-su-obra-social-o-prepaga-en-un-ano/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Coverage by health insurance funds and prepaid health plans falls to its lowest level since 2016",
+     "resumen": "According to estimates based on INDEC's EPH (Permanent Household Survey) data, about 969,000 people lost their health insurance fund (obra social) or prepaid health plan between the first half of 2025 and the first half of 2026, and 35.5% of the population now depends solely on the public system. National health insurance funds lost 1.16 million beneficiaries since 2023, while prepaid plan fees rose nearly 500% against inflation of 344%.",
+     "accion": "Context: anticipate higher demand at public hospitals and in provincial tenders, and less volume for private providers."
+    }
    }
   },
   {
@@ -1186,7 +1846,14 @@
     "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-3&par=1"
    },
    "tipo": "licitacion",
-   "rubro": "cardiovascular"
+   "rubro": "cardiovascular",
+   "trad": {
+    "en": {
+     "titulo": "PAMI opens about 40 tenders in November, most for high-cost implants",
+     "resumen": "PAMI's official schedule shows nearly 40 openings between November 5 and 23, almost all abbreviated tenders for individual devices: percutaneous aortic valve (CA 1458/26, 11/16), edge-to-edge mitral repair (CA 1436/26 and 1447/26), drug-eluting peripheral stent (CA 1445/26) and hybrid aorto-thoracic prosthesis (CA 1455/26, both on 11/11), flow-diverting stents, rotational atherectomy, neurostimulators, cochlear implants (CA 1444/26 and 1463/26) and an insulin micro-infusion pump (CA 1459/26, 11/17). There are also purchases of high-cost medications.",
+     "accion": "If you distribute cardiovascular, neurological or hearing implants, review the bidding documents in PAMI's schedule and prepare your bid before each opening date."
+    }
+   }
   },
   {
    "id": "pami-licitacion-oxigeno-domiciliario",
@@ -1215,7 +1882,22 @@
      "apertura": "2026-11-20",
      "rubro": "dispositivos"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI public tender for home oxygen therapy: opening on November 20",
+     "resumen": "PAMI published Public Tender 20/26 to contract the home oxygen therapy service, with opening on November 20, 2026. The same day, Abbreviated Tender 1452/26 opens for commissioning and preventive and corrective maintenance of equipment.",
+     "accion": "If you are a supplier of oxygen or home equipment, download the bidding documents from PAMI's schedule and verify requirements before 11/20.",
+     "licitaciones": [
+      {
+       "objeto": "Home oxygen therapy service"
+      },
+      {
+       "objeto": "Equipment commissioning and maintenance"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "arca-5923-2026-suspension-ejecuciones-salud",
@@ -1229,6 +1911,13 @@
    "fuente": {
     "nombre": "CADIME (cita RG ARCA 5923/2026, Boletín Oficial)",
     "url": "https://cadime.com.ar/resolucion-general-5923-2026-arca-entidades-sector-salud-suspension-de-ejecuciones-fiscales-y-traba-de-medidas-cautelares-resolucion-n-1-899-26-mecon-resolucion-general-n-5-628/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ARCA extends suspension of tax foreclosures and liens for healthcare entities until June 2027",
+     "resumen": "General Resolution 5923/2026 extends until June 30, 2027 the suspension of tax foreclosure proceedings and the imposition of precautionary measures provided for in RG 5628, for non-profit entities in the health sector, MiPyMEs (Tiers 1 and 2 with a certificate valid as of 10/29/2026) and small taxpayers. ARCA retains the authority to act in cases of serious harm to the Treasury, lapse of proceedings, or imminent expiration of the statute of limitations.",
+     "accion": "Clinics, private hospitals and non-profit health entities with debts to ARCA must verify their registration and the validity of their MiPyME certificate as of 10/29/2026 to remain covered until June 2027."
+    }
    }
   },
   {
@@ -1243,6 +1932,13 @@
    "fuente": {
     "nombre": "Ámbito",
     "url": "https://www.ambito.com/informacion-general/pami-renovo-la-lista-medicamentos-gratis-noviembre-2026-y-otros-descuento-n6341100"
+   },
+   "trad": {
+    "en": {
+     "titulo": "PAMI maintains its medication coverage scheme in November",
+     "resumen": "PAMI continues to cover 100% of special treatments (diabetes, oncology, HIV, transplants, ophthalmological intravitreal injections, among others) and the social subsidy for members with incomes below 1.5 minimum pensions (3 if there is a CUD—disability certificate—holder in the household). Outpatient medications carry discounts of 50% to 80% for chronic conditions, 50% to 60% for acute conditions, and 40% for occasional use. For chronic conditions, the electronic prescription is issued by a physician within the PAMI system and goes directly to the pharmacy.",
+     "accion": "Context: pharmacies and manufacturers should confirm that their systems receive paperless electronic prescriptions for chronic conditions."
+    }
    }
   },
   {
@@ -1257,6 +1953,13 @@
    "fuente": {
     "nombre": "Infobae",
     "url": "https://www.infobae.com/sociedad/2026/11/04/la-anmat-prohibio-el-uso-de-una-serie-de-insumos-medicos-por-graves-irregularidades/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans a VITAL-CATH closed suction system and DIMEX gowns over tampering and counterfeiting",
+     "resumen": "Through Disposition 7133/2026, ANMAT banned nationwide the use, marketing and distribution of the VITAL-CATH REF 62140M closed endotracheal suction system, batch 20120101 (holder DCD Products, expired in 2023 and bearing a label not its own), and of DIMEX disposable gowns, batch 0109POL16 with PM 2289-3, whose labels the holder CINMOR declared counterfeit. The units were detected during an inspection of the firm Insumed San Juan SRL.",
+     "accion": "Review stock and suppliers, segregate any units from those batches, and verify the traceability and invoices of supplies purchased from third parties."
+    }
    }
   },
   {
@@ -1272,6 +1975,13 @@
    "fuente": {
     "nombre": "SPINEMarketGroup",
     "url": "https://thespinemarketgroup.com/globus-medical-acquires-synaptive-medical-strengthening-its-position-in-cranial-neurosurgery/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Globus Medical acquired Synaptive Medical (cranial neurosurgery)",
+     "resumen": "Globus Medical announced the acquisition of Synaptive Medical, which develops visualization, navigation, surgical planning and MRI technology for cranial surgery. The deal closed through a court-supervised liquidation process and the price was not disclosed. Globus is prioritizing service continuity for the installed base.",
+     "accion": "If you distribute or use Synaptive equipment, confirm with Globus the continuity of technical support and service contracts."
+    }
    }
   },
   {
@@ -1286,6 +1996,13 @@
    "fuente": {
     "nombre": "ANMAT - argentina.gob.ar",
     "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-neocalmans"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ANMAT reports the withdrawal of batch 09125 of injectable morphine NEOCALMANS",
+     "resumen": "Soubeiran Chobet S.R.L. began the voluntary withdrawal of batch 09125 (expiring 05/28) of NEOCALMANS, morphine hydrochloride trihydrate 10 mg/ml injectable solution, in packs of 1 and 20 ampoules (Certificate No. 38,723). The reason is a change in the solution's color, close to the limit of the appearance specification. ANMAT recommends not using units from that batch and is monitoring the withdrawal.",
+     "accion": "Hospital pharmacies, clinics and pharmaceutical wholesalers: review stock, set aside ampoules from batch 09125, and coordinate the return with the manufacturer."
+    }
    }
   },
   {
@@ -1300,6 +2017,13 @@
    "fuente": {
     "nombre": "Código Baires",
     "url": "https://www.codigobaires.com.ar/2026-11-02/caos-en-las-obras-sociales-por-la-paralizacion-de-sistemas-de-la-superintendencia-de-salud-251670/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Superintendencia de Servicios de Salud systems down: beneficiary rolls and SURGE halted",
+     "resumen": "Since late October, most of the Superintendencia de Servicios de Salud's IT services have not been working. Health insurance funds (obras sociales) cannot check beneficiary rolls or register enrollments and withdrawals; SURGE, the disability modules, and the server that delivers ARCA updates remain down. Only the plan-switching system has come back online. There is no official date for normalization.",
+     "accion": "If you bill health insurance funds or prepaid health plans, verify patient coverage through another channel before providing care, keep a record of each service, and anticipate delays in reimbursements and disability payments."
+    }
    }
   },
   {
@@ -1314,6 +2038,13 @@
    "fuente": {
     "nombre": "Blog del Contador",
     "url": "https://siap.blogdelcontador.com.ar/?p=128813"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Until December 30 to join the health sector payment plan",
+     "resumen": "General Resolution 5920/2026 extends until December 30, 2026 the deadline to join the special payment-facility regime for the health sector (RG 5858, which includes inpatient facilities) and the plan for MiPyMEs and non-profit entities (RG 5875). The terms of the plans remain unchanged.",
+     "accion": "If your clinic or company has tax, customs or social security debts, check with your accountant whether it is worth joining before 12/30."
+    }
    }
   },
   {
@@ -1328,6 +2059,13 @@
    "fuente": {
     "nombre": "La Nación",
     "url": "https://www.lanacion.com.ar/economia/todos-los-aumentos-que-llegan-en-noviembre-cuanto-subiran-la-luz-el-gas-el-transporte-la-prepagas-y-nid30102026/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Prepaid health plans raise fees by between 1.4% and 3.1% in November",
+     "resumen": "The leading prepaid health plan companies reported to the Superintendencia de Servicios de Salud fee increases of between 1.4% and 3.1% for November.",
+     "accion": "Keep this in mind when negotiating fees with prepaid health plans: their fee revenue keeps adjusting month to month."
+    }
    }
   },
   {
@@ -1342,6 +2080,13 @@
    "fuente": {
     "nombre": "Noticias NQN",
     "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/30/358773-el-senado-dio-media-sancion-a-la-reforma-de-la-ley-de-salud-mental"
+   },
+   "trad": {
+    "en": {
+     "titulo": "The Senate gave preliminary approval to the Mental Health Law reform and the bill moved to the Chamber of Deputies",
+     "resumen": "On October 30 the Senate approved, with changes, the reform of the National Mental Health Law (26,657), which enables involuntary commitments under new criteria and adds addictions as a condition to be treated. The bill, having received preliminary (Senate) approval, moved to the Chamber of Deputies for consideration.",
+     "accion": "Clinics, mental health centers and inpatient providers should follow the debate in the Chamber of Deputies, because the reform will change admission and commitment criteria."
+    }
    }
   },
   {
@@ -1356,6 +2101,13 @@
    "fuente": {
     "nombre": "Boletín Oficial (resumen Gob Partners)",
     "url": "https://boresumengobpartners.substack.com/p/boletin-2026-10-29"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Disability pensions: in-person processing moves to PAMI",
+     "resumen": "Resolution 3697/2026 amends Resolution 3695/2026: in-person requests to reinstate disability pensions are now channeled through PAMI and no longer through ANSES.",
+     "accion": "If your institution guides patients with disability pensions, refer them to PAMI offices for this process."
+    }
    }
   },
   {
@@ -1383,7 +2135,19 @@
      "lugar": "Portal Provincia de Buenos Aires Compras (PBAC)",
      "rubro": "oncologia"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Buenos Aires re-tenders oncology medications worth $2.926 billion after two calls with no bids; opens on 11/18",
+     "resumen": "Through Resolution 7946, published on 10/28 in the Buenos Aires provincial Official Gazette, the Ministry of Health called Purchase Process 633-0864-LPU26 for oncology medications intended for about 19,000 patients, requested by the Institute for Cancer Prevention, Diagnosis and Treatment. Budget: $2,925,749,915.38, expandable up to 100% or reducible up to 20%. A previous tender and a direct contracting process received no bids; Roche and Novartis reported that they will not bid directly and that the products may arrive through distributors and pharmaceutical wholesalers. The opening is on 11/18 at 10:00 on the PBAC portal.",
+     "accion": "Distributors and pharmaceutical wholesalers with Roche or Novartis oncology products: review the bidding documents on PBAC; the terms were modified to attract bidders.",
+     "licitaciones": [
+      {
+       "objeto": "Oncology medications (about 19,000 patients)"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "pami-capita-fija-octubre",
@@ -1397,6 +2161,13 @@
    "fuente": {
     "nombre": "0223 (Mar del Plata)",
     "url": "https://www.0223.com.ar/nota/2026-10-27-11-38-0-alerta-jubilados-suspenden-turnos-postergan-estudios-y-cambian-las-reglas-en-pami"
+   },
+   "trad": {
+    "en": {
+     "titulo": "PAMI switches to a fixed monthly capitation payment and high-complexity studies are delayed",
+     "resumen": "Since October 1, PAMI replaced prior authorization of services with a fixed monthly capitation payment to medical centers. Providers in Mar del Plata reported that the amount stays frozen while demand grows, and some suspended high-complexity and oncology scheduling, with studies such as PET scans rescheduled until the first quarter of 2027. In addition, medication pickup now requires a national ID (DNI) and a digital credential with a token; the physical credential remains valid until June 30, 2027.",
+     "accion": "If you are a PAMI provider or supplier, recalculate your billing under the capitation scheme and anticipate lower volume for high-complexity procedures."
+    }
    }
   },
   {
@@ -1423,7 +2194,19 @@
      "monto": "$1.156.970.000",
      "lugar": "Plataforma CO.DI.NEU"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Public Tender 593: laboratory reagents worth $1.157 billion",
+     "resumen": "Neuquén is tendering laboratory reagents with equipment needed to process them provided on a pay-per-use loan basis. Estimated amount: $1,156,970,000. Bids are submitted through the CO.DI.NEU platform and the opening is on November 19, 2026 at 10:00.",
+     "accion": "If you are an in vitro diagnostics supplier, download the bidding documents and prepare your bid, including the equipment on loan, before 11/19.",
+     "licitaciones": [
+      {
+       "objeto": "Laboratory reagents with equipment provided on a pay-per-use loan basis"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "msal-remediar-calidad",
@@ -1437,6 +2220,13 @@
    "fuente": {
     "nombre": "Ministerio de Salud",
     "url": "https://www.argentina.gob.ar/salud"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Remediar is reformulated and the National Quality Plan 2026-2030 is presented",
+     "resumen": "The Ministry announced that the Remediar Program will prioritize vascular diseases (October 20) and presented the National Health Quality Plan 2026-2030 (October 23).",
+     "accion": "Read the regulation once it is published in the Official Gazette."
+    }
    }
   },
   {
@@ -1451,6 +2241,13 @@
    "fuente": {
     "nombre": "Crónica (cita a la Asociación Argentina de Establecimientos Geriátricos)",
     "url": "https://www.cronica.com.ar/salud/pami-otorgo-un-aumento-acumulado-del-7-69-a-los-geriatricos-prestadores/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "PAMI agrees to monthly 2.5% increases for provider nursing homes between November and January",
+     "resumen": "According to the Argentine Association of Nursing Home Establishments, PAMI will grant three 2.5% increases: in November 2026 on the October rate, and in December and January 2027, each applied on the already-updated value, for a cumulative increase of about 7.69%. PAMI's original proposal was 2% monthly, non-cumulative. The report does not give a resolution number.",
+     "accion": "Provider nursing homes must check that the November settlement applies the 2.5% increase on the October rate, and file a claim if it is not reflected."
+    }
    }
   },
   {
@@ -1466,6 +2263,13 @@
    "fuente": {
     "nombre": "Mercado",
     "url": "https://mercado.com.ar/negocios/midea-completo-la-compra-mayoritaria-de-esaote-y-la-integro-a-su-division-de-salud"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Midea completed the acquisition of Esaote",
+     "resumen": "Midea Group acquired a majority stake in Esaote (ultrasound and MRI) and integrated it into Midea Healthcare. Esaote continues operating with its headquarters in Genoa and its CEO; Midea announces investment in R&D, operations and manufacturing.",
+     "accion": "If you distribute Esaote, confirm the continuity of the contract and terms with the new shareholder."
+    }
    }
   },
   {
@@ -1480,6 +2284,13 @@
    "fuente": {
     "nombre": "El Cronista",
     "url": "https://www.cronista.com/informacion-gral/atencion-jubilados-de-pami-suspenden-los-servicios-programados-por-48-horas-y-no-habra-servicios-en-clinicas-de-estas-provincias/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "PAMI offered fee increases of between 5% and 12%; Patagonian clinics maintained the suspension",
+     "resumen": "Capress lifted the suspension of services planned for October 21 and 22 after PAMI proposed updating fees by between 5% and 12%. The Clínicas de la Patagonia group announced it was maintaining the 48-hour suspension, except for emergencies, in Neuquén, Río Negro, Chubut and La Pampa. The trade associations maintain that the capitation payment rose 110% against inflation of 242% since December 2023.",
+     "accion": "If you treat PAMI members, follow the fee negotiation and review how the update affects your procedures before budgeting for 2027."
+    }
    }
   },
   {
@@ -1494,6 +2305,13 @@
    "fuente": {
     "nombre": "Ámbito",
     "url": "https://www.ambito.com/informacion-general/provincia-renovo-las-reglas-habilitar-centros-privados-salud-mental-y-consumos-problematicos-n6335613"
+   },
+   "trad": {
+    "en": {
+     "titulo": "New authorization regime for mental health centers",
+     "resumen": "Resolution 7753/2026 replaces Resolution 4750/2021. Current authorizations remain valid, but upon renewal they must comply with the new regime.",
+     "accion": "No action required for distributors."
+    }
    }
   },
   {
@@ -1520,7 +2338,19 @@
      "monto": "$496.000.000",
      "lugar": "Plataforma CO.DI.NEU"
     }
-   ]
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Neuquén tenders four steam autoclaves for hospitals in the interior; opening on November 17",
+     "resumen": "Public Tender No. 598 is to purchase and install four automatic horizontal steam autoclaves for the hospitals of Las Ovejas, Tricao Malal, El Cholar and Las Coloradas. The official budget is $496,000,000, the bidding documents are free of charge, and bids are submitted through CO.DI.NEU. The opening is on November 17, 2026 at 11:00.",
+     "accion": "Suppliers of sterilization equipment must upload their bid on CO.DI.NEU before 11/17 at 11:00.",
+     "licitaciones": [
+      {
+       "objeto": "Four automatic horizontal steam autoclaves"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "colegio-pba-pami",
@@ -1534,6 +2364,13 @@
    "fuente": {
     "nombre": "El Día",
     "url": "https://www.eldia.com/la-ciudad/crisis-del-pami-los-medicos-advierten-que-pueden-colapsar-los-hospitales-publicos-la-ciudad_1792156440"
+   },
+   "trad": {
+    "en": {
+     "titulo": "The Medical Association warns of PAMI's payment crisis",
+     "resumen": "The Medical Association of Buenos Aires Province reported PAMI's underfunding, the interruption of agreements, and refusal of care at private hospitals. It called for a roundtable with the national government, PAMI and providers, payment of outstanding debts, and a restructuring of fees.",
+     "accion": "Review collections from clients with a large PAMI-dependent client base."
+    }
    }
   }
  ]
