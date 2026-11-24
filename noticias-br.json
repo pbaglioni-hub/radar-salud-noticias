@@ -1,6 +1,95 @@
 {
- "actualizado": "2026-11-23",
+ "actualizado": "2026-11-24",
  "noticias": [
+  {
+   "id": "br-sespsp-ebserh-stent-hemodinamica-27nov2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-24",
+   "ambito": "estadual/federal",
+   "organismo": "Secretaria de Estado da Saude de Sao Paulo / EBSERH (Hospital Universitario Onofre Lopes, Natal-RN)",
+   "titulo": "Brazil opens two cardiovascular device tenders: self-expanding venous stent (Sao Paulo) and interventional-cardiology/hemodynamics materials (EBSERH, Natal)",
+   "resumen": "Sao Paulo's state health department (Edital 372/2026) is tendering for a self-expanding venous stent, while EBSERH's Onofre Lopes University Hospital in Natal (Edital 91/2026) is tendering for hemodynamics and interventional-cardiology materials, including supplies used to treat cerebral arteriovenous malformations. Both proposal sessions open November 27, 2026.",
+   "accion": "Cardiovascular device manufacturers and distributors should review both editais on PNCP and submit proposals before the November 27 opening sessions.",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratacoes Publicas)",
+    "url": "https://pncp.gov.br/app/editais/46374500000194/2026/9561"
+   },
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "licitaciones": [
+    {
+     "numero": "Edital 372/2026",
+     "objeto": "Aquisicao de stent venoso autoexpansivel",
+     "apertura": "2026-11-27",
+     "hora": "08:00",
+     "lugar": "Sao Paulo (SP)",
+     "rubro": "cardiovascular"
+    },
+    {
+     "numero": "Edital 91/2026",
+     "objeto": "Material medico-hospitalar para hemodinamica, cardiologia intervencionista e tratamento de malformacoes arteriovenosas (MAVs) cerebrais (Parte II)",
+     "apertura": "2026-11-27",
+     "hora": "09:00",
+     "lugar": "Natal (RN)",
+     "rubro": "cardiovascular"
+    }
+   ],
+   "comentario": "Two separate, relatively small-scope hemodynamics openings rather than one large consolidated purchase, but useful near-term demand signals in the Sao Paulo and Rio Grande do Norte public markets for interventional cardiology supplies."
+  },
+  {
+   "id": "br-rio-oncologicos-grupo-ix-03dec2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-24",
+   "ambito": "municipal",
+   "organismo": "Municipio do Rio de Janeiro",
+   "titulo": "Rio de Janeiro opens R$14.2 million tender for Group IX oncology medicines",
+   "resumen": "The city of Rio de Janeiro published Edital 2058/2026, an electronic price-registration tender (pregao eletronico) for Group IX oncology medicines worth approximately R$14.23 million, with the proposal session opening December 3, 2026.",
+   "accion": "Oncology-drug suppliers should review the Edital and Termo de Referencia for the specific products included in Group IX and submit proposals before the December 3 session.",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratacoes Publicas)",
+    "url": "https://pncp.gov.br/app/editais/42498733000148/2026/2305"
+   },
+   "tipo": "licitacion",
+   "rubro": "oncologia",
+   "licitaciones": [
+    {
+     "numero": "Edital 2058/2026",
+     "objeto": "Registro de precos - Medicamentos do Grupo IX (Oncologicos)",
+     "apertura": "2026-12-03",
+     "hora": "10:00",
+     "monto": "R$ 14.228.683,00",
+     "lugar": "Rio de Janeiro (RJ)",
+     "rubro": "oncologia"
+    }
+   ]
+  },
+  {
+   "id": "br-varginha-material-ortopedia-oncologica-02dec2026",
+   "nivel": "amarillo",
+   "fecha": "2026-11-24",
+   "ambito": "municipal",
+   "organismo": "Fundacao Hospitalar do Municipio de Varginha (FHOMUV)",
+   "titulo": "Varginha hospital foundation (Minas Gerais) opens tender for oncological-orthopedic surgical material",
+   "resumen": "FHOMUV published Edital 87/2026, an electronic tender worth approximately R$1.07 million for hospital medical material used in oncological orthopedic surgical procedures, with the proposal session opening December 2, 2026.",
+   "accion": "Orthopedic-implant and surgical-material suppliers should review the Edital's item list and submit proposals before the December 2 session.",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratacoes Publicas)",
+    "url": "https://pncp.gov.br/app/editais/19110162000100/2026/325"
+   },
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "licitaciones": [
+    {
+     "numero": "Edital 87/2026",
+     "objeto": "Material medico-hospitalar para procedimentos cirurgicos de ortopedia oncologica",
+     "apertura": "2026-12-02",
+     "hora": "07:30",
+     "monto": "R$ 1.071.025,00",
+     "lugar": "Varginha (MG)",
+     "rubro": "traumatologia"
+    }
+   ]
+  },
   {
    "id": "br-anvisa-suplementos-norvy-nutrymed-morbach",
    "nivel": "rojo",
