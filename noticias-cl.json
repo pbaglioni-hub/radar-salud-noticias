@@ -244,6 +244,29 @@
    }
   },
   {
+   "id": "cl-isp-ondansetron-kamla-lote2-nov2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "medicamentos",
+   "fecha": "2026-11-13",
+   "ambito": "Nacional",
+   "organismo": "ISP",
+   "titulo": "ISP ordena el retiro de un segundo lote de ondansetrón inyectable de Kamla Lifesciences por vidrio en una ampolla",
+   "resumen": "El Instituto de Salud Pública instruyó, el 5 de noviembre de 2026, el retiro del lote KA25071 (vencimiento abril de 2027) de ondansetrón solución inyectable 8 mg/4 mL, de Kamla Lifesciences Ltd. (India), cuyo registro sanitario en Chile (F-28480) tiene como titular a Vitafarma S.A., tras detectar un fragmento de vidrio al interior de una ampolla sellada. Es un lote distinto (KA25071) al retirado en octubre (KA 25066) del mismo producto y fabricante.",
+   "accion": "Farmacias hospitalarias y clínicas: verificar el lote KA25071, no administrarlo y consultar con el químico farmacéutico si deben continuar el tratamiento con otro lote o producto.",
+   "fuente": {
+    "nombre": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/13/emiten-alerta-farmaceutica-por-trozo-de-vidrio-en-medicamento-para-las-nauseas-revisa-lote-afectado-2.shtml"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ISP orders recall of a second Kamla Lifesciences ondansetron injection lot over glass found inside an ampoule",
+     "resumen": "Chile's Public Health Institute ordered, on November 5, 2026, the recall of lot KA25071 (expiry April 2027) of ondansetron 8 mg/4 mL solution for injection, made by Kamla Lifesciences Ltd. (India), whose Chilean sanitary registration (F-28480) is held by Vitafarma S.A., after a glass fragment was found inside a sealed ampoule. This is a different lot (KA25071) from the one recalled in October (KA 25066) of the same product and manufacturer.",
+     "accion": "Hospital and clinic pharmacies should check for lot KA25071, stop administering it, and consult the pharmacist on whether to continue treatment with another lot or product."
+    }
+   }
+  },
+  {
    "id": "cl-isp-cefazolina-difem-nov2026",
    "nivel": "rojo",
    "tipo": "prohibicion",
@@ -309,6 +332,31 @@
      "titulo": "ISP publishes guidance on medical devices brought under sanitary control by Exempt Decree 25/2026",
      "resumen": "Chile's Public Health Institute published Informational Material No. 1 on Exempt Decree No. 25/2026 (Official Gazette, March 19, 2026), which brings certain medical devices and in vitro diagnostic devices under the sanitary control regime of article 111 of the Sanitary Code. The material includes a matrix of categories with their intended use, examples of products in and out of scope, and the risk class and validity period for each category. ISP announced further installments.",
      "accion": "Importers and manufacturers: check whether their products fall in any category of the decree and plan registration."
+    }
+   }
+  },
+  {
+   "id": "cl-hospital-osorno-angiografo-mayo2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "cardiovascular",
+   "fecha": "2026-05-11",
+   "ambito": "Región de Los Lagos",
+   "organismo": "Hospital Base San José de Osorno",
+   "titulo": "Cardiovascular: el Hospital San José de Osorno recibe el primer angiógrafo de la red pública provincial e inaugura su Unidad de Hemodinamia",
+   "resumen": "El Hospital Base San José de Osorno recibió el primer angiógrafo multipropósito de la red pública de la provincia (Región de Los Lagos), un Philips Azurion 7, que se instalará en el antiguo pabellón 1 junto a Urgencia para la nueva Unidad de Hemodinamia. La inversión supera los $2.615 millones (CLP), financiada con recursos sectoriales dentro del Convenio de Programación GORE-MINSAL 2019-2029. Hasta ahora, los pacientes de la provincia con infartos, ACV u otras patologías circulatorias debían trasladarse a Puerto Montt, Valdivia, Temuco o Santiago; se proyectan unas 40 atenciones semanales y unos 10 profesionales en la unidad, con planes de sumar neurología intervencional y electrofisiología a futuro.",
+   "accion": "Proveedores de insumos de hemodinamia (stents, catéteres, introductores): la nueva unidad es un cliente público adicional en la Región de Los Lagos a seguir para futuras licitaciones de insumos y mantenimiento.",
+   "comentario": "La apertura de una unidad de hemodinamia nueva genera demanda recurrente de insumos cardiovasculares (stents, catéteres, balones) que antes se concentraba en otras ciudades; vale la pena monitorear las primeras licitaciones de consumibles de este hospital.",
+   "fuente": {
+    "nombre": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/05/11/tras-anos-de-espera-hospital-san-jose-de-osorno-recibe-el-primer-angiografo-de-red-publica-provincial.shtml"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: San José de Osorno Hospital receives the provincial public network's first angiography system and opens its Hemodynamics Unit",
+     "resumen": "San José de Osorno Base Hospital received the first multipurpose angiography system in the provincial public network (Los Lagos Region), a Philips Azurion 7, to be installed in the former pavilion 1 next to the Emergency department for the new Hemodynamics Unit. The investment exceeds $2,615 million CLP, funded through sectoral resources under the 2019-2029 GORE-MINSAL Programming Agreement. Until now, patients in the province with heart attacks, strokes or other circulatory conditions had to travel to Puerto Montt, Valdivia, Temuco or Santiago; the unit projects about 40 procedures per week and around 10 staff, with plans to later add interventional neurology and electrophysiology.",
+     "accion": "Suppliers of hemodynamics supplies (stents, catheters, introducers) should watch this new public-sector customer in the Los Lagos Region for future consumables and maintenance tenders.",
+     "comentario": "Opening a new hemodynamics unit generates recurring demand for cardiovascular supplies (stents, catheters, balloons) that was previously concentrated in other cities; it is worth monitoring this hospital's first consumables tenders."
     }
    }
   }

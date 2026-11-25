@@ -25,6 +25,31 @@
    }
   },
   {
+   "id": "co-invima-399-2026-terumo-treovance-relay",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-23",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por niveles elevados de endotoxinas en las endoprótesis vasculares Treovance y Relay Plus/Relay NBS de Terumo",
+   "resumen": "La alerta sanitaria 399-2026 de INVIMA, en seguimiento (producto defectuoso), cubre la endoprótesis aórtica abdominal Treovance (registro INVIMA 2024DM-0010887-R1) y el sistema de endoprótesis vascular torácica Relay Plus/Relay NBS (registro 2018DM-0000586-R1), de Terumo Colombia Andina. La compañía reportó niveles elevados de endotoxinas en los sistemas de liberación y estima que cerca del 1% de las unidades podría superar la especificación permitida.",
+   "accion": "Servicios de cirugía vascular y hemodinamia: revisar el stock de estos dispositivos, contactar al fabricante por el plan de acción y reportar cualquier evento adverso a Tecnovigilancia.",
+   "comentario": "Un riesgo de endotoxinas en endoprótesis aórticas y torácicas es un evento de infección potencialmente grave en pacientes vasculares; conviene seguir de cerca si Terumo amplía el alcance del retiro a más lotes o registros.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/endoprotesis-aortica-abdominal-treovance-con-sistema-de-liberacion-navitel"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of elevated endotoxin levels in Terumo's Treovance and Relay Plus/Relay NBS vascular endoprostheses",
+     "resumen": "INVIMA health alert 399-2026, under follow-up (defective product), covers the Treovance abdominal aortic endoprosthesis (INVIMA registration 2024DM-0010887-R1) and the Relay Plus/Relay NBS thoracic vascular endoprosthesis system (registration 2018DM-0000586-R1), from Terumo Colombia Andina. The company reported elevated endotoxin levels in the delivery systems and estimates that about 1% of units could exceed the allowed specification.",
+     "accion": "Vascular surgery and hemodynamics services should check their stock of these devices, contact the manufacturer for the action plan, and report any adverse event to Tecnovigilancia.",
+     "comentario": "An endotoxin risk in aortic and thoracic endoprostheses is a potentially serious infection event in vascular patients; it is worth watching whether Terumo widens the recall to more lots or registrations."
+    }
+   }
+  },
+  {
    "id": "co-invima-elimina-tarifa-udi-nov2026",
    "nivel": "verde",
    "tipo": "otro",
@@ -48,6 +73,52 @@
    }
   },
   {
+   "id": "co-supersalud-eps-sanitas-medida-cautelar-nov2026",
+   "nivel": "amarillo",
+   "tipo": "otro",
+   "rubro": "medicamentos",
+   "fecha": "2026-11-10",
+   "ambito": "Bogotá D.C.",
+   "organismo": "Superintendencia Nacional de Salud (Supersalud)",
+   "titulo": "Supersalud impone medida cautelar a EPS Sanitas por fallas en la entrega de medicamentos en Bogotá",
+   "resumen": "La Superintendencia Nacional de Salud impuso una medida cautelar a EPS Sanitas por demoras, entregas incompletas y condiciones inadecuadas en sus puntos de dispensación en Bogotá, tras el cambio de operador farmacéutico de Cruz Verde a Colsubsidio. La medida ordena priorizar la entrega a pacientes con riesgo de vida y sujetos de especial protección (niños, gestantes, pacientes con cáncer o VIH, trasplantados, enfermedades raras), resolver las deficiencias de dispensación y reportar un plan de acción con el estado de cada reclamación.",
+   "accion": "Pacientes y farmacias afectadas: seguir el canal de reclamaciones de Supersalud; EPS Sanitas debe reportar el estado de cada caso.",
+   "fuente": {
+    "nombre": "Consultorsalud",
+    "url": "https://consultorsalud.com/medida-cautelar-a-eps-sanitas-medicamentos/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Colombia's health superintendence orders a precautionary measure against EPS Sanitas over medicine-delivery failures in Bogotá",
+     "resumen": "Colombia's National Health Superintendence (Supersalud) imposed a precautionary measure on EPS Sanitas over delays, incomplete deliveries and inadequate conditions at its dispensing points in Bogotá, following the switch of its pharmacy operator from Cruz Verde to Colsubsidio. The measure orders the insurer to prioritize delivery to patients at life risk and those under special protection (children, pregnant women, cancer or HIV patients, transplant recipients, rare diseases), to fix the dispensing shortfalls, and to report an action plan with the status of each complaint.",
+     "accion": "Affected patients and pharmacies should follow Supersalud's complaint channel; EPS Sanitas must report the status of each case."
+    }
+   }
+  },
+  {
+   "id": "co-hospital-tunal-inversion-nov2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-06",
+   "ambito": "Bogotá D.C.",
+   "organismo": "Hospital El Tunal (red pública de Bogotá)",
+   "titulo": "El Hospital El Tunal de Bogotá recibe una inversión de más de $4.173 millones en equipos de cirugía ortopédica e imagenología",
+   "resumen": "El Hospital El Tunal, de la red pública de Bogotá, recibió una inversión superior a $4.173 millones de pesos para incorporar siete equipos biomédicos: una torre de artroscopia, una torre de laparoscopia, dos equipos de rayos X portátiles y tres arcos en C, destinados a fortalecer los procedimientos quirúrgicos (incluida la cirugía ortopédica) y de imagenología diagnóstica.",
+   "accion": "Proveedores de equipamiento de artroscopia, arcos en C e imagenología: este tipo de inversiones hospitalarias en Bogotá es una señal de demanda para futuras compras de mantenimiento, insumos y actualización de equipos similares.",
+   "fuente": {
+    "nombre": "Consultorsalud",
+    "url": "https://consultorsalud.com/?p=346474"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Bogotá's El Tunal Hospital receives an investment of over $4.173 billion COP in orthopedic surgery and imaging equipment",
+     "resumen": "El Tunal Hospital, part of Bogotá's public hospital network, received an investment of more than $4.173 billion COP to add seven pieces of biomedical equipment: an arthroscopy tower, a laparoscopy tower, two portable X-ray units and three C-arms, aimed at strengthening surgical procedures (including orthopedic surgery) and diagnostic imaging.",
+     "accion": "Suppliers of arthroscopy equipment, C-arms and imaging systems: this kind of hospital investment in Bogotá signals future demand for maintenance, supplies and upgrades of similar equipment."
+    }
+   }
+  },
+  {
    "id": "co-invima-darzalex-falsificado-368-2026",
    "nivel": "rojo",
    "tipo": "prohibicion",
@@ -67,6 +138,79 @@
      "titulo": "INVIMA warns of counterfeit units of the cancer drug Darzalex SC (daratumumab)",
      "resumen": "Health alert 368-2026 warns of counterfeit units of DARZALEX SC 120 mg/mL solution for injection (INVIMA registration 2022MBT-0000065, holder Janssen Cilag). Lot PJS0C02 is legitimate, but the fake units show a misprinted registration (V022MBT-0000065), different labels and seal, and three serial numbers the company did not make: 178120544634, 17812053935 and 17812053174. Their identity, quality and sterility cannot be guaranteed.",
      "accion": "Oncology services and pharmacies: buy only from authorized distributors, check serial numbers and report any suspicious unit to INVIMA."
+    }
+   }
+  },
+  {
+   "id": "co-invima-364-2026-schiller-fred-easy-bateria",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-10-28",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por baterías defectuosas que pueden inutilizar el desfibrilador externo automatizado FRED easy",
+   "resumen": "La alerta sanitaria 364-2026 de INVIMA cubre baterías modelo 4-07-0001 (lote/serie HYB 26-0164) que, según reportó el titular Schiller Americas, Inc., pueden no funcionar correctamente: al instalarse en el desfibrilador externo automatizado FRED easy (registro INVIMA 2017EBC-0016373), el equipo muestra falla de batería e impide su uso.",
+   "accion": "Hospitales, clínicas y puntos de acceso público a DEA: revisar el stock de baterías del lote HYB 26-0164, verificar el funcionamiento del equipo antes de confiar en él para una emergencia, y seguir las instrucciones del fabricante.",
+   "comentario": "Una falla de batería que inutiliza el desfibrilador es crítica porque compromete la disponibilidad del equipo justo en el momento de uso de emergencia; conviene priorizar el recambio de esas baterías.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/desfibrilador-externo-automatizado-accesorios-y-repuestos"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of defective batteries that can disable the FRED easy automated external defibrillator",
+     "resumen": "INVIMA health alert 364-2026 covers model 4-07-0001 batteries (lot/serial HYB 26-0164) that, per a report from registration holder Schiller Americas, Inc., may not work correctly: when installed in the FRED easy automated external defibrillator (INVIMA registration 2017EBC-0016373), the unit shows a battery fault and cannot be used.",
+     "accion": "Hospitals, clinics and public-access AED sites should check their stock of batteries from lot HYB 26-0164, test the unit's operation before relying on it for an emergency, and follow the manufacturer's instructions.",
+     "comentario": "A battery fault that disables the defibrillator is critical because it compromises the unit's availability exactly when it is needed in an emergency; replacing those batteries should be a priority."
+    }
+   }
+  },
+  {
+   "id": "co-invima-362-2026-medtronic-carelink-smartsync",
+   "nivel": "amarillo",
+   "tipo": "otro",
+   "rubro": "cardiovascular",
+   "fecha": "2026-10-28",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por posibles fallas de conexión Bluetooth en el programador CareLink SmartSync de Medtronic",
+   "resumen": "El informe/alerta 362-2026 de INVIMA cubre el administrador de dispositivos CareLink SmartSync (registro INVIMA 2020EBC-0022632), de Medtronic Colombia S.A. (fabricado por Plexus Manufacturing Sdn Bhd / Medtronic Inc.). Medtronic reportó posibles interrupciones de la conexión Bluetooth entre la tableta SmartSync y el conector de paciente o la estación base, lo que puede interrumpir sesiones activas de programación o visualización de datos de marcapasos, desfibriladores implantables (DAI) y resincronizadores (CRT) de Medtronic.",
+   "accion": "Servicios de electrofisiología y cardiología: seguir las instrucciones de Medtronic para reconectar o reiniciar el equipo si se interrumpe una sesión de programación, y reportar incidentes a Tecnovigilancia.",
+   "comentario": "La falla es del programador externo, no del dispositivo implantado, pero una interrupción durante la programación de un marcapasos o DAI puede retrasar un procedimiento clínico.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/carelink-smartsync-device-manager-administrador-de-dispositivos-carelink-smartsync-362-2026"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of possible Bluetooth connection failures in Medtronic's CareLink SmartSync programmer",
+     "resumen": "INVIMA report/alert 362-2026 covers the CareLink SmartSync Device Manager (INVIMA registration 2020EBC-0022632), from Medtronic Colombia S.A. (manufactured by Plexus Manufacturing Sdn Bhd / Medtronic Inc.). Medtronic reported possible Bluetooth connection interruptions between the SmartSync tablet and the patient connector or base station, which can interrupt active programming or data-review sessions for Medtronic pacemakers, implantable cardioverter-defibrillators (ICDs) and CRT devices.",
+     "accion": "Electrophysiology and cardiology services should follow Medtronic's instructions to reconnect or restart the device if a programming session is interrupted, and report incidents to Tecnovigilancia.",
+     "comentario": "The fault is in the external programmer, not the implanted device itself, but an interruption during pacemaker or ICD programming can delay a clinical procedure."
+    }
+   }
+  },
+  {
+   "id": "co-invima-149-2026-heraeus-cemento-oseo",
+   "nivel": "amarillo",
+   "tipo": "otro",
+   "rubro": "traumatologia",
+   "fecha": "2026-10-13",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por fuga de monómero en los cementos óseos con gentamicina de Heraeus",
+   "resumen": "El informe de seguridad 149-2026 de INVIMA cubre los cementos óseos radiopacos de PMMA con gentamicina de Heraeus Medical GmbH (PALACOS R+G pro 40/60/80, PALACOS MV+G pro 40/60/80 y COPAL G+C pro 40/80; registro INVIMA 2020DM-0003812-R1, todos los lotes). El fabricante reportó casos aislados de fuga del monómero líquido en los sistemas de mezclado/aplicación, lo que puede causar contacto con la piel o los ojos del usuario (irritación, enrojecimiento, ardor).",
+   "accion": "Servicios de cirugía ortopédica: revisar el procedimiento de mezclado de estos cementos óseos, usar protección adecuada y reportar cualquier evento a Tecnovigilancia.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/cementos-oseos-con-gentamicina-heraeus-cemento-oseo-radiopaco-a-base-de-pmma-palacos-rg-pro-406080-palacos-mvg-pro-40608"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of monomer leakage in Heraeus's gentamicin bone cements",
+     "resumen": "INVIMA safety report 149-2026 covers Heraeus Medical GmbH's radiopaque PMMA bone cements with gentamicin (PALACOS R+G pro 40/60/80, PALACOS MV+G pro 40/60/80 and COPAL G+C pro 40/80; INVIMA registration 2020DM-0003812-R1, all lots). The manufacturer reported isolated cases of liquid monomer leakage from the mixing/application systems, which can cause skin or eye contact for the user (irritation, redness, burning).",
+     "accion": "Orthopedic surgery services should review their mixing procedure for these bone cements, use adequate protection, and report any event to Tecnovigilancia."
     }
    }
   }
