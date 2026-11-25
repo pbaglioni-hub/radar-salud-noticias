@@ -1,6 +1,67 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "noticias": [
+  {
+   "id": "mx-indesalud-saludsinaloa-issea-equipo-medico-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-24",
+   "ambito": "Estatal",
+   "organismo": "INDESALUD / SALUDSINALOA / ISSEA",
+   "titulo": "Three state health agencies open tenders for medical and lab equipment, bid openings Nov 30 to Dec 2",
+   "resumen": "Three state-level ComprasMX procedures for general medical and laboratory equipment opened this week. LA-63-O39-904037996-N-35-2026 (INDESALUD, Durango) is for installation, repair and maintenance of medical and laboratory equipment and instruments, published November 19 with bid opening November 30, 2026. IA-84-W47-925006998-N-8-2026 (SALUDSINALOA) is for acquisition of medical and laboratory equipment, published November 23 with bid opening November 30, 2026. IA-60-N56-901026999-T-103-2026 (ISSEA, Aguascalientes) is for acquisition of medical and laboratory equipment, published November 24 with bid opening December 2, 2026.",
+   "accion": "Medical and lab equipment suppliers in Durango, Sinaloa and Aguascalientes should review the ComprasMX bases now, since the first opening is only days away.",
+   "fuente": {
+    "nombre": "Postor (ComprasMX data)",
+    "url": "https://postor.com.mx/mercado/equipo-medico"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-63-O39-904037996-N-35-2026",
+     "objeto": "Installation, repair and maintenance of medical and laboratory equipment and instruments",
+     "apertura": "2026-11-30",
+     "rubro": "dispositivos",
+     "lugar": "INDESALUD (Durango) · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio"
+      }
+     }
+    },
+    {
+     "numero": "IA-84-W47-925006998-N-8-2026",
+     "objeto": "Acquisition of medical and laboratory equipment",
+     "apertura": "2026-11-30",
+     "rubro": "dispositivos",
+     "lugar": "SALUDSINALOA · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición de equipo médico y de laboratorio"
+      }
+     }
+    },
+    {
+     "numero": "IA-60-N56-901026999-T-103-2026",
+     "objeto": "Acquisition of medical and laboratory equipment",
+     "apertura": "2026-12-02",
+     "rubro": "dispositivos",
+     "lugar": "ISSEA (Aguascalientes) · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición de equipo médico y de laboratorio"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "es": {
+     "titulo": "Tres organismos de salud estatales abren licitaciones de equipo médico y de laboratorio, con aperturas del 30 de noviembre al 2 de diciembre",
+     "resumen": "Se abrieron esta semana tres procedimientos estatales en ComprasMX para equipo médico y de laboratorio general. LA-63-O39-904037996-N-35-2026 (INDESALUD, Durango) es para instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio, publicada el 19 de noviembre con apertura de ofertas el 30 de noviembre de 2026. IA-84-W47-925006998-N-8-2026 (SALUDSINALOA) es para adquisición de equipo médico y de laboratorio, publicada el 23 de noviembre con apertura el 30 de noviembre de 2026. IA-60-N56-901026999-T-103-2026 (ISSEA, Aguascalientes) es para adquisición de equipo médico y de laboratorio, publicada el 24 de noviembre con apertura el 2 de diciembre de 2026.",
+     "accion": "Los proveedores de equipo médico y de laboratorio en Durango, Sinaloa y Aguascalientes deberían revisar ya las bases en ComprasMX, ya que la primera apertura es en pocos días."
+    }
+   }
+  },
   {
    "id": "mx-uanl-kits-angiografia-angioplastia-coronaria-endovascular-nov2026",
    "nivel": "amarillo",
@@ -22,14 +83,24 @@
      "objeto": "Kits for coronary angiography and angioplasty procedures",
      "apertura": "2026-12-03",
      "rubro": "cardiovascular",
-     "lugar": "UANL · ComprasMX"
+     "lugar": "UANL · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Kits para procedimientos de angiografía y angioplastia coronaria"
+      }
+     }
     },
     {
      "numero": "LA-78-037-919058965-T-1-2027",
      "objeto": "Kits for neurological endovascular therapy procedures",
      "apertura": "2026-12-02",
      "rubro": "dispositivos",
-     "lugar": "UANL · ComprasMX"
+     "lugar": "UANL · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Kits para procedimientos de terapia endovascular neurológica"
+      }
+     }
     }
    ],
    "trad": {
@@ -69,7 +140,12 @@
      "objeto": "Integral minimally invasive medical service for arthroscopy procedures (834 services, FY2027)",
      "apertura": "2026-12-07",
      "lugar": "IMSS Sur D.F. (ComprasMX)",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "es": {
+       "objeto": "Servicio médico integral mínimamente invasivo para procedimientos de artroscopia (834 servicios, ejercicio fiscal 2027)"
+      }
+     }
     }
    ],
    "trad": {
@@ -107,7 +183,12 @@
      "apertura": "2026-12-03",
      "monto": "$1,565,703,667.04 a $3,876,519,806.84 (techo presupuestal, antes de IVA)",
      "lugar": "IMSS (ComprasMX)",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "es": {
+       "objeto": "Servicio Médico Integral para Oftalmología 2027-2030"
+      }
+     }
     }
    ],
    "trad": {
@@ -145,7 +226,12 @@
      "apertura": "2026-12-03",
      "monto": "$1,566,834,213.87 a $3,841,310,748.74 (techo presupuestal, antes de IVA)",
      "lugar": "IMSS (ComprasMX)",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "es": {
+       "objeto": "Servicio Médico Integral para Trasplantes 2027-2031"
+      }
+     }
     }
    ],
    "trad": {
@@ -205,42 +291,72 @@
      "objeto": "Group 379 equipment, instruments and medical accessories",
      "apertura": "2026-11-23",
      "rubro": "dispositivos",
-     "lugar": "IMSS · ComprasMX"
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Grupo 379: equipo, instrumental y accesorios médicos"
+      }
+     }
     },
     {
      "numero": "LA-50-GYR-050GYR012-N-2-2027",
      "objeto": "Leasing of medical equipment for medical units",
      "apertura": "2026-11-27",
      "rubro": "dispositivos",
-     "lugar": "IMSS · ComprasMX"
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Arrendamiento de equipo médico para unidades médicas"
+      }
+     }
     },
     {
      "numero": "LA-07-110-007000999-T-782-2026",
      "objeto": "Medical instruments, 5th section Hospital Central Militar (2nd round)",
      "apertura": "2026-12-02",
      "rubro": "dispositivos",
-     "lugar": "SEDENA · ComprasMX"
+     "lugar": "SEDENA · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Instrumental médico, 5ta sección, Hospital Central Militar (2da vuelta)"
+      }
+     }
     },
     {
      "numero": "LA-07-110-007000999-T-48-2027",
      "objeto": "Wound-care material and other consumables (procedure I)",
      "apertura": "2026-12-08",
      "rubro": "dispositivos",
-     "lugar": "SEDENA · ComprasMX"
+     "lugar": "SEDENA · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Material de curación y otros insumos (procedimiento I)"
+      }
+     }
     },
     {
      "numero": "LA-63-O39-904037996-N-34-2026",
      "objeto": "Spare parts and accessories for medical and lab equipment",
      "apertura": "2026-12-09",
      "rubro": "dispositivos",
-     "lugar": "INDESALUD · ComprasMX"
+     "lugar": "INDESALUD · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Refacciones y accesorios para equipo médico y de laboratorio"
+      }
+     }
     },
     {
      "numero": "LA-50-GYR-050GYR023-N-13-2027",
      "objeto": "Maintenance of endoscopy equipment, HGZ 1, 2, 6 and 50 (San Luis Potosí)",
      "apertura": "2026-12-09",
      "rubro": "dispositivos",
-     "lugar": "IMSS OOAD San Luis Potosí · ComprasMX"
+     "lugar": "IMSS OOAD San Luis Potosí · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Mantenimiento de equipo de endoscopía, HGZ 1, 2, 6 y 50 (San Luis Potosí)"
+      }
+     }
     }
    ],
    "trad": {
@@ -382,7 +498,12 @@
      "objeto": "Adquisición Consolidada Complementaria de Medicamentos e Insumos para la Salud 2027-2028",
      "apertura": "2026-11-26",
      "lugar": "BIRMEX (ComprasMX)",
-     "rubro": "medicamentos"
+     "rubro": "medicamentos",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición Consolidada Complementaria de Medicamentos e Insumos para la Salud 2027-2028"
+      }
+     }
     }
    ],
    "trad": {
@@ -610,14 +731,24 @@
      "objeto": "Acquisition, placement and removal of osteosynthesis material and endoprostheses",
      "apertura": "2026-11-30",
      "rubro": "traumatologia",
-     "lugar": "IMSS · ComprasMX"
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición, colocación y retiro de material de osteosíntesis y endoprótesis"
+      }
+     }
     },
     {
      "numero": "LA-50-GYR-050GYR035-N-6-2027",
      "objeto": "Provision or repair of prostheses, orthoses and functional aids",
      "apertura": "2026-11-26",
      "rubro": "traumatologia",
-     "lugar": "IMSS · ComprasMX"
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Dotación o reparación de prótesis, órtesis y ayudas funcionales"
+      }
+     }
     }
    ],
    "trad": {
@@ -743,21 +874,36 @@
      "objeto": "Prostheses, orthoses and functional aids (supply or repair)",
      "apertura": "2026-11-26",
      "rubro": "traumatologia",
-     "lugar": "IMSS · ComprasMX"
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Prótesis, órtesis y ayudas funcionales (dotación o reparación)"
+      }
+     }
     },
     {
      "numero": "LA-50-GYR-050GYR012-T-150-2026",
      "objeto": "Osteosynthesis material and endoprostheses",
      "apertura": "2026-11-30",
      "rubro": "traumatologia",
-     "lugar": "IMSS · ComprasMX"
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Material de osteosíntesis y endoprótesis"
+      }
+     }
     },
     {
      "numero": "LA-50-GYR-050GYR016-T-6-2027",
      "objeto": "Orthoses, prostheses and functional technical aids (zero inventory)",
      "apertura": "2026-12-15",
      "rubro": "traumatologia",
-     "lugar": "IMSS OOAD Norte, Mexico City · ComprasMX"
+     "lugar": "IMSS OOAD Norte, Mexico City · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Órtesis, prótesis y ayudas técnicas funcionales (inventario cero)"
+      }
+     }
     }
    ],
    "trad": {
@@ -885,7 +1031,12 @@
      "objeto": "Dotación de prótesis auditivas",
      "apertura": "2026-12-14",
      "lugar": "IMSS (ComprasMX)",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "es": {
+       "objeto": "Dotación de prótesis auditivas"
+      }
+     }
     }
    ],
    "trad": {

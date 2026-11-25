@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "noticias": [
   {
    "id": "pami-generador-dbs-percept-medtronic-24nov2026",
@@ -23,7 +23,12 @@
      "apertura": "2026-11-24",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Non-rechargeable bilateral deep brain stimulation generator, Percept PC model (Medtronic), for replacement"
+      }
+     }
     }
    ],
    "trad": {
@@ -61,7 +66,12 @@
      "apertura": "2026-11-25",
      "hora": "10:00",
      "lugar": "Nivel Central",
-     "rubro": "medicamentos"
+     "rubro": "medicamentos",
+     "trad": {
+      "en": {
+       "objeto": "Nusinersen (Spinraza), 12 mg/5 ml vial"
+      }
+     }
     }
    ],
    "trad": {
@@ -99,7 +109,12 @@
      "apertura": "2026-11-27",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Advanced Bionics (AB) speech processor with noise filter, directional microphones and connectivity (replacement)"
+      }
+     }
     }
    ],
    "trad": {
@@ -112,6 +127,29 @@
        "objeto": "Advanced Bionics (AB) speech processor with noise filtering, directional microphones and connectivity (replacement)"
       }
      ]
+    }
+   }
+  },
+  {
+   "id": "anmat-7476-2026-tornillos-osteosintesis-romo-kurosaka",
+   "nivel": "rojo",
+   "fecha": "2026-11-24",
+   "ambito": "Nación",
+   "organismo": "ANMAT",
+   "titulo": "ANMAT prohíbe dos tornillos de osteosíntesis tras hallar irregularidades de trazabilidad",
+   "resumen": "Mediante la Disposición 7476/2026, publicada en el Boletín Oficial el 24 de noviembre, ANMAT prohibió en todo el país el uso de dos implantes de osteosíntesis con trazabilidad no verificable, hallados en una inspección no programada en Cirugía Avenida Group S.R.L. (Corrientes), establecimiento habilitado solo para ortopedia: un \"Tornillo Interferencial Romo\" rotulado como 9x30mm pero con un grabado de 10x30mm (titanio, PM 1358-14, código B90-000-02-030, lote B145A2), vinculado a Metal Gauss S.A.; y un \"Tornillo Kurosaka\" (7x20mm, código T04.270.020, lote 31104), vinculado a IMECO, cuyo fabricante informó que ese lote había vencido en 2009 pese a exhibir una etiqueta de esterilización de mayo de 2025, indicio de reenvasado por terceros. La prohibición alcanza puntualmente a esas unidades y lotes, no a toda la producción de esas marcas.",
+   "accion": "Distribuidores y centros de traumatología deben verificar que no tengan stock de los lotes B145A2 (Tornillo Interferencial Romo) o 31104 (Tornillo Kurosaka) y reforzar la cadena de custodia y trazabilidad de implantes de osteosíntesis frente a reenvasados no autorizados.",
+   "fuente": {
+    "nombre": "Primera Edición",
+    "url": "https://www.primeraedicion.com.ar/nota/101163078/prohiben-el-uso-de-dos-tornillos-quirurgicos-en-todo-el-pais-que-se-detecto/"
+   },
+   "tipo": "prohibicion",
+   "rubro": "traumatologia",
+   "trad": {
+    "en": {
+     "titulo": "ANMAT bans two osteosynthesis screws after finding traceability irregularities",
+     "resumen": "Through Disposition 7476/2026, published in the Official Gazette on November 24, ANMAT banned nationwide the use of two osteosynthesis implants with unverifiable traceability, found during an unscheduled inspection at Cirugia Avenida Group S.R.L. (Corrientes), a facility licensed only for orthopedics: an \"Interferential Blunt Screw\" (\"Tornillo Interferencial Romo\") labeled as 9x30mm but engraved as 10x30mm (titanium, PM 1358-14, code B90-000-02-030, lot B145A2), linked to Metal Gauss S.A.; and a \"Kurosaka Screw\" (7x20mm, code T04.270.020, lot 31104), linked to IMECO, whose manufacturer reported that lot had expired in 2009 despite bearing a sterilization label dated May 2025, a sign of unauthorized repackaging by third parties. The ban applies specifically to those units and lots, not to the brands' entire production.",
+     "accion": "Distributors and orthopedic/trauma centers should check they hold no stock from lots B145A2 (Interferential Blunt Screw) or 31104 (Kurosaka Screw) and tighten chain-of-custody and traceability controls for osteosynthesis implants against unauthorized repackaging."
     }
    }
   },
@@ -137,7 +175,12 @@
      "apertura": "2026-11-26",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Peripheral vascular drug-eluting stent (everolimus), 3.75 mm x 28 mm"
+      }
+     }
     }
    ],
    "comentario": "La apertura de esta compulsa por un stent periférico liberador de everolimus queda separada dos días de la tanda de aperturas estructurales y de electrofisiología del 24/11, lo que distingue en procesos distintos la demanda de PAMI en endovascular periférico frente a la de alta complejidad estructural.",
@@ -177,7 +220,12 @@
      "apertura": "2026-11-30",
      "hora": "10:00",
      "lugar": "Nivel Central",
-     "rubro": "oncologia"
+     "rubro": "oncologia",
+     "trad": {
+      "en": {
+       "objeto": "Selumetinib (Koselugo) 25 mg, 60 capsules"
+      }
+     }
     }
    ],
    "trad": {
@@ -215,7 +263,12 @@
      "apertura": "2026-11-25",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Subcutaneous apomorphine infusion pump with kits for 90 days"
+      }
+     }
     },
     {
      "numero": "CA 1522/26",
@@ -223,7 +276,12 @@
      "apertura": "2026-11-25",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "External recharging kit for rechargeable deep brain neurostimulator (Boston)"
+      }
+     }
     },
     {
      "numero": "CA 1523/26",
@@ -231,7 +289,12 @@
      "apertura": "2026-11-25",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Vagal neurostimulation system compatible with implanted LivaNova system"
+      }
+     }
     },
     {
      "numero": "CA 1533/26",
@@ -239,7 +302,12 @@
      "apertura": "2026-11-26",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Bilateral functional electrical stimulator for quadriceps flexion"
+      }
+     }
     },
     {
      "numero": "CA 1538/26",
@@ -247,7 +315,12 @@
      "apertura": "2026-11-26",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Deep brain stimulator, non-rechargeable battery, octopolar electrodes"
+      }
+     }
     },
     {
      "numero": "CA 1539/26",
@@ -255,7 +328,12 @@
      "apertura": "2026-11-26",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Programmable-flow intrathecal infusion pump"
+      }
+     }
     },
     {
      "numero": "CA 1540/26",
@@ -263,7 +341,12 @@
      "apertura": "2026-11-26",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Deep brain stimulator, rechargeable battery, directional electrodes"
+      }
+     }
     },
     {
      "numero": "CA 1541/26",
@@ -271,7 +354,12 @@
      "apertura": "2026-11-26",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Implantable spinal cord neurostimulator for pain, rechargeable battery"
+      }
+     }
     },
     {
      "numero": "CA 1508/26",
@@ -279,7 +367,12 @@
      "apertura": "2026-11-30",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Multidirectional cochlear implant with stylet and processor"
+      }
+     }
     },
     {
      "numero": "CA 1506/26",
@@ -287,7 +380,12 @@
      "apertura": "2026-12-01",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Cochlear implant with electrode lead, processor and noise filter"
+      }
+     }
     },
     {
      "numero": "CA 1507/26",
@@ -295,7 +393,12 @@
      "apertura": "2026-12-01",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "MED-EL SAMBA 2 osseointegrated speech processor (replacement)"
+      }
+     }
     },
     {
      "numero": "CA 1524/26",
@@ -303,7 +406,12 @@
      "apertura": "2026-12-01",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Cochlear-brand speech processor (replacement)"
+      }
+     }
     },
     {
      "numero": "CA 1527/26",
@@ -311,7 +419,12 @@
      "apertura": "2026-12-01",
      "hora": "11:00",
      "lugar": "Nivel Central",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Cochlear Nucleus Profile Plus CI612 cochlear implant with Nucleus 8 processor"
+      }
+     }
     }
    ],
    "trad": {
@@ -384,98 +497,168 @@
      "objeto": "Stent autoexpandible forrado para TIPS",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Covered self-expanding stent for TIPS"
+      }
+     }
     },
     {
      "numero": "CA 1494/26",
      "objeto": "Endoprótesis aorto bi-ilíaca expandible por balón",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable aorto-bi-iliac endoprosthesis"
+      }
+     }
     },
     {
      "numero": "CA 1496/26",
      "objeto": "Catéter de ablación por radiofrecuencia y catéter decapolar deflectable, con equipo en comodato",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Radiofrequency ablation catheter and deflectable decapolar catheter, with equipment on loan"
+      }
+     }
     },
     {
      "numero": "CA 1497/26",
      "objeto": "Válvula trivalva de pericardio bovino, expandible por balón",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable bovine pericardium trileaflet valve"
+      }
+     }
     },
     {
      "numero": "CA 1498/26",
      "objeto": "Válvula trivalva de pericardio bovino, expandible por balón (compulsa idéntica a CA 1497/26)",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable bovine pericardium trileaflet valve (tender identical to CA 1497/26)"
+      }
+     }
     },
     {
      "numero": "CA 1499/26",
      "objeto": "Válvula aórtica intraanular autoexpandible de 14 FR",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "14 Fr self-expanding intra-annular aortic valve"
+      }
+     }
     },
     {
      "numero": "CA 1501/26",
      "objeto": "Dispositivo de reparación percutánea valvular mitral y set de punción transeptal",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Percutaneous mitral valve repair device and transseptal puncture set"
+      }
+     }
     },
     {
      "numero": "CA 1493/26",
      "objeto": "Válvula aórtica sin suturas",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Sutureless aortic valve"
+      }
+     }
     },
     {
      "numero": "CA 1512/26",
      "objeto": "Resincronizador cardíaco tricameral con catéteres e introductores",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Triple-chamber cardiac resynchronization device with catheters and introducers"
+      }
+     }
     },
     {
      "numero": "CA 1513/26",
      "objeto": "Conector, catéter de ablación por campo pulsado y vaina transeptal",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Connector, pulsed-field ablation catheter and transseptal sheath"
+      }
+     }
     },
     {
      "numero": "CA 1514/26",
      "objeto": "Sistema de reparación percutánea de válvula mitral con clip y sets de sutura",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Percutaneous mitral valve repair system with clip and suture sets"
+      }
+     }
     },
     {
      "numero": "CA 1517/26",
      "objeto": "Cardiodesfibrilador con resincronizador y catéteres",
      "apertura": "2026-11-24",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Cardioverter-defibrillator with resynchronization device and catheters"
+      }
+     }
     },
     {
      "numero": "CA 1518/26",
      "objeto": "Vaina transeptal, conector de campo pulsado y catéter de ablación por campo pulsado",
      "apertura": "2026-11-24",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Transseptal sheath, pulsed-field connector and pulsed-field ablation catheter"
+      }
+     }
     },
     {
      "numero": "CA 1520/26",
      "objeto": "Válvula aórtica transcatéter de pericardio bovino, con sistema de liberación",
      "apertura": "2026-11-24",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Transcatheter bovine pericardium aortic valve, with delivery system"
+      }
+     }
     }
    ],
    "comentario": "La tanda concentra una cantidad inusualmente alta de implantes estructurales de alto valor -válvulas transcatéter aórticas y mitrales, resincronizadores y un cardiodesfibrilador-resincronizador combinado-, lo que sugiere una renovación simultánea de varios contratos de hemodinamia y electrofisiología en el sistema PAMI entre el 18 y el 24 de noviembre.",
@@ -553,21 +736,36 @@
      "objeto": "Tres cages para PLIF/TLIF/ACIF/ALIF recubiertos en nanopartículas de plata",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Three PLIF/TLIF/ACIF/ALIF cages coated with silver nanoparticles"
+      }
+     }
     },
     {
      "numero": "CA 1505/26",
      "objeto": "Prótesis total de codo tipo Coonrad-Morrey (Zimmer), con set de colocación y cemento óseo con antibiótico",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Coonrad-Morrey-type total elbow prosthesis (Zimmer), with placement set and antibiotic-loaded bone cement"
+      }
+     }
     },
     {
      "numero": "CA 1516/26",
      "objeto": "Sistema de fijación transpedicular y tres cages, recubiertos en nanopartículas de plata",
      "apertura": "2026-11-24",
      "hora": "11:00",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Transpedicular fixation system and three cages, coated with silver nanoparticles"
+      }
+     }
     }
    ],
    "trad": {
@@ -679,42 +877,72 @@
      "objeto": "Endoprótesis de aorta abdominal bifurcada y recta, expandibles por balón",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable bifurcated and straight abdominal aortic endoprosthesis"
+      }
+     }
     },
     {
      "numero": "CA 1476/26",
      "objeto": "Endoprótesis de aorta abdominal bifurcada y recta, expandibles por balón",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable bifurcated and straight abdominal aortic endoprosthesis"
+      }
+     }
     },
     {
      "numero": "CA 1475/26",
      "objeto": "Dos prótesis de amputación",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Two amputation prostheses"
+      }
+     }
     },
     {
      "numero": "CA 1480/26",
      "objeto": "Cardiodesfibrilador implantable subcutáneo",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Subcutaneous implantable cardioverter-defibrillator"
+      }
+     }
     },
     {
      "numero": "CA 1484/26",
      "objeto": "Dispositivo de cierre de comunicación interauricular (CIA) de doble disco",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Double-disc atrial septal defect (ASD) closure device"
+      }
+     }
     },
     {
      "numero": "CA 1486/26",
      "objeto": "Sistema de reparación percutánea de válvula mitral borde a borde",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Edge-to-edge percutaneous mitral valve repair system"
+      }
+     }
     }
    ],
    "comentario": "Esta tanda concentra implantes estructurales de alto valor unitario -dos endoprótesis aórticas, un sistema de reparación percutánea de válvula mitral y un dispositivo de cierre de CIA-, además de un cardiodesfibrilador subcutáneo, todos con apertura entre el 18 y el 20 de noviembre y pocos días de margen para presentar oferta.",
@@ -831,49 +1059,84 @@
      "objeto": "Viandas para el Hospital Houssay de Mar del Plata (24 meses)",
      "apertura": "2026-11-16",
      "hora": "12:00",
-     "rubro": "otros"
+     "rubro": "otros",
+     "trad": {
+      "en": {
+       "objeto": "Meal trays for Hospital Houssay in Mar del Plata (24 months)"
+      }
+     }
     },
     {
      "numero": "CA 1491/26",
      "objeto": "Marcapasos sin cables",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Leadless pacemaker"
+      }
+     }
     },
     {
      "numero": "CA 1488/26",
      "objeto": "Plug de polímero bioabsorbible autoexpandible en tándem de 12 mm",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "12 mm tandem self-expanding bioabsorbable polymer plug"
+      }
+     }
     },
     {
      "numero": "CA 1490/26",
      "objeto": "Bomba de infusión intratecal de fármacos de flujo fijo",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Fixed-flow intrathecal drug infusion pump"
+      }
+     }
     },
     {
      "numero": "CA 1489/26",
      "objeto": "Prótesis interfalángicas tipo Swanson (2° a 5° dedo)",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Swanson-type interphalangeal prostheses (2nd to 5th finger)"
+      }
+     }
     },
     {
      "numero": "CA 1487/26",
      "objeto": "Endoprótesis de aorta abdominal bifurcada expandible por balón con ramas ilíacas",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable bifurcated abdominal aortic endoprosthesis with iliac limbs"
+      }
+     }
     },
     {
      "numero": "CA 1483/26",
      "objeto": "Cables extensores y generador DBS recargable Medtronic (recambio)",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Extension leads and rechargeable Medtronic DBS generator (replacement)"
+      }
+     }
     }
    ],
    "comentario": "PAMI compra los implantes de alto costo por compulsa abreviada, dispositivo por dispositivo. Esta tanda suma un marcapasos sin cables y una endoprótesis aórtica con ramas ilíacas: son ventas puntuales con pocos días entre la publicación y la apertura, así que conviene mirar el calendario a diario.",
@@ -931,7 +1194,12 @@
      "apertura": "2026-12-16",
      "hora": "10:00",
      "monto": "$1.312.965.667,38",
-     "lugar": "Dirección General de Compras, av. Centenario 77, San Isidro"
+     "lugar": "Dirección General de Compras, av. Centenario 77, San Isidro",
+     "trad": {
+      "en": {
+       "objeto": "Supplies and disposables with equipment on loan"
+      }
+     }
     }
    ],
    "trad": {
@@ -1033,63 +1301,108 @@
      "objeto": "Válvula aórtica percutánea tricúspide",
      "apertura": "2026-11-16",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Percutaneous trileaflet aortic valve"
+      }
+     }
     },
     {
      "numero": "CA 1482/26",
      "objeto": "Válvula aórtica transcatéter balón-expandible",
      "apertura": "2026-11-16",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable transcatheter aortic valve"
+      }
+     }
     },
     {
      "numero": "CA 1481/26",
      "objeto": "Prótesis híbrida con ramas supraaórticas",
      "apertura": "2026-11-16",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Hybrid prosthesis with supra-aortic branches"
+      }
+     }
     },
     {
      "numero": "CA 1466/26",
      "objeto": "Kit de aterectomía rotacional periférica",
      "apertura": "2026-11-16",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Peripheral rotational atherectomy kit"
+      }
+     }
     },
     {
      "numero": "CA 1469/26",
      "objeto": "Endoprótesis aórtica abdominal (bifurcadas y rectas)",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Abdominal aortic endoprosthesis (bifurcated and straight)"
+      }
+     }
     },
     {
      "numero": "CA 1476/26",
      "objeto": "Endoprótesis aórtica abdominal (bifurcadas y rectas)",
      "apertura": "2026-11-18",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Abdominal aortic endoprosthesis (bifurcated and straight)"
+      }
+     }
     },
     {
      "numero": "CA 1480/26",
      "objeto": "Cardiodesfibrilador implantable subcutáneo",
      "apertura": "2026-11-19",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Subcutaneous implantable cardioverter-defibrillator"
+      }
+     }
     },
     {
      "numero": "CA 1484/26",
      "objeto": "Dispositivo de doble disco para cierre de CIA",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Double-disc device for ASD closure"
+      }
+     }
     },
     {
      "numero": "CA 1486/26",
      "objeto": "Reparación mitral percutánea borde a borde",
      "apertura": "2026-11-20",
      "hora": "11:00",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Edge-to-edge percutaneous mitral repair"
+      }
+     }
     }
    ],
    "comentario": "Semana cargada en cardiopatía estructural: dos válvulas aórticas transcatéter (una balón-expandible), una reparación mitral borde a borde, un cierre de CIA y un cardiodesfibrilador subcutáneo. Para quien vende TAVI, estructural o endovascular aórtico, son nueve oportunidades concretas en cinco días.",
@@ -1151,25 +1464,45 @@
      "numero": "CA 1451/26",
      "objeto": "Procesador de habla para dispositivo osteointegrado OTICON PONTO (recambio)",
      "apertura": "2026-11-16",
-     "hora": "11:00"
+     "hora": "11:00",
+     "trad": {
+      "en": {
+       "objeto": "Speech processor for OTICON PONTO osseointegrated device (replacement)"
+      }
+     }
     },
     {
      "numero": "CA 1453/26",
      "objeto": "Procesador de habla coclear (recambio)",
      "apertura": "2026-11-16",
-     "hora": "11:00"
+     "hora": "11:00",
+     "trad": {
+      "en": {
+       "objeto": "Cochlear speech processor (replacement)"
+      }
+     }
     },
     {
      "numero": "CA 1463/26",
      "objeto": "Implante coclear multicanal",
      "apertura": "2026-11-24",
-     "hora": "11:00"
+     "hora": "11:00",
+     "trad": {
+      "en": {
+       "objeto": "Multichannel cochlear implant"
+      }
+     }
     },
     {
      "numero": "CA 1485/26",
      "objeto": "Procesador de habla MED-EL (recambio)",
      "apertura": "2026-11-27",
-     "hora": "11:00"
+     "hora": "11:00",
+     "trad": {
+      "en": {
+       "objeto": "MED-EL speech processor (replacement)"
+      }
+     }
     }
    ],
    "trad": {
@@ -1214,50 +1547,90 @@
      "numero": "CA 1467/26",
      "objeto": "Bomba de apomorfina subcutánea con insumos para 90 días",
      "apertura": "2026-11-16",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Subcutaneous apomorphine pump with supplies for 90 days"
+      }
+     }
     },
     {
      "numero": "CA 1470/26",
      "objeto": "Bomba de apomorfina subcutánea con insumos para 90 días",
      "apertura": "2026-11-17",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Subcutaneous apomorphine pump with supplies for 90 days"
+      }
+     }
     },
     {
      "numero": "CA 1459/26",
      "objeto": "Bomba de insulina MiniMed 780G con insumos",
      "apertura": "2026-11-17",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "MiniMed 780G insulin pump with supplies"
+      }
+     }
     },
     {
      "numero": "CA 1460/26",
      "objeto": "Sistema de anastomosis microquirúrgica Coupler",
      "apertura": "2026-11-17",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Coupler microsurgical anastomosis system"
+      }
+     }
     },
     {
      "numero": "CA 1454/26",
      "objeto": "Guías de infusión con bombas en comodato (Unidad Asistencial Dr. César Milstein)",
      "apertura": "2026-11-17",
      "hora": "12:00",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Infusion sets with pumps on loan (Dr. César Milstein Care Unit)"
+      }
+     }
     },
     {
      "numero": "CA 1477/26",
      "objeto": "Eplontersen 45 mg",
      "apertura": "2026-11-19",
-     "rubro": "medicamentos"
+     "rubro": "medicamentos",
+     "trad": {
+      "en": {
+       "objeto": "Eplontersen 45 mg"
+      }
+     }
     },
     {
      "numero": "CA 1478/26",
      "objeto": "Timosina alfa 1",
      "apertura": "2026-11-19",
-     "rubro": "medicamentos"
+     "rubro": "medicamentos",
+     "trad": {
+      "en": {
+       "objeto": "Thymosin alpha 1"
+      }
+     }
     },
     {
      "numero": "CA 1479/26",
      "objeto": "Fórmula Modulen IBD",
      "apertura": "2026-11-19",
-     "rubro": "medicamentos"
+     "rubro": "medicamentos",
+     "trad": {
+      "en": {
+       "objeto": "Modulen IBD formula"
+      }
+     }
     }
    ],
    "trad": {
@@ -1404,7 +1777,12 @@
      "apertura": "2026-12-04",
      "hora": "12:00",
      "monto": "$5.557.559.921",
-     "lugar": "Casa de Gobierno, Neuquén"
+     "lugar": "Casa de Gobierno, Neuquén",
+     "trad": {
+      "en": {
+       "objeto": "Construction of the Compounding Pharmacy Laboratory (942 sqm, Junín de los Andes hospital)"
+      }
+     }
     }
    ],
    "trad": {
@@ -1505,7 +1883,12 @@
      "apertura": "2026-11-18",
      "monto": "$2.701.194.345,78",
      "lugar": "Dirección General de Contrataciones Estratégicas, Marcelo T. de Alvear 145, Resistencia",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Microbiology laboratory supplies with equipment on loan (24 months)"
+      }
+     }
     },
     {
      "numero": "LP 128/2026",
@@ -1513,7 +1896,12 @@
      "apertura": "2026-11-18",
      "monto": "$6.167.549.824,94",
      "lugar": "Dirección General de Contrataciones Estratégicas, Marcelo T. de Alvear 145, Resistencia",
-     "rubro": "otros"
+     "rubro": "otros",
+     "trad": {
+      "en": {
+       "objeto": "Enteral nutrition products (about five months)"
+      }
+     }
     }
    ],
    "trad": {
@@ -1574,54 +1962,104 @@
      "numero": "CA 1457/26",
      "objeto": "Prótesis total de revisión constreñida",
      "apertura": "2026-11-16",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Constrained revision total prosthesis"
+      }
+     }
     },
     {
      "numero": "CA 1461/26",
      "objeto": "Revisión de cadera con reconstrucción 3D a medida",
      "apertura": "2026-11-16",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Hip revision with custom 3D reconstruction"
+      }
+     }
     },
     {
      "numero": "CA 1462/26",
      "objeto": "Neuroestimulador espinal no recargable",
-     "apertura": "2026-11-17"
+     "apertura": "2026-11-17",
+     "trad": {
+      "en": {
+       "objeto": "Non-rechargeable spinal cord neurostimulator"
+      }
+     }
     },
     {
      "numero": "CA 1471/26",
      "objeto": "Disruptor de flujo intrasacular",
-     "apertura": "2026-11-17"
+     "apertura": "2026-11-17",
+     "trad": {
+      "en": {
+       "objeto": "Intrasaccular flow disruptor"
+      }
+     }
     },
     {
      "numero": "CA 1472/26",
      "objeto": "Stent diversor de flujo 0.021",
-     "apertura": "2026-11-17"
+     "apertura": "2026-11-17",
+     "trad": {
+      "en": {
+       "objeto": "0.021 flow-diverter stent"
+      }
+     }
     },
     {
      "numero": "CA 1465/26",
      "objeto": "Microcatéter con adhesivo y contraste",
-     "apertura": "2026-11-17"
+     "apertura": "2026-11-17",
+     "trad": {
+      "en": {
+       "objeto": "Microcatheter with adhesive and contrast"
+      }
+     }
     },
     {
      "numero": "CA 1473/26",
      "objeto": "Estimulación vagal",
-     "apertura": "2026-11-18"
+     "apertura": "2026-11-18",
+     "trad": {
+      "en": {
+       "objeto": "Vagal stimulation"
+      }
+     }
     },
     {
      "numero": "CA 1474/26",
      "objeto": "Generador DBS recargable",
-     "apertura": "2026-11-18"
+     "apertura": "2026-11-18",
+     "trad": {
+      "en": {
+       "objeto": "Rechargeable DBS generator"
+      }
+     }
     },
     {
      "numero": "CA 1475/26",
      "objeto": "Dos prótesis de amputación",
      "apertura": "2026-11-18",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Two amputation prostheses"
+      }
+     }
     },
     {
      "numero": "CA 1464/26",
      "objeto": "Generador DBS bilateral no recargable",
-     "apertura": "2026-11-24"
+     "apertura": "2026-11-24",
+     "trad": {
+      "en": {
+       "objeto": "Non-rechargeable bilateral DBS generator"
+      }
+     }
     }
    ],
    "trad": {
@@ -1684,25 +2122,45 @@
      "numero": "CA 1426/26",
      "objeto": "Omaveloxolona 50 mg",
      "apertura": "2026-11-18",
-     "hora": "10:00"
+     "hora": "10:00",
+     "trad": {
+      "en": {
+       "objeto": "Omaveloxolone 50 mg"
+      }
+     }
     },
     {
      "numero": "CA 1433/26",
      "objeto": "Nusinersen 12 mg",
      "apertura": "2026-11-18",
-     "hora": "10:00"
+     "hora": "10:00",
+     "trad": {
+      "en": {
+       "objeto": "Nusinersen 12 mg"
+      }
+     }
     },
     {
      "numero": "CA 1468/26",
      "objeto": "Timosina alfa 1,6 mg",
      "apertura": "2026-11-18",
-     "hora": "10:00"
+     "hora": "10:00",
+     "trad": {
+      "en": {
+       "objeto": "Thymosin alpha 1, 6 mg"
+      }
+     }
     },
     {
      "numero": "LP 21/26",
      "objeto": "Medicación general para los efectores propios",
      "apertura": "2026-11-26",
-     "hora": "12:00"
+     "hora": "12:00",
+     "trad": {
+      "en": {
+       "objeto": "General medication for the agency's own healthcare providers"
+      }
+     }
     }
    ],
    "trad": {
@@ -1874,13 +2332,23 @@
     {
      "numero": "LP 20/26",
      "objeto": "Servicio de oxigenoterapia domiciliaria",
-     "apertura": "2026-11-20"
+     "apertura": "2026-11-20",
+     "trad": {
+      "en": {
+       "objeto": "Home oxygen therapy service"
+      }
+     }
     },
     {
      "numero": "CA 1452/26",
      "objeto": "Puesta en servicio y mantenimiento de equipamiento",
      "apertura": "2026-11-20",
-     "rubro": "dispositivos"
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Equipment commissioning and maintenance"
+      }
+     }
     }
    ],
    "trad": {
@@ -2133,7 +2601,12 @@
      "hora": "10:00",
      "monto": "$2.925.749.915,38",
      "lugar": "Portal Provincia de Buenos Aires Compras (PBAC)",
-     "rubro": "oncologia"
+     "rubro": "oncologia",
+     "trad": {
+      "en": {
+       "objeto": "Oncology medicines (approximately 19,000 patients)"
+      }
+     }
     }
    ],
    "trad": {
@@ -2192,7 +2665,12 @@
      "apertura": "2026-11-19",
      "hora": "10:00",
      "monto": "$1.156.970.000",
-     "lugar": "Plataforma CO.DI.NEU"
+     "lugar": "Plataforma CO.DI.NEU",
+     "trad": {
+      "en": {
+       "objeto": "Laboratory reagents with equipment on consumption-based loan"
+      }
+     }
     }
    ],
    "trad": {
@@ -2336,7 +2814,12 @@
      "apertura": "2026-11-17",
      "hora": "11:00",
      "monto": "$496.000.000",
-     "lugar": "Plataforma CO.DI.NEU"
+     "lugar": "Plataforma CO.DI.NEU",
+     "trad": {
+      "en": {
+       "objeto": "Four automatic horizontal steam autoclaves"
+      }
+     }
     }
    ],
    "trad": {

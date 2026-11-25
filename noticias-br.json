@@ -1,6 +1,44 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "noticias": [
+  {
+   "id": "br-ms-dlog-carfilzomibe-pregao90127-26nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "oncologia",
+   "fecha": "2026-11-25",
+   "ambito": "federal",
+   "organismo": "Ministerio da Saude - Departamento de Logistica em Saude (DLOG), UASG 250005",
+   "titulo": "Brazil's Health Ministry opens tender for 59,416 vials of carfilzomib for the national oncology drug program",
+   "resumen": "Pregao Eletronico no 90127/2026 (SRP), run by the Ministry of Health's Department of Health Logistics (DLOG), is tendering 59,416 vials of carfilzomib 60 mg lyophilized powder for injection (CATMAT BR0429724), tied to the Oncology Pharmaceutical Assistance Component (AF-ONCO). The proposal session opens November 26, 2026 at 09:00 Brasilia time; the estimated value is undisclosed (sigiloso) per the edital.",
+   "accion": "Oncology-drug manufacturers and distributors should review the edital on the Ministry of Health's tender page and submit proposals before the November 26 session; the awarded unit price will set a reference for AF-ONCO purchases nationwide.",
+   "fuente": {
+    "nombre": "Ministerio da Saude",
+    "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/licitacoes-e-contratos/pregoes/2026/pregao-eletronico-no-90127-2026-dlog/edital"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Brasil abre una licitación por 59.416 ampollas de carfilzomib para su programa nacional de oncología",
+     "resumen": "El Pregão Eletrônico n° 90127/2026 (SRP), a cargo del Departamento de Logística en Salud (DLOG) del Ministerio de Salud, licita 59.416 ampollas de carfilzomib 60 mg polvo liofilizado inyectable (CATMAT BR0429724), vinculado al Componente de Asistencia Farmacéutica en Oncología (AF-ONCO). La sesión de propuestas abre el 26 de noviembre de 2026 a las 09:00 hora de Brasilia; el valor estimado es reservado según el edital.",
+     "accion": "Los fabricantes y distribuidores de medicamentos oncológicos deberían revisar el edital en la página de licitaciones del Ministerio de Salud y presentar propuestas antes de la sesión del 26 de noviembre; el precio unitario adjudicado fijará una referencia para las compras de AF-ONCO a nivel nacional."
+    }
+   },
+   "licitaciones": [
+    {
+     "numero": "Pregao Eletronico 90127/2026",
+     "objeto": "Aquisicao de Carfilzomibe 60 mg, po liofilizado injetavel (59.416 frascos-ampola) - AF-ONCO",
+     "apertura": "2026-11-26",
+     "hora": "09:00",
+     "lugar": "Ministerio da Saude - DLOG (federal)",
+     "rubro": "oncologia",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición de Carfilzomib 60 mg, polvo liofilizado inyectable (59.416 frascos-ampolla) - AF-ONCO"
+      }
+     }
+    }
+   ]
+  },
   {
    "id": "br-sespsp-ebserh-stent-hemodinamica-27nov2026",
    "nivel": "amarillo",
@@ -23,7 +61,12 @@
      "apertura": "2026-11-27",
      "hora": "08:00",
      "lugar": "Sao Paulo (SP)",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición de stent venoso autoexpansible"
+      }
+     }
     },
     {
      "numero": "Edital 91/2026",
@@ -31,7 +74,12 @@
      "apertura": "2026-11-27",
      "hora": "09:00",
      "lugar": "Natal (RN)",
-     "rubro": "cardiovascular"
+     "rubro": "cardiovascular",
+     "trad": {
+      "es": {
+       "objeto": "Material médico-hospitalario para hemodinamia, cardiología intervencionista y tratamiento de malformaciones arteriovenosas (MAV) cerebrales (Parte II)"
+      }
+     }
     }
    ],
    "comentario": "Two separate, relatively small-scope hemodynamics openings rather than one large consolidated purchase, but useful near-term demand signals in the Sao Paulo and Rio Grande do Norte public markets for interventional cardiology supplies.",
@@ -75,7 +123,12 @@
      "hora": "10:00",
      "monto": "R$ 14.228.683,00",
      "lugar": "Rio de Janeiro (RJ)",
-     "rubro": "oncologia"
+     "rubro": "oncologia",
+     "trad": {
+      "es": {
+       "objeto": "Registro de precios - Medicamentos del Grupo IX (Oncológicos)"
+      }
+     }
     }
    ],
    "trad": {
@@ -114,7 +167,12 @@
      "hora": "07:30",
      "monto": "R$ 1.071.025,00",
      "lugar": "Varginha (MG)",
-     "rubro": "traumatologia"
+     "rubro": "traumatologia",
+     "trad": {
+      "es": {
+       "objeto": "Material médico-hospitalario para procedimientos quirúrgicos de ortopedia oncológica"
+      }
+     }
     }
    ],
    "trad": {
@@ -659,7 +717,12 @@
      "apertura": "2026-11-30",
      "hora": "09:00",
      "monto": "R$ 4,988,658.24",
-     "lugar": "Sislog (sislog.go.gov.br)"
+     "lugar": "Sislog (sislog.go.gov.br)",
+     "trad": {
+      "es": {
+       "objeto": "Registro de precios de medicamentos"
+      }
+     }
     }
    ],
    "trad": {
@@ -760,7 +823,12 @@
      "apertura": "2026-11-18",
      "hora": "09:00",
      "monto": "R$156.623,28",
-     "rubro": "oncologia"
+     "rubro": "oncologia",
+     "trad": {
+      "es": {
+       "objeto": "Medicamentos oncológicos con equipamiento entregado en comodato, 142 ítems"
+      }
+     }
     }
    ],
    "trad": {
@@ -863,7 +931,12 @@
      "apertura": "2026-11-23",
      "hora": "09:00",
      "monto": "R$ 886,561.32",
-     "lugar": "Sislog (sislog.go.gov.br)"
+     "lugar": "Sislog (sislog.go.gov.br)",
+     "trad": {
+      "es": {
+       "objeto": "Productos de cannabis registrados ante ANVISA para tratamientos ordenados judicialmente"
+      }
+     }
     }
    ],
    "trad": {
@@ -1044,6 +1117,29 @@
      "titulo": "Un proyecto de ley dividiría la evaluación de incorporación de tecnologías al SUS en una etapa clínica y una de negociación de precios",
      "resumen": "El PL 1738/2026, presentado por los diputados Silvia Cristina y Geraldo Resende, modificaría la ley de salud de Brasil para que Conitec primero evalúe la evidencia clínica de un nuevo medicamento o dispositivo y recién después negocie el precio con el Ministerio de Salud antes de decidir su incorporación al SUS. También habilita reuniones previas a la presentación entre los fabricantes y Conitec. El proyecto está bajo revisión en comisión (carácter conclusivo) en la Cámara de Diputados; de aprobarse, entraría en vigencia 180 días después de su publicación.",
      "accion": "Los fabricantes que buscan la incorporación al SUS deberían seguir este proyecto, ya que agregaría una etapa formal de negociación de precios antes de cualquier decisión de incorporación."
+    }
+   }
+  },
+  {
+   "id": "br-anvisa-liko-stationary-lifts-tecnovigilancia-26out2026",
+   "nivel": "rojo",
+   "tipo": "otro",
+   "rubro": "dispositivos",
+   "fecha": "2026-10-26",
+   "ambito": "federal",
+   "organismo": "ANVISA",
+   "titulo": "ANVISA issues highest-risk technovigilance alert for Liko patient-lift models over motor-shaft and fail-safe failure risk",
+   "resumen": "ANVISA published a Class I (highest risk) technovigilance alert on October 26, 2026 for Stationary Lifts models Likorall 200, 242 ES, 242 S, 242 S R2R and 250 ES, manufactured by Liko AB (Sweden) and distributed in Brazil by VR Medical Importadora e Distribuidora de Produtos Medicos Ltda. The alert warns of a risk that the motor shaft can break combined with a reduced single-failure-safe (SFS) system due to low oil level, which in rare cases can let the lifting strap descend faster than expected. The affected models' ANVISA registration had been expired since February 1, 2015.",
+   "accion": "Hospitals and care facilities using these Liko patient-lift models should stop using affected units, contact the distributor for inspection/replacement, and confirm no further purchases are made under the expired registration.",
+   "fuente": {
+    "nombre": "LegisMap (ANVISA alerts compilation)",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-26-10-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA emite una alerta de tecnovigilancia de máximo riesgo para elevadores de pacientes Liko por falla de eje de motor y del sistema de seguridad",
+     "resumen": "ANVISA publicó el 26 de octubre de 2026 una alerta de tecnovigilancia Clase I (el riesgo más alto) para los elevadores estacionarios de pacientes modelos Likorall 200, 242 ES, 242 S, 242 S R2R y 250 ES, fabricados por Liko AB (Suecia) y distribuidos en Brasil por VR Medical Importadora e Distribuidora de Produtos Médicos Ltda. La alerta advierte sobre el riesgo de ruptura del eje del motor combinado con una reducción del sistema de seguridad de falla única (SFS) por bajo nivel de aceite, lo que en casos raros puede hacer que la correa de elevación descienda más rápido de lo esperado. El registro ante ANVISA de estos modelos estaba vencido desde el 1 de febrero de 2015.",
+     "accion": "Los hospitales y centros de cuidado que usen estos modelos de elevadores Liko deberían dejar de usar las unidades afectadas, contactar al distribuidor para su inspección o reemplazo, y confirmar que no se realicen nuevas compras bajo el registro vencido."
     }
    }
   },
