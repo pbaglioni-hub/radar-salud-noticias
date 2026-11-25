@@ -2,6 +2,158 @@
  "actualizado": "2026-11-25",
  "noticias": [
   {
+   "id": "cl-dipreca-cardiovascular-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-25",
+   "ambito": "Nacional",
+   "organismo": "Fondo Hospital de la Dirección de Previsión de Carabineros de Chile (Dipreca)",
+   "titulo": "Cardiovascular: Dipreca abre tres licitaciones de insumos para hemodinamia, angiografía y cirugía vascular",
+   "resumen": "El Fondo Hospital Dipreca publicó tres licitaciones de insumos cardiovasculares en consignación: la 948806-147-LE26, por stent coronario liberador de droga (monto estimado $72.000.000, IVA incluido), que cierra el 27 de noviembre de 2026 a las 16:00; la 948806-137-LE26, por insumos para angiografía, que cierra el 27 de noviembre de 2026; y la 948806-138-LP26, por insumos para cirugía vascular en consignación en tránsito, que cierra el 7 de diciembre de 2026.",
+   "accion": "Proveedores de stents coronarios e insumos de angiografía y cirugía vascular: revisar las bases en Mercado Público y preparar ofertas antes de cada cierre.",
+   "comentario": "Tres llamados de insumos cardiovasculares del mismo comprador en pocos días confirman compras recurrentes de reposición; conviene cubrir las tres licitaciones con la misma oferta técnica y comercial.",
+   "fuente": {
+    "nombre": "TodoLicitaciones (datos de Mercado Público)",
+    "url": "https://www.todolicitaciones.cl/licitacion/948806-147-LE26/adquisicion-de-stent-coronario-liberador-de-droga-en-modalidad-de-consignacion-definitiva-por-sistema-de-suministro"
+   },
+   "licitaciones": [
+    {
+     "numero": "948806-147-LE26",
+     "objeto": "Stent coronario liberador de droga (consignación definitiva)",
+     "apertura": "2026-11-27",
+     "hora": "16:00",
+     "rubro": "cardiovascular",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "monto": "$72.000.000",
+     "trad": {
+      "en": {
+       "objeto": "Drug-eluting coronary stent (definitive consignment)"
+      }
+     }
+    },
+    {
+     "numero": "948806-137-LE26",
+     "objeto": "Insumos para angiografía (consignación)",
+     "apertura": "2026-11-27",
+     "rubro": "cardiovascular",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Angiography supplies (consignment)"
+      }
+     }
+    },
+    {
+     "numero": "948806-138-LP26",
+     "objeto": "Insumos para cirugía vascular (consignación en tránsito)",
+     "apertura": "2026-12-07",
+     "rubro": "cardiovascular",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Vascular surgery supplies (in-transit consignment)"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: Dipreca opens three tenders for hemodynamics, angiography and vascular surgery supplies",
+     "resumen": "Chile's Dipreca Hospital Fund published three tenders for cardiovascular supplies on consignment: 948806-147-LE26, for drug-eluting coronary stents (estimated value $72,000,000 CLP, VAT included), closing November 27, 2026 at 16:00; 948806-137-LE26, for angiography supplies, closing November 27, 2026; and 948806-138-LP26, for in-transit consignment vascular surgery supplies, closing December 7, 2026.",
+     "accion": "Suppliers of coronary stents and angiography/vascular surgery supplies should review the bid documents on Mercado Público and prepare offers before each closing.",
+     "comentario": "Three cardiovascular supply tenders from the same buyer within days confirm recurring restocking purchases; it makes sense to cover all three with the same technical and commercial offer."
+    }
+   }
+  },
+  {
+   "id": "cl-trauma-calendario-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-25",
+   "ambito": "Nacional",
+   "organismo": "Varios (Hospital de Linares, Hospital Rancagua, Dipreca, Complejo Asistencial Dr. Víctor Ríos Ruiz, Instituto Nacional de Rehabilitación Pedro Aguirre Cerda)",
+   "titulo": "Traumatología: cinco hospitales chilenos abren licitaciones de prótesis de cadera, implantes de fémur y osteosíntesis",
+   "resumen": "Cinco organismos de salud publicaron licitaciones de traumatología con cierre en las próximas semanas: el Hospital de Linares (Servicio de Salud del Maule) licita un convenio de suministro de prótesis de cadera de revisión y dispositivos médicos en consignación (copa acetabular de revisión, vástago femoral modular, prótesis total de cadera), monto estimado $362.109.004, que cierra el 10 de diciembre de 2026 a las 15:01; el Hospital Rancagua (Servicio de Salud O'Higgins) licita implantes para fractura de fémur, cierre el 4 de diciembre de 2026; Dipreca licita un kit de vástago cementado pulido híbrida para cadera en consignación en tránsito, cierre el 1 de diciembre de 2026; el Complejo Asistencial Dr. Víctor Ríos Ruiz licita un convenio de suministro para fractura de pelvis, cierre el 9 de diciembre de 2026; y el Instituto Nacional de Rehabilitación Pedro Aguirre Cerda licita insumos para su Unidad de Taller Ortopédico, cierre el 10 de diciembre de 2026.",
+   "accion": "Proveedores de prótesis de cadera, implantes de fémur y material de osteosíntesis: revisar las bases de cada licitación en Mercado Público y preparar ofertas antes de los respectivos cierres.",
+   "fuente": {
+    "nombre": "TodoLicitaciones (datos de Mercado Público)",
+    "url": "https://www.todolicitaciones.cl/licitacion/1530393-42-LP26/convenio-de-suministro-protesis-de-cadera-revision-y-dispositivos-medicos-en-consignacion"
+   },
+   "licitaciones": [
+    {
+     "numero": "1530393-42-LP26",
+     "objeto": "Prótesis de cadera de revisión y dispositivos médicos en consignación",
+     "apertura": "2026-12-10",
+     "hora": "15:01",
+     "rubro": "traumatologia",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "monto": "$362.109.004",
+     "trad": {
+      "en": {
+       "objeto": "Revision hip prostheses and medical devices on consignment"
+      }
+     }
+    },
+    {
+     "numero": "2080-280-LP26",
+     "objeto": "Implantes para fractura de fémur",
+     "apertura": "2026-12-04",
+     "rubro": "traumatologia",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Femoral fracture implants"
+      }
+     }
+    },
+    {
+     "numero": "948806-145-LP26",
+     "objeto": "Kit vástago cementado pulido híbrida para cadera (consignación en tránsito)",
+     "apertura": "2026-12-01",
+     "rubro": "traumatologia",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Hybrid polished cemented hip stem kit (in-transit consignment)"
+      }
+     }
+    },
+    {
+     "numero": "1057417-187-LP26",
+     "objeto": "Convenio suministro fractura de pelvis",
+     "apertura": "2026-12-09",
+     "rubro": "traumatologia",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Pelvic fracture supply agreement"
+      }
+     }
+    },
+    {
+     "numero": "2201-43-LP26",
+     "objeto": "Insumos para la Unidad de Taller Ortopédico",
+     "apertura": "2026-12-10",
+     "rubro": "traumatologia",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Supplies for the Orthopedic Workshop Unit"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Trauma: five Chilean hospitals open tenders for hip prostheses, femoral implants and osteosynthesis",
+     "resumen": "Five health organizations published trauma-related tenders closing in the coming weeks: Hospital de Linares (Maule Health Service) is tendering a supply agreement for revision hip prostheses and medical devices on consignment (acetabular revision cup, modular femoral stem, total hip prosthesis), estimated value $362,109,004 CLP, closing December 10, 2026 at 15:01; Hospital Rancagua (O'Higgins Health Service) is tendering femoral fracture implants, closing December 4, 2026; Dipreca is tendering a hybrid polished cemented hip stem kit on in-transit consignment, closing December 1, 2026; Complejo Asistencial Dr. Víctor Ríos Ruiz is tendering a pelvic fracture supply agreement, closing December 9, 2026; and the Pedro Aguirre Cerda National Rehabilitation Institute is tendering supplies for its Orthopedic Workshop Unit, closing December 10, 2026.",
+     "accion": "Suppliers of hip prostheses, femoral implants and osteosynthesis material should review each tender's bid documents on Mercado Público and prepare offers before the respective closings."
+    }
+   }
+  },
+  {
    "id": "cl-hcsba-dai-resincronizadores-nov2026",
    "nivel": "amarillo",
    "tipo": "licitacion",
@@ -111,6 +263,29 @@
      "titulo": "ISP: alert and recall of one lot of Difem cefazolin 1 g injection due to a foreign body",
      "resumen": "Chile's Public Health Institute issued a pharmaceutical alert for a foreign body found in a vial of cefazolin powder for injection 1 g (registration F-23170), lot 253052155, expiry 11/2028, from Difem Laboratorios. Only that lot was voluntarily recalled. Difem said the product is distributed to hospitals and clinics, not pharmacies.",
      "accion": "Hospital pharmacies: check for lot 253052155, do not use it, and replace it with another lot or a similar product."
+    }
+   }
+  },
+  {
+   "id": "cl-isp-ondansetron-kamla-oct2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "medicamentos",
+   "fecha": "2026-10-28",
+   "ambito": "Nacional",
+   "organismo": "ISP",
+   "titulo": "ISP ordena el retiro de un lote de ondansetrón inyectable de Kamla Lifesciences por vidrio dentro de una ampolla",
+   "resumen": "El Instituto de Salud Pública instruyó el retiro del lote KA 25066 (vencimiento abril de 2027) de ondansetrón solución inyectable 8 mg/4 mL, de Kamla Lifesciences LTD (India), en envase clínico de 100 ampollas, tras hallarse un trozo de vidrio dentro de una ampolla sellada. La instrucción de retiro es del 23 de octubre de 2026.",
+   "accion": "Farmacias hospitalarias y clínicas: verificar el lote KA 25066, no usarlo y reemplazarlo por otro lote o producto similar.",
+   "fuente": {
+    "nombre": "T13",
+    "url": "https://www.t13.cl/noticia/nacional/por-otros-vidrio-una-ampolla-emiten-alerta-farmaceutica-medicamento-para-nausea-28-10-2026"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ISP orders recall of a Kamla Lifesciences ondansetron injection lot over glass found inside an ampoule",
+     "resumen": "Chile's Public Health Institute ordered the recall of lot KA 25066 (expiry April 2027) of ondansetron 8 mg/4 mL solution for injection, made by Kamla Lifesciences LTD (India), in a 100-ampoule clinical pack, after a piece of glass was found inside a sealed ampoule. The recall instruction is dated October 23, 2026.",
+     "accion": "Hospital and clinic pharmacies should check for lot KA 25066, stop using it, and replace it with another lot or a similar product."
     }
    }
   },

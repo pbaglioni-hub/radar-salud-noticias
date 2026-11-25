@@ -1,4 +1,245 @@
 {
  "actualizado": "2026-11-25",
- "adjudicaciones": []
+ "adjudicaciones": [
+  {
+   "id": "cl-int-1499-84-lp26-salinas-lyon",
+   "fecha": "2026-05-27",
+   "ambito": "Nacional",
+   "organismo": "Instituto Nacional del Tórax",
+   "procedimiento": "Licitación Pública 1499-84-LP26",
+   "objeto": "Prótesis cardíacas en consignación (endoprótesis/injertos vasculares Gelweave)",
+   "rubro": "cardiovascular",
+   "proveedor": "Francisco Salinas Lyon y Compañía Limitada",
+   "monto": 25085200,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación: $345.641.500. El monto reportado es la suma de 3 Órdenes de Compra (1499-5251-SE26 del 01-10-2026: $10.115.000; 1499-4181-SE26 del 11-08-2026: $10.115.000; 1499-4045-SE26 del 03-08-2026: $4.855.200). Renglones confirmados (cantidades, sin precio unitario): prótesis Gelweave Ante-Flo, 20 u.; Gelweave 4 ramas, 55 u.; Gelweave Siena (26-32), 1 lote global; prótesis Valsalva (26-32), 1 lote global; vascular recta 20-34mm x 12,5cm, 1 lote global; vascular recta anillada, 300 u. La licitación tuvo 3 oferentes y 2 adjudicatarios; solo se confirmó este proveedor.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=1499-84-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Cardiac prostheses on consignment (Gelweave vascular grafts/endoprostheses)",
+     "detalle": "Total estimated tender value: $345,641,500 CLP. The reported amount is the sum of 3 purchase orders (1499-5251-SE26 of 10/01/2026: $10,115,000; 1499-4181-SE26 of 08/11/2026: $10,115,000; 1499-4045-SE26 of 08/03/2026: $4,855,200). Confirmed line items (quantities, no unit price): Gelweave Ante-Flo graft, 20 units; Gelweave 4-branch, 55 units; Gelweave Siena (26-32), 1 global lot; Valsalva prosthesis (26-32), 1 global lot; straight vascular graft 20-34mm x 12.5cm, 1 global lot; ringed straight vascular graft, 300 units. The tender had 3 bidders and 2 awardees; only this supplier could be confirmed."
+    }
+   }
+  },
+  {
+   "id": "cl-hjnc-1075963-91-lr25-sandoz",
+   "fecha": "2025-10-07",
+   "ambito": "Región de Arica y Parinacota",
+   "organismo": "Servicio de Salud Arica, Hospital Dr. Juan Noé Crevani",
+   "procedimiento": "Licitación Pública 1075963-91-LR25",
+   "objeto": "Convenio de suministro de fármacos oncológicos varios (docetaxel, fluorouracilo, nivolumab, entre otros)",
+   "rubro": "oncologia",
+   "proveedor": "Sandoz Chile SpA",
+   "monto": 12286750,
+   "moneda": "CLP",
+   "detalle": "La ficha oficial no publica el monto estimado total (solo 'precio referencial' sin cifra). El monto reportado es la suma de 6 Órdenes de Compra emitidas a este proveedor; no hay precios unitarios por renglón en la ficha. La licitación tuvo 4 adjudicatarios; solo se pudieron confirmar 2.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=1075963-91-LR25"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply agreement for various oncology drugs (docetaxel, fluorouracil, nivolumab, among others)",
+     "detalle": "The official record does not publish a total estimated value (only an undisclosed 'reference price'). The reported amount is the sum of 6 purchase orders issued to this supplier; no per-line unit prices are on the record. The tender had 4 awardees; only 2 could be confirmed."
+    }
+   }
+  },
+  {
+   "id": "cl-hjnc-1075963-91-lr25-fresenius-kabi",
+   "fecha": "2025-10-07",
+   "ambito": "Región de Arica y Parinacota",
+   "organismo": "Servicio de Salud Arica, Hospital Dr. Juan Noé Crevani",
+   "procedimiento": "Licitación Pública 1075963-91-LR25",
+   "objeto": "Convenio de suministro de fármacos oncológicos varios (docetaxel, fluorouracilo, nivolumab, entre otros)",
+   "rubro": "oncologia",
+   "proveedor": "Fresenius Kabi Chile Limitada",
+   "monto": 13414275,
+   "moneda": "CLP",
+   "detalle": "La ficha oficial no publica el monto estimado total (solo 'precio referencial' sin cifra). El monto reportado es la suma de 9 Órdenes de Compra emitidas a este proveedor; no hay precios unitarios por renglón en la ficha. La garantía de fiel cumplimiento de este proveedor vence el 29-06-2029, aunque no es la vigencia del contrato en sí.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=1075963-91-LR25"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply agreement for various oncology drugs (docetaxel, fluorouracil, nivolumab, among others)",
+     "detalle": "The official record does not publish a total estimated value (only an undisclosed 'reference price'). The reported amount is the sum of 9 purchase orders issued to this supplier; no per-line unit prices are on the record. This supplier's performance bond expires on 06/29/2029, though that is not the contract term itself."
+    }
+   }
+  },
+  {
+   "id": "cl-dipreca-948806-55-lp25-boston-scientific",
+   "fecha": "2025-08-21",
+   "ambito": "Nacional",
+   "organismo": "Fondo Hospital de la Dirección de Previsión de Carabineros de Chile (Dipreca)",
+   "procedimiento": "Licitación Pública 948806-55-LP25",
+   "objeto": "Insumos para la Unidad de Angiografía y Hemodinamia (consignación)",
+   "rubro": "cardiovascular",
+   "proveedor": "Boston Scientific Chile SpA",
+   "monto": 42828100,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación: $90.000.000. El monto reportado es la suma de 55 Órdenes de Compra emitidas a este proveedor (de $702.100 o $1.404.200 cada una); Mercado Público no publica precios unitarios por renglón en la ficha. La licitación tuvo 5 oferentes y 3 adjudicatarios; solo se pudo confirmar el nombre de este proveedor.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=948806-55-LP25"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supplies for the Angiography and Hemodynamics Unit (consignment)",
+     "detalle": "Total estimated tender value: $90,000,000 CLP. The reported amount is the sum of 55 purchase orders issued to this supplier ($702,100 or $1,404,200 each); Mercado Público does not publish per-line unit prices on the record. The tender had 5 bidders and 3 awardees; only this supplier's name could be confirmed."
+    }
+   }
+  },
+  {
+   "fecha": "2025-08-19",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-212-LP25",
+   "objeto": "Convenio anual en consignación de stent e insumos para la Unidad de Neurovascular",
+   "rubro": "cardiovascular",
+   "moneda": "CLP",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=886954-212-LP25"
+   },
+   "id": "cl-hggb-886954-212-lp25-kendall",
+   "proveedor": "Comercial Kendall (Chile) Ltda.",
+   "monto": 50765400,
+   "detalle": "Monto estimado total de la licitación: $287.000.000. La licitación tuvo 6 adjudicatarios; solo se pudieron confirmar 5 mediante sus Órdenes de Compra asociadas (no hay precios unitarios por renglón en la ficha).",
+   "trad": {
+    "en": {
+     "objeto": "Annual consignment agreement for stents and supplies for the Neurovascular Unit",
+     "detalle": "Total estimated tender value: $287,000,000 CLP. The tender had 6 awardees; only 5 could be confirmed via their associated purchase orders (no per-line unit prices on the record)."
+    }
+   }
+  },
+  {
+   "fecha": "2025-08-19",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-212-LP25",
+   "objeto": "Convenio anual en consignación de stent e insumos para la Unidad de Neurovascular",
+   "rubro": "cardiovascular",
+   "moneda": "CLP",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=886954-212-LP25"
+   },
+   "id": "cl-hggb-886954-212-lp25-vitalmed",
+   "proveedor": "Comercial Vitalmed Limitada",
+   "monto": 5652500,
+   "detalle": "Monto estimado total de la licitación: $287.000.000. La licitación tuvo 6 adjudicatarios; solo se pudieron confirmar 5 mediante sus Órdenes de Compra asociadas (no hay precios unitarios por renglón en la ficha).",
+   "trad": {
+    "en": {
+     "objeto": "Annual consignment agreement for stents and supplies for the Neurovascular Unit",
+     "detalle": "Total estimated tender value: $287,000,000 CLP. The tender had 6 awardees; only 5 could be confirmed via their associated purchase orders (no per-line unit prices on the record)."
+    }
+   }
+  },
+  {
+   "fecha": "2025-08-19",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-212-LP25",
+   "objeto": "Convenio anual en consignación de stent e insumos para la Unidad de Neurovascular",
+   "rubro": "cardiovascular",
+   "moneda": "CLP",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=886954-212-LP25"
+   },
+   "id": "cl-hggb-886954-212-lp25-boston-scientific",
+   "proveedor": "Boston Scientific Chile SpA",
+   "monto": 2552550,
+   "detalle": "Monto estimado total de la licitación: $287.000.000. La licitación tuvo 6 adjudicatarios; solo se pudieron confirmar 5 mediante sus Órdenes de Compra asociadas (no hay precios unitarios por renglón en la ficha).",
+   "trad": {
+    "en": {
+     "objeto": "Annual consignment agreement for stents and supplies for the Neurovascular Unit",
+     "detalle": "Total estimated tender value: $287,000,000 CLP. The tender had 6 awardees; only 5 could be confirmed via their associated purchase orders (no per-line unit prices on the record)."
+    }
+   }
+  },
+  {
+   "fecha": "2025-08-19",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-212-LP25",
+   "objeto": "Convenio anual en consignación de stent e insumos para la Unidad de Neurovascular",
+   "rubro": "cardiovascular",
+   "moneda": "CLP",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=886954-212-LP25"
+   },
+   "id": "cl-hggb-886954-212-lp25-lemare",
+   "proveedor": "Lemare Chile S.A.",
+   "monto": 3808000,
+   "detalle": "Monto estimado total de la licitación: $287.000.000. La licitación tuvo 6 adjudicatarios; solo se pudieron confirmar 5 mediante sus Órdenes de Compra asociadas (no hay precios unitarios por renglón en la ficha).",
+   "trad": {
+    "en": {
+     "objeto": "Annual consignment agreement for stents and supplies for the Neurovascular Unit",
+     "detalle": "Total estimated tender value: $287,000,000 CLP. The tender had 6 awardees; only 5 could be confirmed via their associated purchase orders (no per-line unit prices on the record)."
+    }
+   }
+  },
+  {
+   "fecha": "2025-08-19",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-212-LP25",
+   "objeto": "Convenio anual en consignación de stent e insumos para la Unidad de Neurovascular",
+   "rubro": "cardiovascular",
+   "moneda": "CLP",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=886954-212-LP25"
+   },
+   "id": "cl-hggb-886954-212-lp25-abbott",
+   "proveedor": "Abbott Laboratories de Chile Ltda.",
+   "monto": 1880200,
+   "detalle": "Monto estimado total de la licitación: $287.000.000. La licitación tuvo 6 adjudicatarios; solo se pudieron confirmar 5 mediante sus Órdenes de Compra asociadas (no hay precios unitarios por renglón en la ficha).",
+   "trad": {
+    "en": {
+     "objeto": "Annual consignment agreement for stents and supplies for the Neurovascular Unit",
+     "detalle": "Total estimated tender value: $287,000,000 CLP. The tender had 6 awardees; only 5 could be confirmed via their associated purchase orders (no per-line unit prices on the record)."
+    }
+   }
+  },
+  {
+   "id": "cl-hsjd-1641-65-lp25-kendall",
+   "fecha": "2025-06-06",
+   "ambito": "Región Metropolitana",
+   "organismo": "Servicio de Salud Occidente, Hospital San Juan de Dios",
+   "procedimiento": "Licitación Pública 1641-65-LP25",
+   "objeto": "Insumos varios de cirugía cardíaca (accesorios para cirugía coronaria)",
+   "rubro": "cardiovascular",
+   "proveedor": "Comercial Kendall (Chile) Ltda.",
+   "monto": 25006660,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación: $73.000.000. El monto reportado es la suma de 10 Órdenes de Compra emitidas. Renglones confirmados (sin precio unitario): adaptador de perfusión coronaria en Y (DLP) 10004 Sarns 7263, 420 u.; punch aórtico 4,5 mm, 900 u.; shunt intracoronario 2,0 mm, 90 u.; shunt intracoronario 2,5 mm, 90 u.; shunt intracoronario 1,5 mm, 90 u. Único oferente y único adjudicatario.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Mercado Público / DecideChile (Órdenes de Compra)",
+    "url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=1641-65-LP25"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Various cardiac surgery supplies (coronary surgery accessories)",
+     "detalle": "Total estimated tender value: $73,000,000 CLP. The reported amount is the sum of 10 purchase orders issued. Confirmed line items (no unit price given): Y-shaped (DLP) coronary perfusion adaptor 10004 Sarns 7263, 420 units; aortic punch 4.5 mm, 900 units; intracoronary shunt 2.0 mm, 90 units; intracoronary shunt 2.5 mm, 90 units; intracoronary shunt 1.5 mm, 90 units. Single bidder, single awardee."
+    }
+   }
+  }
+ ]
 }

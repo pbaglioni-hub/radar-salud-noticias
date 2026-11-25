@@ -189,6 +189,54 @@
    }
   },
   {
+   "id": "br-anvisa-alert-5394-cavux-corus-spinal-recall",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-19",
+   "ambito": "federal",
+   "organismo": "ANVISA (Tecnovigilância)",
+   "titulo": "ANVISA orders market withdrawal of Cavux Cervical Cage-B and Corus Spinal System cannula kits over manufacturing non-conformity",
+   "resumen": "ANVISA Tecnovigilância alert No. 5394 (published November 19, 2026) covers the Cavux Cervical Cage-B 4mm and the Corus Spinal System-X cannula kit, distributed by Biomedica Equipamentos e Suprimentos Hospitalares Ltda. (manufactured by Providence Medical Technology). ANVISA ordered the market withdrawal and suspension of the affected lots, a class III action, after an inspection of a subcontracted manufacturing site in Costa Rica found non-compliance with RDC 665/2022; the suspension has been in effect since February 5, 2026.",
+   "accion": "Spine surgery services, hospitals and distributors should check their stock for these devices, stop using the affected lots immediately, and contact Biomedica Equipamentos for the manufacturer's recall instructions.",
+   "fuente": {
+    "nombre": "Legismap (réplica del boletín de Tecnovigilância de ANVISA)",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-19-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA ordena el retiro de mercado de los kits de cánula Cavux Cervical Cage-B y Corus Spinal System por no conformidad de fabricación",
+     "resumen": "La alerta de Tecnovigilância de ANVISA N° 5394 (publicada el 19 de noviembre de 2026) cubre el Cavux Cervical Cage-B de 4mm y el kit de cánula Corus Spinal System-X, distribuidos por Biomedica Equipamentos e Suprimentos Hospitalares Ltda. (fabricados por Providence Medical Technology). ANVISA ordenó el retiro de mercado y la suspensión de los lotes afectados, una acción de clase III, luego de que una inspección a una planta subcontratada en Costa Rica encontrara incumplimiento de la RDC 665/2022; la suspensión rige desde el 5 de febrero de 2026.",
+     "accion": "Los servicios de cirugía de columna, hospitales y distribuidores deben revisar su stock en busca de estos dispositivos, dejar de usar de inmediato los lotes afectados y contactar a Biomedica Equipamentos para conocer las instrucciones de retiro del fabricante."
+    }
+   }
+  },
+  {
+   "id": "br-anvisa-alert-5390-cmos-drake-dea-alive",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-18",
+   "ambito": "federal",
+   "organismo": "ANVISA (Tecnovigilância)",
+   "titulo": "ANVISA alert 5390: adhesive pads of the 'DEA Alive' automated external defibrillator may fail to connect",
+   "resumen": "ANVISA Tecnovigilância alert No. 5390 (published November 18, 2026) covers the Cmos Drake S.A. automated external defibrillator 'DEA Alive'. The manufacturer identified, on November 12, 2026, that adult (lot LT98303) and pediatric (lot LT97303) adhesive pads can be difficult to connect to the device's connector, which could prevent the defibrillator from being used during an emergency.",
+   "accion": "Hospitals, clinics and public-access AED sites should check their stock for lots LT98303 and LT97303, test the pad connection before relying on the unit, and follow the manufacturer's field-action instructions.",
+   "comentario": "Un problema de conexión de los parches, aunque limitado a dos lotes, es relevante porque afecta la disponibilidad del equipo justo en el momento de uso crítico; conviene seguir de cerca si Cmos Drake amplía el alcance del retiro.",
+   "fuente": {
+    "nombre": "Legismap (réplica del boletín de Tecnovigilância de ANVISA)",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-18-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Alerta ANVISA 5390: los parches adhesivos del desfibrilador externo automático 'DEA Alive' pueden no acoplarse",
+     "resumen": "La alerta de Tecnovigilância de ANVISA N° 5390 (publicada el 18 de noviembre de 2026) cubre el desfibrilador externo automático 'DEA Alive' de Cmos Drake S.A. El fabricante identificó, el 12 de noviembre de 2026, que los parches adhesivos para adultos (lote LT98303) e infantiles (lote LT97303) pueden presentar dificultad para acoplarse al conector del equipo, lo que podría impedir su uso en una emergencia.",
+     "accion": "Hospitales, clínicas y puntos de acceso público a DEA deben revisar su stock en busca de los lotes LT98303 y LT97303, probar el acople de los parches antes de confiar en el equipo, y seguir las instrucciones de acción de campo del fabricante.",
+     "comentario": "Un problema de conexión de los parches, aunque limitado a dos lotes, es relevante porque afecta la disponibilidad del equipo justo en el momento de uso crítico; conviene seguir de cerca si Cmos Drake amplía el alcance del retiro."
+    }
+   }
+  },
+  {
    "id": "br-anvisa-suplementos-norvy-nutrymed-morbach",
    "nivel": "rojo",
    "fecha": "2026-11-17",

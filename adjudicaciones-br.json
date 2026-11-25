@@ -1,6 +1,102 @@
 {
- "actualizado": "2026-11-16",
+ "actualizado": "2026-11-25",
  "adjudicaciones": [
+  {
+   "id": "br-unicamp-ata00824-2026-gadali-cateter-balao",
+   "fecha": "2026-11-18",
+   "ambito": "estadual (Campinas, SP)",
+   "organismo": "UNICAMP",
+   "procedimiento": "Pregão Eletrônico 90306/2026, Ata de Registro de Preços 00824/2026 (PNCP 46068425000133-1-001455/2026-000002)",
+   "objeto": "Registro de preços de catéter balão para angioplastia, item 1",
+   "rubro": "cardiovascular",
+   "proveedor": "Gadali Medical Comércio de Produtos Médico-Hospitalar Ltda.",
+   "monto": 7200,
+   "moneda": "BRL",
+   "detalle": "Item 1: 20 unidades x R$360,00 = R$7.200,00 (catéter balón de angioplastia periférica 10,5-14mm x 26-50mm, guía 0,035\").",
+   "vence": "2027-11-22",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratações Públicas)",
+    "url": "https://pncp.gov.br/api/pncp/v1/orgaos/46068425000133/compras/2026/1455"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Registro de precios de catéter balón para angioplastia, ítem 1",
+     "detalle": "Ítem 1: 20 unidades x R$360,00 = R$7.200,00 (catéter balón de angioplastia periférica 10,5-14mm x 26-50mm, guía 0,035\")."
+    }
+   }
+  },
+  {
+   "id": "br-inc-ata00452-2026-jotec-valvula-aortica",
+   "fecha": "2026-10-28",
+   "ambito": "federal (Rio de Janeiro)",
+   "organismo": "Instituto Nacional de Cardiologia (Ministério da Saúde)",
+   "procedimiento": "Ata de Registro de Preços 00452/2026 (PNCP 00394544000185-1-002108/2026-000001)",
+   "objeto": "Aquisição complementar de prótese valvar aórtica mecânica 19 a 27 mm, com comodato de 3 jogos de medidores",
+   "rubro": "cardiovascular",
+   "proveedor": "Jotec do Brasil Importação e Comércio de Equipamentos Hospitalares Ltda.",
+   "monto": 140000,
+   "moneda": "BRL",
+   "detalle": "35 unidades x R$4.000,00 = R$140.000,00.",
+   "vence": "2027-10-29",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratações Públicas)",
+    "url": "https://pncp.gov.br/api/pncp/v1/orgaos/00394544000185/compras/2026/2108"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Adquisición complementaria de prótesis valvular aórtica mecánica 19 a 27 mm, con comodato de 3 juegos de medidores",
+     "detalle": "35 unidades x R$4.000,00 = R$140.000,00."
+    }
+   }
+  },
+  {
+   "id": "br-ebserh-uftm-ata00628-2026-minasfar-stent-ptfe",
+   "fecha": "2026-10-27",
+   "ambito": "federal/EBSERH (Uberaba, MG)",
+   "organismo": "EBSERH, Hospital de Clínicas da UFTM",
+   "procedimiento": "Ata de Registro de Preços 00628/2026 (PNCP 15126437000305-1-004443/2026-000001)",
+   "objeto": "OPME para hemodinâmica: stent coronariano revestido em PTFE, item 1",
+   "rubro": "cardiovascular",
+   "proveedor": "Minasfar Comércio, Importação e Exportação de Materiais Hospitalares Ltda.",
+   "monto": 117936,
+   "moneda": "BRL",
+   "detalle": "Item 1: 10 unidades x R$11.793,60 = R$117.936,00.",
+   "vence": "2027-10-29",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratações Públicas)",
+    "url": "https://pncp.gov.br/api/pncp/v1/orgaos/15126437000305/compras/2026/4443"
+   },
+   "trad": {
+    "es": {
+     "objeto": "OPME de hemodinamia: stent coronario revestido en PTFE, ítem 1",
+     "detalle": "Ítem 1: 10 unidades x R$11.793,60 = R$117.936,00."
+    }
+   }
+  },
+  {
+   "id": "br-fmusp-ata90450-2026-microport-stent",
+   "fecha": "2026-10-01",
+   "ambito": "estadual (São Paulo)",
+   "organismo": "Hospital das Clínicas da FMUSP",
+   "procedimiento": "Ata de Registro de Preços 90450/2026 (PNCP 60448040000122-1-000423/2026-000001)",
+   "objeto": "Stent coronariano (endoprótese coronária), itens 1 e 4",
+   "rubro": "cardiovascular",
+   "proveedor": "MicroPort Scientific Vascular Brasil Ltda.",
+   "monto": 101962,
+   "moneda": "BRL",
+   "detalle": "Item 1: 78 unidades x R$484,4911 = R$37.790,30. Item 4: 132 unidades x R$486,1452 = R$64.171,17. Total de los dos ítems confirmados: R$101.961,47.",
+   "vence": "2027-10-01",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratações Públicas)",
+    "url": "https://pncp.gov.br/api/pncp/v1/orgaos/60448040000122/compras/2026/423"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Stent coronario (endoprótesis coronaria), ítems 1 y 4",
+     "detalle": "Ítem 1: 78 unidades x R$484,4911 = R$37.790,30. Ítem 4: 132 unidades x R$486,1452 = R$64.171,17. Total de los dos ítems confirmados: R$101.961,47."
+    }
+   }
+  },
   {
    "id": "br-inc-arp-339-2026-aframed",
    "fecha": "2026-09-01",
@@ -142,6 +238,54 @@
     "es": {
      "objeto": "Materiales hospitalarios (ítem 11)",
      "detalle": "Firmado el 13 de julio de 2026. El aviso no indica cantidades ni precios unitarios."
+    }
+   }
+  },
+  {
+   "id": "br-ebserh-ufmg-ata00281-2026-stjude-tavi",
+   "fecha": "2026-04-27",
+   "ambito": "federal/EBSERH (Belo Horizonte, MG)",
+   "organismo": "EBSERH, Hospital das Clínicas (UFMG)",
+   "procedimiento": "Atas de Registro de Preços 00281/2026, 00280/2026 e 00279/2026 (PNCP 15126437000305-1-004533/2025-000003)",
+   "objeto": "Kits de prótese valvar aórtica transcateter (TAVI), itens 1 e 3",
+   "rubro": "cardiovascular",
+   "proveedor": "St Jude Medical Brasil Ltda. (Abbott)",
+   "monto": 1915200,
+   "moneda": "BRL",
+   "detalle": "Item 1: 24 unidades x R$40.000,00 = R$960.000,00. Item 3: 24 unidades x R$39.800,00 = R$955.200,00. Total de los dos ítems: R$1.915.200,00.",
+   "vence": "2027-06-02",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratações Públicas)",
+    "url": "https://pncp.gov.br/api/pncp/v1/orgaos/15126437000305/compras/2025/4533"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Kits de prótesis valvular aórtica transcatéter (TAVI), ítems 1 y 3",
+     "detalle": "Ítem 1: 24 unidades x R$40.000,00 = R$960.000,00. Ítem 3: 24 unidades x R$39.800,00 = R$955.200,00. Total de los dos ítems: R$1.915.200,00."
+    }
+   }
+  },
+  {
+   "id": "br-ebserh-ufmg-ata00281-2026-endolife-tavi",
+   "fecha": "2026-04-27",
+   "ambito": "federal/EBSERH (Belo Horizonte, MG)",
+   "organismo": "EBSERH, Hospital das Clínicas (UFMG)",
+   "procedimiento": "Atas de Registro de Preços 00281/2026, 00280/2026 e 00279/2026 (PNCP 15126437000305-1-004533/2025-000003)",
+   "objeto": "Kits de prótese valvar aórtica transcateter (TAVI), item 2",
+   "rubro": "cardiovascular",
+   "proveedor": "Endolife Importação, Exportação, Comércio e Representação de Material Hospitalar",
+   "monto": 1511760,
+   "moneda": "BRL",
+   "detalle": "Item 2: 24 unidades x R$62.990,00 = R$1.511.760,00.",
+   "vence": "2027-06-02",
+   "fuente": {
+    "nombre": "PNCP (Portal Nacional de Contratações Públicas)",
+    "url": "https://pncp.gov.br/api/pncp/v1/orgaos/15126437000305/compras/2025/4533"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Kits de prótesis valvular aórtica transcatéter (TAVI), ítem 2",
+     "detalle": "Ítem 2: 24 unidades x R$62.990,00 = R$1.511.760,00."
     }
    }
   }

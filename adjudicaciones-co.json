@@ -1,4 +1,293 @@
 {
  "actualizado": "2026-11-25",
- "adjudicaciones": []
+ "adjudicaciones": [
+  {
+   "id": "co-honda-11215021-traumasur-osteosintesis",
+   "fecha": "2026-11-20",
+   "ambito": "Tolima (Honda)",
+   "organismo": "Hospital San Juan de Dios de Honda ESE",
+   "procedimiento": "Proceso de contratación CO1.BDOS.11215021 (contrato 000654-2026)",
+   "objeto": "Suministro de material de osteosíntesis para cirugías de ortopedia de mediana complejidad en miembro superior e inferior, en consignación según necesidad",
+   "rubro": "traumatologia",
+   "proveedor": "Traumasur",
+   "monto": 517000000,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem (suministro en consignación según necesidad). El mismo proveedor y entidad tuvieron un contrato anterior equivalente por $700.000.000 COP, firmado el 31-08-2026, vigente hasta el 20-11-2026.",
+   "vence": "2026-12-31",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of osteosynthesis material for medium-complexity orthopedic surgery of the upper and lower limbs, on an as-needed consignment basis",
+     "detalle": "The contracts dataset does not report unit prices or per-item quantities (as-needed consignment supply). The same supplier and entity had an equivalent prior contract for $700,000,000 COP, signed 08/31/2026, running through 11/20/2026."
+    }
+   }
+  },
+  {
+   "id": "co-huis-11148237-atx-acelerador-lineal",
+   "fecha": "2026-11-09",
+   "ambito": "Santander",
+   "organismo": "E.S.E. Hospital Universitario de Santander",
+   "procedimiento": "Proceso de contratación CO1.BDOS.11148237",
+   "objeto": "Mantenimiento preventivo y correctivo del acelerador lineal Siemens Mevatron del hospital",
+   "rubro": "oncologia",
+   "proveedor": "ATX Alta Tecnologia Electronica SAS",
+   "monto": 83379500,
+   "moneda": "COP",
+   "detalle": "Contrato de servicio de mantenimiento, no de suministro de insumos; el dataset no desglosa el valor por visita o repuesto.",
+   "vence": "2026-12-31",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Preventive and corrective maintenance of the hospital's Siemens Mevatron linear accelerator",
+     "detalle": "Maintenance service contract, not a supply of consumables; the dataset does not break down the value by visit or part."
+    }
+   }
+  },
+  {
+   "id": "co-subred-centro-oriente-10574798-hospiclinic-osteosintesis",
+   "fecha": "2026-07-31",
+   "ambito": "Bogotá D.C.",
+   "organismo": "Subred Integrada de Servicios de Salud Centro Oriente E.S.E.",
+   "procedimiento": "Proceso de contratación CO1.BDOS.10574798 (contrato 02 BS 0076 2026)",
+   "objeto": "Suministro de material de osteosíntesis para la atención de los usuarios de la Subred",
+   "rubro": "traumatologia",
+   "proveedor": "Hospiclinic de Colombia S.A.S",
+   "monto": 3761538091,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem.",
+   "vence": "2027-01-10",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of osteosynthesis material for the Subred's patients",
+     "detalle": "The contracts dataset does not report unit prices or per-item quantities."
+    }
+   }
+  },
+  {
+   "id": "co-subred-centro-oriente-10574798-sbo-group-osteosintesis",
+   "fecha": "2026-07-31",
+   "ambito": "Bogotá D.C.",
+   "organismo": "Subred Integrada de Servicios de Salud Centro Oriente E.S.E.",
+   "procedimiento": "Proceso de contratación CO1.BDOS.10574798 (contrato 02 BS 0077 2026)",
+   "objeto": "Suministro de material de osteosíntesis para la atención de los usuarios de la Subred",
+   "rubro": "traumatologia",
+   "proveedor": "SBO Group SAS",
+   "monto": 208094719,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem. Contrato paralelo al adjudicado a Hospiclinic de Colombia S.A.S. en el mismo proceso.",
+   "vence": "2027-01-10",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of osteosynthesis material for the Subred's patients",
+     "detalle": "The contracts dataset does not report unit prices or per-item quantities. Parallel contract to the one awarded to Hospiclinic de Colombia S.A.S. in the same process."
+    }
+   }
+  },
+  {
+   "id": "co-fllera-ibague-10312180-art-corporation-acelerador-lineal",
+   "fecha": "2026-07-07",
+   "ambito": "Tolima (Ibagué)",
+   "organismo": "Hospital Federico Lleras Acosta de Ibagué E.S.E.",
+   "procedimiento": "Proceso de contratación CO1.BDOS.10312180",
+   "objeto": "Mantenimiento preventivo y correctivo del acelerador lineal en la sede Francia del hospital",
+   "rubro": "oncologia",
+   "proveedor": "ART Corporation SA",
+   "monto": 730107840,
+   "moneda": "COP",
+   "detalle": "Contrato de servicio de mantenimiento, no de suministro de insumos; el dataset no desglosa el valor por visita o repuesto.",
+   "vence": "2027-07-20",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Preventive and corrective maintenance of the linear accelerator at the hospital's Francia site",
+     "detalle": "Maintenance service contract, not a supply of consumables; the dataset does not break down the value by visit or part."
+    }
+   }
+  },
+  {
+   "id": "co-sjd-rionegro-10252459-las-electromedicina",
+   "fecha": "2026-05-19",
+   "ambito": "Antioquia (Rionegro)",
+   "organismo": "Hospital San Juan de Dios E.S.E. Rionegro",
+   "procedimiento": "Proceso de contratación CO1.BDOS.10252459",
+   "objeto": "Compra de equipo biomédico tipo desfibrilador y marcapaso externo",
+   "rubro": "cardiovascular",
+   "proveedor": "L.A.S. Electromedicina S.A.S.",
+   "monto": 18921004,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem.",
+   "vence": "2026-06-26",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Purchase of biomedical equipment: defibrillator and external pacemaker",
+     "detalle": "The contracts dataset does not report unit prices or per-item quantities."
+    }
+   }
+  },
+  {
+   "id": "co-policia-regional6-9969032-centro-oncologico-antioquia",
+   "fecha": "2026-04-17",
+   "ambito": "Antioquia",
+   "organismo": "Regional de Aseguramiento en Salud N°6 (Policía Nacional)",
+   "procedimiento": "Proceso de contratación CO1.BDOS.9969032",
+   "objeto": "Servicios integrales de oncología para adultos (Grupo 1): consulta, procedimientos, hospitalización, urgencias, insumos y medicamentos oncológicos",
+   "rubro": "oncologia",
+   "proveedor": "Centro Oncológico de Antioquia SA",
+   "monto": 5036000000,
+   "moneda": "COP",
+   "detalle": "Es un contrato de servicios integrales de atención oncológica (tipo paquete/cápita), no una adjudicación de un medicamento oncológico puntual con precio unitario; el dataset no desglosa el valor por paciente o procedimiento.",
+   "vence": "2026-10-31",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Comprehensive adult oncology services (Group 1): consultations, procedures, hospitalization, emergency care, oncology supplies and drugs",
+     "detalle": "This is a comprehensive, package/capitation-style oncology care services contract, not an award for a specific oncology drug with a unit price; the dataset does not break down the value by patient or procedure."
+    }
+   }
+  },
+  {
+   "id": "co-villamaria-10143042-caldas-medicas",
+   "fecha": "2026-04-06",
+   "ambito": "Caldas (Villamaría)",
+   "organismo": "E.S.E. Hospital San Antonio de Villamaría",
+   "procedimiento": "Proceso de contratación CO1.BDOS.10143042",
+   "objeto": "Suministro de desfibrilador con monitor multiparámetro (tecnología bifásica), marcapasos, impresora térmica integrada y accesorios",
+   "rubro": "cardiovascular",
+   "proveedor": "Caldas Medicas SAS",
+   "monto": 22312500,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem, ni la vigencia del contrato.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of a biphasic multiparameter-monitor defibrillator, pacemaker, built-in thermal printer and accessories",
+     "detalle": "The contracts dataset does not report unit prices, per-item quantities, or the contract's term."
+    }
+   }
+  },
+  {
+   "id": "co-hmc-8711777-gbarco-stent",
+   "fecha": "2025-12-03",
+   "ambito": "Nacional (Bogotá)",
+   "organismo": "Hospital Militar Central",
+   "procedimiento": "Proceso de contratación CO1.BDOS.8711777 (contrato 288-2025)",
+   "objeto": "Suministro de insumos y dispositivos para procedimientos endovasculares y atención de urgencias vitales — Lote 1: stent cubierto montado sobre balón en acero, PTFE vascular",
+   "rubro": "cardiovascular",
+   "proveedor": "G Barco SA",
+   "monto": 154000000,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem; esos datos están solo en los anexos técnicos del proceso en SECOP II.",
+   "vence": "2025-12-31",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of endovascular-procedure supplies and devices for vital emergencies — Lot 1: covered balloon-mounted steel stent, vascular PTFE",
+     "detalle": "The contracts dataset does not report unit prices or per-item quantities; that detail is only in the process's technical attachments on SECOP II."
+    }
+   }
+  },
+  {
+   "id": "co-hmc-8711777-tm-medicas-endovascular",
+   "fecha": "2025-11-28",
+   "ambito": "Nacional (Bogotá)",
+   "organismo": "Hospital Militar Central",
+   "procedimiento": "Proceso de contratación CO1.BDOS.8711777 (contrato 289-2025)",
+   "objeto": "Suministro de insumos y dispositivos para procedimientos endovasculares y atención de urgencias vitales — lotes 3 a 6",
+   "rubro": "cardiovascular",
+   "proveedor": "TM Medicas S.A.S",
+   "monto": 586068700,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem; esos datos están solo en los anexos técnicos del proceso en SECOP II.",
+   "vence": "2026-11-30",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of endovascular-procedure supplies and devices for vital emergencies — lots 3 to 6",
+     "detalle": "The contracts dataset does not report unit prices or per-item quantities; that detail is only in the process's technical attachments on SECOP II."
+    }
+   }
+  },
+  {
+   "id": "co-manuel-uribe-angel-8526160-general-medica-angiografos",
+   "fecha": "2025-09-30",
+   "ambito": "Antioquia",
+   "organismo": "ESE Hospital Manuel Uribe Ángel",
+   "procedimiento": "Proceso de contratación CO1.BDOS.8526160 (contrato AF-368-2025)",
+   "objeto": "Adquisición de 2 angiógrafos Philips Azurion 7 C20 (release 3.x): uno para procedimientos cardiovasculares y uno para neurovasculares",
+   "rubro": "cardiovascular",
+   "proveedor": "General Médica de Colombia S.A.S",
+   "monto": 8795052000,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios por equipo; monto corresponde al valor total del contrato por los 2 angiógrafos.",
+   "vence": "2026-12-28",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Acquisition of 2 Philips Azurion 7 C20 angiography systems (release 3.x): one for cardiovascular procedures and one for neurovascular procedures",
+     "detalle": "The contracts dataset does not report a per-unit price; the amount is the contract's total value for both angiography systems."
+    }
+   }
+  },
+  {
+   "id": "co-tunja-8158144-gbarco-marcapasos-osypka",
+   "fecha": "2025-05-22",
+   "ambito": "Boyacá (Tunja)",
+   "organismo": "E.S.E. Hospital Universitario San Rafael de Tunja",
+   "procedimiento": "Proceso de contratación CO1.BDOS.8158144",
+   "objeto": "Servicio y kit de mantenimiento para máquina de anestesia Datex Ohmeda y suministro de cables para marcapasos marca Osypka",
+   "rubro": "cardiovascular",
+   "proveedor": "G Barco SA",
+   "monto": 23370344,
+   "moneda": "COP",
+   "detalle": "Contrato mixto: incluye tanto mantenimiento de un equipo de anestesia como el suministro de cables/electrodos para marcapasos Osypka; el dataset no desglosa el valor entre ambos componentes ni da precios unitarios.",
+   "vence": "2025-12-31",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Maintenance service and kit for a Datex Ohmeda anesthesia machine, and supply of pacemaker leads (Osypka brand)",
+     "detalle": "Mixed-scope contract: covers both maintenance of anesthesia equipment and the supply of Osypka pacemaker leads/electrodes; the dataset does not break down the value between the two components or give unit prices."
+    }
+   }
+  }
+ ]
 }
