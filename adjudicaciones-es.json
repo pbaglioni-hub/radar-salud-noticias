@@ -1,4 +1,197 @@
 {
  "actualizado": "2026-11-25",
- "adjudicaciones": []
+ "adjudicaciones": [
+  {
+   "id": "es-hurc-edwards-valvula-pulmonar-transcateter-nov2026",
+   "fecha": "2026-11-20",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud)",
+   "procedimiento": "Expediente 2026000032 (ref. C14860) – procedimiento abierto simplificado",
+   "objeto": "Sistema completo para implantación de válvula pulmonar transcatéter de pericardio bovino y endoprótesis adaptativa con sistemas de liberación, para el Servicio de Cardiología Pediátrica",
+   "rubro": "cardiovascular",
+   "proveedor": "Edwards Lifesciences, S.L.",
+   "monto": 120000,
+   "moneda": "EUR",
+   "detalle": "Oferta única; adjudicación publicada el 20/11/2026 por el importe de licitación: 120.000,00 EUR sin impuestos (132.000,00 EUR con impuestos). Duración prevista del contrato: 12 meses. La ficha pública no indica fecha de formalización del contrato.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-sistema-completo-implantacion-valvula-pulmonar-transcateter-pericardio"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Complete system for implantation of a bovine pericardium transcatheter pulmonary valve and adaptive stent-graft with delivery systems, for the Pediatric Cardiology Department",
+     "detalle": "Single bid; award published on 11/20/2026 for the tender amount: EUR 120,000.00 excluding tax (EUR 132,000.00 including tax). Expected contract term: 12 months. The public record does not state a contract signing date."
+    }
+   }
+  },
+  {
+   "id": "es-hurc-evomed-valvula-pulmonar-transcateter-nov2026",
+   "fecha": "2026-11-04",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud)",
+   "procedimiento": "Expediente 2026000028 (ref. C14436) – procedimiento abierto simplificado",
+   "objeto": "Sistema de válvula pulmonar transcatéter autoexpandible con valvas de pericardio porcino, para el Servicio de Cardiología Pediátrica",
+   "rubro": "cardiovascular",
+   "proveedor": "Evomed, S.L.",
+   "monto": 131700,
+   "moneda": "EUR",
+   "detalle": "Oferta única; contrato formalizado el 4/11/2026 por 131.700,00 EUR sin impuestos (144.870,00 EUR con impuestos). Duración del contrato: 12 meses.",
+   "vence": "2027-11-04",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-sistema-valvula-pulmonar-transcateter-autoexpandible-valvas-pericardio"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Self-expanding transcatheter pulmonary valve system with porcine pericardium leaflets, for the Pediatric Cardiology Department",
+     "detalle": "Single bid; contract signed on 11/4/2026 for EUR 131,700.00 excluding tax (EUR 144,870.00 including tax). Contract term: 12 months."
+    }
+   }
+  },
+  {
+   "id": "es-hulp-epycardio-marcapasos-sincable-oct2026",
+   "fecha": "2026-10-23",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario La Paz (Servicio Madrileño de Salud)",
+   "procedimiento": "Expediente P.A. 2026-0-37 (ref. C14338) – procedimiento abierto, 2 lotes",
+   "objeto": "Marcapasos monocameral sin cable: lote 1 (estimulación bradicárdica ventricular, VR) y lote 2 (estimulación auricular, AAIR)",
+   "rubro": "cardiovascular",
+   "proveedor": "Epycardio, S.L.",
+   "monto": 98687,
+   "moneda": "EUR",
+   "detalle": "Adjudicación publicada el 23/10/2026. Ambos lotes, con una única oferta cada uno, se adjudicaron a Epycardio: lote 1 por 74.990,00 EUR y lote 2 por 23.697,00 EUR, sin impuestos (total 98.687,00 EUR), sobre un presupuesto base conjunto de 98.700,00 EUR. Duración: 6 meses.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/299341"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Leadless single-chamber pacemaker: lot 1 (ventricular bradycardia pacing, VR) and lot 2 (atrial pacing, AAIR)",
+     "detalle": "Award published on 10/23/2026. Both lots, each with a single bid, were awarded to Epycardio: lot 1 for EUR 74,990.00 and lot 2 for EUR 23,697.00, excluding tax (total EUR 98,687.00), against a combined base budget of EUR 98,700.00. Term: 6 months."
+    }
+   }
+  },
+  {
+   "id": "es-hurc-medtronic-cateter-balon-angioplastia-oct2026",
+   "fecha": "2026-10-06",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud) – Servicio de Angiología y Cirugía Vascular",
+   "procedimiento": "Expediente A/SUM-001813/2026 (ref. C12083) – procedimiento abierto simplificado, 5 lotes",
+   "objeto": "Catéteres balón de angioplastia (semidistensible y con paclitaxel) y guías de angioplastia",
+   "rubro": "cardiovascular",
+   "proveedor": "Medtronic Ibérica, S.A.",
+   "monto": 97811.5,
+   "moneda": "EUR",
+   "detalle": "Medtronic Ibérica se adjudicó 2 de los 5 lotes: catéter balón semidistensible (27.263,00 EUR) y catéter balón con paclitaxel 4-7 mm (70.548,50 EUR), sin impuestos. Los otros lotes del mismo expediente se adjudicaron a Sieben Soluciones Clínicas Sanitarias (15.597,60 EUR) y Biotronik Spain (6.936,00 EUR); un lote quedó desierto. Contrato formalizado el 6/10/2026, tras un recurso resuelto el 4/9/2026. Duración: 9 meses.",
+   "vence": "2027-07-06",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/294249"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Angioplasty balloon catheters (semi-compliant and paclitaxel-coated) and angioplasty guidewires",
+     "detalle": "Medtronic Ibérica was awarded 2 of the 5 lots: semi-compliant balloon catheter (EUR 27,263.00) and 4-7 mm paclitaxel-coated balloon catheter (EUR 70,548.50), excluding tax. The other lots in the same file went to Sieben Soluciones Clínicas Sanitarias (EUR 15,597.60) and Biotronik Spain (EUR 6,936.00); one lot was declared void. Contract signed on 10/6/2026, after an appeal resolved on 9/4/2026. Term: 9 months."
+    }
+   }
+  },
+  {
+   "id": "es-hgugm-palex-circulacion-extracorporea-oct2026",
+   "fecha": "2026-10-01",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital General Universitario Gregorio Marañón (Servicio Madrileño de Salud) – Servicio de Cirugía Cardíaca",
+   "procedimiento": "Expediente A/SUM-018625/2026 (ref. C14254) – procedimiento abierto",
+   "objeto": "Medios necesarios para procedimientos con circulación extracorpórea (sets de perfusión extracorpórea)",
+   "rubro": "cardiovascular",
+   "proveedor": "Palex Medical, S.A.",
+   "monto": 450624,
+   "moneda": "EUR",
+   "detalle": "Único licitador; contrato formalizado el 1/10/2026 por el importe de licitación: 450.624,00 EUR sin impuestos (545.255,04 EUR con impuestos). Valor estimado del acuerdo con prórrogas: 2.343.244,80 EUR. Duración: 12 meses.",
+   "vence": "2027-10-01",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/299193"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supplies required for cardiopulmonary bypass procedures (extracorporeal perfusion sets)",
+     "detalle": "Single bidder; contract signed on 10/1/2026 for the tender amount: EUR 450,624.00 excluding tax (EUR 545,255.04 including tax). Estimated value of the agreement including extensions: EUR 2,343,244.80. Term: 12 months."
+    }
+   }
+  },
+  {
+   "id": "es-hurc-edwards-protesis-mitral-percutanea-sep2026",
+   "fecha": "2026-09-25",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud) – Servicio de Cardiología-Hemodinamia Adultos",
+   "procedimiento": "Expediente A/SUM-000679/2026 (ref. C13771) – procedimiento abierto",
+   "objeto": "Prótesis percutáneas mitrales",
+   "rubro": "cardiovascular",
+   "proveedor": "Edwards Lifesciences, S.L.",
+   "monto": 105000,
+   "moneda": "EUR",
+   "detalle": "Oferta única; adjudicación publicada el 25/9/2026 por 105.000,00 EUR sin impuestos (115.500,00 EUR con impuestos), sobre un presupuesto de licitación de igual importe. La ficha pública no indica fecha de formalización del contrato.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/298008"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Percutaneous mitral valve prostheses",
+     "detalle": "Single bid; award published on 9/25/2026 for EUR 105,000.00 excluding tax (EUR 115,500.00 including tax), matching the tender budget. The public record does not state a contract signing date."
+    }
+   }
+  },
+  {
+   "id": "es-hue-zimmerbiomet-protesis-cadera-sep2026",
+   "fecha": "2026-09-03",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario El Escorial (Servicio Madrileño de Salud) – Servicio de Traumatología",
+   "procedimiento": "Expediente A/SUM-009752/2026 (ref. C13039) – procedimiento abierto, 3 lotes",
+   "objeto": "Sistema de revisión de prótesis total de cadera (lote 3 de un acuerdo de prótesis de cadera y equipamiento asociado)",
+   "rubro": "traumatologia",
+   "proveedor": "Zimmer Biomet Spain, S.L.U.",
+   "monto": 13152.5,
+   "moneda": "EUR",
+   "detalle": "Adjudicación del lote 3 (sistema de revisión de prótesis total de cadera); contrato formalizado el 3/9/2026. El lote 1 (prótesis total de cadera no cementada y cerámica) quedó desierto; el resultado del lote 2 (prótesis bipolar) no figura con claridad en la ficha pública y no se incluye en este importe. Duración: 12 meses.",
+   "vence": "2027-09-03",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/295017"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Total hip replacement revision system (lot 3 of a hip prosthesis and related equipment framework)",
+     "detalle": "Award of lot 3 (total hip replacement revision system); contract signed on 9/3/2026. Lot 1 (uncemented ceramic total hip prosthesis) was declared void; the result for lot 2 (bipolar prosthesis) is not clearly stated in the public record and is not included in this amount. Term: 12 months."
+    }
+   }
+  },
+  {
+   "id": "es-hgugm-biotronik-cateter-balon-paclitaxel-mar2026",
+   "fecha": "2026-03-25",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital General Universitario Gregorio Marañón (Servicio Madrileño de Salud) – Servicio de Cardiología",
+   "procedimiento": "Expediente A/SUM-000112/2026 (ref. C11955) – procedimiento abierto simplificado",
+   "objeto": "Catéter con balón recubierto con fármaco paclitaxel para angioplastia coronaria",
+   "rubro": "cardiovascular",
+   "proveedor": "Biotronik Spain, S.A.",
+   "monto": 70380,
+   "moneda": "EUR",
+   "detalle": "Adjudicación publicada el 27/2/2026; contrato formalizado el 25/3/2026 por 70.380,00 EUR sin impuestos (85.159,80 EUR con impuestos), con 3 ofertas recibidas. Duración: 36 meses.",
+   "vence": "2029-03-25",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/294005"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Paclitaxel drug-coated balloon catheter for coronary angioplasty",
+     "detalle": "Award published on 2/27/2026; contract signed on 3/25/2026 for EUR 70,380.00 excluding tax (EUR 85,159.80 including tax), with 3 bids received. Term: 36 months."
+    }
+   }
+  }
+ ]
 }

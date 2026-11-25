@@ -2,6 +2,31 @@
  "actualizado": "2026-11-25",
  "noticias": [
   {
+   "id": "co-invima-165-164-2026-philips-rayosx-arcoenc-cardiovascular",
+   "nivel": "amarillo",
+   "tipo": "otro",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-25",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por fallas en el sistema de rayos X cardiovascular Allura Xper y en arcos en C quirúrgicos de Philips",
+   "resumen": "El 25 de noviembre el INVIMA publicó dos informes de seguridad de Philips Colombiana S.A.S., en seguimiento: el 165-2026 sobre el sistema de rayos X cardiovascular Allura Xper (registro INVIMA 2019EBC-0002432-R1), por una posible falla en la unidad de distribución de energía que puede impedir el arranque del equipo y dejarlo sin uso clínico; y el 164-2026 sobre los arcos en C para cirugía BV Endura, BV Pulsera, BV Vectra, Veradius y Zenition (registro 2019EBC-0002364-R1), por la posible formación de aire en el aceite del monobloque que puede causar una descarga eléctrica interna (flashover) e interrumpir la emisión de rayos X.",
+   "accion": "Servicios de hemodinamia, cardiología intervencionista y quirófanos que usen estos equipos: contactar a Philips Colombiana por el plan de acción, hacer trazabilidad de los equipos afectados y reportar cualquier falla a Tecnovigilancia.",
+   "comentario": "Una falla que impide el arranque del equipo de rayos X cardiovascular, o que interrumpe la emisión de rayos X de un arco en C a mitad de un procedimiento, puede retrasar o cancelar casos de hemodinamia; conviene monitorear si Philips amplía el alcance a más registros o emite un recall formal.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/sistema-de-rayos-x-cardiovascular"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of faults in Philips's Allura Xper cardiovascular X-ray system and surgical C-arms",
+     "resumen": "On November 25, INVIMA published two safety reports from Philips Colombiana S.A.S., under follow-up: 165-2026 on the Allura Xper cardiovascular X-ray system (INVIMA registration 2019EBC-0002432-R1), over a possible power distribution unit fault that can prevent the unit from starting up and leave it clinically unusable; and 164-2026 on the BV Endura, BV Pulsera, BV Vectra, Veradius and Zenition surgical C-arms (registration 2019EBC-0002364-R1), over possible air formation in the monoblock oil that can cause an internal electrical discharge (flashover) and interrupt X-ray emission.",
+     "accion": "Hemodynamics, interventional cardiology and operating-room services using these units should contact Philips Colombiana for the action plan, trace the affected equipment, and report any fault to Tecnovigilancia.",
+     "comentario": "A fault that prevents the cardiovascular X-ray system from starting, or interrupts X-ray emission from a C-arm mid-procedure, can delay or cancel hemodynamics cases; it is worth watching whether Philips widens the scope to more registrations or issues a formal recall."
+    }
+   }
+  },
+  {
    "id": "co-invima-alertas-dispositivos-24nov2026",
    "nivel": "rojo",
    "tipo": "prohibicion",
@@ -46,6 +71,114 @@
      "resumen": "INVIMA health alert 399-2026, under follow-up (defective product), covers the Treovance abdominal aortic endoprosthesis (INVIMA registration 2024DM-0010887-R1) and the Relay Plus/Relay NBS thoracic vascular endoprosthesis system (registration 2018DM-0000586-R1), from Terumo Colombia Andina. The company reported elevated endotoxin levels in the delivery systems and estimates that about 1% of units could exceed the allowed specification.",
      "accion": "Vascular surgery and hemodynamics services should check their stock of these devices, contact the manufacturer for the action plan, and report any adverse event to Tecnovigilancia.",
      "comentario": "An endotoxin risk in aortic and thoracic endoprostheses is a potentially serious infection event in vascular patients; it is worth watching whether Terumo widens the recall to more lots or registrations."
+    }
+   }
+  },
+  {
+   "id": "co-secop-licitaciones-cardiologia-hemodinamia-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-20",
+   "ambito": "Nacional",
+   "organismo": "SECOP II (varias entidades)",
+   "titulo": "SECOP II: tres licitaciones abiertas por servicios de cardiología intervencionista y hemodinamia en Bogotá, Sucre y Medellín",
+   "resumen": "En SECOP II están abiertas, con cierre en los próximos días, tres licitaciones de servicios de salud cardiovascular: el Hospital Militar Central busca un prestador de cardiología intervencionista y hemodinamia por hasta 4 años (SASS-050-2026-HOMIL, precio base $935.421.133, cierre 27-11-2026); la Regional de Aseguramiento en Salud N°8 de la Policía Nacional busca el servicio de hemodinamia (diagnóstico y tratamiento invasivo de enfermedades cardiovasculares) para sus afiliados en el departamento de Sucre (PN RASES8 MIC 103 2026, precio base $145.000.000, cierre 27-11-2026); y el Dispensario Médico de Medellín, de las Fuerzas Militares, busca un prestador integral que incluya cardiología, hemodinamia, electrofisiología y cirugía cardiovascular para la Regional 7 durante 2027 (476-DMMED-2026, precio base $800.060.000, cierre 01-12-2026).",
+   "accion": "Prestadores de servicios de cardiología intervencionista, hemodinamia y cirugía cardiovascular: revisar los pliegos y presentar oferta antes del cierre de cada proceso en SECOP II.",
+   "comentario": "Las tres licitaciones son de servicios médicos, no de insumos puntuales, pero su volumen conjunto (más de $1.880 millones) es una señal de demanda sostenida de hemodinamia y cardiología intervencionista en el sector público y de las fuerzas armadas; vale la pena seguir a quién se adjudican estos contratos.",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/p6dx-8zbt.json"
+   },
+   "licitaciones": [
+    {
+     "numero": "SASS-050-2026-HOMIL",
+     "objeto": "Prestación de servicios profesionales en cardiología intervencionista y hemodinamia para el Hospital Militar Central",
+     "apertura": "2026-11-27",
+     "hora": "09:00",
+     "monto": 935421133,
+     "lugar": "Bogotá D.C.",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Professional services in interventional cardiology and hemodynamics for Hospital Militar Central"
+      }
+     }
+    },
+    {
+     "numero": "PN RASES8 MIC 103 2026",
+     "objeto": "Prestación de servicios de salud de hemodinamia (diagnóstico y tratamiento invasivo de enfermedades cardiovasculares) para usuarios de la Policía Nacional en Sucre",
+     "apertura": "2026-11-27",
+     "hora": "18:30",
+     "monto": 145000000,
+     "lugar": "Sucre",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Hemodynamics health services (invasive diagnosis and treatment of cardiovascular disease) for National Police users in Sucre"
+      }
+     }
+    },
+    {
+     "numero": "476-DMMED-2026 VF",
+     "objeto": "Prestación de servicios médicos especializados de mediana y alta complejidad, incluida cardiología, hemodinamia, electrofisiología y cirugía cardiovascular, para las Fuerzas Militares (Regional 7), vigencia 2027",
+     "apertura": "2026-12-01",
+     "hora": "17:00",
+     "monto": 800060000,
+     "lugar": "Antioquia (Medellín)",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Specialized medium- and high-complexity medical services, including cardiology, hemodynamics, electrophysiology and cardiovascular surgery, for the Military Forces (Regional 7), for 2027"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "SECOP II: three open tenders for interventional cardiology and hemodynamics services in Bogotá, Sucre and Medellín",
+     "resumen": "SECOP II currently has three open tenders for cardiovascular health services, closing in the coming days: Hospital Militar Central is seeking an interventional cardiology and hemodynamics provider for up to 4 years (SASS-050-2026-HOMIL, base price $935,421,133 COP, closing 11/27/2026); the National Police's Regional Health Insurance Unit N°8 is seeking hemodynamics services (invasive diagnosis and treatment of cardiovascular disease) for its members in Sucre department (PN RASES8 MIC 103 2026, base price $145,000,000 COP, closing 11/27/2026); and the Military Forces' Dispensario Médico de Medellín is seeking a comprehensive provider covering cardiology, hemodynamics, electrophysiology and cardiovascular surgery for Regional 7 through 2027 (476-DMMED-2026, base price $800,060,000 COP, closing 12/01/2026).",
+     "accion": "Providers of interventional cardiology, hemodynamics and cardiovascular surgery services should review the bid documents and submit offers before each process's closing date on SECOP II.",
+     "comentario": "All three tenders are for medical services rather than specific supplies, but their combined volume (over $1.88 billion COP) signals sustained demand for hemodynamics and interventional cardiology in the public sector and the armed forces; worth tracking who wins these contracts."
+    }
+   }
+  },
+  {
+   "id": "co-secop-licitacion-osteosintesis-policia-atlantico-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-20",
+   "ambito": "Atlántico (Soledad)",
+   "organismo": "Regional de Aseguramiento en Salud N°8 (Policía Nacional)",
+   "titulo": "SECOP II: licitación por subasta inversa para material de osteosíntesis de la Policía Nacional en Atlántico",
+   "resumen": "La Regional de Aseguramiento en Salud N°8 de la Policía Nacional abrió, por selección abreviada mediante subasta inversa, el proceso \"Suministro de elementos de osteosíntesis - DEATA\", para material especializado de ortopedia y cirugía plástica reconstructiva destinado a los usuarios y beneficiarios de la Policía Nacional en la Unidad Prestadora de Salud Atlántico. El precio base es de $520.000.000 y el contrato tendría una duración de 7 meses. El cierre para presentar ofertas es el 1 de diciembre de 2026.",
+   "accion": "Proveedores de material de osteosíntesis y ortopedia: revisar el pliego en SECOP II (proceso CO1.BDOS.11103625) y presentar oferta antes del cierre.",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/p6dx-8zbt.json"
+   },
+   "licitaciones": [
+    {
+     "numero": "PN RASES8 SA SI 042 2026",
+     "objeto": "Suministro de elementos de osteosíntesis y material especializado para los servicios de ortopedia y cirugía plástica reconstructiva de la Policía Nacional en el Atlántico",
+     "apertura": "2026-12-01",
+     "hora": "14:40",
+     "monto": 520000000,
+     "lugar": "Atlántico (Soledad)",
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Supply of osteosynthesis items and specialized material for the National Police's orthopedics and reconstructive plastic surgery services in Atlántico"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "SECOP II: reverse-auction tender for osteosynthesis material for the National Police in Atlántico",
+     "resumen": "The National Police's Regional Health Insurance Unit N°8 opened, through an abbreviated reverse-auction process, the \"Supply of osteosynthesis items - DEATA\" tender for specialized orthopedics and reconstructive plastic surgery material for National Police users and beneficiaries at the Atlántico health care unit. The base price is $520,000,000 COP and the contract would run for 7 months. The deadline to submit offers is December 1, 2026.",
+     "accion": "Suppliers of osteosynthesis and orthopedic material should review the bid documents on SECOP II (process CO1.BDOS.11103625) and submit an offer before the closing date."
     }
    }
   },

@@ -2,6 +2,30 @@
  "actualizado": "2026-11-25",
  "adjudicaciones": [
   {
+   "id": "cl-hlh-1057544-351-lp26-medtronic",
+   "fecha": "2026-11-18",
+   "ambito": "Región del Biobío",
+   "organismo": "Servicio de Salud Talcahuano, Hospital Las Higueras",
+   "procedimiento": "Licitación Pública 1057544-351-LP26",
+   "objeto": "Dispositivos médicos de estimulación cardíaca de alta complejidad para la Unidad de Medicina Cardiovascular Integrada (Hemodinamia/Electrofisiología)",
+   "rubro": "cardiovascular",
+   "proveedor": "Comercial Medtronic Chile Ltda.",
+   "monto": 200000000,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación: $320.000.000. Ítems adjudicados a este proveedor: 20 desfibriladores bicamerales cardíacos (incluye electrodo e introductor), código 42203501, a $6.800.000 cada uno ($136.000.000); y 10 generadores desfibriladores DDD con resincronización cardíaca, mismo código, a $6.400.000 cada uno ($64.000.000). Total adjudicado: $200.000.000. Participaron 2 oferentes. Publicación: 21-10-2026; cierre de ofertas: 10-11-2026; adjudicación: 18-11-2026. Contrato de 12 meses, renovable una sola vez por hasta 12 meses más; firma de contrato estimada el 08-01-2027. Garantía de fiel cumplimiento (5%) con vencimiento el 31-05-2028.",
+   "vence": null,
+   "fuente": {
+    "nombre": "TodoLicitaciones (datos de Mercado Público) / Mercado Público",
+    "url": "https://www.todolicitaciones.cl/licitacion/1057544-351-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "High-complexity cardiac stimulation medical devices for the Integrated Cardiovascular Medicine Unit (Hemodynamics/Electrophysiology)",
+     "detalle": "Total estimated tender value: $320,000,000 CLP. Items awarded to this supplier: 20 dual-chamber implantable cardioverter-defibrillators (including electrode and introducer), code 42203501, at $6,800,000 CLP each ($136,000,000 total); and 10 DDD defibrillator generators with cardiac resynchronization, same code, at $6,400,000 CLP each ($64,000,000 total). Total awarded: $200,000,000 CLP. 2 bidders participated. Published: 10/21/2026; bid closing: 11/10/2026; award: 11/18/2026. Contract term of 12 months, renewable once for up to 12 more months; estimated contract signing on 01/08/2027. Performance bond (5%) expiring 05/31/2028."
+    }
+   }
+  },
+  {
    "id": "cl-int-1499-84-lp26-salinas-lyon",
    "fecha": "2026-05-27",
    "ambito": "Nacional",
@@ -22,6 +46,54 @@
     "en": {
      "objeto": "Cardiac prostheses on consignment (Gelweave vascular grafts/endoprostheses)",
      "detalle": "Total estimated tender value: $345,641,500 CLP. The reported amount is the sum of 3 purchase orders (1499-5251-SE26 of 10/01/2026: $10,115,000; 1499-4181-SE26 of 08/11/2026: $10,115,000; 1499-4045-SE26 of 08/03/2026: $4,855,200). Confirmed line items (quantities, no unit price): Gelweave Ante-Flo graft, 20 units; Gelweave 4-branch, 55 units; Gelweave Siena (26-32), 1 global lot; Valsalva prosthesis (26-32), 1 global lot; straight vascular graft 20-34mm x 12.5cm, 1 global lot; ringed straight vascular graft, 300 units. The tender had 3 bidders and 2 awardees; only this supplier could be confirmed."
+    }
+   }
+  },
+  {
+   "id": "cl-int-1499-24-lp26-m-kaplan",
+   "fecha": "2026-05-27",
+   "ambito": "Región Metropolitana",
+   "organismo": "Instituto Nacional del Tórax",
+   "procedimiento": "Licitación Pública 1499-24-LP26",
+   "objeto": "Válvulas mecánicas para cirugía cardíaca: prótesis valvular aórtica tipo Regent o equivalente",
+   "rubro": "cardiovascular",
+   "proveedor": "M. Kaplan y Cía. Ltda.",
+   "monto": 95000000,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación (ambos ítems): $345.415.400. Este proveedor se adjudicó 50 unidades de prótesis valvular aórtica tipo Regent o equivalente, a $1.900.000 cada una ($95.000.000 total); debe entregar al menos un juego de probadores antes de iniciar el contrato. El otro ítem de la misma licitación (150 prótesis mecánicas bivalvas de titanio con velos de carbón pirolítico, $163.500.000) fue adjudicado a Arlab Ltda. Participaron 3 oferentes, entre ellos Importadora y Distribuidora Arquimed Ltda., que ofertó ambos ítems por un monto combinado de $240.000.000 (menor a la suma adjudicada) pero no resultó adjudicada en ninguno. Adjudicación: 27-05-2026. Contrato de 24 meses sin renovación. Garantía de fiel cumplimiento (5%) con vencimiento el 10-08-2028.",
+   "vence": null,
+   "fuente": {
+    "nombre": "TodoLicitaciones (datos de Mercado Público) / Mercado Público",
+    "url": "https://www.todolicitaciones.cl/licitacion/1499-24-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Mechanical heart valves for cardiac surgery: Regent-type or equivalent aortic valve prosthesis",
+     "detalle": "Total estimated tender value (both items): $345,415,400 CLP. This supplier was awarded 50 units of a Regent-type or equivalent aortic valve prosthesis, at $1,900,000 CLP each ($95,000,000 total); it must deliver at least one set of sizers before the contract starts. The tender's other item (150 titanium bileaflet mechanical prostheses with pyrolytic carbon leaflets, $163,500,000 CLP) was awarded to Arlab Ltda. 3 bidders participated, including Importadora y Distribuidora Arquimed Ltda., which bid on both items for a combined $240,000,000 CLP (lower than the combined award) but was not awarded either item. Award date: 05/27/2026. Contract term: 24 months, non-renewable. Performance bond (5%) expiring 08/10/2028."
+    }
+   }
+  },
+  {
+   "id": "cl-int-1499-24-lp26-arlab",
+   "fecha": "2026-05-27",
+   "ambito": "Región Metropolitana",
+   "organismo": "Instituto Nacional del Tórax",
+   "procedimiento": "Licitación Pública 1499-24-LP26",
+   "objeto": "Válvulas mecánicas para cirugía cardíaca: prótesis mecánica bivalva de titanio con velos de carbón pirolítico",
+   "rubro": "cardiovascular",
+   "proveedor": "Arlab Ltda. (Artículos, Equipos y Productos para la Medicina, Laboratorios y la Industria Ltda.)",
+   "monto": 163500000,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación (ambos ítems): $345.415.400. Este proveedor se adjudicó 150 unidades de prótesis mecánica bivalva de titanio con velos de carbón pirolítico, a $1.090.000 cada una ($163.500.000 total); debe adjuntar tabla de mismatch (EOAI) y al menos dos juegos completos de probadores con su caja de esterilización. El otro ítem de la misma licitación (50 prótesis valvulares aórticas tipo Regent, $95.000.000) fue adjudicado a M. Kaplan y Cía. Ltda. Participaron 3 oferentes, entre ellos Importadora y Distribuidora Arquimed Ltda., que ofertó ambos ítems por un monto combinado de $240.000.000 (menor a la suma adjudicada) pero no resultó adjudicada en ninguno. Adjudicación: 27-05-2026. Contrato de 24 meses sin renovación. Garantía de fiel cumplimiento (5%) con vencimiento el 10-08-2028.",
+   "vence": null,
+   "fuente": {
+    "nombre": "TodoLicitaciones (datos de Mercado Público) / Mercado Público",
+    "url": "https://www.todolicitaciones.cl/licitacion/1499-24-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Mechanical heart valves for cardiac surgery: titanium bileaflet mechanical prosthesis with pyrolytic carbon leaflets",
+     "detalle": "Total estimated tender value (both items): $345,415,400 CLP. This supplier was awarded 150 units of a titanium bileaflet mechanical prosthesis with pyrolytic carbon leaflets, at $1,090,000 CLP each ($163,500,000 total); it must submit an effective orifice area index (EOAI) mismatch table and at least two complete sets of sizers with a sterilization case. The tender's other item (50 Regent-type aortic valve prostheses, $95,000,000 CLP) was awarded to M. Kaplan y Cía. Ltda. 3 bidders participated, including Importadora y Distribuidora Arquimed Ltda., which bid on both items for a combined $240,000,000 CLP (lower than the combined award) but was not awarded either item. Award date: 05/27/2026. Contract term: 24 months, non-renewable. Performance bond (5%) expiring 08/10/2028."
     }
    }
   },

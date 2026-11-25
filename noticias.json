@@ -2,6 +2,227 @@
  "actualizado": "2026-11-25",
  "noticias": [
   {
+   "id": "garrahan-lp-101-2026-stent-aortico-balon-angioplastia",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-25",
+   "ambito": "Nación",
+   "organismo": "Hospital de Pediatría Garrahan",
+   "titulo": "El Hospital Garrahan licita un stent aórtico CARDIOVASCULAR y balones de angioplastia de 10 a 30 mm",
+   "resumen": "El Hospital de Pediatría S.A.M.I.C. \"Prof. Dr. Juan P. Garrahan\" llamó a la Licitación Pública 101/2026 para la adquisición de un stent aórtico y balones de angioplastia de 10 a 30 mm de diámetro. La apertura de ofertas es el 11 de diciembre de 2026 a las 11 horas, en la Gerencia de Contrataciones y Suministros (Combate de los Pozos 1881, CABA).",
+   "accion": "Proveedores de dispositivos endovasculares pediátricos deben revisar el pliego antes de la apertura del 11/12.",
+   "fuente": {
+    "nombre": "Boletín Oficial",
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2421077/20261125"
+   },
+   "licitaciones": [
+    {
+     "numero": "Licitación Pública 101/2026",
+     "objeto": "Adquisición de stent aórtico y balón de angioplastia, diámetro 10 a 30 mm",
+     "apertura": "2026-12-11",
+     "hora": "11:00",
+     "lugar": "Gerencia de Contrataciones y Suministros, Combate de los Pozos 1881, CABA",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Purchase of an aortic stent and angioplasty balloon, 10 to 30 mm diameter"
+      }
+     }
+    }
+   ],
+   "comentario": "La compra de un stent aórtico pediátrico junto con balones de angioplastia de un rango amplio de diámetros (10 a 30 mm) confirma demanda sostenida de Garrahan en intervencionismo estructural y vascular de alta complejidad para pacientes pediátricos, un nicho de menor volumen pero de alto valor unitario frente al mercado adulto de PAMI.",
+   "trad": {
+    "en": {
+     "titulo": "Garrahan Hospital tenders a CARDIOVASCULAR aortic stent and angioplasty balloons, 10 to 30 mm",
+     "resumen": "The Hospital de Pediatría \"Prof. Dr. Juan P. Garrahan\" opened Public Tender 101/2026 for the purchase of an aortic stent and angioplasty balloons measuring 10 to 30 mm in diameter. The bid opening is on December 11, 2026 at 11:00, at the Procurement and Supplies Management office (Combate de los Pozos 1881, CABA).",
+     "accion": "Suppliers of pediatric endovascular devices should review the bidding documents before the December 11 opening.",
+     "comentario": "The purchase of a pediatric aortic stent together with angioplasty balloons across a wide diameter range (10 to 30 mm) confirms Garrahan's sustained demand in high-complexity structural and vascular intervention for pediatric patients, a lower-volume but high unit-value niche compared with PAMI's adult market.",
+     "licitaciones": [
+      {
+       "objeto": "Purchase of an aortic stent and angioplasty balloon, 10 to 30 mm diameter"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "pami-aperturas-cardiovascular-27nov-1dic-2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-25",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI suma nuevas compulsas CARDIOVASCULARES entre el 27 de noviembre y el 1° de diciembre: un cardiodesfibrilador subcutáneo, una válvula aórtica transcatéter y un sistema de reparación mitral",
+   "resumen": "El calendario de compulsas abreviadas (CA) de PAMI (Nivel Central) suma nuevas aperturas no publicadas previamente. El 27/11 a las 11 horas abren la CA 1542/26 (cardiodesfibrilador implantable subcutáneo), la CA 1537/26 (válvula aórtica transfemoral transcatéter expandible por balón), la CA 1544/26 (set de punción transeptal y sistema de reparación percutánea de la válvula mitral) y la CA 1535/26 (stent cerebral autoexpandible de 12 x 40 mm). El 30/11 a las 11 horas abre la CA 1548/26 (stent autoexpandible forrado para TIPS). El 1° de diciembre a las 11 horas abren la CA 1545/26 (vaina de acceso transeptal radiolúcida de 13 French con catéter de ablación por campo pulsado, equipo en comodato) y la CA 1551/26 (válvula dedicada para insuficiencia aórtica).",
+   "accion": "Proveedores de dispositivos estructurales (TAVI, reparación mitral), de desfibriladores implantables y de electrofisiología deben revisar los pliegos antes de las aperturas del 27/11, 30/11 y 1°/12.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1542/26",
+     "objeto": "Cardiodesfibrilador implantable subcutáneo",
+     "apertura": "2026-11-27",
+     "hora": "11:00",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Subcutaneous implantable cardioverter-defibrillator"
+      }
+     }
+    },
+    {
+     "numero": "CA 1537/26",
+     "objeto": "Válvula aórtica transfemoral transcatéter expandible por balón",
+     "apertura": "2026-11-27",
+     "hora": "11:00",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Balloon-expandable transfemoral transcatheter aortic valve"
+      }
+     }
+    },
+    {
+     "numero": "CA 1544/26",
+     "objeto": "Set de punción transeptal con aguja y vaina, y sistema de reparación percutánea de la válvula mitral",
+     "apertura": "2026-11-27",
+     "hora": "11:00",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Transseptal puncture set with needle and sheath, and percutaneous mitral valve repair system"
+      }
+     }
+    },
+    {
+     "numero": "CA 1535/26",
+     "objeto": "Stent cerebral autoexpandible, 12 x 40 mm",
+     "apertura": "2026-11-27",
+     "hora": "11:00",
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Self-expanding cerebral stent, 12 x 40 mm"
+      }
+     }
+    },
+    {
+     "numero": "CA 1548/26",
+     "objeto": "Stent autoexpandible forrado para TIPS",
+     "apertura": "2026-11-30",
+     "hora": "11:00",
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Covered self-expanding stent for TIPS"
+      }
+     }
+    },
+    {
+     "numero": "CA 1545/26",
+     "objeto": "Vaina de acceso transeptal radiolúcida unidireccional de 13 French, con conector y catéter de ablación por campo pulsado, equipo en comodato",
+     "apertura": "2026-12-01",
+     "hora": "11:00",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "13 French unidirectional radiolucent transseptal access sheath, with connector and pulsed-field ablation catheter, equipment on loan"
+      }
+     }
+    },
+    {
+     "numero": "CA 1551/26",
+     "objeto": "Válvula dedicada para insuficiencia aórtica",
+     "apertura": "2026-12-01",
+     "hora": "11:00",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Dedicated valve for aortic regurgitation"
+      }
+     }
+    }
+   ],
+   "comentario": "La tanda vuelve a concentrar implantes estructurales de alto valor -un CDI subcutáneo, una válvula aórtica transcatéter balón-expandible, un sistema de reparación mitral y una válvula dedicada para insuficiencia aórtica-, lo que confirma que la renovación de contratos de hemodinamia y electrofisiología de PAMI iniciada a mediados de noviembre se extiende sin pausa hacia diciembre.",
+   "trad": {
+    "en": {
+     "titulo": "PAMI adds new CARDIOVASCULAR tenders between November 27 and December 1: a subcutaneous cardioverter-defibrillator, a transcatheter aortic valve and a mitral repair system",
+     "resumen": "PAMI's (Head Office) abbreviated-tender (CA) schedule adds new openings not previously published. On 11/27 at 11:00, the following open: CA 1542/26 (subcutaneous implantable cardioverter-defibrillator), CA 1537/26 (balloon-expandable transfemoral transcatheter aortic valve), CA 1544/26 (transseptal puncture set and percutaneous mitral valve repair system) and CA 1535/26 (12 x 40 mm self-expanding cerebral stent). On 11/30 at 11:00, CA 1548/26 opens (covered self-expanding stent for TIPS). On 12/1 at 11:00, the following open: CA 1545/26 (13 French radiolucent transseptal access sheath with pulsed-field ablation catheter, equipment on loan) and CA 1551/26 (dedicated valve for aortic regurgitation).",
+     "accion": "Suppliers of structural devices (TAVI, mitral repair), implantable defibrillators and electrophysiology equipment should review the bidding documents before the openings on 11/27, 11/30 and 12/1.",
+     "comentario": "This batch again concentrates high-value structural implants — a subcutaneous ICD, a balloon-expandable transcatheter aortic valve, a mitral repair system and a dedicated valve for aortic regurgitation — confirming that the renewal of PAMI's hemodynamics and electrophysiology contracts that began in mid-November is continuing uninterrupted into December.",
+     "licitaciones": [
+      {
+       "objeto": "Subcutaneous implantable cardioverter-defibrillator"
+      },
+      {
+       "objeto": "Balloon-expandable transfemoral transcatheter aortic valve"
+      },
+      {
+       "objeto": "Transseptal puncture set with needle and sheath, and percutaneous mitral valve repair system"
+      },
+      {
+       "objeto": "Self-expanding cerebral stent, 12 x 40 mm"
+      },
+      {
+       "objeto": "Covered self-expanding stent for TIPS"
+      },
+      {
+       "objeto": "13 French unidirectional radiolucent transseptal access sheath, with connector and pulsed-field ablation catheter, equipment on loan"
+      },
+      {
+       "objeto": "Dedicated valve for aortic regurgitation"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "pami-ca-1546-tornillos-titanio-30nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-25",
+   "ambito": "Nacional",
+   "organismo": "PAMI",
+   "titulo": "PAMI licita seis tornillos fenestrados o canulados de titanio de origen nacional, apertura el 30 de noviembre",
+   "resumen": "El calendario de compulsas abreviadas de PAMI (Nivel Central) suma la CA 1546/26, por seis tornillos fenestrados o canulados de titanio de origen nacional, con apertura el 30 de noviembre a las 11 horas.",
+   "accion": "Proveedores de material de osteosíntesis deben revisar el pliego antes de la apertura del 30/11.",
+   "fuente": {
+    "nombre": "PAMI – Prestadores",
+    "url": "https://prestadores.pami.org.ar/result.php?c=7-1-1-1"
+   },
+   "licitaciones": [
+    {
+     "numero": "CA 1546/26",
+     "objeto": "Seis tornillos fenestrados o canulados de titanio, de origen nacional",
+     "apertura": "2026-11-30",
+     "hora": "11:00",
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Six fenestrated or cannulated titanium screws, domestically sourced"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "PAMI tenders six domestically-sourced fenestrated or cannulated titanium screws, opening November 30",
+     "resumen": "PAMI's (Head Office) abbreviated-tender calendar adds CA 1546/26, for six fenestrated or cannulated titanium screws of domestic origin, opening on November 30 at 11:00.",
+     "accion": "Osteosynthesis material suppliers should review the bidding documents before the November 30 opening.",
+     "licitaciones": [
+      {
+       "objeto": "Six fenestrated or cannulated titanium screws, domestically sourced"
+      }
+     ]
+    }
+   }
+  },
+  {
    "id": "pami-generador-dbs-percept-medtronic-24nov2026",
    "nivel": "verde",
    "tipo": "licitacion",
@@ -150,6 +371,78 @@
      "titulo": "ANMAT bans two osteosynthesis screws after finding traceability irregularities",
      "resumen": "Through Disposition 7476/2026, published in the Official Gazette on November 24, ANMAT banned nationwide the use of two osteosynthesis implants with unverifiable traceability, found during an unscheduled inspection at Cirugia Avenida Group S.R.L. (Corrientes), a facility licensed only for orthopedics: an \"Interferential Blunt Screw\" (\"Tornillo Interferencial Romo\") labeled as 9x30mm but engraved as 10x30mm (titanium, PM 1358-14, code B90-000-02-030, lot B145A2), linked to Metal Gauss S.A.; and a \"Kurosaka Screw\" (7x20mm, code T04.270.020, lot 31104), linked to IMECO, whose manufacturer reported that lot had expired in 2009 despite bearing a sterilization label dated May 2025, a sign of unauthorized repackaging by third parties. The ban applies specifically to those units and lots, not to the brands' entire production.",
      "accion": "Distributors and orthopedic/trauma centers should check they hold no stock from lots B145A2 (Interferential Blunt Screw) or 31104 (Kurosaka Screw) and tighten chain-of-custody and traceability controls for osteosynthesis implants against unauthorized repackaging."
+    }
+   }
+  },
+  {
+   "id": "msal-oncologicos-lp-58-89-92-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "oncologia",
+   "fecha": "2026-11-24",
+   "ambito": "Nación",
+   "organismo": "Ministerio de Salud",
+   "titulo": "El Ministerio de Salud licita tres medicamentos oncológicos de alto costo: atezolizumab, trastuzumab emtansina y bicalutamida con tipiracilo/trifluridina",
+   "resumen": "El Ministerio de Salud (Dirección General de Administración) llamó a tres licitaciones públicas bajo la modalidad de orden de compra abierta para la provisión y distribución nacional de medicamentos oncológicos de alto costo: la Licitación Pública 0058/2026 (bicalutamida 50 mg y tipiracilo 8,19 mg + trifluridina 20 mg), con apertura el 9 de diciembre a las 11 horas; la Licitación Pública 0092/2026 (atezolizumab 1200 mg/20 ml), con apertura el 9 de diciembre a las 11 horas; y la Licitación Pública 0089/2026 (trastuzumab emtansina 100 mg y 160 mg), con apertura el 10 de diciembre a las 11 horas. Las tres se tramitan por acto público electrónico a través de COMPR.AR.",
+   "accion": "Droguerías y distribuidores de medicación oncológica de alto costo deben evaluar presentarse en estas tres licitaciones antes de sus respectivas aperturas del 9 y 10 de diciembre.",
+   "fuente": {
+    "nombre": "Boletín Oficial",
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420948/20261124"
+   },
+   "licitaciones": [
+    {
+     "numero": "Licitación Pública 0058/2026",
+     "objeto": "Provisión y distribución nacional de bicalutamida 50 mg y tipiracilo 8,19 mg + trifluridina 20 mg",
+     "apertura": "2026-12-09",
+     "hora": "11:00",
+     "rubro": "oncologia",
+     "trad": {
+      "en": {
+       "objeto": "National supply and distribution of bicalutamide 50 mg and tipiracil 8.19 mg + trifluridine 20 mg"
+      }
+     }
+    },
+    {
+     "numero": "Licitación Pública 0092/2026",
+     "objeto": "Provisión y distribución nacional de atezolizumab 1200 mg/20 ml",
+     "apertura": "2026-12-09",
+     "hora": "11:00",
+     "rubro": "oncologia",
+     "trad": {
+      "en": {
+       "objeto": "National supply and distribution of atezolizumab 1200 mg/20 ml"
+      }
+     }
+    },
+    {
+     "numero": "Licitación Pública 0089/2026",
+     "objeto": "Provisión y distribución nacional de trastuzumab emtansina 100 mg y 160 mg",
+     "apertura": "2026-12-10",
+     "hora": "11:00",
+     "rubro": "oncologia",
+     "trad": {
+      "en": {
+       "objeto": "National supply and distribution of trastuzumab emtansine 100 mg and 160 mg"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Ministry of Health tenders three high-cost oncology drugs: atezolizumab, trastuzumab emtansine, and bicalutamide with tipiracil/trifluridine",
+     "resumen": "The Ministry of Health (General Administration Directorate) issued three public tenders under an open purchase order arrangement for the national supply and distribution of high-cost oncology drugs: Public Tender 0058/2026 (bicalutamide 50 mg and tipiracil 8.19 mg + trifluridine 20 mg), opening December 9 at 11:00; Public Tender 0092/2026 (atezolizumab 1200 mg/20 ml), opening December 9 at 11:00; and Public Tender 0089/2026 (trastuzumab emtansine 100 mg and 160 mg), opening December 10 at 11:00. All three are conducted through an electronic public act via COMPR.AR.",
+     "accion": "Wholesalers and distributors of high-cost oncology medication should consider bidding on these three tenders before their respective openings on December 9 and 10.",
+     "licitaciones": [
+      {
+       "objeto": "National supply and distribution of bicalutamide 50 mg and tipiracil 8.19 mg + trifluridine 20 mg"
+      },
+      {
+       "objeto": "National supply and distribution of atezolizumab 1200 mg/20 ml"
+      },
+      {
+       "objeto": "National supply and distribution of trastuzumab emtansine 100 mg and 160 mg"
+      }
+     ]
     }
    }
   },

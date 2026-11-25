@@ -40,6 +40,44 @@
    ]
   },
   {
+   "id": "br-ms-dlog-raiosx-pregao90128-02dec2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-25",
+   "ambito": "federal",
+   "organismo": "Ministerio da Saude - Departamento de Logistica em Saude (DLOG), UASG 250005",
+   "titulo": "Brazil's Health Ministry opens tender for 1,000 mobile digital X-ray units for the public hospital network",
+   "resumen": "Pregao Eletronico no 90128/2026 (SRP), run by the Ministry of Health's Department of Health Logistics (DLOG, UASG 250005), is tendering a price registration for 1,000 mobile digital X-ray units (aparelhos de Raios-X Movel Digital) for the national health system. The proposal session opens December 2, 2026 at 09:00 Brasilia time; the estimated value and CATMAT code are not disclosed in the published notice.",
+   "accion": "Medical-imaging equipment manufacturers and distributors should review the edital on the Ministry of Health's tender page and submit proposals before the December 2 opening session; the volume (1,000 units) makes this one of the larger federal medical-equipment purchases of the quarter.",
+   "fuente": {
+    "nombre": "Ministerio da Saude",
+    "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/licitacoes-e-contratos/pregoes/2026/pregao-eletronico-no-90128-2026-dlog"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Brasil abre una licitación por 1.000 aparatos de rayos X móviles digitales para la red hospitalaria pública",
+     "resumen": "El Pregão Eletrônico n° 90128/2026 (SRP), a cargo del Departamento de Logística en Salud (DLOG, UASG 250005) del Ministerio de Salud, licita el registro de precios de 1.000 aparatos de rayos X móviles digitales para el sistema público de salud. La sesión de propuestas abre el 2 de diciembre de 2026 a las 09:00 hora de Brasilia; el valor estimado y el código CATMAT no se informan en el edital publicado.",
+     "accion": "Los fabricantes y distribuidores de equipamiento de diagnóstico por imágenes deberían revisar el edital en la página de licitaciones del Ministerio de Salud y presentar propuestas antes de la sesión de apertura del 2 de diciembre; el volumen (1.000 unidades) la convierte en una de las mayores compras federales de equipamiento médico del trimestre."
+    }
+   },
+   "licitaciones": [
+    {
+     "numero": "Pregao Eletronico 90128/2026",
+     "objeto": "Registro de precos para aquisicao de 1.000 aparelhos de Raios-X Movel Digital",
+     "apertura": "2026-12-02",
+     "hora": "09:00",
+     "lugar": "Ministerio da Saude - DLOG (federal)",
+     "rubro": "dispositivos",
+     "trad": {
+      "es": {
+       "objeto": "Registro de precios para la adquisición de 1.000 aparatos de rayos X móviles digitales"
+      }
+     }
+    }
+   ]
+  },
+  {
    "id": "br-sespsp-ebserh-stent-hemodinamica-27nov2026",
    "nivel": "amarillo",
    "fecha": "2026-11-24",
@@ -185,6 +223,29 @@
        "objeto": "Material médico-hospitalario para procedimientos quirúrgicos de ortopedia oncológica"
       }
      ]
+    }
+   }
+  },
+  {
+   "id": "br-anvisa-alert-5397-impol-eccentra-eurotop-recall",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-23",
+   "ambito": "federal",
+   "organismo": "ANVISA (Agencia Nacional de Vigilancia Sanitaria)",
+   "titulo": "ANVISA orders recall of Impol shoulder and lower-limb implants after banning a stainless steel raw material used in their manufacture",
+   "resumen": "ANVISA Tecnovigilancia Alert 5397 (November 23, 2026) reports that Impol Instrumental e Implantes Ltda is recalling three implant lines - the Eccentra I, II and Short II shoulder prostheses (registration 10108770083), the Eccentra II modular shoulder arthroplasty system (registration 10108770122), and the Eurotop lower-limb endoprostheses (registration 10108770118) - after ANVISA's Resolution RE No. 3785/2026 banned implants made with a solubilized cast stainless steel specified under a now-cancelled technical standard (ABNT NBR 15628-1:2020). The Class IV devices were distributed across 23 Brazilian states and 8 other countries (Bolivia, Ecuador, Honduras, Nicaragua, Paraguay, Peru, Uruguay and Venezuela); the company identified the issue on September 28, 2026 and is destroying the affected stock.",
+   "accion": "Orthopedic surgeons, hospital purchasing departments and distributors handling Impol Eccentra and Eurotop implants should stop using and distributing the affected lots immediately, segregate and identify them using the serial numbers listed in the company's customer letter, and report any related adverse events through Notivisa citing Alert 5397.",
+   "fuente": {
+    "nombre": "Legismap / ANVISA (Alerta de Tecnovigilancia 5397)",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-23-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "ANVISA ordena el retiro de implantes de hombro y miembro inferior de Impol tras prohibir una materia prima de acero inoxidable",
+     "resumen": "El Alerta de Tecnovigilancia 5397 de ANVISA (23 de noviembre de 2026) informa que Impol Instrumental e Implantes Ltda. está retirando tres líneas de implantes -las prótesis de hombro Eccentra I, II y II Corta (registro 10108770083), el sistema modular de artroplastia de hombro Eccentra II (registro 10108770122) y las endoprótesis de miembro inferior Eurotop (registro 10108770118)- después de que la Resolución RE N° 3785/2026 de ANVISA prohibiera la fabricación de implantes con acero inoxidable fundido solubilizado conforme a una norma técnica ahora cancelada (ABNT NBR 15628-1:2020). Los dispositivos de Clase IV se distribuyeron en 23 estados brasileños y 8 países (Bolivia, Ecuador, Honduras, Nicaragua, Paraguay, Perú, Uruguay y Venezuela); la empresa detectó el problema el 28 de septiembre de 2026 y está destruyendo el stock afectado.",
+     "accion": "Los cirujanos ortopédicos, los departamentos de compras hospitalarias y los distribuidores que manejen implantes Eccentra y Eurotop de Impol deben dejar de usar y distribuir de inmediato los lotes afectados, segregarlos e identificarlos según los números de serie indicados en la carta a clientes de la empresa, y reportar cualquier evento adverso relacionado a través de Notivisa citando el Alerta 5397."
     }
    }
   },

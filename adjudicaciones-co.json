@@ -26,6 +26,30 @@
    }
   },
   {
+   "id": "co-sta-isabel-11179268-winmedik-desfibriladores",
+   "fecha": "2026-11-13",
+   "ambito": "Antioquia (San Pedro de los Milagros)",
+   "organismo": "E.S.E. Hospital Santa Isabel",
+   "procedimiento": "Proceso de contratación CO1.BDOS.11179268 (contrato CS-23-2026)",
+   "objeto": "Suministro de equipamiento biomédico y mobiliario hospitalario: dos desfibriladores, un succionador portátil y un carro de paro",
+   "rubro": "cardiovascular",
+   "proveedor": "Winmedik SAS",
+   "monto": 48987540,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios por ítem ni la marca o modelo de los desfibriladores.",
+   "vence": "2026-12-11",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of biomedical equipment and hospital furniture: two defibrillators, a portable suction unit and a crash cart",
+     "detalle": "The contracts dataset does not report per-item unit prices or the defibrillators' brand or model."
+    }
+   }
+  },
+  {
    "id": "co-huis-11148237-atx-acelerador-lineal",
    "fecha": "2026-11-09",
    "ambito": "Santander",
@@ -46,6 +70,54 @@
     "en": {
      "objeto": "Preventive and corrective maintenance of the hospital's Siemens Mevatron linear accelerator",
      "detalle": "Maintenance service contract, not a supply of consumables; the dataset does not break down the value by visit or part."
+    }
+   }
+  },
+  {
+   "id": "co-fllera-ibague-11042284-abbott-hemodinamia",
+   "fecha": "2026-11-05",
+   "ambito": "Tolima (Ibagué)",
+   "organismo": "Hospital Federico Lleras Acosta de Ibagué E.S.E.",
+   "procedimiento": "Proceso de contratación CO1.BDOS.11042284 (contrato 2026-0700)",
+   "objeto": "Suministro de dispositivos médicos especializados para la atención de pacientes en los servicios de hemodinamia, neurointervencionismo y radiología intervencionista",
+   "rubro": "cardiovascular",
+   "proveedor": "Abbott Laboratories de Colombia S.A.S",
+   "monto": 150000000,
+   "moneda": "COP",
+   "detalle": "El dataset de contratos no informa precios unitarios ni cantidades por ítem; los dispositivos se entregan conforme a especificaciones técnicas y necesidades clínicas formuladas por el cuerpo médico del hospital. El mismo proveedor y entidad tuvieron un contrato equivalente anterior por $300.000.000 COP, firmado el 06-05-2026, vigente hasta el 19-10-2026.",
+   "vence": "2027-03-17",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of specialized medical devices for patient care in the hemodynamics, neurointervention and interventional radiology services",
+     "detalle": "The contracts dataset does not report unit prices or per-item quantities; devices are supplied according to technical specifications and clinical needs set by the hospital's medical staff. The same supplier and entity had an equivalent prior contract for $300,000,000 COP, signed 05/06/2026, running through 10/19/2026."
+    }
+   }
+  },
+  {
+   "id": "co-sena-bolivar-11025715-centro-radio-oncologico-caribe",
+   "fecha": "2026-11-05",
+   "ambito": "Bolívar (Cartagena)",
+   "organismo": "SENA Regional Bolívar",
+   "procedimiento": "Proceso de contratación CO1.BDOS.11025715",
+   "objeto": "Servicio de salud integral en oncología (consultas especializadas, radioterapias, braquiterapias, quimioterapias y cuidados paliativos) para afiliados al Servicio Médico Asistencial del SENA Regional Bolívar",
+   "rubro": "oncologia",
+   "proveedor": "Centro Radio Oncológico del Caribe SAS",
+   "monto": 30000000,
+   "moneda": "COP",
+   "detalle": "Es un contrato de servicios integrales de atención oncológica (tipo paquete), no una adjudicación de un insumo o medicamento oncológico puntual con precio unitario.",
+   "vence": "2026-12-31",
+   "fuente": {
+    "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
+    "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Comprehensive oncology health service (specialist consultations, radiotherapy, brachytherapy, chemotherapy and palliative care) for members of SENA Regional Bolívar's medical assistance service",
+     "detalle": "This is a comprehensive, package-style oncology care services contract, not an award for a specific oncology drug or supply with a unit price."
     }
    }
   },

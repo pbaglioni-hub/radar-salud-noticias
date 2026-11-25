@@ -63,6 +63,109 @@
    }
   },
   {
+   "id": "mx-heilsa-lifescience-inhabilitacion-dof-nov2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "otros",
+   "fecha": "2026-11-24",
+   "ambito": "Mexico",
+   "organismo": "Secretaria Anticorrupcion y Buen Gobierno (Direccion General de Controversias y Sanciones en Contrataciones Publicas)",
+   "titulo": "Heilsa Lifescience barred for nearly 17 months from new public contracts",
+   "resumen": "On November 24 the Secretaria Anticorrupcion y Buen Gobierno's Direccion General de Controversias y Sanciones en Contrataciones Publicas published Circular No. 18/2026, debarring Heilsa Lifescience, S.A. de C.V. from new public procurement for 16 months and 24 days, under sanctioning case file SAN/016/2026, concluded November 5, 2026. The circular, signed by Director General Maria Guadalupe Vargas Alvarez, does not state the conduct that triggered the sanction. The ban covers new bids and contract awards across public institutions; previously formalized contracts are unaffected under article 163 of the LAASSP regulation. A fine was also imposed, and the debarment continues beyond its term if the fine is unpaid. Two public contracts previously identified for the company total MXN 127,690,997.43, though this does not represent its full procurement volume.",
+   "accion": "Procurement and compliance teams should check whether Heilsa Lifescience is a current or prospective supplier and avoid awarding it any new public contract while the debarment is in force.",
+   "fuente": {
+    "nombre": "Consultor Salud Mexico (citing DOF Circular 18/2026)",
+    "url": "https://consultorsalud.com.mx/heilsa-lifescience-inhabilitacion-mexico/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Heilsa Lifescience queda inhabilitada por casi 17 meses para nuevas contrataciones públicas",
+     "resumen": "El 24 de noviembre, la Dirección General de Controversias y Sanciones en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno publicó la Circular No. 18/2026, que inhabilita a Heilsa Lifescience, S.A. de C.V. para nuevas contrataciones públicas por 16 meses y 24 días, en virtud del expediente sancionador SAN/016/2026, concluido el 5 de noviembre de 2026. La circular, firmada por la directora general María Guadalupe Vargas Álvarez, no especifica la conducta que originó la sanción. La inhabilitación abarca nuevas ofertas y adjudicaciones de contratos en instituciones públicas; los contratos ya formalizados no se ven afectados conforme al artículo 163 del Reglamento de la LAASSP. También se impuso una multa, y la inhabilitación se extiende más allá de su plazo si la multa no se paga. Dos contratos públicos previamente identificados de la empresa suman MXN 127,690,997.43, aunque esto no representa la totalidad de su volumen de contrataciones.",
+     "accion": "Los equipos de compras y cumplimiento deberían verificar si Heilsa Lifescience es un proveedor actual o potencial y evitar adjudicarle cualquier nuevo contrato público mientras la inhabilitación esté vigente."
+    }
+   }
+  },
+  {
+   "id": "mx-imss-osteosintesis-ortesis-protesis-nuevas-licitaciones-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-24",
+   "ambito": "Federal",
+   "organismo": "IMSS",
+   "titulo": "IMSS opens two more orthopedic tenders: osteosynthesis material for 2026 and orthoses/prostheses for 2027",
+   "resumen": "Two additional IMSS procedures for orthopedic and trauma supplies appeared on ComprasMX this week, separate from the osteosynthesis/endoprosthesis and prosthesis/orthosis tenders already open at IMSS. IA-50-GYR-050GYR043-T-103-2026, for the supply of osteosynthesis material for fiscal year 2026, was published November 24, 2026 with bid opening November 30, 2026. LA-50-GYR-050GYR024-T-12-2027, for the acquisition, provision, repair or supply of orthoses and prostheses for 2027, was also published November 24, 2026, with bid opening December 9, 2026.",
+   "accion": "Osteosynthesis-material and orthotics/prosthetics suppliers should review the ComprasMX bases for these two additional IMSS procedures ahead of the November 30 and December 9 bid openings.",
+   "fuente": {
+    "nombre": "Postor (ComprasMX data)",
+    "url": "https://postor.com.mx/mercado/material-de-curacion"
+   },
+   "licitaciones": [
+    {
+     "numero": "IA-50-GYR-050GYR043-T-103-2026",
+     "objeto": "Supply of osteosynthesis material for fiscal year 2026",
+     "apertura": "2026-11-30",
+     "rubro": "traumatologia",
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Suministro de material de osteosíntesis para el ejercicio 2026"
+      }
+     }
+    },
+    {
+     "numero": "LA-50-GYR-050GYR024-T-12-2027",
+     "objeto": "Acquisition, provision, repair or supply of orthoses and prostheses (2027)",
+     "apertura": "2026-12-09",
+     "rubro": "traumatologia",
+     "lugar": "IMSS · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición, dotación, reparación o suministro de órtesis y prótesis (2027)"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "es": {
+     "titulo": "El IMSS abre dos licitaciones más de ortopedia: material de osteosíntesis para 2026 y órtesis/prótesis para 2027",
+     "resumen": "Dos procedimientos adicionales del IMSS para insumos de ortopedia y trauma aparecieron esta semana en ComprasMX, distintos de las licitaciones de osteosíntesis/endoprótesis y de prótesis/órtesis ya abiertas en el IMSS. IA-50-GYR-050GYR043-T-103-2026, para el suministro de material de osteosíntesis para el ejercicio fiscal 2026, se publicó el 24 de noviembre de 2026 con apertura de ofertas el 30 de noviembre de 2026. LA-50-GYR-050GYR024-T-12-2027, para la adquisición, dotación, reparación o suministro de órtesis y prótesis para 2027, también se publicó el 24 de noviembre de 2026, con apertura de ofertas el 9 de diciembre de 2026.",
+     "accion": "Los proveedores de material de osteosíntesis y de órtesis/prótesis deberían revisar las bases en ComprasMX de estos dos procedimientos adicionales del IMSS antes de las aperturas del 30 de noviembre y el 9 de diciembre.",
+     "licitaciones": [
+      {
+       "objeto": "Suministro de material de osteosíntesis para el ejercicio 2026"
+      },
+      {
+       "objeto": "Adquisición, dotación, reparación o suministro de órtesis y prótesis (2027)"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "mx-imss-venados-tomografo-256-cortes-nov2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-23",
+   "ambito": "Mexico",
+   "organismo": "IMSS - Hospital General de Zona No. 1-A \"Dr. Antonio de Mucha Macias\" (Hospital Venados, CDMX)",
+   "titulo": "IMSS's Hospital Venados in Mexico City gets its first own 256-slice CT scanner",
+   "resumen": "IMSS reported that Hospital General de Zona No. 1-A 'Dr. Antonio de Mucha Macias' (Hospital Venados), which has operated for more than 50 years, will for the first time operate its own 256-slice CT scanner, a GE HealthCare Revolution CT. Staff training is underway and the equipment is scheduled to begin receiving patients on Friday, November 27, 2026. The acquisition is part of IMSS's 120-day, 12-action plan to modernize hospital equipment; the investment amount was not disclosed.",
+   "accion": "Imaging-equipment vendors and distributors should track further CT and high-tech equipment rollouts to Mexico City IMSS hospitals under the same 120-day plan.",
+   "fuente": {
+    "nombre": "Consultor Salud Mexico",
+    "url": "https://consultorsalud.com.mx/hospital-venados-imss-primera-vez-tomografo/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "El Hospital Venados del IMSS en la Ciudad de México estrena su primer tomógrafo propio de 256 cortes",
+     "resumen": "El IMSS informó que el Hospital General de Zona No. 1-A 'Dr. Antonio de Mucha Macías' (Hospital Venados), que opera desde hace más de 50 años, operará por primera vez un tomógrafo propio de 256 cortes, un equipo Revolution CT de GE HealthCare. La capacitación del personal está en curso y se prevé que el equipo comience a recibir pacientes el viernes 27 de noviembre de 2026. La adquisición forma parte del plan de 12 acciones en 120 días del IMSS para modernizar el equipamiento hospitalario; no se reveló el monto de la inversión.",
+     "accion": "Los proveedores y distribuidores de equipo de imagenología deberían seguir nuevas entregas de tomógrafos y equipo de alta tecnología a hospitales del IMSS en la Ciudad de México dentro del mismo plan de 120 días."
+    }
+   }
+  },
+  {
    "id": "mx-uanl-kits-angiografia-angioplastia-coronaria-endovascular-nov2026",
    "nivel": "amarillo",
    "tipo": "licitacion",
@@ -116,6 +219,29 @@
        "objeto": "Kits para procedimientos de terapia endovascular neurológica"
       }
      ]
+    }
+   }
+  },
+  {
+   "id": "mx-imss-medtronic-elssa-tijuana-nov2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "otros",
+   "fecha": "2026-11-20",
+   "ambito": "Baja California",
+   "organismo": "IMSS / Medtronic",
+   "titulo": "IMSS and Medtronic sign letter of intent for a workplace health clinic at Medtronic's Tijuana plant",
+   "resumen": "IMSS and Medtronic announced on November 20, 2026 a letter of intent to pilot medical offices (consultorios) under IMSS's Entornos Laborales Seguros y Saludables (ELSSA) program at Medtronic's manufacturing facility in Tijuana, Baja California. It was signed by IMSS Director General Zoe Robledo, Medtronic Senior Director of Manufacturing Operations for Baja California Carlos Palou, and Medtronic President and CEO Geoff Martha. The pilot would extend IMSS Family Medicine Unit services on-site (consultations, electronic clinical records, diagnostics including HbA1c, medicines, incapacity certificates, specialist referrals), with IMSS providing clinical staff and Medtronic the physical space. No start date, device types, or investment figures were disclosed. The article describes Medtronic as the first company with which IMSS has built this type of ELSSA clinic collaboration, and notes as background that Medtronic's Tijuana plant manufactures medical devices, including heart valves made by hand.",
+   "accion": "Context: a corporate-site primary-care model IMSS may seek to replicate with other large employers; no procurement or device-purchase details to act on yet.",
+   "fuente": {
+    "nombre": "Consultor Salud Mexico",
+    "url": "https://consultorsalud.com.mx/imss-consultorios-centros-de-trabajo/"
+   },
+   "trad": {
+    "es": {
+     "titulo": "El IMSS y Medtronic firman una carta de intención para un consultorio de salud laboral en la planta de Medtronic en Tijuana",
+     "resumen": "El IMSS y Medtronic anunciaron el 20 de noviembre de 2026 una carta de intención para pilotar consultorios médicos bajo el programa de Entornos Laborales Seguros y Saludables (ELSSA) del IMSS en la planta de manufactura de Medtronic en Tijuana, Baja California. Fue firmada por el director general del IMSS, Zoé Robledo; el director sénior de Operaciones de Manufactura de Medtronic para Baja California, Carlos Palou; y el presidente y director ejecutivo de Medtronic, Geoff Martha. El piloto extendería en el sitio los servicios de una Unidad de Medicina Familiar del IMSS (consultas, expediente clínico electrónico, estudios diagnósticos incluyendo HbA1c, medicamentos, incapacidades, referencias a especialistas), con el IMSS aportando personal clínico y Medtronic el espacio físico. No se reveló fecha de inicio, tipos de dispositivos ni montos de inversión. El artículo describe a Medtronic como la primera empresa con la que el IMSS construye este tipo de colaboración de consultorios ELSSA, y menciona como contexto que la planta de Medtronic en Tijuana fabrica dispositivos médicos, incluyendo válvulas cardíacas hechas a mano.",
+     "accion": "Contexto: un modelo de atención primaria en sede corporativa que el IMSS podría buscar replicar con otros grandes empleadores; aún no hay detalles de compras o de dispositivos sobre los que actuar."
     }
    }
   },

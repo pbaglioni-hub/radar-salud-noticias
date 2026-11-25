@@ -48,6 +48,47 @@
    }
   },
   {
+   "id": "es-hcsc-circulacion-extracorporea-licitacion-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-20",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Servicio Madrileño de Salud (SERMAS) – Hospital Universitario Clínico San Carlos",
+   "titulo": "Cardiovascular: licitación para el suministro de un sistema de circulación extracorpórea (máquina corazón-pulmón) en el Hospital Clínico San Carlos",
+   "resumen": "El Hospital Universitario Clínico San Carlos (Servicio Madrileño de Salud) publicó el anuncio del expediente PAS 2026-7-587 (A/SUM-054342/2026) para el suministro, instalación y puesta en funcionamiento de un sistema de circulación extracorpórea (máquina corazón-pulmón) destinado al servicio de cirugía cardíaca de su instituto cardiovascular. El presupuesto base de licitación es de 115.000,00 EUR sin impuestos (139.150,00 EUR con impuestos), mediante procedimiento abierto simplificado.",
+   "accion": "Proveedores de equipos de circulación extracorpórea y perfusión cardíaca: revisar el pliego en la Plataforma de Contratación del Sector Público (expediente PAS 2026-7-587) antes del 9 de diciembre de 2026.",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/contrato-suministro-instalacion-puesta-funcionamiento-sistema-circulacion"
+   },
+   "licitaciones": [
+    {
+     "numero": "PAS 2026-7-587 (A/SUM-054342/2026)",
+     "objeto": "Suministro, instalación y puesta en funcionamiento de un sistema de circulación extracorpórea (máquina corazón-pulmón) para cirugía cardíaca",
+     "apertura": "2026-12-09",
+     "hora": "23:59",
+     "monto": "115.000,00 EUR (sin impuestos)",
+     "lugar": "Hospital Universitario Clínico San Carlos (Madrid) · cierre de ofertas",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Supply, installation and commissioning of a cardiopulmonary bypass (heart-lung) system for cardiac surgery"
+      }
+     }
+    }
+   ],
+   "comentario": "Equipo clave de quirófano de cirugía cardíaca; el valor es acotado (115.000 EUR) pero marca una renovación de parque de bypass cardiopulmonar que suele anticipar nuevas compras de consumibles de perfusión en el mismo hospital.",
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: tender for a cardiopulmonary bypass (heart-lung) system at Hospital Clínico San Carlos",
+     "resumen": "Hospital Universitario Clínico San Carlos (Madrid regional health service, SERMAS) published the notice for file PAS 2026-7-587 (A/SUM-054342/2026) for the supply, installation and commissioning of a cardiopulmonary bypass (heart-lung) system for the cardiac surgery department of its cardiovascular institute. The base tender budget is EUR 115,000.00 excluding tax (EUR 139,150.00 including tax), under an open simplified procedure.",
+     "accion": "Suppliers of cardiopulmonary bypass and cardiac perfusion equipment should review the tender documents on the Public Sector Procurement Platform (file PAS 2026-7-587) before December 9, 2026.",
+     "comentario": "Key cardiac-surgery OR equipment; the contract value is modest (EUR 115,000) but signals a bypass-system refresh that often precedes follow-on purchases of perfusion consumables at the same hospital."
+    }
+   }
+  },
+  {
    "id": "es-aemps-ps-46-2026-likorall",
    "nivel": "rojo",
    "tipo": "prohibicion",

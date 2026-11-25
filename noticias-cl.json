@@ -359,6 +359,29 @@
      "comentario": "Opening a new hemodynamics unit generates recurring demand for cardiovascular supplies (stents, catheters, balloons) that was previously concentrated in other cities; it is worth monitoring this hospital's first consumables tenders."
     }
    }
+  },
+  {
+   "id": "cl-chilecompra-convenio-marco-ortopedia-trauma-feb2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "traumatologia",
+   "fecha": "2026-02-27",
+   "ambito": "Nacional",
+   "organismo": "ChileCompra (Dirección de Compra y Contratación Pública)",
+   "titulo": "Traumatología: ChileCompra adjudica el nuevo Convenio Marco de Endoprótesis, Ortopedia y Trauma a 36 proveedores",
+   "resumen": "La Dirección de Compra y Contratación Pública (ChileCompra) adjudicó el nuevo Convenio Marco de Endoprótesis, Ortopedia y Trauma (licitación 2239-15-LR25) a 36 proveedores, que abastecerán a la red pública de salud con 268 productos en cuatro categorías: endoprótesis de trauma y ortopedia (prótesis de cadera, rodilla y hombro), equipos médicos y complementos operatorios, dispositivos para osteosíntesis y sistemas de fijación de trauma. El convenio permite compras en tránsito y a consignación, con montos de entre 30 y 25.000 UTM por operación, y tiene una vigencia de 36 meses prorrogables por 12 meses más. La tienda electrónica del convenio se habilitó en Mercado Público a partir de abril de 2026, una vez acreditados los proveedores.",
+   "accion": "Proveedores de endoprótesis, osteosíntesis y fijación de trauma: verificar si están entre los 36 adjudicatarios y revisar el catálogo de 268 productos habilitado en la tienda electrónica de Mercado Público (convenio marco 2239-15-LR25) para participar de las órdenes de compra de hospitales de todo el país.",
+   "fuente": {
+    "nombre": "ChileCompra",
+    "url": "https://www.chilecompra.cl/2026/02/nuevo-convenio-marco-de-endoprotesis-ortopedia-y-trauma-fortalece-eficiencia-de-abastecimiento-hospitalario-de-la-red-publica-de-salud/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Trauma: ChileCompra awards new Framework Agreement for Orthopedic and Trauma Endoprostheses to 36 suppliers",
+     "resumen": "Chile's Public Procurement Directorate (ChileCompra) awarded the new Framework Agreement for Orthopedic and Trauma Endoprostheses (tender 2239-15-LR25) to 36 suppliers, who will supply the public health network with 268 products across four categories: trauma and orthopedic endoprostheses (hip, knee and shoulder prostheses), surgical support equipment, osteosynthesis devices, and trauma fixation systems. The agreement allows in-transit and consignment purchases, with per-order values between 30 and 25,000 UTM, and runs for 36 months, extendable by a further 12. The agreement's electronic store went live on Mercado Público starting in April 2026, once suppliers were accredited.",
+     "accion": "Suppliers of endoprostheses, osteosynthesis and trauma fixation devices should check whether they are among the 36 awarded suppliers and review the 268-product catalog enabled on the Mercado Público electronic store (framework agreement 2239-15-LR25) to take part in purchase orders from hospitals nationwide."
+    }
+   }
   }
  ]
 }
