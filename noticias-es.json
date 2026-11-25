@@ -1,0 +1,97 @@
+{
+ "actualizado": "2026-11-25",
+ "noticias": [
+  {
+   "id": "es-aemps-ps-48-2026-esenta-stomahesive",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-23",
+   "ambito": "Nacional",
+   "organismo": "Agencia Española de Medicamentos y Productos Sanitarios (AEMPS)",
+   "titulo": "AEMPS: retiro de determinadas pastas Esenta Stomahesive por posible contaminación con material extraño",
+   "resumen": "La AEMPS publicó la Nota Informativa de productos sanitarios 48/2026, en la que informa de la retirada de determinadas pastas Esenta Stomahesive debido a la posibilidad de contaminación con material extraño.",
+   "accion": "Hospitales, farmacias y distribuidores: verificar en la nota de la AEMPS los productos y lotes afectados, retirarlos y seguir sus indicaciones.",
+   "fuente": {
+    "nombre": "AEMPS – Notas informativas de productos sanitarios",
+    "url": "https://www.aemps.gob.es/informa/la-aemps-informa-de-la-retirada-de-determinadas-pastas-esenta-stomahesive-debido-a-la-posibilidad-de-contaminacion-con-material-extrano/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "AEMPS: recall of certain Esenta Stomahesive pastes due to possible contamination with foreign material",
+     "resumen": "AEMPS published Medical Device Information Note 48/2026 reporting the withdrawal of certain Esenta Stomahesive pastes due to possible contamination with foreign material.",
+     "accion": "Hospitals, pharmacies and distributors: check the affected products and lots in the AEMPS note, withdraw them and follow its instructions."
+    }
+   }
+  },
+  {
+   "id": "es-aemps-ps-47-2026-nanjing-bestview-ce-falso",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-20",
+   "ambito": "Nacional",
+   "organismo": "Agencia Española de Medicamentos y Productos Sanitarios (AEMPS)",
+   "titulo": "AEMPS detecta un certificado de marcado CE falsificado de la empresa Nanjing Bestview Laser S&T Co., Ltd.",
+   "resumen": "La AEMPS publicó la Nota Informativa de productos sanitarios 47/2026 sobre la detección de un certificado de marcado CE falsificado de la empresa Nanjing Bestview Laser S&T Co., Ltd.",
+   "accion": "Importadores, distribuidores y compradores: comprobar si comercializan o usan productos de este fabricante y revisar la nota de la AEMPS antes de seguir operando con ellos.",
+   "fuente": {
+    "nombre": "AEMPS – Notas informativas de productos sanitarios",
+    "url": "https://www.aemps.gob.es/informa/la-aemps-informa-sobre-la-deteccion-de-un-certificado-de-marcado-ce-falsificado-de-la-empresa-nanjing-bestview-laser-st-co-ltd/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "AEMPS detects a counterfeit CE marking certificate from Nanjing Bestview Laser S&T Co., Ltd.",
+     "resumen": "AEMPS published Medical Device Information Note 47/2026 on the detection of a counterfeit CE marking certificate from Nanjing Bestview Laser S&T Co., Ltd.",
+     "accion": "Importers, distributors and buyers: check whether you sell or use products from this manufacturer and review the AEMPS note before continuing to deal with them."
+    }
+   }
+  },
+  {
+   "id": "es-aemps-ps-46-2026-likorall",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-06",
+   "ambito": "Nacional",
+   "organismo": "Agencia Española de Medicamentos y Productos Sanitarios (AEMPS)",
+   "titulo": "AEMPS alerta de un riesgo en ciertos sistemas de elevación de pacientes de techo Likorall",
+   "resumen": "La AEMPS publicó la Nota Informativa de productos sanitarios 46/2026, en la que informa de un riesgo en ciertos sistemas de elevación de pacientes de techo Likorall.",
+   "accion": "Hospitales, residencias y servicios técnicos: identificar si tienen estos sistemas instalados y aplicar las medidas indicadas en la nota de la AEMPS.",
+   "fuente": {
+    "nombre": "AEMPS – Notas informativas de productos sanitarios",
+    "url": "https://www.aemps.gob.es/informa/la-aemps-informa-de-un-riesgo-en-ciertos-sistemas-de-elevacion-de-pacientes-de-techo-likorall/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "AEMPS warns of a risk in certain Likorall ceiling patient-lift systems",
+     "resumen": "AEMPS published Medical Device Information Note 46/2026 reporting a risk in certain Likorall ceiling patient-lift systems.",
+     "accion": "Hospitals, care homes and technical services: identify whether these systems are installed and apply the measures set out in the AEMPS note."
+    }
+   }
+  },
+  {
+   "id": "es-aemps-ps-40-2026-silver-graft",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-09-17",
+   "ambito": "Nacional",
+   "organismo": "Agencia Española de Medicamentos y Productos Sanitarios (AEMPS)",
+   "titulo": "Cardiovascular: AEMPS informa de un error de etiquetado en las prótesis vasculares Silver Graft y Silver Graft Helix",
+   "resumen": "La AEMPS publicó la Nota Informativa de productos sanitarios 40/2026 sobre un error en el etiquetado de las prótesis vasculares Silver Graft y Silver Graft Helix.",
+   "accion": "Servicios de cirugía vascular y proveedores: revisar en la nota de la AEMPS los productos y lotes afectados y sus indicaciones antes de implantar.",
+   "fuente": {
+    "nombre": "AEMPS – Notas informativas de productos sanitarios",
+    "url": "https://www.aemps.gob.es/informa/la-aemps-informa-de-un-error-en-el-etiquetado-de-las-protesis-vasculares-silver-graft-y-silver-graft-helix/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: AEMPS reports a labeling error on Silver Graft and Silver Graft Helix vascular prostheses",
+     "resumen": "AEMPS published Medical Device Information Note 40/2026 on a labeling error on Silver Graft and Silver Graft Helix vascular prostheses.",
+     "accion": "Vascular surgery departments and suppliers: check the affected products and lots and the instructions in the AEMPS note before implanting."
+    }
+   }
+  }
+ ]
+}
