@@ -1,0 +1,141 @@
+{
+ "actualizado": "2026-11-25",
+ "noticias": [
+  {
+   "id": "cl-hcsba-dai-resincronizadores-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-20",
+   "ambito": "Región Metropolitana",
+   "organismo": "Hospital Clínico San Borja Arriarán (SSM Central)",
+   "titulo": "Cardiovascular: el Hospital San Borja Arriarán licita desfibriladores implantables y resincronizadores para hemodinamia",
+   "resumen": "El Hospital Clínico San Borja Arriarán publicó dos licitaciones en Mercado Público para su servicio de hemodinamia. La 1057049-448-LP26 (dispositivos de alto voltaje) pide 22 resincronizadores completos, 24 desfibriladores automáticos implantables bicamerales completos y 12 generadores DAI resincronizadores, con monto estimado entre 1.000 y 2.000 UTM; cierra el 10 de diciembre de 2026. La 1057049-439-LP26 pide 24 kits completos de DAI resincronizador, con el mismo rango de monto; cierra el 7 de diciembre de 2026.",
+   "accion": "Proveedores de dispositivos de estimulación cardíaca: revisar las bases en Mercado Público y preparar ofertas antes del cierre.",
+   "comentario": "Dos compras de alto voltaje en el mismo hospital en una semana marcan una reposición fuerte de DAI y resincronizadores; conviene ofertar las dos con una misma estrategia de precio y servicio técnico.",
+   "fuente": {
+    "nombre": "TodoLicitaciones (datos de Mercado Público)",
+    "url": "https://www.todolicitaciones.cl/licitacion/1057049-448-LP26/adq-de-dispositivos-alto-voltaje-para-hemodinamia-del-hcsba"
+   },
+   "licitaciones": [
+    {
+     "numero": "1057049-439-LP26",
+     "objeto": "Kit completo de DAI resincronizador (24 kits)",
+     "apertura": "2026-12-07",
+     "rubro": "cardiovascular",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Complete CRT-D kit (24 kits)"
+      }
+     }
+    },
+    {
+     "numero": "1057049-448-LP26",
+     "objeto": "Dispositivos de alto voltaje: resincronizadores, DAI bicamerales y generadores DAI-CRT",
+     "apertura": "2026-12-10",
+     "rubro": "cardiovascular",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "High-voltage devices: CRT systems, dual-chamber ICDs and CRT-D generators"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: San Borja Arriarán Hospital tenders implantable defibrillators and CRT devices for its cath lab",
+     "resumen": "San Borja Arriarán Clinical Hospital published two tenders on Mercado Público for its cath lab. Tender 1057049-448-LP26 (high-voltage devices) seeks 22 complete CRT systems, 24 complete dual-chamber implantable cardioverter-defibrillators and 12 CRT-D generators, with an estimated value between 1,000 and 2,000 UTM; it closes on December 10, 2026. Tender 1057049-439-LP26 seeks 24 complete CRT-D kits, in the same value range; it closes on December 7, 2026.",
+     "accion": "Cardiac rhythm device suppliers: review the bid documents on Mercado Público and prepare offers before closing.",
+     "comentario": "Two high-voltage purchases at the same hospital in one week signal a strong ICD and CRT restock; it makes sense to bid on both with a single pricing and technical-service strategy."
+    }
+   }
+  },
+  {
+   "id": "cl-int-crt-d-1499-214-lr26",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-20",
+   "ambito": "Nacional",
+   "organismo": "Instituto Nacional del Tórax",
+   "titulo": "Cardiovascular: el Instituto Nacional del Tórax licita 77 desfibriladores con resincronización",
+   "resumen": "El Instituto Nacional del Tórax publicó la licitación pública 1499-214-LR26 por desfibriladores con resincronización: 65 unidades con accesorios y 12 unidades sin accesorios. El monto estimado es igual o superior a 5.000 UTM. El cierre de ofertas es el 21 de diciembre de 2026.",
+   "accion": "Revisar las bases en Mercado Público y confirmar plazos y requisitos técnicos antes de ofertar.",
+   "comentario": "Es una compra grande de CRT-D en el principal centro cardiotorácico público de Chile; quien la gane fija el estándar de precio para el resto de la red.",
+   "fuente": {
+    "nombre": "TodoLicitaciones (datos de Mercado Público)",
+    "url": "https://www.todolicitaciones.cl/licitacion/1499-214-LR26/dgm-dispositivos-y-accesorios-desfibriladores-con-resincronizacion"
+   },
+   "licitaciones": [
+    {
+     "numero": "1499-214-LR26",
+     "objeto": "Desfibriladores con resincronización (77 unidades)",
+     "apertura": "2026-12-21",
+     "rubro": "cardiovascular",
+     "lugar": "Mercado Público · cierre de ofertas",
+     "trad": {
+      "en": {
+       "objeto": "Cardiac resynchronization defibrillators (77 units)"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: National Thorax Institute tenders 77 CRT defibrillators",
+     "resumen": "Chile's National Thorax Institute published public tender 1499-214-LR26 for cardiac resynchronization defibrillators: 65 units with accessories and 12 units without. The estimated value is 5,000 UTM or more. Bids close on December 21, 2026.",
+     "accion": "Review the bid documents on Mercado Público and confirm deadlines and technical requirements before bidding.",
+     "comentario": "This is a large CRT-D purchase at Chile's main public cardiothoracic center; the winner will set the price benchmark for the rest of the network."
+    }
+   }
+  },
+  {
+   "id": "cl-isp-cefazolina-difem-nov2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "medicamentos",
+   "fecha": "2026-11-11",
+   "ambito": "Nacional",
+   "organismo": "ISP",
+   "titulo": "ISP: alerta y retiro de un lote de cefazolina inyectable 1 g de Difem por cuerpo extraño",
+   "resumen": "El Instituto de Salud Pública emitió una alerta farmacéutica por la presencia de un cuerpo extraño en un frasco de cefazolina polvo para solución inyectable 1 g (registro F-23170), lote 253052155, vencimiento 11/2028, de Difem Laboratorios. Se retiró voluntariamente del mercado solo ese lote. Difem informó que el producto se distribuye a hospitales y clínicas, no a farmacias.",
+   "accion": "Farmacias hospitalarias: verificar el lote 253052155, no usarlo y reemplazarlo por otro lote o producto similar.",
+   "fuente": {
+    "nombre": "T13",
+    "url": "https://www.t13.cl/noticia/nacional/isp-comunica-alerta-farmaceutica-por-defecto-antibiotico-advierte-consecuencias-11-11-2026"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ISP: alert and recall of one lot of Difem cefazolin 1 g injection due to a foreign body",
+     "resumen": "Chile's Public Health Institute issued a pharmaceutical alert for a foreign body found in a vial of cefazolin powder for injection 1 g (registration F-23170), lot 253052155, expiry 11/2028, from Difem Laboratorios. Only that lot was voluntarily recalled. Difem said the product is distributed to hospitals and clinics, not pharmacies.",
+     "accion": "Hospital pharmacies: check for lot 253052155, do not use it, and replace it with another lot or a similar product."
+    }
+   }
+  },
+  {
+   "id": "cl-isp-decreto-25-2026-dispositivos",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "dispositivos",
+   "fecha": "2026-10-02",
+   "ambito": "Nacional",
+   "organismo": "ISP",
+   "titulo": "ISP publica guía sobre los dispositivos médicos que pasan a control sanitario por el Decreto Exento 25/2026",
+   "resumen": "El Instituto de Salud Pública publicó el Material Informativo N°1 sobre el Decreto Exento N°25/2026 (Diario Oficial del 19 de marzo de 2026), que incorpora ciertos dispositivos médicos y de diagnóstico in vitro al régimen de control sanitario del artículo 111 del Código Sanitario. El material incluye una matriz de categorías con su uso previsto, ejemplos de productos dentro y fuera del alcance, la clase de riesgo y el plazo de vigencia de cada categoría. El ISP anunció más entregas.",
+   "accion": "Importadores y fabricantes: revisar si sus productos están en alguna categoría del decreto y planificar el registro.",
+   "fuente": {
+    "nombre": "The Legal 500",
+    "url": "https://www.legal500.com/intelligence/chile/food-drugs-healthcare-life-sciences/isp-publica-material-informativo-n%C2%B01-sobre-el-control-sanitario-de-dispositivos-m%C3%A9dicos-incorporados-por-el-decreto-exento-n%C2%B0252026"
+   },
+   "trad": {
+    "en": {
+     "titulo": "ISP publishes guidance on medical devices brought under sanitary control by Exempt Decree 25/2026",
+     "resumen": "Chile's Public Health Institute published Informational Material No. 1 on Exempt Decree No. 25/2026 (Official Gazette, March 19, 2026), which brings certain medical devices and in vitro diagnostic devices under the sanitary control regime of article 111 of the Sanitary Code. The material includes a matrix of categories with their intended use, examples of products in and out of scope, and the risk class and validity period for each category. ISP announced further installments.",
+     "accion": "Importers and manufacturers: check whether their products fall in any category of the decree and plan registration."
+    }
+   }
+  }
+ ]
+}

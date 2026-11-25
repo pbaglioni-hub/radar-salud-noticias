@@ -1,0 +1,74 @@
+{
+ "actualizado": "2026-11-25",
+ "noticias": [
+  {
+   "id": "co-invima-alertas-dispositivos-24nov2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-24",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA: alertas por producto defectuoso en neuroestimulador Vanta AdaptiveStim, catéteres PICC Arrow y manómetros de cuff",
+   "resumen": "El 24 de noviembre el INVIMA publicó tres alertas sanitarias por producto defectuoso, en seguimiento: la 408-2026 por el neuroestimulador implantable Vanta AdaptiveStim (terapia contra el dolor), la 410-2026 por catéteres centrales de inserción periférica marca Arrow y la 409-2026 por un manómetro universal para control de presión del balón (cuff). El mismo día publicó además informes de seguridad sobre equipos de resonancia magnética, esterilizadores hospitalarios y un sistema de catéter de presión intracraneal Raumedic.",
+   "accion": "Clínicas, hospitales y distribuidores: revisar si tienen estos productos y pedir al importador el plan de acción del fabricante; reportar incidentes a Tecnovigilancia.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA: defective-product alerts for Vanta AdaptiveStim neurostimulator, Arrow PICC catheters and cuff manometers",
+     "resumen": "On November 24, INVIMA published three health alerts for defective products, under follow-up: 408-2026 for the Vanta AdaptiveStim implantable neurostimulator (pain therapy), 410-2026 for Arrow peripherally inserted central catheters, and 409-2026 for a universal cuff pressure manometer. The same day it also published safety reports on MRI systems, hospital sterilizers and a Raumedic intracranial pressure catheter system.",
+     "accion": "Clinics, hospitals and distributors: check whether they have these products and ask the importer for the manufacturer's action plan; report incidents to Tecnovigilancia."
+    }
+   }
+  },
+  {
+   "id": "co-invima-elimina-tarifa-udi-nov2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-10",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA elimina la tarifa del reporte de codificación UDI de dispositivos médicos",
+   "resumen": "Con la Resolución 2026072440 del 9 de noviembre de 2026, el INVIMA eliminó la tarifa 4003-1, que cobraba el reporte de estándar semántico y codificación de dispositivos médicos y reactivos de diagnóstico in vitro (de 1 a 182 códigos UDI-DI). Rige desde su publicación en el Diario Oficial. La obligación de reportar según la Resolución 1405 de 2022 se mantiene.",
+   "accion": "Titulares de registros: seguir reportando la codificación UDI, ahora sin pagar esa tarifa.",
+   "fuente": {
+    "nombre": "Consultorsalud",
+    "url": "https://consultorsalud.com/invima-elimina-tarifa-dispositivos-medicos/"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA removes the fee for UDI coding reports for medical devices",
+     "resumen": "With Resolution 2026072440 of November 9, 2026, INVIMA removed fee 4003-1, which was charged for the semantic standard and coding report for medical devices and in vitro diagnostic reagents (1 to 182 UDI-DI codes). It takes effect upon publication in the Official Gazette. The reporting obligation under Resolution 1405 of 2022 remains.",
+     "accion": "Registration holders: keep filing UDI coding reports, now without paying that fee."
+    }
+   }
+  },
+  {
+   "id": "co-invima-darzalex-falsificado-368-2026",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "oncologia",
+   "fecha": "2026-10-30",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por unidades falsificadas del oncológico Darzalex SC (daratumumab)",
+   "resumen": "La alerta sanitaria 368-2026 advierte sobre unidades falsificadas de DARZALEX SC 120 mg/mL solución inyectable (registro INVIMA 2022MBT-0000065, titular Janssen Cilag). El lote PJS0C02 es legítimo, pero las unidades falsas muestran el registro mal escrito (V022MBT-0000065), etiquetas y sello distintos, y tres números de serie que la empresa no fabricó: 178120544634, 17812053935 y 17812053174. No se puede garantizar su identidad, calidad ni esterilidad.",
+   "accion": "Servicios de oncología y farmacias: comprar solo a distribuidores autorizados, verificar números de serie y reportar al INVIMA cualquier unidad sospechosa.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/falsificacion-del-producto-darzalex-sc-120-mgml-solucion-inyectable-con-lote-pjs0c02"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of counterfeit units of the cancer drug Darzalex SC (daratumumab)",
+     "resumen": "Health alert 368-2026 warns of counterfeit units of DARZALEX SC 120 mg/mL solution for injection (INVIMA registration 2022MBT-0000065, holder Janssen Cilag). Lot PJS0C02 is legitimate, but the fake units show a misprinted registration (V022MBT-0000065), different labels and seal, and three serial numbers the company did not make: 178120544634, 17812053935 and 17812053174. Their identity, quality and sterility cannot be guaranteed.",
+     "accion": "Oncology services and pharmacies: buy only from authorized distributors, check serial numbers and report any suspicious unit to INVIMA."
+    }
+   }
+  }
+ ]
+}
