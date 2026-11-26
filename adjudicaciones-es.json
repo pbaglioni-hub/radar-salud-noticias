@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "adjudicaciones": [
   {
    "id": "es-hurc-edwards-valvula-pulmonar-transcateter-nov2026",
@@ -22,6 +22,150 @@
     "en": {
      "objeto": "Complete system for implantation of a bovine pericardium transcatheter pulmonary valve and adaptive stent-graft with delivery systems, for the Pediatric Cardiology Department",
      "detalle": "Single bid; award published on 11/20/2026 for the tender amount: EUR 120,000.00 excluding tax (EUR 132,000.00 including tax). Expected contract term: 12 months. The public record does not state a contract signing date."
+    }
+   }
+  },
+  {
+   "id": "es-adj-hurc-wlgore-stent-biliar-nov2026",
+   "fecha": "2026-11-13",
+   "ambito": "Autonómico",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud) - Servicio de Radiología Vascular",
+   "procedimiento": "A/SUM-046718/2025 (ref. C12670)",
+   "objeto": "Stent biliar transhepático autoexpandible recubierto de PTFE, con sistema de liberación (lote 1)",
+   "rubro": "dispositivos",
+   "proveedor": "WL Gore & Asociados, S.L.",
+   "monto": 198080,
+   "moneda": "EUR",
+   "detalle": "Lote 1 del expediente A/SUM-046718/2025: stent biliar transhepático autoexpandible recubierto de PTFE, con sistema de liberación, adjudicado por 198.080 € sin IVA (217.888 € con IVA).",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación - Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/295705"
+   },
+   "trad": {
+    "en": {
+     "objeto": "PTFE-covered self-expanding transhepatic biliary stent, with delivery system (lot 1)",
+     "detalle": "Lot 1 of file A/SUM-046718/2025: PTFE-covered self-expanding transhepatic biliary stent, with delivery system, awarded for €198,080 excluding VAT (€217,888 including VAT)."
+    }
+   }
+  },
+  {
+   "id": "es-adj-hurc-alofer-filtro-vena-cava-nov2026",
+   "fecha": "2026-11-13",
+   "ambito": "Autonómico",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud) - Servicio de Radiología Vascular",
+   "procedimiento": "A/SUM-046718/2025 (ref. C12670)",
+   "objeto": "Equipo de extracción o reposicionamiento de filtro de vena cava (lote 3)",
+   "rubro": "cardiovascular",
+   "proveedor": "Alofer Asesoramiento, S.L.",
+   "monto": 7070,
+   "moneda": "EUR",
+   "detalle": "Lote 3 del expediente A/SUM-046718/2025: equipo de extracción o reposicionamiento de filtro de vena cava, adjudicado por 7.070 € sin IVA (8.554,70 € con IVA).",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación - Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/295705"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Vena cava filter retrieval or repositioning equipment (lot 3)",
+     "detalle": "Lot 3 of file A/SUM-046718/2025: vena cava filter retrieval or repositioning equipment, awarded for €7,070 excluding VAT (€8,554.70 including VAT)."
+    }
+   }
+  },
+  {
+   "id": "es-adj-hurc-abbott-stent-nitinol-nov2026",
+   "fecha": "2026-11-13",
+   "ambito": "Autonómico",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud) - Servicio de Radiología Vascular",
+   "procedimiento": "A/SUM-046718/2025 (ref. C12670)",
+   "objeto": "Stent vascular precargado autoexpandible triaxial de nitinol (lote 4)",
+   "rubro": "cardiovascular",
+   "proveedor": "Abbott Medical España, S.A.",
+   "monto": 24700,
+   "moneda": "EUR",
+   "detalle": "Lote 4 del expediente A/SUM-046718/2025: stent vascular precargado autoexpandible triaxial de nitinol, adjudicado por 24.700 € sin IVA (27.170 € con IVA).",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación - Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/295705"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Preloaded triaxial self-expanding nitinol vascular stent (lot 4)",
+     "detalle": "Lot 4 of file A/SUM-046718/2025: preloaded triaxial self-expanding nitinol vascular stent, awarded for €24,700 excluding VAT (€27,170 including VAT)."
+    }
+   }
+  },
+  {
+   "id": "es-adj-hurc-palex-filtro-vena-cava-nov2026",
+   "fecha": "2026-11-13",
+   "ambito": "Autonómico",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud) - Servicio de Radiología Vascular",
+   "procedimiento": "A/SUM-046718/2025 (ref. C12670)",
+   "objeto": "Set de filtro de vena cava permanente o retirable de nitinol, de 70 cm (lote 5)",
+   "rubro": "cardiovascular",
+   "proveedor": "Palex Medica, S.A.",
+   "monto": 32480,
+   "moneda": "EUR",
+   "detalle": "Lote 5 del expediente A/SUM-046718/2025: set de filtro de vena cava permanente o retirable de nitinol, de 70 cm, adjudicado por 32.480 € sin IVA (35.728 € con IVA). El lote 2 (stent multiuso autoexpandible de cromo-cobalto) quedó desierto (0 ofertas).",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación - Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/295705"
+   },
+   "trad": {
+    "en": {
+     "objeto": "70 cm permanent or retrievable nitinol vena cava filter set (lot 5)",
+     "detalle": "Lot 5 of file A/SUM-046718/2025: 70 cm permanent or retrievable nitinol vena cava filter set, awarded for €32,480 excluding VAT (€35,728 including VAT). Lot 2 (multi-purpose self-expanding chrome-cobalt stent) was declared void (0 bids)."
+    }
+   }
+  },
+  {
+   "id": "es-adj-hup-cook-endoprotesis-aorta-nov2026",
+   "fecha": "2026-11-12",
+   "ambito": "Autonómico",
+   "organismo": "Hospital Universitario de La Princesa (Servicio Madrileño de Salud)",
+   "procedimiento": "A/SUM-026912/2026 (ref. C14687)",
+   "objeto": "Endoprótesis a medida para tratamiento de aneurismas y disecciones de aorta torácica (lotes 1 a 5)",
+   "rubro": "cardiovascular",
+   "proveedor": "COOK España, S.L.",
+   "monto": 152600,
+   "moneda": "EUR",
+   "detalle": "Suma de 5 lotes adjudicados a COOK España, S.L.: Lote 1 \"Endoprótesis aorta torácica con varias configuraciones\" (21.000 €); Lote 2 \"Endoprótesis hechas a medida del paciente (CUSTOM MADE)\" (52.000 €); Lote 3 \"Endoprótesis bifurcada a medida para tratamiento de aneurismas\" (40.000 €); Lote 4 \"Endoprótesis bifurcada para tratamiento de aneurismas\" (18.000 €); Lote 5 \"Endoprótesis para aneurismas ilíacos\" (21.600 €). Importes sin IVA; contrato formalizado el 12/11/2026 como contrato 29/2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación - Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/299990"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Custom-made endoprostheses for treating thoracic aortic aneurysms and dissections (lots 1 to 5)",
+     "detalle": "Sum of 5 lots awarded to COOK España, S.L.: Lot 1 \"Thoracic aortic endoprosthesis with several configurations\" (€21,000); Lot 2 \"Patient-custom-made endoprostheses (CUSTOM MADE)\" (€52,000); Lot 3 \"Custom bifurcated endoprosthesis for aneurysm treatment\" (€40,000); Lot 4 \"Bifurcated endoprosthesis for aneurysm treatment\" (€18,000); Lot 5 \"Endoprosthesis for iliac aneurysms\" (€21,600). Amounts excluding VAT; contract formalized on 11/12/2026 as contract 29/2026."
+    }
+   }
+  },
+  {
+   "id": "es-adj-hup-sqr-stent-puente-endoprotesis-nov2026",
+   "fecha": "2026-11-12",
+   "ambito": "Autonómico",
+   "organismo": "Hospital Universitario de La Princesa (Servicio Madrileño de Salud)",
+   "procedimiento": "A/SUM-026912/2026 (ref. C14687)",
+   "objeto": "Stent puente para endoprótesis fenestradas (lote 6)",
+   "rubro": "cardiovascular",
+   "proveedor": "SQR Medical Resources, S.L.",
+   "monto": 25620,
+   "moneda": "EUR",
+   "detalle": "Lote 6 del expediente A/SUM-026912/2026: stent puente para endoprótesis fenestradas, adjudicado por 25.620 € sin IVA (28.182 € con IVA); contrato formalizado el 12/11/2026 como contrato 30/2026. Presupuesto base total del expediente (6 lotes): 178.242 € sin IVA; total adjudicado: 178.220 € sin IVA.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación - Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/299990"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Bridging stent for fenestrated endoprostheses (lot 6)",
+     "detalle": "Lot 6 of file A/SUM-026912/2026: bridging stent for fenestrated endoprostheses, awarded for €25,620 excluding VAT (€28,182 including VAT); contract formalized on 11/12/2026 as contract 30/2026. Total base budget of the file (6 lots): €178,242 excluding VAT; total awarded: €178,220 excluding VAT."
     }
    }
   },

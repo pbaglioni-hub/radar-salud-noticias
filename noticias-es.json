@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "noticias": [
   {
    "id": "es-aemps-ps-48-2026-esenta-stomahesive",
@@ -273,6 +273,29 @@
      "titulo": "Community of Madrid authorizes EUR 766.4 M for the first two phases of the \"Ciudad de la Salud\" at Hospital La Paz",
      "resumen": "The Community of Madrid's Governing Council authorized an investment of EUR 766.4 million for the first two phases of the \"Ciudad de la Salud\" (Health City) project, the comprehensive transformation of Hospital Universitario La Paz together with the UAM Faculty of Medicine (total planned investment of EUR 1,000 million). Phase 1 includes a new adult hospitalization tower and a central services building; phase 2 includes demolishing the General and Trauma buildings and building new outpatient clinics and a maternal-and-child tower. The project envisions 1,140 beds, 49 operating rooms (some with robotic surgery) and a Comprehensive Pediatric Cancer Center, on more than 550,000 sqm. Construction on phases 1 and 2 is expected to start in Q2 2027, with a 96-month execution period.",
      "accion": "Suppliers of hospital equipment, surgical technology and imaging systems should track the \"Ciudad de la Salud\" project, which will generate large-volume equipment tenders for the new Hospital La Paz in the coming years."
+    }
+   }
+  },
+  {
+   "id": "es-sermas-recurso-am-protesis-rodilla-oct2026",
+   "nivel": "amarillo",
+   "tipo": "otro",
+   "rubro": "traumatologia",
+   "fecha": "2026-10-30",
+   "ambito": "Autonómico",
+   "organismo": "Agencia de Contratación Sanitaria de la Comunidad de Madrid / Servicio Madrileño de Salud (SERMAS)",
+   "titulo": "Un recurso especial paraliza el acuerdo marco de 45 millones de euros de SERMAS para prótesis de rodilla",
+   "resumen": "El acuerdo marco AM PA SUM 28/2025 (A/SUM-029680/2025) del SERMAS, para el suministro de prótesis de rodilla primaria (cementada con o sin sacrificio del ligamento cruzado posterior, hipoalergénica, y unicondílea) a hospitales públicos de Madrid, con un valor estimado de 45.181.710 € sin impuestos (presupuesto base 10.757.550 € sin impuestos), recibió un recurso especial en octubre de 2026. El procedimiento de adjudicación quedó suspendido el 27 de octubre y nuevamente el 30 de octubre de 2026; a fecha de hoy sigue pendiente de adjudicación.",
+   "accion": "Proveedores de prótesis de rodilla deben monitorear la resolución del recurso antes de planificar entregas; mientras el acuerdo esté suspendido, los hospitales del SERMAS podrían recurrir a contratos puente o prórrogas de proveedores incumbentes.",
+   "fuente": {
+    "nombre": "Plataforma de Contratación - Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/295017"
+   },
+   "trad": {
+    "en": {
+     "titulo": "A special appeal halts SERMAS's €45 million framework agreement for knee prostheses",
+     "resumen": "SERMAS's framework agreement AM PA SUM 28/2025 (A/SUM-029680/2025), for the supply of primary knee prostheses (cemented with or without posterior cruciate ligament sacrifice, hypoallergenic, and unicondylar) to Madrid's public hospitals, with an estimated value of €45,181,710 excluding tax (base budget €10,757,550 excluding tax), received a special appeal in October 2026. The award procedure was suspended on October 27 and again on October 30, 2026; as of today it remains pending award.",
+     "accion": "Knee prosthesis suppliers should monitor the resolution of the appeal before planning deliveries; while the agreement is suspended, SERMAS hospitals may rely on bridge contracts or extensions with incumbent suppliers."
     }
    }
   },

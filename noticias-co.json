@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "noticias": [
   {
    "id": "co-invima-165-164-2026-philips-rayosx-arcoenc-cardiovascular",
@@ -321,6 +321,71 @@
      "resumen": "INVIMA report/alert 362-2026 covers the CareLink SmartSync Device Manager (INVIMA registration 2020EBC-0022632), from Medtronic Colombia S.A. (manufactured by Plexus Manufacturing Sdn Bhd / Medtronic Inc.). Medtronic reported possible Bluetooth connection interruptions between the SmartSync tablet and the patient connector or base station, which can interrupt active programming or data-review sessions for Medtronic pacemakers, implantable cardioverter-defibrillators (ICDs) and CRT devices.",
      "accion": "Electrophysiology and cardiology services should follow Medtronic's instructions to reconnect or restart the device if a programming session is interrupted, and report incidents to Tecnovigilancia.",
      "comentario": "The fault is in the external programmer, not the implanted device itself, but an interruption during pacemaker or ICD programming can delay a clinical procedure."
+    }
+   }
+  },
+  {
+   "id": "co-invima-365-2026-octavius-veriqa-radioterapia",
+   "nivel": "amarillo",
+   "tipo": "otro",
+   "rubro": "oncologia",
+   "fecha": "2026-10-28",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por posible error de visualización de dosis en software de verificación de radioterapia Octavius/VeriQA",
+   "resumen": "El 28 de octubre el INVIMA publicó la alerta sanitaria 365-2026 sobre OCTAVIUS Accessories and Spare Parts, un sistema para verificación de planes de tratamiento de radioterapia y mediciones de dosimetría (software VeriQA RT MonteCarlo 3D, versión 3.1.18 y posteriores; registro sanitario INVIMA 2021EBC-0024261; titular Solu Tec Soluciones Tecnológicas S.A.S.). Cuando se usa un contorno de bolo, el software puede no mostrar en pantalla que el bolo fue incluido en el cálculo secundario de dosis, aunque el cálculo en sí usa la densidad correcta.",
+   "accion": "Centros de radioterapia que usen este software deben contactar al importador/PTW Freiburg GmbH por el plan de acción, verificar la versión instalada y reportar cualquier incidente a Tecnovigilancia.",
+   "fuente": {
+    "nombre": "INVIMA - Alertas sanitarias",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/octavius-accessories-and-spare-parts-sistema-para-la-verificacion-del-plan-de-tratamiento-de-radioterapia-y-mediciones-d-365-2026"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of possible dose-display error in Octavius/VeriQA radiotherapy verification software",
+     "resumen": "On October 28, INVIMA published health alert 365-2026 regarding OCTAVIUS Accessories and Spare Parts, a system for radiotherapy treatment plan verification and dosimetry measurements (VeriQA RT MonteCarlo 3D software, version 3.1.18 and later; INVIMA registration 2021EBC-0024261; holder Solu Tec Soluciones Tecnológicas S.A.S.). When a bolus contour is used, the software may fail to show on screen that the bolus was included in the secondary dose calculation, even though the calculation itself uses the correct density.",
+     "accion": "Radiotherapy centers using this software should contact the importer/PTW Freiburg GmbH for the corrective action plan, verify the installed version, and report any incident to Tecnovigilancia."
+    }
+   }
+  },
+  {
+   "id": "co-cce-amp-medicamentos-ii-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "medicamentos",
+   "fecha": "2026-10-26",
+   "ambito": "Nacional",
+   "organismo": "Agencia Nacional de Contratación Pública - Colombia Compra Eficiente",
+   "titulo": "Colombia Compra Eficiente abre licitación para un nuevo Acuerdo Marco de Precios nacional de medicamentos",
+   "resumen": "Colombia Compra Eficiente abrió la Licitación Pública CCENEG-105-01-2026 para seleccionar a los proveedores de un nuevo Acuerdo Marco de Precios de adquisición, suministro y dispensación de medicamentos y otras tecnologías en salud, que luego se compran a través de la Tienda Virtual del Estado Colombiano. El aviso de convocatoria se publicó el 26 de octubre de 2026 y el cierre para la presentación de propuestas en SECOP II fue el 23 de noviembre de 2026.",
+   "accion": "Laboratorios y distribuidores de medicamentos deben revisar los términos de este Acuerdo Marco antes de futuras convocatorias de reapertura; entidades de salud podrán ampliar sus opciones de compra por catálogo en la Tienda Virtual del Estado Colombiano.",
+   "fuente": {
+    "nombre": "Colombia Compra Eficiente",
+    "url": "https://www.colombiacompra.gov.co/wp-content/uploads/2026/10/AVISO-DE-CONVOCATORIA-ART-30-LEY-80-MEDICAMENTOS-1.pdf"
+   },
+   "licitaciones": [
+    {
+     "numero": "CCENEG-105-01-2026",
+     "objeto": "Acuerdo Marco de Precios para la adquisición, suministro y dispensación de medicamentos y otras tecnologías en salud",
+     "apertura": "2026-11-23",
+     "lugar": "SECOP II · cierre de ofertas",
+     "rubro": "medicamentos",
+     "trad": {
+      "en": {
+       "objeto": "Price Framework Agreement for the acquisition, supply and dispensing of medicines and other health technologies"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Colombia Compra Eficiente opens tender for a new national medicines Price Framework Agreement",
+     "resumen": "Colombia Compra Eficiente opened Public Tender CCENEG-105-01-2026 to select the suppliers for a new Price Framework Agreement for the acquisition, supply and dispensing of medicines and other health technologies, later purchased through the Colombian State's Virtual Store. The call for tenders was published on October 26, 2026, and the deadline for submitting proposals on SECOP II was November 23, 2026.",
+     "accion": "Pharmaceutical manufacturers and distributors should review the terms of this Framework Agreement ahead of future reopening calls; health entities will gain broader catalog purchasing options through the Colombian State's Virtual Store.",
+     "licitaciones": [
+      {
+       "objeto": "Price Framework Agreement for the acquisition, supply and dispensing of medicines and other health technologies"
+      }
+     ]
     }
    }
   },
