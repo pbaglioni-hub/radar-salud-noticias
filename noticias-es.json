@@ -89,6 +89,148 @@
    }
   },
   {
+   "id": "es-hggm-tallos-crecimiento-licitacion-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-19",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Servicio Madrileño de Salud (SERMAS) – Hospital General Universitario Gregorio Marañón",
+   "titulo": "Traumatología: licitación de tallos de crecimiento autoelongables en el Hospital Gregorio Marañón",
+   "resumen": "El Hospital General Universitario Gregorio Marañón publicó el anuncio del expediente A/SUM-042429/2026 para el suministro de tallos de crecimiento autoelongables (material de cirugía de columna pediátrica/escoliosis), mediante procedimiento abierto simplificado. El presupuesto base de licitación es de 23.215,00 EUR sin impuestos (25.536,50 EUR con impuestos).",
+   "accion": "Proveedores de implantes de columna y cirugía ortopédica pediátrica: revisar el pliego en la Plataforma de Contratación del Sector Público (expediente A/SUM-042429/2026) antes del 3 de diciembre de 2026.",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-tallos-crecimiento-autoelongables-hospital-general-universitario-0"
+   },
+   "licitaciones": [
+    {
+     "numero": "A/SUM-042429/2026",
+     "objeto": "Suministro de tallos de crecimiento autoelongables para cirugía de columna pediátrica/escoliosis",
+     "apertura": "2026-12-03",
+     "hora": "23:59",
+     "monto": "23.215,00 EUR (sin impuestos)",
+     "lugar": "Hospital General Universitario Gregorio Marañón (Madrid) · cierre de ofertas",
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Supply of self-lengthening growing rods for pediatric spine/scoliosis surgery"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Trauma/orthopedics: tender for self-lengthening growing rods at Hospital Gregorio Marañón",
+     "resumen": "Hospital General Universitario Gregorio Marañón (Madrid regional health service, SERMAS) published the notice for file A/SUM-042429/2026 for the supply of self-lengthening growing rods (pediatric spine/scoliosis surgery material), under an open simplified procedure. The base tender budget is EUR 23,215.00 excluding tax (EUR 25,536.50 including tax).",
+     "accion": "Suppliers of spinal implants and pediatric orthopedic surgery equipment should review the tender documents on the Public Sector Procurement Platform (file A/SUM-042429/2026) before December 3, 2026."
+    }
+   }
+  },
+  {
+   "id": "es-poveda-cateteres-venosos-licitacion-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-19",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Servicio Madrileño de Salud (SERMAS) – Hospital Asociado Universitario Virgen de la Poveda",
+   "titulo": "Licitación de catéteres venosos periféricos tipo línea media en el Hospital Virgen de la Poveda",
+   "resumen": "El Hospital Asociado Universitario Virgen de la Poveda publicó el anuncio del expediente A/SUM-053680/2026 para el suministro de catéteres venosos periféricos tipo línea media, mediante procedimiento abierto simplificado. El presupuesto base de licitación es de 8.418,00 EUR sin impuestos (10.185,78 EUR con impuestos).",
+   "accion": "Proveedores de dispositivos de acceso vascular: revisar el pliego en la Plataforma de Contratación del Sector Público (expediente A/SUM-053680/2026) antes del 3 de diciembre de 2026.",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-cateteres-venosos-perifericos-tipo-linea-media-hospital-asociado"
+   },
+   "licitaciones": [
+    {
+     "numero": "A/SUM-053680/2026",
+     "objeto": "Suministro de catéteres venosos periféricos tipo línea media",
+     "apertura": "2026-12-03",
+     "hora": "23:59",
+     "monto": "8.418,00 EUR (sin impuestos)",
+     "lugar": "Hospital Asociado Universitario Virgen de la Poveda (Madrid) · cierre de ofertas",
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Supply of midline peripheral venous catheters"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Tender for midline peripheral venous catheters at Hospital Virgen de la Poveda",
+     "resumen": "Hospital Asociado Universitario Virgen de la Poveda (Madrid regional health service, SERMAS) published the notice for file A/SUM-053680/2026 for the supply of midline peripheral venous catheters, under an open simplified procedure. The base tender budget is EUR 8,418.00 excluding tax (EUR 10,185.78 including tax).",
+     "accion": "Suppliers of vascular access devices should review the tender documents on the Public Sector Procurement Platform (file A/SUM-053680/2026) before December 3, 2026."
+    }
+   }
+  },
+  {
+   "id": "es-gaap-aparataje-clinico-acuerdo-marco-licitacion-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-18",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Servicio Madrileño de Salud (SERMAS) – Gerencia Asistencial de Atención Primaria",
+   "titulo": "Acuerdo marco para el suministro de aparataje clínico en centros de Atención Primaria de Madrid",
+   "resumen": "La Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud publicó el anuncio del expediente A/SUM-042988/2026 para establecer un acuerdo marco de suministro de aparataje clínico (aspirador de secreciones, bilirrubinómetro, cooxímetro, doppler vascular, electrobisturí, espirómetro y pistola de crioterapia, en 7 lotes) con destino a los centros de Atención Primaria. El valor estimado es de 1.468.607,40 EUR sin impuestos, mediante procedimiento abierto con tramitación urgente.",
+   "accion": "Proveedores de aparataje clínico para Atención Primaria: revisar el pliego en la Plataforma de Contratación del Sector Público (expediente A/SUM-042988/2026) antes del 4 de diciembre de 2026.",
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/acuerdo-marco-suministro-aparataje-clinico-destino-centros-dependientes-gerencia"
+   },
+   "licitaciones": [
+    {
+     "numero": "A/SUM-042988/2026",
+     "objeto": "Acuerdo marco de suministro de aparataje clínico (aspirador de secreciones, bilirrubinómetro, cooxímetro, doppler vascular, electrobisturí, espirómetro y pistola de crioterapia) para centros de Atención Primaria, 7 lotes",
+     "apertura": "2026-12-04",
+     "hora": "23:59",
+     "monto": "1.468.607,40 EUR (valor estimado, sin impuestos)",
+     "lugar": "Gerencia Asistencial de Atención Primaria (Comunidad de Madrid) · cierre de ofertas",
+     "rubro": "dispositivos",
+     "trad": {
+      "en": {
+       "objeto": "Framework agreement for the supply of clinical equipment (secretion aspirator, bilirubinometer, co-oximeter, vascular Doppler, electrosurgical unit, spirometer and cryotherapy gun) for Primary Care centers, 7 lots"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Framework agreement for clinical equipment at Madrid Primary Care centers",
+     "resumen": "The Primary Care Management of the Madrid regional health service (SERMAS) published the notice for file A/SUM-042988/2026 to establish a framework agreement for the supply of clinical equipment (secretion aspirator, bilirubinometer, co-oximeter, vascular Doppler, electrosurgical unit, spirometer and cryotherapy gun, across 7 lots) for Primary Care centers. The estimated value is EUR 1,468,607.40 excluding tax, under an open procedure with urgent processing.",
+     "accion": "Suppliers of Primary Care clinical equipment should review the tender documents on the Public Sector Procurement Platform (file A/SUM-042988/2026) before December 4, 2026."
+    }
+   }
+  },
+  {
+   "id": "es-vithas-vigo-instituto-cardiovascular-inversion-nov2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-13",
+   "ambito": "Galicia",
+   "organismo": "Vithas Hospital Vigo (grupo Vithas Sanidad)",
+   "titulo": "Vithas Vigo anuncia un plan de inversión tecnológica de hasta 6 M EUR para 2026-2027, con el Instituto Cardiovascular Vithas ya en pleno funcionamiento",
+   "resumen": "Vithas Hospital Vigo presentó un plan de inversión de hasta 6 millones de euros para el período 2026-2027, que incluye la ampliación y reorganización de instalaciones y la incorporación de nuevas tecnologías: una segunda resonancia magnética de última generación, un área de Rehabilitación con Medicina Deportiva y Regenerativa y Unidad del Dolor, y un área de Salud de la Mujer. El hospital ya puso en marcha este año tres plataformas robóticas de cirugía (Da Vinci, Mako y Mazor) y completó las obras de ampliación y reorganización del Instituto Cardiovascular Vithas (ICV), que concentra en 350 m2 toda la actividad diagnóstica, ambulatoria y no invasiva de cardiología: dos áreas de pruebas no invasivas con 4 ecógrafos, 3 equipos de ergometría y 30 holters, dos salas de cardiología intervencionista (hemodinámica, cateterismos y electrofisiología) y un área de rehabilitación cardíaca, con 18 cardiólogos especialistas.",
+   "accion": "Proveedores de equipos de cardiología, hemodinámica y rehabilitación cardíaca: Vithas Vigo es un comprador privado activo en renovación tecnológica cardiovascular; seguir sus próximas licitaciones y concursos de equipamiento.",
+   "fuente": {
+    "nombre": "Alimarket Sanidad y Dependencia",
+    "url": "https://www.alimarket.es/sanidad/noticia_amp/434322/vithas-eleva-hasta-6-m-la-inversion-tecnologica-en-vithas-vigo-para-el-periodo-2026-2027"
+   },
+   "comentario": "La consolidación del Instituto Cardiovascular Vithas con dos salas propias de hemodinámica y electrofisiología y 18 cardiólogos confirma a Vithas Vigo como un centro de referencia privado en cardiología intervencionista en Galicia, con potencial de nuevas compras de consumibles y equipos de hemodinámica en el corto plazo.",
+   "trad": {
+    "en": {
+     "titulo": "Vithas Vigo announces a technology investment plan of up to EUR 6 M for 2026-2027, with the Vithas Cardiovascular Institute already fully operational",
+     "resumen": "Vithas Hospital Vigo presented an investment plan of up to EUR 6 million for 2026-2027, including the expansion and reorganization of facilities and the addition of new technology: a second state-of-the-art MRI scanner, a Rehabilitation area with Sports and Regenerative Medicine and a Pain Unit, and a Women's Health area. The hospital already rolled out three robotic surgery platforms this year (Da Vinci, Mako and Mazor) and completed the expansion and reorganization of the Vithas Cardiovascular Institute (ICV), which concentrates all non-invasive, outpatient and diagnostic cardiology activity in 350 sqm: two non-invasive testing areas with 4 ultrasound scanners, 3 stress-test systems and 30 Holter monitors, two interventional cardiology rooms (hemodynamics, catheterization and electrophysiology) and a cardiac rehabilitation area, with 18 cardiology specialists.",
+     "accion": "Suppliers of cardiology, hemodynamics and cardiac rehabilitation equipment: Vithas Vigo is an active private buyer in cardiovascular technology renewal; track its upcoming equipment tenders.",
+     "comentario": "The consolidation of the Vithas Cardiovascular Institute with its own two hemodynamics and electrophysiology rooms and 18 cardiologists confirms Vithas Vigo as a private reference center for interventional cardiology in Galicia, with potential for new short-term purchases of hemodynamics consumables and equipment."
+    }
+   }
+  },
+  {
    "id": "es-aemps-ps-46-2026-likorall",
    "nivel": "rojo",
    "tipo": "prohibicion",
@@ -108,6 +250,29 @@
      "titulo": "AEMPS warns of a risk in certain Likorall ceiling patient-lift systems",
      "resumen": "AEMPS published Medical Device Information Note 46/2026 reporting a risk in certain Likorall ceiling patient-lift systems.",
      "accion": "Hospitals, care homes and technical services: identify whether these systems are installed and apply the measures set out in the AEMPS note."
+    }
+   }
+  },
+  {
+   "id": "es-comunidadmadrid-ciudad-salud-lapaz-inversion-nov2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "otros",
+   "fecha": "2026-11-04",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Comunidad de Madrid – Consejería de Sanidad / Hospital Universitario La Paz",
+   "titulo": "La Comunidad de Madrid autoriza 766,4 M EUR para las dos primeras fases de la Ciudad de la Salud en el Hospital La Paz",
+   "resumen": "El Consejo de Gobierno de la Comunidad de Madrid autorizó una inversión de 766,4 millones de euros para las dos primeras fases del proyecto Ciudad de la Salud, la transformación integral del Hospital Universitario La Paz junto con la Facultad de Medicina de la UAM (inversión total prevista de 1.000 millones de euros). La fase 1 incluye una nueva torre de hospitalización de adultos y un edificio de servicios centrales; la fase 2, la demolición de los edificios General y de Traumatología y la construcción de nuevas consultas externas y una torre materno-infantil. El proyecto contempla 1.140 camas, 49 quirófanos (algunos con cirugía robótica) y un Centro Integral de Cáncer Pediátrico, en más de 550.000 m². El inicio de las obras de las fases 1 y 2 está previsto para el segundo trimestre de 2027, con un plazo de ejecución de 96 meses.",
+   "accion": "Proveedores de equipamiento hospitalario, tecnología quirúrgica y sistemas de imagen: seguir la evolución del proyecto Ciudad de la Salud, que en los próximos años generará licitaciones de gran volumen de equipamiento para el nuevo Hospital La Paz.",
+   "fuente": {
+    "nombre": "Comunidad de Madrid – Notas de prensa",
+    "url": "https://www.comunidad.madrid/node/121545"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Community of Madrid authorizes EUR 766.4 M for the first two phases of the \"Ciudad de la Salud\" at Hospital La Paz",
+     "resumen": "The Community of Madrid's Governing Council authorized an investment of EUR 766.4 million for the first two phases of the \"Ciudad de la Salud\" (Health City) project, the comprehensive transformation of Hospital Universitario La Paz together with the UAM Faculty of Medicine (total planned investment of EUR 1,000 million). Phase 1 includes a new adult hospitalization tower and a central services building; phase 2 includes demolishing the General and Trauma buildings and building new outpatient clinics and a maternal-and-child tower. The project envisions 1,140 beds, 49 operating rooms (some with robotic surgery) and a Comprehensive Pediatric Cancer Center, on more than 550,000 sqm. Construction on phases 1 and 2 is expected to start in Q2 2027, with a 96-month execution period.",
+     "accion": "Suppliers of hospital equipment, surgical technology and imaging systems should track the \"Ciudad de la Salud\" project, which will generate large-volume equipment tenders for the new Hospital La Paz in the coming years."
     }
    }
   },

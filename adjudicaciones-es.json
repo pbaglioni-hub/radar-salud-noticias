@@ -170,6 +170,78 @@
    }
   },
   {
+   "id": "es-hup-palex-shock-cardiogenico-jun2026",
+   "fecha": "2026-06-16",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario de La Princesa (Servicio Madrileño de Salud)",
+   "procedimiento": "Abierto (expediente A/SUM-011708/2026)",
+   "objeto": "Dispositivo para el tratamiento de pacientes en shock cardiogénico, con puesta a disposición de los equipos necesarios durante la vigencia del contrato",
+   "rubro": "cardiovascular",
+   "proveedor": "Palex Medical, S.A.",
+   "monto": 127195.0,
+   "moneda": "EUR",
+   "detalle": "Adjudicación publicada en el Portal el 16/06/2026, por 127.195,00 EUR sin impuestos (153.905,95 EUR con impuestos); el anuncio de formalización se publicó el 21/07/2026. Duración del contrato: 6 meses; la fuente no indica fecha de inicio ni de fin de vigencia.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/297110"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Device for treating patients in cardiogenic shock, with the required equipment made available for the duration of the contract",
+     "detalle": "Award published on the Portal on 06/16/2026, for EUR 127,195.00 excluding tax (EUR 153,905.95 including tax); the formalization notice was published on 07/21/2026. Contract term: 6 months; the source does not give a start or end date."
+    }
+   }
+  },
+  {
+   "id": "es-hurc-epycardio-monitorizacion-domiciliaria-may2026",
+   "fecha": "2026-05-05",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario Ramón y Cajal (Servicio Madrileño de Salud)",
+   "procedimiento": "Abierto (expediente A/SER-044419/2025)",
+   "objeto": "Servicio integral de monitorización de pacientes con patología cardíaca que requiera monitorización domiciliaria",
+   "rubro": "cardiovascular",
+   "proveedor": "Epycardio, S.L.",
+   "monto": 643386.17,
+   "moneda": "EUR",
+   "detalle": "Adjudicación formalizada; el anuncio de formalización se publicó en el Portal de Contratación el 05/05/2026 (y en el BOCM el 12/05/2026), por 643.386,17 EUR sin impuestos (778.497,27 EUR con impuestos). Duración del contrato: 24 meses.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/292109"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Comprehensive monitoring service for patients with cardiac conditions requiring home monitoring",
+     "detalle": "Award formalized; the formalization notice was published on the Procurement Portal on 05/05/2026 (and in the Madrid official gazette, BOCM, on 05/12/2026), for EUR 643,386.17 excluding tax (EUR 778,497.27 including tax). Contract term: 24 months."
+    }
+   }
+  },
+  {
+   "id": "es-hulp-cardiva2-endoprotesis-aorta-mar2026",
+   "fecha": "2026-03-26",
+   "ambito": "Comunidad de Madrid",
+   "organismo": "Hospital Universitario La Paz (Servicio Madrileño de Salud)",
+   "procedimiento": "Abierto simplificado (expediente PASA 2026-1-1, lote 1)",
+   "objeto": "Suministro de implantes: fenestra para cuerpo de endoprótesis bifurcada o recta manufacturada a medida, y endoprótesis fenestrada para aneurisma de aorta abdominal o infrarrenal a medida",
+   "rubro": "cardiovascular",
+   "proveedor": "Cardiva 2, S.L.",
+   "monto": 20359.0,
+   "moneda": "EUR",
+   "detalle": "Adjudicación del lote 1 (de 2) del expediente PASA 2026-1-1, formalizada el 26/03/2026, por 20.359,00 EUR sin impuestos (22.394,90 EUR con impuestos), igual al presupuesto base del lote. El lote 2 (catéter guía y endoprótesis fenestrada/rama ilíaca, 21.000,00 EUR sin impuestos) también se adjudicó en la misma fecha, pero la fuente no identifica al proveedor del lote 2, por lo que no se incluye aquí.",
+   "vence": null,
+   "fuente": {
+    "nombre": "Plataforma de Contratación del Sector Público / Perfil del contratante – Comunidad de Madrid",
+    "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/print/pdf/node/294955"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of implants: fenestration for a custom-made bifurcated or straight endoprosthesis body, and a custom fenestrated endoprosthesis for abdominal aortic or infrarenal aneurysm",
+     "detalle": "Award of lot 1 (of 2) of file PASA 2026-1-1, formalized on 03/26/2026, for EUR 20,359.00 excluding tax (EUR 22,394.90 including tax), matching the lot's base budget. Lot 2 (guide catheter and fenestrated endoprosthesis/iliac limb, EUR 21,000.00 excluding tax) was also awarded on the same date, but the source does not identify lot 2's supplier, so it is not included here."
+    }
+   }
+  },
+  {
    "id": "es-hgugm-biotronik-cateter-balon-paclitaxel-mar2026",
    "fecha": "2026-03-25",
    "ambito": "Comunidad de Madrid",
