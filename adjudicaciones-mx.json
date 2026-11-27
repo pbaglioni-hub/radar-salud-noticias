@@ -47,7 +47,19 @@
      "objeto": "Equipo de quirófano: 53 monitores intermedios de signos vitales, 57 bombas de infusión, 2 microscopios quirúrgicos, 11 unidades de electrocirugía, 1 ventilador oscilatorio de alta frecuencia",
      "detalle": "Monitores intermedios a MXN 304,615.38 cada uno (MXN 16.14 millones por 53). Montos antes de IVA."
     }
-   }
+   },
+   "precios": [
+    {
+     "item": "Intermediate monitor",
+     "precio": 304615.38,
+     "cantidad": 53,
+     "trad": {
+      "es": {
+       "item": "Monitor intermedio"
+      }
+     }
+    }
+   ]
   },
   {
    "id": "mx-issste-ms-sistemas-medicos-sem45-2026",
@@ -71,7 +83,19 @@
      "objeto": "Equipo de quirófano: 50 monitores avanzados de signos vitales, 2 incubadoras neonatales, 2 capnógrafos con oxímetros portátiles, 23 laringoscopios",
      "detalle": "Monitores avanzados a MXN 320,000 cada uno (MXN 16 millones por 50). Montos antes de IVA."
     }
-   }
+   },
+   "precios": [
+    {
+     "item": "Advanced monitor",
+     "precio": 320000,
+     "cantidad": 50,
+     "trad": {
+      "es": {
+       "item": "Monitor avanzado"
+      }
+     }
+    }
+   ]
   },
   {
    "id": "mx-imss-bienestar-iguarma-mantenimiento-qroo-2026",

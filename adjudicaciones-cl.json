@@ -23,7 +23,29 @@
      "objeto": "High-complexity cardiac stimulation medical devices for the Integrated Cardiovascular Medicine Unit (Hemodynamics/Electrophysiology)",
      "detalle": "Total estimated tender value: $320,000,000 CLP. Items awarded to this supplier: 20 dual-chamber implantable cardioverter-defibrillators (including electrode and introducer), code 42203501, at $6,800,000 CLP each ($136,000,000 total); and 10 DDD defibrillator generators with cardiac resynchronization, same code, at $6,400,000 CLP each ($64,000,000 total). Total awarded: $200,000,000 CLP. 2 bidders participated. Published: 10/21/2026; bid closing: 11/10/2026; award: 11/18/2026. Contract term of 12 months, renewable once for up to 12 more months; estimated contract signing on 01/08/2027. Performance bond (5%) expiring 05/31/2028."
     }
-   }
+   },
+   "precios": [
+    {
+     "item": "Desfibrilador bicameral cardíaco (incluye electrodo e introductor)",
+     "precio": 6800000,
+     "cantidad": 20,
+     "trad": {
+      "en": {
+       "item": "Dual-chamber cardiac defibrillator (includes lead and introducer)"
+      }
+     }
+    },
+    {
+     "item": "Generador desfibrilador DDD con resincronización cardíaca",
+     "precio": 6400000,
+     "cantidad": 10,
+     "trad": {
+      "en": {
+       "item": "DDD defibrillator generator with cardiac resynchronization"
+      }
+     }
+    }
+   ]
   },
   {
    "id": "cl-int-1499-84-lp26-salinas-lyon",
@@ -71,7 +93,19 @@
      "objeto": "Mechanical heart valves for cardiac surgery: Regent-type or equivalent aortic valve prosthesis",
      "detalle": "Total estimated tender value (both items): $345,415,400 CLP. This supplier was awarded 50 units of a Regent-type or equivalent aortic valve prosthesis, at $1,900,000 CLP each ($95,000,000 total); it must deliver at least one set of sizers before the contract starts. The tender's other item (150 titanium bileaflet mechanical prostheses with pyrolytic carbon leaflets, $163,500,000 CLP) was awarded to Arlab Ltda. 3 bidders participated, including Importadora y Distribuidora Arquimed Ltda., which bid on both items for a combined $240,000,000 CLP (lower than the combined award) but was not awarded either item. Award date: 05/27/2026. Contract term: 24 months, non-renewable. Performance bond (5%) expiring 08/10/2028."
     }
-   }
+   },
+   "precios": [
+    {
+     "item": "Prótesis valvular aórtica tipo Regent o equivalente",
+     "precio": 1900000,
+     "cantidad": 50,
+     "trad": {
+      "en": {
+       "item": "Regent-type aortic valve prosthesis or equivalent"
+      }
+     }
+    }
+   ]
   },
   {
    "id": "cl-int-1499-24-lp26-arlab",
@@ -95,7 +129,19 @@
      "objeto": "Mechanical heart valves for cardiac surgery: titanium bileaflet mechanical prosthesis with pyrolytic carbon leaflets",
      "detalle": "Total estimated tender value (both items): $345,415,400 CLP. This supplier was awarded 150 units of a titanium bileaflet mechanical prosthesis with pyrolytic carbon leaflets, at $1,090,000 CLP each ($163,500,000 total); it must submit an effective orifice area index (EOAI) mismatch table and at least two complete sets of sizers with a sterilization case. The tender's other item (50 Regent-type aortic valve prostheses, $95,000,000 CLP) was awarded to M. Kaplan y Cía. Ltda. 3 bidders participated, including Importadora y Distribuidora Arquimed Ltda., which bid on both items for a combined $240,000,000 CLP (lower than the combined award) but was not awarded either item. Award date: 05/27/2026. Contract term: 24 months, non-renewable. Performance bond (5%) expiring 08/10/2028."
     }
-   }
+   },
+   "precios": [
+    {
+     "item": "Prótesis mecánica bivalva de titanio con velos de carbón pirolítico",
+     "precio": 1090000,
+     "cantidad": 150,
+     "trad": {
+      "en": {
+       "item": "Bileaflet titanium mechanical valve prosthesis with pyrolytic carbon leaflets"
+      }
+     }
+    }
+   ]
   },
   {
    "id": "cl-hjnc-1075963-91-lr25-sandoz",
