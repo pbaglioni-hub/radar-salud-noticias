@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "noticias": [
   {
    "id": "br-ms-dlog-carfilzomibe-pregao90127-26nov2026",
@@ -223,6 +223,29 @@
        "objeto": "Material médico-hospitalario para procedimientos quirúrgicos de ortopedia oncológica"
       }
      ]
+    }
+   }
+  },
+  {
+   "id": "br-anvisa-alert-5398-brainlab-cranial-em",
+   "nivel": "rojo",
+   "tipo": "prohibicion",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-24",
+   "ambito": "federal",
+   "organismo": "ANVISA (Tecnovigilancia)",
+   "titulo": "ANVISA alert 5398: Brainlab's Cranial EM surgical navigation software may fail in neonates and infants",
+   "resumen": "ANVISA Tecnovigilancia alert No. 5398 (published November 24, 2026) covers Brainlab's Cranial EM surgical navigation software (Class III software as a medical device, version 1.X), used together with the Universal Atlas 6.0 submodule. The manufacturer, Brainlab SE (Germany), identified on October 22, 2026 that the software may fail to register anatomical surfaces, or produce unusable results, in neonates (under 29 days old) and infants (29 days to 2 years old), under field-action code CAPA-20260507-003045.",
+   "accion": "Hospitals and surgical centers using Brainlab's Cranial EM navigation system for neonatal or infant cranial procedures should follow the manufacturer's Carta ao Cliente instructions, avoid relying on the software's surface-registration results for this age group until updated, and apply the corrective software update scheduled to begin in December 2026 (timing varies by country).",
+   "fuente": {
+    "nombre": "Legismap (replica del boletin de Tecnovigilancia de ANVISA)",
+    "url": "https://legismap.com.br/conteudos/artigos-e-noticias/alertas-anvisa-em-24-11-2026"
+   },
+   "trad": {
+    "es": {
+     "titulo": "Alerta ANVISA 5398: el software de navegacion quirurgica Cranial EM de Brainlab puede fallar en neonatos y lactantes",
+     "resumen": "La alerta de Tecnovigilancia de ANVISA N.° 5398 (publicada el 24 de noviembre de 2026) cubre el software de navegacion quirurgica Cranial EM de Brainlab (software como producto para la salud Clase III, version 1.X), usado junto con el submodulo Universal Atlas 6.0. El fabricante, Brainlab SE (Alemania), identifico el 22 de octubre de 2026 que el software puede fallar al registrar superficies anatomicas, o producir resultados inutilizables, en neonatos (menores de 29 dias) y lactantes (29 dias a 2 años), bajo el codigo de accion de campo CAPA-20260507-003045.",
+     "accion": "Los hospitales y centros quirurgicos que usan el sistema de navegacion Cranial EM de Brainlab para procedimientos craneales en neonatos o lactantes deben seguir las instrucciones de la Carta ao Cliente del fabricante, evitar basarse en los resultados de registro de superficie del software para ese grupo etario hasta su actualizacion, y aplicar la actualizacion correctiva de software prevista a partir de diciembre de 2026 (el momento varia segun el pais)."
     }
    }
   },

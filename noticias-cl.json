@@ -1,6 +1,56 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "noticias": [
+  {
+   "id": "cl-cavrr-tavi-arlab-2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "cardiovascular",
+   "fecha": "2026-08-09",
+   "ambito": "Región del Biobío",
+   "organismo": "Complejo Asistencial Dr. Víctor Ríos Ruiz",
+   "titulo": "Cardiovascular: el Complejo Asistencial Dr. Víctor Ríos Ruiz adjudica a Arlab un convenio de suministro de kits de válvula TAVI para hemodinamia",
+   "resumen": "El Complejo Asistencial Dr. Víctor Ríos Ruiz (Región del Biobío) adjudicó la licitación pública 1057417-471-LP25, convenio de suministro de kits de válvula TAVI (implante transcatéter de válvula aórtica) para su unidad de Hemodinamia, por 12 unidades y un monto estimado de $241.332.000. La licitación, publicada el 23 de febrero de 2026 y cerrada el 17 de marzo de 2026, fue adjudicada a Arlab Ltda. (Artículos, Equipos y Productos para la Medicina, Laboratorios y la Industria Ltda.) por un monto igual o superior a $100.000.000; la cifra exacta de adjudicación no está disponible en la fuente consultada (estado verificado por última vez el 9 de agosto de 2026).",
+   "accion": "Proveedores de válvulas TAVI y kits de implante transcatéter: este adjudicatario y este comprador son una referencia de precio y de demanda para futuras licitaciones similares de válvulas aórticas percutáneas en la red pública.",
+   "comentario": "Es una de las pocas compras públicas confirmadas de válvulas TAVI en Chile; aunque el monto exacto de adjudicación no es público, el monto estimado (~$20 millones por unidad) sirve de referencia de precio para ofertar en licitaciones similares de hemodinamia.",
+   "fuente": {
+    "nombre": "BidsFactory (datos de Mercado Público)",
+    "url": "https://bidsfactory.com/en/tenders/convenio-suministro-kit-valvula-tavi-para-hemodina-chile_mercadopublico-1057417-471-LP25"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: Dr. Víctor Ríos Ruiz Medical Complex awards Arlab a TAVI valve kit supply agreement for its cath lab",
+     "resumen": "The Dr. Víctor Ríos Ruiz Medical Complex (Biobío Region) awarded public tender 1057417-471-LP25, a supply agreement for TAVI valve kits (transcatheter aortic valve implantation) for its Hemodynamics unit, for 12 units with an estimated value of $241,332,000 CLP. The tender, published February 23, 2026 and closed March 17, 2026, was awarded to Arlab Ltda. (Artículos, Equipos y Productos para la Medicina, Laboratorios y la Industria Ltda.) for an amount of $100,000,000 CLP or more; the exact awarded figure is not available in the source consulted (status last verified August 9, 2026).",
+     "accion": "Suppliers of TAVI valves and transcatheter implant kits should note this awardee and buyer as a price and demand benchmark for future similar percutaneous aortic valve tenders in the public network.",
+     "comentario": "This is one of the few confirmed public purchases of TAVI valves in Chile; although the exact awarded amount is not public, the estimated value (~$20 million CLP per unit) is a useful price benchmark for bidding on similar hemodynamics tenders."
+    }
+   }
+  },
+  {
+   "id": "cl-hggb-886954-129-hemodinamia-2026",
+   "nivel": "verde",
+   "tipo": "otro",
+   "rubro": "cardiovascular",
+   "fecha": "2026-05-26",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "titulo": "Cardiovascular: el Hospital Guillermo Grant Benavente adjudica catéteres introductores vasculares y sistemas de visualización coronaria a Terumo, Medtronic y Arquimed",
+   "resumen": "El Hospital Guillermo Grant Benavente adjudicó la licitación pública 886954-129-LP26, convenio de suministro de insumos varios para su Unidad de Hemodinamia (monto estimado $170.000.000; monto adjudicado total $28.631.800 entre 5 proveedores, con 11 oferentes). Dentro de los ítems cardiovasculares: Comercializadora Terumo Chile Ltda. se adjudicó juegos de catéteres introductores vasculares intervencionales o diagnósticos (1.500 unidades a $9.000 cada una y 60 unidades a $47.000 cada una); Comercial Medtronic Chile Ltda. se adjudicó el mismo tipo de catéteres introductores (600 unidades a $12.000 cada una); e Importadora y Distribuidora Arquimed Ltda. se adjudicó sistemas de visualización coronaria (50 unidades a $12.000 cada una). Otros ítems del mismo convenio (válvulas de circuitos de ventilación y catéteres intravenosos periféricos de uso general) fueron adjudicados a Nemo Chile S.A. y a Importadora y Exportadora Camir SpA, fuera del foco cardiovascular.",
+   "accion": "Proveedores de catéteres introductores vasculares y sistemas de visualización coronaria: usar estos precios unitarios como referencia para cotizar en convenios similares de unidades de hemodinamia de la red pública.",
+   "comentario": "El mismo convenio de hemodinamia reparte ítems entre varios proveedores según precio por renglón, no a un solo ganador; es un patrón de compra a tener en cuenta al diseñar la oferta técnica y comercial para licitaciones similares.",
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/886954-129-LP26"
+   },
+   "trad": {
+    "en": {
+     "titulo": "Cardiovascular: Guillermo Grant Benavente Hospital awards vascular introducer catheters and coronary visualization systems to Terumo, Medtronic and Arquimed",
+     "resumen": "Guillermo Grant Benavente Hospital awarded public tender 886954-129-LP26, a supply agreement for various supplies for its Hemodynamics Unit (estimated value $170,000,000 CLP; total awarded amount $28,631,800 CLP across 5 suppliers, with 11 bidders). Among the cardiovascular items: Comercializadora Terumo Chile Ltda. was awarded sets of interventional or diagnostic vascular introducer catheters (1,500 units at $9,000 CLP each and 60 units at $47,000 CLP each); Comercial Medtronic Chile Ltda. was awarded the same type of introducer catheters (600 units at $12,000 CLP each); and Importadora y Distribuidora Arquimed Ltda. was awarded coronary visualization systems (50 units at $12,000 CLP each). Other items in the same agreement (ventilation circuit valves and general-use peripheral intravenous catheters) were awarded to Nemo Chile S.A. and Importadora y Exportadora Camir SpA, outside the cardiovascular focus.",
+     "accion": "Suppliers of vascular introducer catheters and coronary visualization systems should use these unit prices as a benchmark when bidding on similar hemodynamics-unit agreements in the public network.",
+     "comentario": "The same hemodynamics agreement splits items among several suppliers by per-line price rather than to a single winner; this purchasing pattern is worth factoring into the technical and commercial offer for similar tenders."
+    }
+   }
+  },
   {
    "id": "cl-dipreca-cardiovascular-nov2026",
    "nivel": "amarillo",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "noticias": [
   {
    "id": "garrahan-lp-101-2026-stent-aortico-balon-angioplastia",
@@ -3146,6 +3146,227 @@
      "titulo": "The Medical Association warns of PAMI's payment crisis",
      "resumen": "The Medical Association of Buenos Aires Province reported PAMI's underfunding, the interruption of agreements, and refusal of care at private hospitals. It called for a roundtable with the national government, PAMI and providers, payment of outstanding debts, and a restructuring of fees.",
      "accion": "Review collections from clients with a large PAMI-dependent client base."
+    }
+   }
+  },
+  {
+   "id": "ips-salta-med21870-stent-coronario-liberador-drogas",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-26",
+   "ambito": "Salta",
+   "organismo": "Instituto Provincial de Salud de Salta",
+   "titulo": "El Instituto Provincial de Salud de Salta licita un stent coronario liberador de drogas CARDIOVASCULAR",
+   "resumen": "El Instituto Provincial de Salud de Salta (IPS) llamó a la Contratación Abreviada N° MED21870 (Expediente 0000074-104561/2026-0) para la adquisición de un stent coronario liberador de drogas, un balón no complaciente y una cuerda coronaria hidrofílica. La apertura de ofertas es el 1° de diciembre de 2026 a las 9:30 horas, a través del portal de compras de la provincia de Salta.",
+   "accion": "Proveedores de stents coronarios liberadores de fármacos deben revisar el pliego antes de la apertura del 1/12.",
+   "fuente": {
+    "nombre": "Portal de Compras de la Provincia de Salta",
+    "url": "https://compras.salta.gob.ar/publico/publicacionactual/verpublicacion1/152928/0"
+   },
+   "licitaciones": [
+    {
+     "numero": "Contratación Abreviada N° MED21870 (Expte. 0000074-104561/2026-0)",
+     "objeto": "Stent coronario liberador de drogas, balón no complaciente y cuerda coronaria hidrofílica",
+     "apertura": "2026-12-01",
+     "hora": "09:30",
+     "lugar": "Portal de Compras de la Provincia de Salta (compras.salta.gob.ar)",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Drug-eluting coronary stent, non-compliant balloon and hydrophilic coronary guidewire"
+      }
+     }
+    }
+   ],
+   "comentario": "La compra de un stent coronario liberador de fármacos por parte de una obra social provincial como el IPS de Salta confirma demanda sostenida de intervencionismo coronario fuera del circuito de PAMI y de los grandes centros nacionales, un canal de menor volumen pero recurrente para proveedores de dispositivos de hemodinamia.",
+   "trad": {
+    "en": {
+     "titulo": "Salta's Provincial Health Institute tenders a CARDIOVASCULAR drug-eluting coronary stent",
+     "resumen": "The Instituto Provincial de Salud de Salta (IPS) opened Abbreviated Procurement No. MED21870 (File 0000074-104561/2026-0) for the purchase of a drug-eluting coronary stent, a non-compliant balloon and a hydrophilic coronary guidewire. Bids open on December 1, 2026 at 9:30 a.m., through the Salta provincial procurement portal.",
+     "accion": "Suppliers of drug-eluting coronary stents should review the bidding documents before the December 1 opening.",
+     "comentario": "The purchase of a drug-eluting coronary stent by a provincial health insurer such as Salta's IPS confirms sustained demand for coronary intervention outside PAMI's channel and the large national centers, a lower-volume but recurring outlet for hemodynamics device suppliers."
+    }
+   }
+  },
+  {
+   "id": "mendoza-hospital-central-hemodinamia-desfibriladores-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "cardiovascular",
+   "fecha": "2026-11-26",
+   "ambito": "Mendoza",
+   "organismo": "Hospital Central (Mendoza)",
+   "titulo": "El Hospital Central de Mendoza licita insumos de hemodinamia y cardiodesfibriladores CARDIOVASCULARES",
+   "resumen": "El Hospital Central de Mendoza abrió dos licitaciones públicas a través del portal de compras de la provincia. La primera (Expediente EX-2026-07631223-GDEMZA) es para la \"Adquisición de Insumos de Hemodinamia\", con apertura el 2 de diciembre de 2026 a las 7:30 horas. La segunda, Licitación Pública 20801-0160-LPU26 (Expediente EX-2026-09209269-GDEMZA-HCENTRAL#MSDSYD), es para la adquisición de 3 electrocardiógrafos y 5 cardiodesfibriladores con cardioscopio, con apertura el 9 de diciembre de 2026 a las 7:30 horas.",
+   "accion": "Proveedores de insumos de hemodinamia y de cardiodesfibriladores deben revisar los pliegos antes de las aperturas del 2/12 y el 9/12.",
+   "fuente": {
+    "nombre": "COMPR.AR Mendoza",
+    "url": "https://comprar.mendoza.gov.ar/PLIEGO/VistaPreviaPliegoCiudadano.aspx?qs=BQoBkoMoEhycTXmEkrEtXqbZ9pDg|VXWp|DuvF|QSyK6xnqbvXfcOFpDVeuCCdefaatrk60VG|Mxj8cMLywk8Q=="
+   },
+   "licitaciones": [
+    {
+     "numero": "Licitación Pública (Expte. EX-2026-07631223-GDEMZA)",
+     "objeto": "Adquisición de insumos de hemodinamia",
+     "apertura": "2026-12-02",
+     "hora": "07:30",
+     "lugar": "Portal de Compras de la Provincia de Mendoza (comprar.mendoza.gov.ar)",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Purchase of hemodynamics supplies"
+      }
+     }
+    },
+    {
+     "numero": "Licitación Pública 20801-0160-LPU26 (Expte. EX-2026-09209269-GDEMZA-HCENTRAL#MSDSYD)",
+     "objeto": "Adquisición de desfibriladores y electrocardiógrafos: 3 electrocardiógrafos y 5 cardiodesfibriladores con cardioscopio",
+     "apertura": "2026-12-09",
+     "hora": "07:30",
+     "lugar": "Portal de Compras de la Provincia de Mendoza (comprar.mendoza.gov.ar)",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Purchase of defibrillators and electrocardiographs: 3 electrocardiographs and 5 cardioverter-defibrillators with cardioscope"
+      }
+     }
+    }
+   ],
+   "comentario": "La compra conjunta de insumos de hemodinamia y de cinco cardiodesfibriladores con cardioscopio por parte de un hospital de referencia como el Hospital Central de Mendoza sugiere una renovación de equipamiento de guardia y de sala de cateterismo que puede repetirse en otros hospitales provinciales de alta complejidad.",
+   "trad": {
+    "en": {
+     "titulo": "Mendoza's Hospital Central tenders CARDIOVASCULAR hemodynamics supplies and cardioverter-defibrillators",
+     "resumen": "Hospital Central in Mendoza opened two public tenders through the provincial procurement portal. The first (File EX-2026-07631223-GDEMZA) is for the \"Purchase of Hemodynamics Supplies,\" opening on December 2, 2026 at 7:30 a.m. The second, Public Tender 20801-0160-LPU26 (File EX-2026-09209269-GDEMZA-HCENTRAL#MSDSYD), is for the purchase of 3 electrocardiographs and 5 cardioverter-defibrillators with cardioscope, opening on December 9, 2026 at 7:30 a.m.",
+     "accion": "Suppliers of hemodynamics supplies and cardioverter-defibrillators should review the bidding documents before the December 2 and December 9 openings.",
+     "comentario": "The joint purchase of hemodynamics supplies and five cardioverter-defibrillators with cardioscope by a reference hospital such as Hospital Central de Mendoza suggests an on-call and cath-lab equipment renewal that may be repeated at other high-complexity provincial hospitals."
+    }
+   }
+  },
+  {
+   "id": "pba-region-sanitaria-xii-placa-artrodesis-cervical-titanio",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-26",
+   "ambito": "Buenos Aires",
+   "organismo": "Dirección Provincial de Redes y Regiones Sanitarias - Región Sanitaria XII",
+   "titulo": "La Región Sanitaria XII de la provincia de Buenos Aires licita una placa de artrodesis cervical anterior de titanio",
+   "resumen": "La Dirección Provincial de Redes y Regiones Sanitarias, a través de la Región Sanitaria XII (Bahía Blanca), llamó al Procedimiento Abreviado 2026-137-99-448 (Expediente EX-2026-1640282-GDEBA-RSXIIMSALGP) para la adquisición de una celda autosustentable y una placa de artrodesis cervical anterior de titanio con tornillos. El presupuesto oficial es de $10.572.000 y la apertura de ofertas es el 3 de diciembre de 2026 a las 12:00 horas, a través del portal PBAC de la provincia de Buenos Aires.",
+   "accion": "Proveedores de implantes de columna cervical deben revisar el pliego antes de la apertura del 3/12.",
+   "fuente": {
+    "nombre": "PBAC (Provincia de Buenos Aires), vía Indicadores Argentina",
+    "url": "https://indicadores.ar/contrataciones/llamados/aviso/direccion-pcial-de-redes-y-regiones-region-sanitaria-xii-procedimiento-abreviado-2026-137-99-448-aca92f"
+   },
+   "licitaciones": [
+    {
+     "numero": "Procedimiento Abreviado 2026-137-99-448 (Expte. EX-2026-1640282-GDEBA-RSXIIMSALGP)",
+     "objeto": "Celda autosustentable y placa de artrodesis cervical anterior de titanio con tornillos",
+     "apertura": "2026-12-03",
+     "hora": "12:00",
+     "monto": "$10.572.000",
+     "lugar": "Portal PBAC (pbac.cgp.gba.gov.ar)",
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Self-sustaining cage and titanium anterior cervical arthrodesis plate with screws"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Buenos Aires province's Región Sanitaria XII tenders a titanium anterior cervical arthrodesis plate",
+     "resumen": "The Dirección Provincial de Redes y Regiones Sanitarias, through Región Sanitaria XII (Bahía Blanca), opened Abbreviated Procedure 2026-137-99-448 (File EX-2026-1640282-GDEBA-RSXIIMSALGP) for the purchase of a self-sustaining cage and a titanium anterior cervical arthrodesis plate with screws. The official budget is $10,572,000 and bids open on December 3, 2026 at 12:00 p.m., through the Buenos Aires province PBAC portal.",
+     "accion": "Suppliers of cervical spine implants should review the bidding documents before the December 3 opening."
+    }
+   }
+  },
+  {
+   "id": "ips-salta-protesis-cadera-dic2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "traumatologia",
+   "fecha": "2026-11-26",
+   "ambito": "Salta",
+   "organismo": "Instituto Provincial de Salud de Salta",
+   "titulo": "El Instituto Provincial de Salud de Salta licita dos prótesis de cadera cerámicas",
+   "resumen": "El Instituto Provincial de Salud de Salta (IPS) llamó a dos contrataciones abreviadas para prótesis de cadera: la N° MED21860 (Expediente 0000074-110969/2026-0), para una prótesis de cadera derecha cerámica-cerámica e insumos, y la N° MED21866 (Expediente 0000074-110816/2026-0), para una prótesis de cadera derecha no cementada cerámica-polietileno, con U drape. Ambas abren el 1° de diciembre de 2026 a las 9:30 horas, a través del portal de compras de la provincia de Salta.",
+   "accion": "Proveedores de prótesis de cadera deben revisar los pliegos antes de la apertura del 1/12.",
+   "fuente": {
+    "nombre": "Portal de Compras de la Provincia de Salta",
+    "url": "https://compras.salta.gob.ar/publico/publicacionactual/verpublicacion1/152921/0"
+   },
+   "licitaciones": [
+    {
+     "numero": "Contratación Abreviada N° MED21860 (Expte. 0000074-110969/2026-0)",
+     "objeto": "Prótesis de cadera derecha cerámica-cerámica e insumos",
+     "apertura": "2026-12-01",
+     "hora": "09:30",
+     "lugar": "Portal de Compras de la Provincia de Salta (compras.salta.gob.ar)",
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Right hip prosthesis, ceramic-on-ceramic, and supplies"
+      }
+     }
+    },
+    {
+     "numero": "Contratación Abreviada N° MED21866 (Expte. 0000074-110816/2026-0)",
+     "objeto": "Prótesis de cadera derecha no cementada cerámica-polietileno, con U drape",
+     "apertura": "2026-12-01",
+     "hora": "09:30",
+     "lugar": "Portal de Compras de la Provincia de Salta (compras.salta.gob.ar)",
+     "rubro": "traumatologia",
+     "trad": {
+      "en": {
+       "objeto": "Uncemented right hip prosthesis, ceramic-on-polyethylene, with U drape"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "Salta's Provincial Health Institute tenders two ceramic hip prostheses",
+     "resumen": "The Instituto Provincial de Salud de Salta (IPS) opened two abbreviated procurements for hip prostheses: No. MED21860 (File 0000074-110969/2026-0), for a right ceramic-on-ceramic hip prosthesis and supplies, and No. MED21866 (File 0000074-110816/2026-0), for an uncemented right ceramic-on-polyethylene hip prosthesis with U drape. Both open on December 1, 2026 at 9:30 a.m., through the Salta provincial procurement portal.",
+     "accion": "Suppliers of hip prostheses should review the bidding documents before the December 1 opening."
+    }
+   }
+  },
+  {
+   "id": "policia-federal-lp-0087-2026-medicamentos-oncologicos",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "oncologia",
+   "fecha": "2026-11-26",
+   "ambito": "Nación",
+   "organismo": "Policía Federal Argentina",
+   "titulo": "La Policía Federal Argentina licita medicamentos oncológicos para su División Farmacia",
+   "resumen": "La Policía Federal Argentina, a través de la División Compras y Suministros de la Superintendencia de Bienestar (UOC 487), llamó a la Licitación Pública 0087/2026 (487-0087-LPU26, Expediente EX-2026-99345488-APN-DCOYS#PFA) para la adquisición de medicamentos oncológicos destinados a su División Farmacia. La apertura de ofertas es el 9 de diciembre de 2026 a las 10:00 horas, por acto público electrónico a través de COMPR.AR.",
+   "accion": "Laboratorios de medicamentos oncológicos deben revisar el pliego antes de la apertura del 9/12.",
+   "fuente": {
+    "nombre": "COMPR.AR",
+    "url": "https://comprar.gob.ar/PLIEGO/VistaPreviaPliegoCiudadano.aspx?qs=BQoBkoMoEhyDh6O7qwR8tG968SzaAXB3KCjpdVEDMMI0fNJnJtTciIiWXxtzceg9SUAp37clAjSvFMU1D7XG3Q=="
+   },
+   "licitaciones": [
+    {
+     "numero": "Licitación Pública 0087/2026 (487-0087-LPU26, Expte. EX-2026-99345488-APN-DCOYS#PFA)",
+     "objeto": "Adquisición de medicamentos oncológicos para la División Farmacia",
+     "apertura": "2026-12-09",
+     "hora": "10:00",
+     "lugar": "Acto público electrónico vía COMPR.AR",
+     "rubro": "oncologia",
+     "trad": {
+      "en": {
+       "objeto": "Purchase of oncology medicines for the Pharmacy Division"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "en": {
+     "titulo": "The Argentine Federal Police tenders oncology medicines for its Pharmacy Division",
+     "resumen": "The Argentine Federal Police, through the Purchasing and Supplies Division of its Welfare Superintendency (UOC 487), opened Public Tender 0087/2026 (487-0087-LPU26, File EX-2026-99345488-APN-DCOYS#PFA) for the purchase of oncology medicines for its Pharmacy Division. Bids open on December 9, 2026 at 10:00 a.m., by electronic public session through COMPR.AR.",
+     "accion": "Oncology drug manufacturers should review the bidding documents before the December 9 opening."
     }
    }
   }

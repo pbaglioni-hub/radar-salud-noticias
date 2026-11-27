@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-27",
  "adjudicaciones": [
   {
    "id": "br-unicamp-ata00824-2026-gadali-cateter-balao",
@@ -122,6 +122,62 @@
    }
   },
   {
+   "id": "br-goias-ata102-2026-cmhospitalar-vandetanibe-leuprorrelina",
+   "fecha": "2026-08-27",
+   "ambito": "estadual (Goias)",
+   "organismo": "Secretaria de Estado da Saude de Goias (SES-GO)",
+   "procedimiento": "Pregao Eletronico no 124/2026, Ata de Registro de Precos 102/2026 \"A\" (SES), processo no 202600005012029 (Contratacao SISLOG no 119451)",
+   "objeto": "Price registration for the oncology drugs leuprorelin acetate 45 mg and vandetanib 100 mg/300 mg, for the Central Estadual de Medicamentos de Alto Custo Juarez Barbosa (CEMAC)",
+   "rubro": "oncologia",
+   "proveedor": "CM Hospitalar S.A.",
+   "monto": 2185171.95,
+   "moneda": "BRL",
+   "detalle": "Three oncology items registered: item 1, leuprorelin acetate 45 mg depot injection (Eligard), 15 units at R$1,458.29; item 19, vandetanib 100 mg film-coated tablets (Caprelsa), 1,440 units at R$301.42; item 20, vandetanib 300 mg film-coated tablets (Caprelsa), 2,160 units at R$800.58. The ata is dated August 14, 2026, with electronic signatures on August 24 and August 27, 2026; the underlying Pregao Eletronico 124/2026 was published June 30, 2026. Validity is one year from the first business day after PNCP publication (publication date not given in the document), extendable for an equal period.",
+   "vence": null,
+   "precios": [
+    {
+     "item": "Leuprorelin acetate 45 mg depot injection (Eligard)",
+     "precio": 1458.29,
+     "cantidad": 15,
+     "trad": {
+      "es": {
+       "item": "Acetato de leuprorrelina 45 mg inyeccion depot (Eligard)"
+      }
+     }
+    },
+    {
+     "item": "Vandetanib 100 mg film-coated tablets (Caprelsa)",
+     "precio": 301.42,
+     "cantidad": 1440,
+     "trad": {
+      "es": {
+       "item": "Vandetanib 100 mg comprimidos recubiertos (Caprelsa)"
+      }
+     }
+    },
+    {
+     "item": "Vandetanib 300 mg film-coated tablets (Caprelsa)",
+     "precio": 800.58,
+     "cantidad": 2160,
+     "trad": {
+      "es": {
+       "item": "Vandetanib 300 mg comprimidos recubiertos (Caprelsa)"
+      }
+     }
+    }
+   ],
+   "fuente": {
+    "nombre": "Secretaria de Estado da Saude de Goias (SES-GO)",
+    "url": "https://goias.gov.br/saude/wp-content/uploads/sites/34/licitacao/ata-de-registro-de-preco/2026/119451-A.pdf"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Registro de precios de los medicamentos oncologicos acetato de leuprorrelina 45 mg y vandetanib 100 mg/300 mg, para la Central Estadual de Medicamentos de Alto Costo Juarez Barbosa (CEMAC)",
+     "detalle": "Tres items oncologicos registrados: item 1, acetato de leuprorrelina 45 mg inyeccion depot (Eligard), 15 unidades a R$1.458,29; item 19, vandetanib 100 mg comprimidos recubiertos (Caprelsa), 1.440 unidades a R$301,42; item 20, vandetanib 300 mg comprimidos recubiertos (Caprelsa), 2.160 unidades a R$800,58. El acta esta fechada el 14 de agosto de 2026, con firmas electronicas el 24 y el 27 de agosto de 2026; el Pregao Eletronico 124/2026 subyacente fue publicado el 30 de junio de 2026. La vigencia es de un año desde el primer dia habil posterior a la publicacion en el PNCP (fecha de publicacion no indicada en el documento), prorrogable por igual periodo."
+    }
+   }
+  },
+  {
    "id": "br-inc-arp-294-2026-liga-hospitalar",
    "fecha": "2026-08-11",
    "ambito": "Rio de Janeiro",
@@ -238,6 +294,42 @@
     "es": {
      "objeto": "Materiales hospitalarios (ítem 11)",
      "detalle": "Firmado el 13 de julio de 2026. El aviso no indica cantidades ni precios unitarios."
+    }
+   }
+  },
+  {
+   "id": "br-goias-ata83-2026-costacamargo-pazopanibe",
+   "fecha": "2026-07-07",
+   "ambito": "estadual (Goias)",
+   "organismo": "Secretaria de Estado da Saude de Goias (SES-GO)",
+   "procedimiento": "Pregao Eletronico no 63/2026, Ata de Registro de Precos 83/2026 \"A\" (SES), processo no 202600005000152 (Contratacao SISLOG no 118273)",
+   "objeto": "Price registration for the oncology drug pazopanib hydrochloride 200 mg",
+   "rubro": "oncologia",
+   "proveedor": "Costa Camargo Comercio de Produtos Hospitalares Ltda",
+   "monto": 564840.0,
+   "moneda": "BRL",
+   "detalle": "Item 1: pazopanib hydrochloride 200 mg film-coated tablets (generic, manufactured by Eurofarma, ANVISA registration 1004315470011), 10,800 units at R$52.30 = R$564,840.00. The ata text is dated June 16, 2026, with electronic signatures recorded June 25 and July 7, 2026; the underlying Pregao Eletronico 63/2026 was published April 15, 2026. Validity is one year from the first business day after PNCP publication (publication date not given in the document), extendable for an equal period.",
+   "vence": null,
+   "precios": [
+    {
+     "item": "Pazopanib hydrochloride 200 mg film-coated tablets",
+     "precio": 52.3,
+     "cantidad": 10800,
+     "trad": {
+      "es": {
+       "item": "Clorhidrato de pazopanib 200 mg comprimidos recubiertos"
+      }
+     }
+    }
+   ],
+   "fuente": {
+    "nombre": "Secretaria de Estado da Saude de Goias (SES-GO)",
+    "url": "https://goias.gov.br/saude/wp-content/uploads/sites/34/licitacao/ata-de-registro-de-preco/2026/118273-A.pdf"
+   },
+   "trad": {
+    "es": {
+     "objeto": "Registro de precios del medicamento oncologico clorhidrato de pazopanib 200 mg",
+     "detalle": "Item 1: clorhidrato de pazopanib 200 mg comprimidos recubiertos (generico, fabricado por Eurofarma, registro ANVISA 1004315470011), 10.800 unidades a R$52,30 = R$564.840,00. El texto del acta esta fechado el 16 de junio de 2026, con firmas electronicas registradas el 25 de junio y el 7 de julio de 2026; el Pregao Eletronico 63/2026 subyacente fue publicado el 15 de abril de 2026. La vigencia es de un año desde el primer dia habil posterior a la publicacion en el PNCP (fecha de publicacion no indicada en el documento), prorrogable por igual periodo."
     }
    }
   },

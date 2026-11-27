@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "noticias": [
   {
    "id": "mx-indesalud-saludsinaloa-issea-equipo-medico-nov2026",
@@ -707,6 +707,48 @@
      "titulo": "Grupo Farmacéutico MDK queda inhabilitado por 15 meses para nuevas contrataciones públicas",
      "resumen": "El 12 de noviembre, el DOF publicó la Circular SABG/OICGYR/AR/6946/2026, firmada por el Órgano Interno de Control del IMSS, que inhabilita a Grupo Farmacéutico MDK, S.A. de C.V. para nuevas contrataciones públicas por 15 meses a partir del 13 de noviembre, en virtud de una resolución sancionadora del 27 de octubre (expediente PISI-A-NC-DS-0010/2026). La inhabilitación abarca adquisiciones, arrendamientos, servicios y obra pública en dependencias federales, empresas paraestatales, estados y municipios cuando se usan fondos federales; también se impuso una multa, y la inhabilitación se extiende hasta que esta se pague. Los contratos previamente formalizados quedan excluidos y no se revocan los permisos sanitarios.",
      "accion": "Los equipos de compras y cumplimiento deberían verificar si MDK es un proveedor actual o potencial y evitar adjudicarle cualquier nuevo contrato con fondos federales mientras la inhabilitación esté vigente."
+    }
+   }
+  },
+  {
+   "id": "mx-sedena-medicamentos-niveles123-proc3-nov2026",
+   "nivel": "amarillo",
+   "tipo": "licitacion",
+   "rubro": "medicamentos",
+   "fecha": "2026-11-12",
+   "ambito": "Federal",
+   "organismo": "SEDENA (Secretaría de la Defensa Nacional)",
+   "titulo": "SEDENA opens tender for medicines for first-, second- and third-level health care (Procedure III), bid opening December 2",
+   "resumen": "SEDENA published tender LA-07-110-007000999-T-42-2027 for the acquisition of medicines for first-, second- and third-level health-care facilities (Procedure III) on ComprasMX on November 12, 2026. The clarifications meeting is scheduled for November 20, 2026, with the bid opening on December 2, 2026 and the award decision on December 22, 2026.",
+   "accion": "Pharmaceutical suppliers to SEDENA's health network should review the ComprasMX bases ahead of the December 2 bid opening.",
+   "fuente": {
+    "nombre": "SIDOF (Diario Oficial de la Federación)",
+    "url": "https://sidof.segob.gob.mx/notas/docFuente/5804433"
+   },
+   "licitaciones": [
+    {
+     "numero": "LA-07-110-007000999-T-42-2027",
+     "objeto": "Acquisition of medicines for first-, second- and third-level health care (Procedure III)",
+     "apertura": "2026-12-02",
+     "rubro": "medicamentos",
+     "lugar": "SEDENA · ComprasMX",
+     "trad": {
+      "es": {
+       "objeto": "Adquisición de medicamentos para escalones sanitarios de 1o., 2o. y 3er. nivel de atención médica (Procedimiento III)"
+      }
+     }
+    }
+   ],
+   "trad": {
+    "es": {
+     "titulo": "SEDENA abre licitación de medicamentos para escalones sanitarios de 1o., 2o. y 3er. nivel (Procedimiento III), con apertura el 2 de diciembre",
+     "resumen": "SEDENA publicó en ComprasMX el 12 de noviembre de 2026 la licitación LA-07-110-007000999-T-42-2027 para la adquisición de medicamentos para escalones sanitarios de 1o., 2o. y 3er. nivel de atención médica (Procedimiento III). La junta de aclaraciones está prevista para el 20 de noviembre de 2026, con apertura de ofertas el 2 de diciembre de 2026 y fallo el 22 de diciembre de 2026.",
+     "accion": "Los proveedores farmacéuticos de la red de salud de SEDENA deberían revisar las bases en ComprasMX antes de la apertura de ofertas del 2 de diciembre.",
+     "licitaciones": [
+      {
+       "objeto": "Adquisición de medicamentos para escalones sanitarios de 1o., 2o. y 3er. nivel de atención médica (Procedimiento III)"
+      }
+     ]
     }
    }
   },

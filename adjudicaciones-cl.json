@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-27",
  "adjudicaciones": [
   {
    "id": "cl-hlh-1057544-351-lp26-medtronic",
@@ -138,6 +138,316 @@
      "trad": {
       "en": {
        "item": "Bileaflet titanium mechanical valve prosthesis with pyrolytic carbon leaflets"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cl-hggb-886954-129-lp26-terumo",
+   "fecha": "2026-05-26",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-129-LP26",
+   "objeto": "Catéteres introductores vasculares intervencionales o diagnósticos para la Unidad de Hemodinamia (convenio de suministro de insumos varios)",
+   "rubro": "cardiovascular",
+   "proveedor": "Comercializadora Terumo Chile Ltda.",
+   "monto": 16320000,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación (todos los ítems, incluidos los no cardiovasculares): $170.000.000; monto adjudicado total: $28.631.800 entre 5 proveedores, con 11 oferentes. Dentro de los ítems cardiovasculares, este proveedor se adjudicó 1.500 juegos de catéteres introductores vasculares intervencionales o diagnósticos a $9.000 cada uno ($13.500.000) y 60 juegos del mismo tipo a $47.000 cada uno ($2.820.000); monto cardiovascular reportado aquí: $16.320.000. El mismo proveedor también se adjudicó, en esta licitación, un ítem no cardiovascular (70 introductores para intubación de vía aérea a $22.000 cada uno, $1.540.000), no incluido en el monto de este registro. Publicación: 10-04-2026; cierre: 04-05-2026; adjudicación: 26-05-2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/886954-129-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Interventional or diagnostic vascular introducer catheters for the Hemodynamics Unit (supply agreement for various supplies)",
+     "detalle": "Total estimated tender value (all items, including non-cardiovascular ones): $170,000,000 CLP; total awarded amount: $28,631,800 CLP across 5 suppliers, with 11 bidders. Among the cardiovascular items, this supplier was awarded 1,500 sets of interventional or diagnostic vascular introducer catheters at $9,000 CLP each ($13,500,000 total) and 60 sets of the same type at $47,000 CLP each ($2,820,000 total); cardiovascular amount reported here: $16,320,000 CLP. The same supplier was also awarded, in this same tender, a non-cardiovascular item (70 airway intubation introducers at $22,000 CLP each, $1,540,000 total), not included in this record's amount. Published: 04/10/2026; closing: 05/04/2026; award: 05/26/2026."
+    }
+   },
+   "precios": [
+    {
+     "item": "Catéter introductor vascular intervencional o diagnóstico",
+     "precio": 9000,
+     "cantidad": 1500,
+     "trad": {
+      "en": {
+       "item": "Interventional/diagnostic vascular introducer catheter"
+      }
+     }
+    },
+    {
+     "item": "Catéter introductor vascular intervencional o diagnóstico",
+     "precio": 47000,
+     "cantidad": 60,
+     "trad": {
+      "en": {
+       "item": "Interventional/diagnostic vascular introducer catheter"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cl-hggb-886954-129-lp26-medtronic",
+   "fecha": "2026-05-26",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-129-LP26",
+   "objeto": "Catéteres introductores vasculares intervencionales o diagnósticos para la Unidad de Hemodinamia (convenio de suministro de insumos varios)",
+   "rubro": "cardiovascular",
+   "proveedor": "Comercial Medtronic Chile Ltda.",
+   "monto": 7200000,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación (todos los ítems, incluidos los no cardiovasculares): $170.000.000; monto adjudicado total: $28.631.800 entre 5 proveedores, con 11 oferentes. Este proveedor se adjudicó 600 juegos de catéteres introductores vasculares intervencionales o diagnósticos a $12.000 cada uno. Publicación: 10-04-2026; cierre: 04-05-2026; adjudicación: 26-05-2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/886954-129-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Interventional or diagnostic vascular introducer catheters for the Hemodynamics Unit (supply agreement for various supplies)",
+     "detalle": "Total estimated tender value (all items, including non-cardiovascular ones): $170,000,000 CLP; total awarded amount: $28,631,800 CLP across 5 suppliers, with 11 bidders. This supplier was awarded 600 sets of interventional or diagnostic vascular introducer catheters at $12,000 CLP each. Published: 04/10/2026; closing: 05/04/2026; award: 05/26/2026."
+    }
+   },
+   "precios": [
+    {
+     "item": "Catéter introductor vascular intervencional o diagnóstico",
+     "precio": 12000,
+     "cantidad": 600,
+     "trad": {
+      "en": {
+       "item": "Interventional/diagnostic vascular introducer catheter"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cl-hggb-886954-129-lp26-arquimed",
+   "fecha": "2026-05-26",
+   "ambito": "Región del Biobío",
+   "organismo": "Hospital Guillermo Grant Benavente (Concepción)",
+   "procedimiento": "Licitación Pública 886954-129-LP26",
+   "objeto": "Sistemas de visualización coronaria para la Unidad de Hemodinamia (convenio de suministro de insumos varios)",
+   "rubro": "cardiovascular",
+   "proveedor": "Importadora y Distribuidora Arquimed Ltda.",
+   "monto": 600000,
+   "moneda": "CLP",
+   "detalle": "Monto estimado total de la licitación (todos los ítems, incluidos los no cardiovasculares): $170.000.000; monto adjudicado total: $28.631.800 entre 5 proveedores, con 11 oferentes. Este proveedor se adjudicó 50 sistemas de visualización coronaria a $12.000 cada uno. Publicación: 10-04-2026; cierre: 04-05-2026; adjudicación: 26-05-2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/886954-129-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Coronary visualization systems for the Hemodynamics Unit (supply agreement for various supplies)",
+     "detalle": "Total estimated tender value (all items, including non-cardiovascular ones): $170,000,000 CLP; total awarded amount: $28,631,800 CLP across 5 suppliers, with 11 bidders. This supplier was awarded 50 coronary visualization systems at $12,000 CLP each. Published: 04/10/2026; closing: 05/04/2026; award: 05/26/2026."
+    }
+   },
+   "precios": [
+    {
+     "item": "Sistema de visualización coronaria",
+     "precio": 12000,
+     "cantidad": 50,
+     "trad": {
+      "en": {
+       "item": "Coronary visualization system"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cl-rancagua-2080-66-lp26-dr-reddys",
+   "fecha": "2026-05-22",
+   "ambito": "Región de O'Higgins",
+   "organismo": "Hospital Regional Libertador Bernardo O'Higgins (Rancagua)",
+   "procedimiento": "Licitación Pública 2080-66-LP26",
+   "objeto": "Suministro de medicamentos oncológicos",
+   "rubro": "oncologia",
+   "proveedor": "Dr. Reddy's Laboratories Chile SpA",
+   "monto": 47670000,
+   "moneda": "CLP",
+   "detalle": "La licitación tuvo 10 oferentes y 4 adjudicatarios, por un monto adjudicado total de $97.266.240 (monto estimado no informado en la ficha). Este proveedor se adjudicó los ítems 2 (9.000 unidades a $4.900 cada una, $44.100.000) y 6 (600 unidades a $5.950 cada una, $3.570.000); la ficha consultada no especifica la denominación del medicamento por ítem. Cierre de ofertas: 23-03-2026; adjudicación: 22-05-2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/2080-66-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of oncology drugs",
+     "detalle": "The tender had 10 bidders and 4 awardees, for a total awarded amount of $97,266,240 CLP (estimated value not stated in the record). This supplier was awarded items 2 (9,000 units at $4,900 CLP each, $44,100,000 total) and 6 (600 units at $5,950 CLP each, $3,570,000 total); the record consulted does not specify the drug name per item. Bid closing: 03/23/2026; award: 05/22/2026."
+    }
+   }
+  },
+  {
+   "id": "cl-rancagua-2080-66-lp26-nagoyi",
+   "fecha": "2026-05-22",
+   "ambito": "Región de O'Higgins",
+   "organismo": "Hospital Regional Libertador Bernardo O'Higgins (Rancagua)",
+   "procedimiento": "Licitación Pública 2080-66-LP26",
+   "objeto": "Suministro de medicamentos oncológicos",
+   "rubro": "oncologia",
+   "proveedor": "Nagoyi Pharma SpA",
+   "monto": 28783440,
+   "moneda": "CLP",
+   "detalle": "La licitación tuvo 10 oferentes y 4 adjudicatarios, por un monto adjudicado total de $97.266.240 (monto estimado no informado en la ficha). Este proveedor se adjudicó el ítem 5 (1.008 unidades a $28.555 cada una); la ficha consultada no especifica la denominación del medicamento. Cierre de ofertas: 23-03-2026; adjudicación: 22-05-2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/2080-66-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of oncology drugs",
+     "detalle": "The tender had 10 bidders and 4 awardees, for a total awarded amount of $97,266,240 CLP (estimated value not stated in the record). This supplier was awarded item 5 (1,008 units at $28,555 CLP each); the record consulted does not specify the drug name. Bid closing: 03/23/2026; award: 05/22/2026."
+    }
+   }
+  },
+  {
+   "id": "cl-rancagua-2080-66-lp26-lkm",
+   "fecha": "2026-05-22",
+   "ambito": "Región de O'Higgins",
+   "organismo": "Hospital Regional Libertador Bernardo O'Higgins (Rancagua)",
+   "procedimiento": "Licitación Pública 2080-66-LP26",
+   "objeto": "Suministro de medicamentos oncológicos",
+   "rubro": "oncologia",
+   "proveedor": "Laboratorio LKM Chile SpA",
+   "monto": 10800000,
+   "moneda": "CLP",
+   "detalle": "La licitación tuvo 10 oferentes y 4 adjudicatarios, por un monto adjudicado total de $97.266.240 (monto estimado no informado en la ficha). Este proveedor se adjudicó el ítem 1 (18.000 unidades a $600 cada una); la ficha consultada no especifica la denominación del medicamento. Cierre de ofertas: 23-03-2026; adjudicación: 22-05-2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/2080-66-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of oncology drugs",
+     "detalle": "The tender had 10 bidders and 4 awardees, for a total awarded amount of $97,266,240 CLP (estimated value not stated in the record). This supplier was awarded item 1 (18,000 units at $600 CLP each); the record consulted does not specify the drug name. Bid closing: 03/23/2026; award: 05/22/2026."
+    }
+   }
+  },
+  {
+   "id": "cl-rancagua-2080-66-lp26-varifarma",
+   "fecha": "2026-05-22",
+   "ambito": "Región de O'Higgins",
+   "organismo": "Hospital Regional Libertador Bernardo O'Higgins (Rancagua)",
+   "procedimiento": "Licitación Pública 2080-66-LP26",
+   "objeto": "Suministro de medicamentos oncológicos",
+   "rubro": "oncologia",
+   "proveedor": "Varifarma Chile SpA",
+   "monto": 10012800,
+   "moneda": "CLP",
+   "detalle": "La licitación tuvo 10 oferentes y 4 adjudicatarios, por un monto adjudicado total de $97.266.240 (monto estimado no informado en la ficha). Este proveedor se adjudicó los ítems 3 (60 unidades a $88.000 cada una, $5.280.000) y 4 (60 unidades a $78.880 cada una, $4.732.800); la ficha consultada no especifica la denominación del medicamento por ítem. Cierre de ofertas: 23-03-2026; adjudicación: 22-05-2026.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/2080-66-LP26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Supply of oncology drugs",
+     "detalle": "The tender had 10 bidders and 4 awardees, for a total awarded amount of $97,266,240 CLP (estimated value not stated in the record). This supplier was awarded items 3 (60 units at $88,000 CLP each, $5,280,000 total) and 4 (60 units at $78,880 CLP each, $4,732,800 total); the record consulted does not specify the drug name per item. Bid closing: 03/23/2026; award: 05/22/2026."
+    }
+   }
+  },
+  {
+   "id": "cl-hpah-1058097-9-le26-recetario-magistral",
+   "fecha": "2026-05-20",
+   "ambito": "Región Metropolitana",
+   "organismo": "Hospital Padre Alberto Hurtado",
+   "procedimiento": "Licitación Pública 1058097-9-LE26",
+   "objeto": "Adquisición de preparados oncológicos por sistema de suministro (incluye rituximab, sulfato de vincristina, sulfato de vinblastina y suplementos vitamínicos)",
+   "rubro": "oncologia",
+   "proveedor": "Recetario Magistral Endovenoso S.A.",
+   "monto": 36610992,
+   "moneda": "CLP",
+   "detalle": "Monto estimado de la licitación: $60.000.000. Único oferente y único adjudicatario. Se adjudicaron 7 ítems: suplementos vitamínicos (96 u. a $67.354, $6.465.984); rituximab en tres presentaciones/dosis distintas (48 u. a $43.930, $2.108.640; 24 u. a $314.107, $7.538.568; 120 u. a $44.997, $5.399.640; 120 u. a $59.470, $7.136.400); sulfato de vincristina (48 u. a $65.000, $3.120.000); y sulfato de vinblastina (48 u. a $100.870, $4.841.760). Los subtotales suman el monto adjudicado total. Publicación: 16-04-2026; cierre: 27-04-2026; adjudicación: 20-05-2026. La ficha no informa plazo de vigencia del contrato.",
+   "vence": null,
+   "fuente": {
+    "nombre": "PortalChile (datos de Mercado Público)",
+    "url": "https://www.portalchile.org/licitacion/1058097-9-LE26"
+   },
+   "trad": {
+    "en": {
+     "objeto": "Procurement of oncology compounded preparations via supply system (includes rituximab, vincristine sulfate, vinblastine sulfate and vitamin supplements)",
+     "detalle": "Estimated tender value: $60,000,000 CLP. Single bidder and sole awardee. 7 items were awarded: vitamin supplements (96 units at $67,354 CLP, $6,465,984 total); rituximab in three different presentations/doses (48 units at $43,930 CLP, $2,108,640; 24 units at $314,107 CLP, $7,538,568; 120 units at $44,997 CLP, $5,399,640; 120 units at $59,470 CLP, $7,136,400); vincristine sulfate (48 units at $65,000 CLP, $3,120,000); and vinblastine sulfate (48 units at $100,870 CLP, $4,841,760). The subtotals add up to the total awarded amount. Published: 04/16/2026; closing: 04/27/2026; award: 05/20/2026. The record does not state the contract's term."
+    }
+   },
+   "precios": [
+    {
+     "item": "Suplementos vitamínicos",
+     "precio": 67354,
+     "cantidad": 96,
+     "trad": {
+      "en": {
+       "item": "Vitamin supplements"
+      }
+     }
+    },
+    {
+     "item": "Rituximab",
+     "precio": 43930,
+     "cantidad": 48,
+     "trad": {
+      "en": {
+       "item": "Rituximab"
+      }
+     }
+    },
+    {
+     "item": "Rituximab",
+     "precio": 314107,
+     "cantidad": 24,
+     "trad": {
+      "en": {
+       "item": "Rituximab"
+      }
+     }
+    },
+    {
+     "item": "Rituximab",
+     "precio": 44997,
+     "cantidad": 120,
+     "trad": {
+      "en": {
+       "item": "Rituximab"
+      }
+     }
+    },
+    {
+     "item": "Rituximab",
+     "precio": 59470,
+     "cantidad": 120,
+     "trad": {
+      "en": {
+       "item": "Rituximab"
+      }
+     }
+    },
+    {
+     "item": "Sulfato de vincristina",
+     "precio": 65000,
+     "cantidad": 48,
+     "trad": {
+      "en": {
+       "item": "Vincristine sulfate"
+      }
+     }
+    },
+    {
+     "item": "Sulfato de vinblastina",
+     "precio": 100870,
+     "cantidad": 48,
+     "trad": {
+      "en": {
+       "item": "Vinblastine sulfate"
       }
      }
     }

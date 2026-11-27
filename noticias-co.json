@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "noticias": [
   {
    "id": "co-invima-165-164-2026-philips-rayosx-arcoenc-cardiovascular",
@@ -82,10 +82,10 @@
    "fecha": "2026-11-20",
    "ambito": "Nacional",
    "organismo": "SECOP II (varias entidades)",
-   "titulo": "SECOP II: tres licitaciones abiertas por servicios de cardiología intervencionista y hemodinamia en Bogotá, Sucre y Medellín",
-   "resumen": "En SECOP II están abiertas, con cierre en los próximos días, tres licitaciones de servicios de salud cardiovascular: el Hospital Militar Central busca un prestador de cardiología intervencionista y hemodinamia por hasta 4 años (SASS-050-2026-HOMIL, precio base $935.421.133, cierre 27-11-2026); la Regional de Aseguramiento en Salud N°8 de la Policía Nacional busca el servicio de hemodinamia (diagnóstico y tratamiento invasivo de enfermedades cardiovasculares) para sus afiliados en el departamento de Sucre (PN RASES8 MIC 103 2026, precio base $145.000.000, cierre 27-11-2026); y el Dispensario Médico de Medellín, de las Fuerzas Militares, busca un prestador integral que incluya cardiología, hemodinamia, electrofisiología y cirugía cardiovascular para la Regional 7 durante 2027 (476-DMMED-2026, precio base $800.060.000, cierre 01-12-2026).",
+   "titulo": "SECOP II: cuatro licitaciones abiertas por servicios de cardiología intervencionista y hemodinamia en Bogotá, Sucre, Medellín y Pereira",
+   "resumen": "En SECOP II están abiertas, con cierre en los próximos días, cuatro licitaciones que incluyen servicios de salud cardiovascular: el Hospital Militar Central busca un prestador de cardiología intervencionista y hemodinamia por hasta 4 años (SASS-050-2026-HOMIL, precio base $935.421.133, cierre 27-11-2026); la Regional de Aseguramiento en Salud N°8 de la Policía Nacional busca el servicio de hemodinamia (diagnóstico y tratamiento invasivo de enfermedades cardiovasculares) para sus afiliados en el departamento de Sucre (PN RASES8 MIC 103 2026, precio base $145.000.000, cierre 27-11-2026); el Dispensario Médico de Medellín, de las Fuerzas Militares, busca un prestador integral que incluya cardiología, hemodinamia, electrofisiología y cirugía cardiovascular para la Regional 7 durante 2027 (476-DMMED-2026, precio base $800.060.000, cierre 01-12-2026); y el SENA Regional Risaralda busca un prestador de servicios integrales de consulta externa especializada que incluye cardiología y hemodinamia, junto a otras subespecialidades, en Pereira (MC-RSR-DIR-152-2026, precio base $175.000.000, cierre 30-11-2026).",
    "accion": "Prestadores de servicios de cardiología intervencionista, hemodinamia y cirugía cardiovascular: revisar los pliegos y presentar oferta antes del cierre de cada proceso en SECOP II.",
-   "comentario": "Las tres licitaciones son de servicios médicos, no de insumos puntuales, pero su volumen conjunto (más de $1.880 millones) es una señal de demanda sostenida de hemodinamia y cardiología intervencionista en el sector público y de las fuerzas armadas; vale la pena seguir a quién se adjudican estos contratos.",
+   "comentario": "Las cuatro licitaciones son de servicios médicos, no de insumos puntuales, pero su volumen conjunto (más de $2.055 millones) confirma una demanda sostenida de hemodinamia y cardiología intervencionista en el sector público, las fuerzas armadas y la Policía Nacional; vale la pena seguir a quién se adjudican estos contratos, ya que suelen implicar también consumo de insumos y dispositivos cardiovasculares.",
    "fuente": {
     "nombre": "Datos Abiertos SECOP II (Colombia Compra Eficiente)",
     "url": "https://www.datos.gov.co/resource/p6dx-8zbt.json"
@@ -132,14 +132,28 @@
        "objeto": "Specialized medium- and high-complexity medical services, including cardiology, hemodynamics, electrophysiology and cardiovascular surgery, for the Military Forces (Regional 7), for 2027"
       }
      }
+    },
+    {
+     "numero": "MC-RSR-DIR-152-2026",
+     "objeto": "Prestación de servicios integrales de salud en consulta externa especializada y subespecializada (cardiología, hemodinamia, medicina interna, ortopedia y otras especialidades) para el SENA Regional Risaralda",
+     "apertura": "2026-11-30",
+     "hora": "15:00",
+     "monto": 175000000,
+     "lugar": "Risaralda (Pereira)",
+     "rubro": "cardiovascular",
+     "trad": {
+      "en": {
+       "objeto": "Comprehensive outpatient specialty health services (cardiology, hemodynamics, internal medicine, orthopedics and other specialties) for SENA Regional Risaralda"
+      }
+     }
     }
    ],
    "trad": {
     "en": {
-     "titulo": "SECOP II: three open tenders for interventional cardiology and hemodynamics services in Bogotá, Sucre and Medellín",
-     "resumen": "SECOP II currently has three open tenders for cardiovascular health services, closing in the coming days: Hospital Militar Central is seeking an interventional cardiology and hemodynamics provider for up to 4 years (SASS-050-2026-HOMIL, base price $935,421,133 COP, closing 11/27/2026); the National Police's Regional Health Insurance Unit N°8 is seeking hemodynamics services (invasive diagnosis and treatment of cardiovascular disease) for its members in Sucre department (PN RASES8 MIC 103 2026, base price $145,000,000 COP, closing 11/27/2026); and the Military Forces' Dispensario Médico de Medellín is seeking a comprehensive provider covering cardiology, hemodynamics, electrophysiology and cardiovascular surgery for Regional 7 through 2027 (476-DMMED-2026, base price $800,060,000 COP, closing 12/01/2026).",
+     "titulo": "SECOP II: four open tenders for interventional cardiology and hemodynamics services in Bogotá, Sucre, Medellín and Pereira",
+     "resumen": "SECOP II currently has four open tenders that include cardiovascular health services, closing in the coming days: Hospital Militar Central is seeking an interventional cardiology and hemodynamics provider for up to 4 years (SASS-050-2026-HOMIL, base price $935,421,133 COP, closing 11/27/2026); the National Police's Regional Health Insurance Unit N°8 is seeking hemodynamics services (invasive diagnosis and treatment of cardiovascular disease) for its members in Sucre department (PN RASES8 MIC 103 2026, base price $145,000,000 COP, closing 11/27/2026); the Military Forces' Dispensario Médico de Medellín is seeking a comprehensive provider covering cardiology, hemodynamics, electrophysiology and cardiovascular surgery for Regional 7 through 2027 (476-DMMED-2026, base price $800,060,000 COP, closing 12/01/2026); and SENA Regional Risaralda is seeking a comprehensive outpatient specialty provider that includes cardiology and hemodynamics, among other subspecialties, in Pereira (MC-RSR-DIR-152-2026, base price $175,000,000 COP, closing 11/30/2026).",
      "accion": "Providers of interventional cardiology, hemodynamics and cardiovascular surgery services should review the bid documents and submit offers before each process's closing date on SECOP II.",
-     "comentario": "All three tenders are for medical services rather than specific supplies, but their combined volume (over $1.88 billion COP) signals sustained demand for hemodynamics and interventional cardiology in the public sector and the armed forces; worth tracking who wins these contracts."
+     "comentario": "All four tenders are for medical services rather than specific supplies, but their combined volume (over $2.055 billion COP) confirms sustained demand for hemodynamics and interventional cardiology in the public sector, the armed forces and the National Police; worth tracking who wins these contracts, since they usually also drive consumption of cardiovascular supplies and devices."
     }
    }
   },
@@ -409,6 +423,29 @@
      "titulo": "INVIMA warns of monomer leakage in Heraeus's gentamicin bone cements",
      "resumen": "INVIMA safety report 149-2026 covers Heraeus Medical GmbH's radiopaque PMMA bone cements with gentamicin (PALACOS R+G pro 40/60/80, PALACOS MV+G pro 40/60/80 and COPAL G+C pro 40/80; INVIMA registration 2020DM-0003812-R1, all lots). The manufacturer reported isolated cases of liquid monomer leakage from the mixing/application systems, which can cause skin or eye contact for the user (irritation, redness, burning).",
      "accion": "Orthopedic surgery services should review their mixing procedure for these bone cements, use adequate protection, and report any event to Tecnovigilancia."
+    }
+   }
+  },
+  {
+   "id": "co-invima-410-2026-arrow-cateteres-centrales",
+   "nivel": "amarillo",
+   "tipo": "otro",
+   "rubro": "dispositivos",
+   "fecha": "2026-11-24",
+   "ambito": "Nacional",
+   "organismo": "INVIMA",
+   "titulo": "INVIMA alerta por retiro voluntario de guías con resorte de catéteres centrales Arrow por riesgo de desprendimiento del recubrimiento",
+   "resumen": "El INVIMA publicó la Alerta Sanitaria N° 410-2026 sobre los catéteres centrales para inserción periférica marca Arrow (titular Teleflex Medical Colombia S.A.S., registro sanitario INVIMA 2022DM-0000097-R2). Arrow International LLC inició un retiro voluntario del mercado porque la guía con resorte (Spring Wire Guide) con recubrimiento hidrofílico puede hincharse de forma irregular al hidratarse con solución salina, aglutinarse y desprenderse durante el uso clínico. Los lotes identificados son 33F25C0067, 33F25D0002, 33F25G0031, 33F25B0401, 33F25D0101 y 33F25H083.",
+   "accion": "Establecimientos de salud: contactar al importador Teleflex Medical Colombia para conocer el plan de acción del fabricante, hacer trazabilidad de los lotes afectados y reportar eventos al Programa Nacional de Tecnovigilancia. IPS y profesionales: verificar inventario de catéteres Arrow antes de usarlos y reportar cualquier incidente.",
+   "fuente": {
+    "nombre": "INVIMA",
+    "url": "https://www.invima.gov.co/alertas-sanitarias/cateteres-centrales-para-insercion-periferica-marca-arrow"
+   },
+   "trad": {
+    "en": {
+     "titulo": "INVIMA warns of voluntary recall of Arrow central catheter guidewires over coating detachment risk",
+     "resumen": "INVIMA published Health Alert No. 410-2026 on Arrow-brand peripherally inserted central catheters (holder Teleflex Medical Colombia S.A.S., health registration INVIMA 2022DM-0000097-R2). Arrow International LLC began a voluntary market withdrawal because the hydrophilic-coated Spring Wire Guide can swell irregularly when hydrated with saline, clump and detach during clinical use. The affected lots are 33F25C0067, 33F25D0002, 33F25G0031, 33F25B0401, 33F25D0101 and 33F25H083.",
+     "accion": "Health facilities: contact importer Teleflex Medical Colombia for the manufacturer's action plan, trace affected lots and report events to the National Technovigilance Program. Health providers: check Arrow catheter inventory before use and report any incidents."
     }
    }
   }
